@@ -1,0 +1,106 @@
+{
+  "title": "Bruce Schneier on Cybersecurity in the Age of Coronavirus",
+  "canonical_url": "https://www.belfercenter.org/publication/bruce-schneier-cybersecurity-age-coronavirus",
+  "summary": "Is Zoom secure? What about your home computer? Cyber expert Bruce Schneier says that we all need to be aware of the things cyber criminals thrive on during the confusion caused by coronavirus.",
+  "published": "2020-04-20T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Cyber Security",
+    "Global Health",
+    "Governance",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Cyber Security",
+    "Global Health",
+    "Governance",
+    "Information Technology",
+    "Science & Technology"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Cyber Security",
+    "Global Health",
+    "Governance",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "Is #Zoom secure? What about your home computer? #Cyber expert Bruce Schneier says that we all need to be aware of the things cyber criminals thrive on during the confusion caused by #coronavirus . #COVID19 pic.twitter.com/5Y39rwzXjs — Belfer Center (@BelferCenter) April 20, 2020 Bruce Schneier on Cybersecurity in the Age of Coronavirus Print Coronavirus Cyber Security Global Health Governance Information Technology Science & Technology Science, Technology, and Public Policy Related Bruce Schneier Request Interview More From This Expert Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Reimagining Democracy Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-20T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:18:34+00:00",
+    "prompt_hash": "05c8963e69749e6fa94e3d5fc45c7fe14129c43a",
+    "result": {
+      "main_content_en": "Cybersecurity expert Bruce Schneier warns that the confusion and rapid shift to remote work and digital communication during the coronavirus pandemic create significant vulnerabilities. Cybercriminals are exploiting this situation, targeting platforms like Zoom and personal home computers. The article emphasizes the heightened need for public awareness and robust security practices as daily life and work become increasingly dependent on digital infrastructure. It underscores that crisis periods, such as the COVID-19 outbreak, are prime opportunities for malicious actors, making cybersecurity a critical component of public health and safety response.",
+      "main_content_zh": "网络安全专家布鲁斯·施奈尔警告称，冠状病毒大流行期间造成的混乱以及向远程工作和数字通信的快速转变，带来了重大的安全漏洞。网络犯罪分子正在利用这种情况，针对Zoom等平台和个人家用电脑进行攻击。文章强调，随着日常生活和工作日益依赖数字基础设施，公众意识和强大的安全实践变得至关重要。它指出，像COVID-19爆发这样的危机时期，是恶意行为者活动的主要机会，这使得网络安全成为公共卫生和安全应对的关键组成部分。",
+      "keywords_en": [
+        "Cybersecurity",
+        "Coronavirus",
+        "COVID-19",
+        "Remote Work",
+        "Digital Communication",
+        "Cybercriminals",
+        "Vulnerabilities",
+        "Zoom",
+        "Home Computer Security",
+        "Public Awareness",
+        "Security Practices",
+        "Digital Infrastructure",
+        "Malicious Actors",
+        "Public Health",
+        "Safety Response",
+        "Information Technology",
+        "Global Health",
+        "Governance",
+        "Science & Technology Policy"
+      ],
+      "keywords_zh": [
+        "网络安全",
+        "冠状病毒",
+        "COVID-19",
+        "远程工作",
+        "数字通信",
+        "网络犯罪分子",
+        "安全漏洞",
+        "Zoom",
+        "家庭电脑安全",
+        "公众意识",
+        "安全实践",
+        "数字基础设施",
+        "恶意行为者",
+        "公共卫生",
+        "安全应对",
+        "信息技术",
+        "全球健康",
+        "治理",
+        "科技政策"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "Pandemic Response",
+        "Digital Risk"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "疫情应对",
+        "数字风险"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

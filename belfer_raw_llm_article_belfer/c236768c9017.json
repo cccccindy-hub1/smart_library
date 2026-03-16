@@ -1,0 +1,87 @@
+{
+  "title": "International Security Journal Highlights",
+  "canonical_url": "https://www.belfercenter.org/publication/international-security-journal-highlights-30",
+  "summary": "Highlights compiled by International Security staff",
+  "published": "",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "Vol. 44 No. 3, Winter 2019-20 The latest from Belfer See more Counterterrorism and Preventive Repression: China’s Changing Strategy in Xinjiang Sheena Chestnut Greitens, Myunghee Lee, and Emir Yazici The Chinese Communist Party changed its internal security strategy in Xinjiang in early 2017 because of Beijing ’s changing perception of Uyghur involvement in transnational Islamic militancy abroad, which heightened perceived domestic vulnerability to terrorism. Conceal or Reveal? Managing Clandestine Military Capabilities in Peacetime Competition Brendan Rittenhouse Green and Austin Long States are more likely to reveal secret military capabilities during peacetime competition when the effects of the asset in question can be substituted with another military advantage and when the adversary is not equipped with countermeasures. Deterring Wartime Atrocities: Hard Lessons from the Yugoslav Tribunal Jacqueline R. McAllister International criminal tribunals are more likely to deter violence against civilians when they have prosecutorial support and when combatant groups are both centralized and supported by liberal constituencies. Who Killed Détente? The Superpowers and the Cold War in the Middle East, 1969–77 Galen Jackson In the Middle East, the demise of détente in the 1970s between the United States and Soviet Union can be attributed to U.S. actions, contrary to the conventional wisdom that the Soviet Union was responsible. Presidents, Politics, and Military Strategy: Electoral Constraints during the Iraq War Andrew Payne Presidents will alter the timing and nature of military strategy in light of electoral constraints, delaying or weakening controversial courses of action. The journal International Security is edited at Harvard Kennedy School’s Belfer Center and published quarterly by the MIT Press. Recommended citation \"International Security Journal Highlights.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2020). Copy to Clipboard International Security Journal Highlights View Citation Print Recommended citation \"International Security Journal Highlights.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2020). Copy to Clipboard",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:23:49+00:00",
+    "prompt_hash": "da4ab73aa86d4a628d65855003232c7927f5bd14",
+    "result": {
+      "main_content_en": "The Winter 2019-20 issue of International Security, published by the MIT Press and edited at Harvard Kennedy School's Belfer Center, features several articles on contemporary security studies. Sheena Chestnut Greitens, Myunghee Lee, and Emir Yazici analyze China's shift to a strategy of preventive repression in Xinjiang, driven by Beijing's heightened perception of Uyghur involvement in transnational Islamic militancy. Brendan Rittenhouse Green and Austin Long examine when states reveal clandestine military capabilities in peacetime competition, finding revelation more likely when effects can be substituted and adversaries lack countermeasures. Jacqueline R. McAllister argues that international criminal tribunals better deter wartime atrocities when they have prosecutorial support and target centralized combatant groups backed by liberal constituencies. Galen Jackson reassigns blame for the demise of U.S.-Soviet détente in the 1970s Middle East to U.S. actions, challenging the conventional wisdom. Andrew Payne explores how electoral constraints influence U.S. presidents' timing and nature of military strategy, such as during the Iraq War.",
+      "main_content_zh": "《国际安全》期刊2019-20年冬季刊由麻省理工学院出版社出版，哈佛大学肯尼迪学院贝尔弗中心编辑，收录了多篇当代安全研究文章。Sheena Chestnut Greitens、Myunghee Lee和Emir Yazici分析了中国在新疆的战略转向“预防性镇压”，其动因是北京对维吾尔族参与跨国伊斯兰武装活动的认知变化，加剧了其对国内恐怖主义脆弱性的担忧。Brendan Rittenhouse Green和Austin Long研究了国家在和平时期竞争中何时会公开秘密军事能力，发现当该资产的效果可被其他军事优势替代且对手缺乏反制措施时，公开的可能性更大。Jacqueline R. McAllister提出，国际刑事法庭在拥有检方支持且针对那些由自由派选民支持、组织集中的战斗团体时，更能有效威慑战时暴行。Galen Jackson重新审视了1970年代中东地区美苏缓和终结的原因，将其归咎于美国的行动，挑战了传统认为苏联应负责的观点。Andrew Payne探讨了选举压力如何影响美国总统军事战略的时机与性质，例如在伊拉克战争期间。",
+      "keywords_en": [
+        "preventive repression",
+        "Xinjiang",
+        "transnational Islamic militancy",
+        "clandestine military capabilities",
+        "peacetime competition",
+        "countermeasures",
+        "international criminal tribunals",
+        "wartime atrocities",
+        "deterrence",
+        "détente",
+        "Cold War",
+        "Middle East",
+        "electoral constraints",
+        "military strategy",
+        "Iraq War",
+        "security strategy",
+        "terrorism",
+        "prosecutorial support",
+        "combatant groups",
+        "liberal constituencies"
+      ],
+      "keywords_zh": [
+        "预防性镇压",
+        "新疆",
+        "跨国伊斯兰武装活动",
+        "秘密军事能力",
+        "和平时期竞争",
+        "反制措施",
+        "国际刑事法庭",
+        "战时暴行",
+        "威慑",
+        "缓和政策",
+        "冷战",
+        "中东",
+        "选举约束",
+        "军事战略",
+        "伊拉克战争",
+        "安全战略",
+        "恐怖主义",
+        "检方支持",
+        "战斗团体",
+        "自由派选民"
+      ],
+      "topic_words_en": [
+        "Counterterrorism",
+        "Military Strategy",
+        "International Law",
+        "Great Power Competition",
+        "Domestic Security"
+      ],
+      "topic_words_zh": [
+        "反恐",
+        "军事战略",
+        "国际法",
+        "大国竞争",
+        "国内安全"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

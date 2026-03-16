@@ -1,0 +1,98 @@
+{
+  "title": "Questions from Quarantine: Protests, COVID-19, and Equality",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-protests-covid-19-and-equality",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-06-09T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: Protests, COVID-19, and Equality Print Coronavirus Public Health Security and Global Health Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-06-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:12:48+00:00",
+    "prompt_hash": "a83f47fbec9ebee6172b232c3f7be8c32d8d2142",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who answer public questions submitted via social media about managing life during the COVID-19 pandemic. The series, titled 'Questions from Quarantine,' specifically addresses topics such as public protests during the pandemic and issues of equality exacerbated by the crisis. The article promotes viewer engagement by encouraging the submission of questions through Twitter. It positions the series as a resource for practical advice on maintaining mental and physical health during a global health emergency. The broader context includes references to other related expert analyses on pandemic response, school reopenings, migration crises, and the importance of sustained investment in mRNA vaccine research, highlighting the intersection of public health, security, and policy.",
+      "main_content_zh": "安全与全球健康项目推出了每周网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，回答公众通过社交媒体提交的关于在COVID-19大流行期间管理生活的相关问题。该系列名为“隔离问题”，特别探讨了疫情期间的公众抗议活动以及危机加剧的平等问题。文章通过鼓励通过Twitter提交问题来促进观众参与，并将该系列定位为在全球卫生紧急情况下保持身心健康的实用建议资源。更广泛的背景包括对其他相关专家分析的引用，涉及疫情应对、学校重新开放、移民危机以及持续投资mRNA疫苗研究的重要性，突出了公共卫生、安全和政策的交叉点。",
+      "keywords_en": [
+        "COVID-19",
+        "quarantine",
+        "public health",
+        "global health",
+        "security",
+        "protests",
+        "equality",
+        "pandemic response",
+        "expert advice",
+        "web series",
+        "mental health",
+        "Margaret Bourdeaux",
+        "Juliette Kayyem",
+        "vaccine research",
+        "mRNA",
+        "crisis management",
+        "public engagement",
+        "Twitter",
+        "social media",
+        "health policy"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "隔离",
+        "公共卫生",
+        "全球健康",
+        "安全",
+        "抗议",
+        "平等",
+        "疫情应对",
+        "专家建议",
+        "网络系列",
+        "心理健康",
+        "玛格丽特·布尔多",
+        "朱丽叶·凯耶姆",
+        "疫苗研究",
+        "mRNA",
+        "危机管理",
+        "公众参与",
+        "Twitter",
+        "社交媒体",
+        "卫生政策"
+      ],
+      "topic_words_en": [
+        "Public Health Crisis",
+        "Expert Commentary",
+        "Community Engagement",
+        "Health Security"
+      ],
+      "topic_words_zh": [
+        "公共卫生危机",
+        "专家评论",
+        "社区参与",
+        "健康安全"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Questions from Quarantine: The Need for a Coordinated National Response",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-need-coordinated-national-response",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday and if you have a question that you want answered tweet with #QuestionsFromQuarantine.",
+  "published": "2020-07-20T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday and if you have a question that you want answered tweet with #QuestionsFromQuarantine . Questions from Quarantine: The Need for a Coordinated National Response Print Coronavirus Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-07-20T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:08:20+00:00",
+    "prompt_hash": "58ac906263cf1e74233155926e5a689392c2f9d6",
+    "result": {
+      "main_content_en": "The article introduces a weekly web series titled 'Questions from Quarantine,' hosted by Juliette Kayyem and Dr. Margaret Bourdeaux, which aims to provide public guidance during a global health crisis. It emphasizes the need for a coordinated national response to such crises, inviting public participation through social media with a specific hashtag. The content is framed within the broader work of the Security and Global Health Project, highlighting its focus on public health security and crisis management. The piece also references related expert analyses on topics like mega-event safety, supply chains, and potential migration crises, situating the discussion within ongoing policy and technological considerations for global health emergencies.",
+      "main_content_zh": "本文介绍了一个名为“隔离问题”的每周网络系列节目，由朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，旨在在全球健康危机期间为公众提供指导。文章强调了对此类危机需要协调的国家响应，并通过特定标签邀请公众在社交媒体上参与。内容被置于“安全与全球健康项目”的更广泛工作中，突出了其对公共卫生安全和危机管理的关注。文章还引用了相关专家对大型活动安全、供应链以及潜在移民危机等主题的分析，将讨论置于全球卫生紧急事件持续的政策和技术考量背景之下。",
+      "keywords_en": [
+        "Questions from Quarantine",
+        "coordinated national response",
+        "Security and Global Health Project",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "global health crisis",
+        "public health security",
+        "crisis management",
+        "quarantine",
+        "public guidance",
+        "web series",
+        "social media engagement",
+        "health emergency",
+        "policy consideration",
+        "expert analysis",
+        "supply chains",
+        "migration crisis",
+        "megaevent safety",
+        "global governance",
+        "vaccine research"
+      ],
+      "keywords_zh": [
+        "隔离问题",
+        "协调的国家响应",
+        "安全与全球健康项目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多博士",
+        "全球健康危机",
+        "公共卫生安全",
+        "危机管理",
+        "隔离",
+        "公众指导",
+        "网络系列节目",
+        "社交媒体参与",
+        "卫生紧急事件",
+        "政策考量",
+        "专家分析",
+        "供应链",
+        "移民危机",
+        "大型活动安全",
+        "全球治理",
+        "疫苗研究"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Crisis Response",
+        "Global Health Security"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "危机响应",
+        "全球健康安全"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

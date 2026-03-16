@@ -1,0 +1,98 @@
+{
+  "title": "David Petraeus on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/david-petraeus-office-hours-podcast",
+  "summary": "U.S. Army General (ret.) and former CIA Director David Petraeus speaks with Aroop Mukharji (@aroopmukharji) about ISIS, America’s other challenges in the world, how he gets his news, and his ideal vacation.",
+  "published": "2016-12-05T12:00:00Z",
+  "authors": [
+    "Joseph Nye"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense",
+    "Iraq War",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "International Security & Defense",
+    "Iraq War"
+  ],
+  "tags": [
+    "International Security & Defense",
+    "Iraq War",
+    "Middle East & North Africa"
+  ],
+  "body": "David H. Petraeus is a retired four-star Army general and former director of the Central Intelligence Agency. Currently, he is a non-resident senior fellow at Harvard Kennedy School’s Belfer Center for Science and International Affairs where he is working with Center Director Graham Allison to explore renewed U.S. and North American competitiveness. Their work focuses on major technological, scientific and economic dynamics that are spurring renewed U.S. and North American competitiveness, exploring in particular the impact of the ongoing revolutions in energy, information technology, advanced manufacturing, and life sciences. Petraeus spent 37 years in the Army, including roles as commander of U.S. and international military forces in Afghanistan, commander of U.S. Central Command (CENTCOM), and commanding general of the multi-national force in Iraq. The latest from Belfer See more David Petraeus on Office Hours Podcast Print International Security & Defense Iraq War Middle East & North Africa Related David H. Petraeus More From This Expert Coherence and Comprehensiveness: An American Foreign Policy Imperative The Case for a National Cybersecurity Agency Up Next Books A Life in the American Century January 2024 by Joseph Nye From International Security Program Photo Credit Toggle Staff Sgt. D. Myles Cullen/U.S. Air Force Article Bargaining with the Military: How Presidents Manage the Political Costs of Civilian Control Summer 2023 by Andrew Payne Photo Credit Toggle Presidential Press Service via AP, Pool Article Coercive Disclosure: The Weaponization of Public Intelligence Revelation in International Relations 2023 by Ofek Riemer and Daniel Sobelman",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-12-05T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:12:33+00:00",
+    "prompt_hash": "8661d990cd1dea0dcc94186448649d7c768cd233",
+    "result": {
+      "main_content_en": "The article profiles David H. Petraeus, a retired four-star general and former CIA director, in his current role as a non-resident senior fellow at Harvard Kennedy School's Belfer Center. He is collaborating with Center Director Graham Allison to analyze the drivers of renewed U.S. and North American competitiveness. Their research specifically examines the transformative impact of ongoing revolutions in key sectors: energy, information technology, advanced manufacturing, and life sciences. Petraeus's extensive 37-year military career, which included commanding multinational forces in Iraq and Afghanistan as well as leading U.S. Central Command, provides a foundational background for this work on strategic national competitiveness shaped by technological and economic dynamics.",
+      "main_content_zh": "本文介绍了美国退役四星上将、前中央情报局局长戴维·H·彼得雷乌斯，他目前是哈佛大学肯尼迪学院贝尔弗科学与国际事务中心的非常驻高级研究员。他正与中心主任格雷厄姆·艾利森合作，共同探讨重振美国和北美竞争力的关键因素。他们的研究工作聚焦于推动竞争力复兴的重大技术、科学和经济动态，特别深入探讨了能源、信息技术、先进制造业和生命科学等领域持续发生的革命性变革所带来的影响。彼得雷乌斯拥有37年的军旅生涯，曾担任驻伊拉克和阿富汗多国部队指挥官、美国中央司令部司令等要职，这一丰富的战略背景为其从科技与经济动态角度研究国家竞争力提供了重要基础。",
+      "keywords_en": [
+        "David Petraeus",
+        "Belfer Center",
+        "Graham Allison",
+        "U.S. competitiveness",
+        "North American competitiveness",
+        "technological revolutions",
+        "energy revolution",
+        "information technology",
+        "advanced manufacturing",
+        "life sciences",
+        "strategic dynamics",
+        "national security",
+        "Central Intelligence Agency",
+        "CENTCOM",
+        "military command",
+        "economic dynamics",
+        "science and technology policy",
+        "international affairs",
+        "Harvard Kennedy School"
+      ],
+      "keywords_zh": [
+        "戴维·彼得雷乌斯",
+        "贝尔弗中心",
+        "格雷厄姆·艾利森",
+        "美国竞争力",
+        "北美竞争力",
+        "技术革命",
+        "能源革命",
+        "信息技术",
+        "先进制造业",
+        "生命科学",
+        "战略动态",
+        "国家安全",
+        "中央情报局",
+        "中央司令部",
+        "军事指挥",
+        "经济动态",
+        "科技政策",
+        "国际事务",
+        "哈佛肯尼迪学院"
+      ],
+      "topic_words_en": [
+        "National Competitiveness",
+        "Technology & Innovation",
+        "Strategic Studies",
+        "Military Leadership",
+        "Economic Dynamics"
+      ],
+      "topic_words_zh": [
+        "国家竞争力",
+        "技术与创新",
+        "战略研究",
+        "军事领导力",
+        "经济动态"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

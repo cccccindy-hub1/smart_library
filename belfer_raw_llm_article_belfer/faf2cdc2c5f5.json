@@ -1,0 +1,99 @@
+{
+  "title": "Avril Haines on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/avril-haines-office-hours",
+  "summary": "Avril Haines, former CIA Deputy Director and former Deputy National Security Adviser to President Obama, chats with Aroop Mukharji (@aroopmukharji) about being a woman at the CIA, why we don’t know much about North Korea, what it’s like inside the White House situation room, and how she went from indie bookstore owner to No. 2 at the CIA.",
+  "published": "2017-10-02T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Intelligence",
+    "Intelligence Project",
+    "North America"
+  ],
+  "topics": [
+    "Intelligence"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Intelligence",
+    "Intelligence Project",
+    "North America"
+  ],
+  "body": "Gallery 1 of 4 Avril Haines: CIA’s First Female Deputy Director 2 of 4 Avril Haines: North Korea—Why Do We Know So Little? 3 of 4 Avril Haines: From Living the Hipster Dream to Leading the CIA 4 of 4 Avril Haines: Inside the Situation Room Avril Haines is the former CIA Deputy Director and former Deputy National Security Adviser to President Obama. The latest from Belfer See more Avril Haines on Office Hours Print Asia & the Pacific Intelligence Intelligence Project North America Up Next Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker Photo Credit Toggle Adobe Stock, by Odin AI, #830981342 Article Intelligence outsourcing for non-traditional clients: the rise of private sector intelligence providers January 6, 2025 by Katherine Tucker and Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-10-02T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:53:04+00:00",
+    "prompt_hash": "2d794a216b77885ecccaeb9182c63ac41e7e3ba0",
+    "result": {
+      "main_content_en": "The article features Avril Haines, the former CIA Deputy Director and former Deputy National Security Adviser to President Obama. It is presented as part of the 'Office Hours' series and includes a gallery highlighting her career milestones, such as being the CIA's first female deputy director and her insights on North Korea. The content is contextualized within the Belfer Center's Intelligence Project, with references to related events and publications on intelligence topics, including a senior fellow teaching briefing techniques and reports on private sector intelligence careers and providers. The piece underscores the ongoing work and resources of the Intelligence Project in analyzing and educating on intelligence matters.",
+      "main_content_zh": "本文重点介绍了前中央情报局副局长、前总统奥巴马的国家安全事务副助理艾薇儿·海恩斯。作为“办公室时间”系列的一部分，文章通过一个图库展示了她职业生涯的重要节点，例如成为中情局首位女性副局长以及对朝鲜问题的见解。内容被置于贝尔弗中心情报项目的背景下，提及了相关活动和出版物，包括一名高级研究员教授简报技巧的报告，以及关于私营部门情报职业和情报提供商的分析报告。文章强调了情报项目在分析和教育情报事务方面的持续工作和资源。",
+      "keywords_en": [
+        "Avril Haines",
+        "CIA",
+        "Deputy Director",
+        "National Security Adviser",
+        "Obama",
+        "Intelligence Project",
+        "Belfer Center",
+        "Office Hours",
+        "North Korea",
+        "briefing",
+        "private sector intelligence",
+        "intelligence careers",
+        "intelligence providers",
+        "Beth Sanner",
+        "senior fellow",
+        "job titles",
+        "professional trends",
+        "outsourcing",
+        "non-traditional clients"
+      ],
+      "keywords_zh": [
+        "艾薇儿·海恩斯",
+        "中央情报局",
+        "副局长",
+        "国家安全事务副助理",
+        "奥巴马",
+        "情报项目",
+        "贝尔弗中心",
+        "办公室时间",
+        "朝鲜",
+        "简报",
+        "私营部门情报",
+        "情报职业",
+        "情报提供商",
+        "贝丝·桑纳",
+        "高级研究员",
+        "职位名称",
+        "职业趋势",
+        "外包",
+        "非传统客户"
+      ],
+      "topic_words_en": [
+        "Intelligence",
+        "National Security",
+        "Career Profile",
+        "Policy Education",
+        "Private Sector"
+      ],
+      "topic_words_zh": [
+        "情报",
+        "国家安全",
+        "职业简介",
+        "政策教育",
+        "私营部门"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

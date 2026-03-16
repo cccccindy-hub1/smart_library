@@ -1,0 +1,87 @@
+{
+  "title": "Stepping Up to the Challenge: Smartphones and Military Mental Health",
+  "canonical_url": "https://www.belfercenter.org/publication/stepping-challenge-smartphones-and-military-mental-health",
+  "summary": "Contemporary approaches to decrease suicide inducing behaviors are failing. With suicide deaths increasing, and now at record highs for active-duty members of the military, new innovative approaches are essential. We must continue to evolve the care and services already in place today which are saving lives, while augmenting and extending their reach to help many more requiring care today.",
+  "published": "2022-02-16T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Defense Project"
+  ],
+  "topics": [],
+  "tags": [
+    "Defense Project"
+  ],
+  "body": "Contemporary approaches to decrease suicide inducing behaviors are failing. With suicide deaths increasing, and now at record highs for active-duty members across the military, new innovative approaches are essential. We must continue to evolve the care and services already in place, while augmenting and extending their reach to help many more requiring care today. The latest from Belfer See more Leveraging Harvard Medical School's smartphone software, mindLAMP (Learn, Assess, Manage, Prevent) is designed to help quantify each individual’s experience of mental health (Assess) and customize Learning, Management, and Prevention based on the digitally assessed data. The concept is simple but a paradigm shift for mental health. While effective treatments already exist today, the challenging part is making sure they are delivered to the right people at the right time. Mental health is dynamic and changes across time, social, and physical environments. New technologies like mindLAMP now embrace the personalized and variable presentation of mental illness, that has for so long made it hard to treat, by offering new accessible, real-time, individualized insights. But even technology like mindLAMP is just that – technology. It can only be useful when paired with the right mental health prevention and treatment approaches. That is where the Victory Wellness effort from the 1stInfantry Division offers the second half of the solution. Victory Wellness provides traditional services as well as a new frontline of in-person, online, and team resources designed to keep service members mentally fit. Victory Wellness encompasses five pillars of strength: emotional, family, physical, spiritual and social with support designed for holistic readiness and resiliency. Provided to all service members at Fort Riley, Kansas, the program is able to deliver services at scale and support the mental wellness of everyone at the base, from new recruit all the way up to the Commanding General. The program is already showing impressive results. There is clear synergy between mindLAMP and Victory Wellness. Today mindLAMP app is in use now in clinical research at over 20 sites across the world as well as in care at Harvard Medical School. Currently, technologies such as mindLAMP have not been evaluated for military service members. New proposals are underway to change that, with the goal of soon working with the Army's 1st Infantry Division as a complement to its effective Victory Wellness program. Specifically, mindLAMP could help assess mental health in real time, not just at annual check-ups, and then deliver the information from Victory Wellness to the service member. For example, if a service member consents to allow the app to share data on their sleep patterns, data that personal smartphones already gather, mindLAMP can help suggest specific resources from Victory Wellness that may improve the quality of their sleep. While the technology is not intended to replace working with a mental health specialist, it is designed to put the resources into the hands of service members and offer them an easily accessible gateway to wellness. In essence, the goal is to build off the already successful Victory Wellness program by making it even more tailored and customized to the unique wellness needs of each person. A January 2022 trip by the entire Harvard team to Fort Riley (see photo above) for a series of in-person meetings and hands on technology demonstration is the latest development in this effort. Currently formal proposals and plans are underway as the best paths to carefully evaluate this new technology augmented approach for mental health are drafted. The views expressed are those of the author and do not necessarily reflect the official policy or position of the Department of the Army, Department of Defense, or the U.S. Government. Recommended citation Figueroa, Edward. “Stepping Up to the Challenge: Smartphones and Military Mental Health .” Edited by Angel, Natalia. Belfer Center for Science and International Affairs, Harvard Kennedy School , February 16, 2022 Copy to Clipboard Stepping Up to the Challenge: Smartphones and Military Mental Health View Citation Print Defense Project Recommended citation Figueroa, Edward. “Stepping Up to the Challenge: Smartphones and Military Mental Health .” Edited by Angel, Natalia. Belfer Center for Science and International Affairs, Harvard Kennedy School , February 16, 2022 Copy to Clipboard Author Edward Figueroa Editor Natalia Angel More From This Expert Old Friends and New Horizons: Recalibrating American and French Indo-Pacific Strategy Preserving a Nonpartisan Military",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2022-02-16T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:48:03+00:00",
+    "prompt_hash": "ccde897e7550ff90757b7e1230e17b1ce2e4aa96",
+    "result": {
+      "main_content_en": "The article addresses the urgent need for innovative approaches to military mental health, given rising suicide rates among active-duty personnel. It introduces mindLAMP, a smartphone app developed by Harvard Medical School, which assesses individual mental health in real-time and personalizes learning, management, and prevention strategies. The technology is highlighted as a paradigm shift, embracing the dynamic nature of mental health. However, it is emphasized that technology alone is insufficient; it must be integrated with comprehensive support programs. The Victory Wellness initiative at Fort Riley is presented as the complementary solution, offering holistic services across emotional, family, physical, spiritual, and social pillars. The synergy between mindLAMP and Victory Wellness aims to provide tailored, accessible resources, moving beyond annual check-ups to continuous, data-informed support. Current efforts involve clinical research and proposals for military evaluation, with a recent demonstration at Fort Riley marking progress toward implementing this augmented approach.",
+      "main_content_zh": "本文针对现役军人自杀率上升的问题，强调需要创新性的心理健康干预方法。文章介绍了哈佛医学院开发的智能手机应用mindLAMP，该应用能够实时评估个人心理健康状况，并基于数字数据提供个性化的学习、管理和预防方案。这代表了心理健康领域的一种范式转变，能够适应心理健康动态变化的特性。然而，技术本身并非万能，必须与全面的支持计划相结合。文章指出，位于莱利堡的“胜利健康”计划提供了另一半解决方案，其涵盖情感、家庭、身体、精神和社会五大支柱，为所有官兵提供整体性的健康与韧性支持。mindLAMP与“胜利健康”的结合具有协同效应，旨在提供定制化、易获取的资源，实现从年度检查到持续数据化支持的转变。目前，该技术正在全球超过20个站点进行临床研究，并计划与美军第一步兵师合作进行评估。2022年1月，哈佛团队已赴莱利堡进行技术演示，相关正式提案和评估路径正在制定中，以推动这一技术增强型心理健康方法的实施。",
+      "keywords_en": [
+        "military mental health",
+        "suicide prevention",
+        "smartphone app",
+        "mindLAMP",
+        "real-time assessment",
+        "personalized intervention",
+        "Victory Wellness",
+        "holistic readiness",
+        "resiliency",
+        "digital health",
+        "behavioral health",
+        "clinical research",
+        "active-duty members",
+        "paradigm shift",
+        "data-informed care",
+        "technology integration",
+        "Fort Riley",
+        "Harvard Medical School",
+        "prevention strategies",
+        "service members"
+      ],
+      "keywords_zh": [
+        "军人心理健康",
+        "自杀预防",
+        "智能手机应用",
+        "mindLAMP",
+        "实时评估",
+        "个性化干预",
+        "胜利健康计划",
+        "整体战备",
+        "心理韧性",
+        "数字健康",
+        "行为健康",
+        "临床研究",
+        "现役人员",
+        "范式转变",
+        "数据驱动护理",
+        "技术整合",
+        "莱利堡",
+        "哈佛医学院",
+        "预防策略",
+        "服役人员"
+      ],
+      "topic_words_en": [
+        "Mental Health Innovation",
+        "Digital Therapeutics",
+        "Military Wellness Programs"
+      ],
+      "topic_words_zh": [
+        "心理健康创新",
+        "数字疗法",
+        "军人健康计划"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification",
+  "canonical_url": "https://www.belfercenter.org/publication/cryptographic-escrow-treaty-declarations-and-step-step-verification",
+  "summary": "The verification of arms-control and disarmament agreements requires states to provide declarations, including information on sensitive military sites and assets. There are important cases, however, in which negotiations of these agreements are impeded because states are reluctant to provide any such data, because of concerns about prematurely handing over militarily significant information. To address this challenge, we present a cryptographic escrow that allows a state to make a complete declaration of sites and assets at the outset and commit to its content, but only reveal the sensitive information therein sequentially. Combined with an inspection regime, our escrow allows for step-by-step verification of the correctness and completeness of the initial declaration so that the information release and inspections keep pace with parallel diplomatic and political processes. We apply this approach to the possible denuclearization of North Korea. Such approach can be applied, however, to any agreement requiring the sharing of sensitive information.",
+  "published": "2019-04-25T12:00:00Z",
+  "authors": [
+    "Elbahtimy, Hassan , Rebecca Davis Gibbons",
+    "Stephen Herzog"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Environment and Natural Resources",
+    "International Security Program",
+    "Managing the Atom",
+    "Nuclear Issues",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Nuclear Issues"
+  ],
+  "tags": [
+    "Environment and Natural Resources",
+    "International Security Program",
+    "Managing the Atom",
+    "Nuclear Issues",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "The verification of arms-control and disarmament agreements requires states to provide declarations, including information on sensitive military sites and assets. There are important cases, however, in which negotiations of these agreements are impeded because states are reluctant to provide any such data, because of concerns about prematurely handing over militarily significant information. To address this challenge, we present a cryptographic escrow that allows a state to make a complete declaration of sites and assets at the outset and commit to its content, but only reveal the sensitive information therein sequentially. Combined with an inspection regime, our escrow allows for step-by-step verification of the correctness and completeness of the initial declaration so that the information release and inspections keep pace with parallel diplomatic and political processes. We apply this approach to the possible denuclearization of North Korea. Such approach can be applied, however, to any agreement requiring the sharing of sensitive information. The latest from Belfer See more Recommended citation Philippe , Sébastien , Alexander Glaser and Edward W. Felten. “A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification.” Science & Global Security , April 25, 2019 Copy to Clipboard A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification View Citation Print Want to read more? The full text of this publication is available via Science & Global Security. Read full article Environment and Natural Resources International Security Program Managing the Atom Nuclear Issues Science, Technology, and Public Policy Recommended citation Philippe , Sébastien , Alexander Glaser and Edward W. Felten. “A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification.” Science & Global Security , April 25, 2019 Copy to Clipboard Author Sébastien Philippe More From This Expert How to Deal with Increasingly Complex Safety-Critical Technologies Governance of the Deployment of Solar Geoengineering Author Alexander Glaser Author Edward W. Felten Up Next Photo Credit Toggle Wikimedia CC/NOIRLab Article After Nuclear Deterrence: Insights and Uncharted Frontiers 2025 by Elbahtimy, Hassan , Rebecca Davis Gibbons and Stephen Herzog From International Security Program Photo Credit Toggle Public Domain/DOD Defense Visual Information Center Policy Briefs Public Opinion, Nuclear Weapon Use, and the Perils of Selective Reading January 2026 by Stephen Herzog Photo Credit Toggle Russian Defense Ministry Press Service via AP, File Article Computer Says, “War”: AI and Resort-to-Force Decision Making in a Context of Rapid Change and Global Uncertainty 2026 by Toni Erskine and Steven E. Miller",
+  "node_id": ""
+}

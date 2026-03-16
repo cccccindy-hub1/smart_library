@@ -1,0 +1,89 @@
+{
+  "title": "Kendall Hoyt on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/kendall-hoyt-office-hours",
+  "summary": "Kendall Hoyt, Assistant Professor of Medicine at the Dartmouth Medical School and former fellow with the Belfer Center’s International Security Program, talks with Aroop Mukharji (@aroopmukharji) about improving response time to outbreaks, a brief history of anti-vaxxers, and how she got into biodefense.",
+  "published": "2018-04-02T12:00:00Z",
+  "authors": [
+    "Michael Redlich"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Africa",
+    "Asia & the Pacific",
+    "Biosafety",
+    "North America"
+  ],
+  "topics": [
+    "Biosafety"
+  ],
+  "tags": [
+    "Africa",
+    "Asia & the Pacific",
+    "Biosafety",
+    "North America"
+  ],
+  "body": "Gallery 1 of 5 Kendall Hoyt: Bioterror vs. Natural Outbreaks – Most Terrifying? 2 of 5 Kendall Hoyt: How I Got Into Bio Defense 3 of 5 Kendall Hoyt: Improving Response Time to Disease Outbreaks 4 of 5 Kendall Hoyt: Distrust of Government — A Brief History of Anti-Vaxxers 5 of 5 Kendall Hoyt: Photos from the Belfer Archive Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Kendall Hoyt on Office Hours Print Africa Asia & the Pacific Biosafety North America Related Kendall Hoyt More From This Expert Kendall Hoyt on Office Hours Podcast A Double-Edged Sword: Globalization and Biosecurity Up Next Reports & Papers Down with the Sickness: Biological Weapons in the Past, Present, and Future May. 22, 2025 by Michael Redlich From Defense, Emerging Technology, and Strategy Photo Credit Toggle AP Photo/John Minchillo Article Modernizing Biosecurity and Biosafety in the U.S.: Key Lessons Learned Nov. 7, 2023 by Janet Egan and Syra Madad Doom: The Politics of Catastrophe by Niall Ferguson May 2021",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-04-02T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:45:20+00:00",
+    "prompt_hash": "2c15f1da8c0a3d82cd16b3a221b3524ef3cf4e97",
+    "result": {
+      "main_content_en": "The article features an interview with Kendall Hoyt discussing biosecurity and biosafety challenges. It contrasts the threats of bioterrorism and natural disease outbreaks, exploring which is more concerning. Hoyt shares her personal journey into the field of biodefense and emphasizes the critical need to improve response times to disease outbreaks. The discussion also covers historical public distrust in government, using the anti-vaccination movement as a case study. The context includes references to related reports and papers on biological weapons and the modernization of U.S. biosecurity, highlighting ongoing policy concerns in global health security.",
+      "main_content_zh": "本文是对肯德尔·霍伊特的访谈，重点探讨了生物安全和生物防护领域的挑战。内容对比了生物恐怖主义与自然疾病爆发的威胁，并分析何者更为令人担忧。霍伊特分享了她进入生物防御领域的个人经历，并强调了提高应对疾病爆发速度的至关重要性。讨论还涉及历史上公众对政府的不信任，以反疫苗接种运动作为典型案例进行分析。文中引用了关于生物武器以及美国生物安全现代化等相关报告和论文，指出了全球卫生安全领域中持续存在的政策关切。",
+      "keywords_en": [
+        "Biosafety",
+        "Biosecurity",
+        "Bioterrorism",
+        "Disease Outbreaks",
+        "Biodefense",
+        "Response Time",
+        "Anti-Vaccination",
+        "Public Distrust",
+        "Global Health Security",
+        "Biological Weapons",
+        "Policy",
+        "Modernization",
+        "Belfer Archive",
+        "Interview",
+        "Podcast",
+        "Kendall Hoyt"
+      ],
+      "keywords_zh": [
+        "生物安全",
+        "生物防护",
+        "生物恐怖主义",
+        "疾病爆发",
+        "生物防御",
+        "响应时间",
+        "反疫苗接种",
+        "公众不信任",
+        "全球卫生安全",
+        "生物武器",
+        "政策",
+        "现代化",
+        "贝尔弗档案",
+        "访谈",
+        "播客",
+        "肯德尔·霍伊特"
+      ],
+      "topic_words_en": [
+        "Biosecurity",
+        "Public Health",
+        "Policy Analysis"
+      ],
+      "topic_words_zh": [
+        "生物安全",
+        "公共卫生",
+        "政策分析"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

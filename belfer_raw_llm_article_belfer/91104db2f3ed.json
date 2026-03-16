@@ -1,0 +1,101 @@
+{
+  "title": "Conversations in Diplomacy: Ban Ki-moon",
+  "canonical_url": "https://www.belfercenter.org/publication/conversations-diplomacy-ban-ki-moon",
+  "summary": "In a conversation with Professor Nicholas Burns, Ban Ki-Moon, who served as UN Secretary-General from 2007 to December 2016, touches upon his transition from the diplomatic to the academic world, UN efforts to confront climate change under his leadership, and reconciling political realities with the achievement of long-term, global aims.",
+  "published": "2017-04-24T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Climate Agreements",
+    "Diplomacy",
+    "Diplomacy and International Politics",
+    "Future of Diplomacy Project",
+    "International development",
+    "Middle East & North Africa",
+    "North America",
+    "Sustainable Development",
+    "United Nations"
+  ],
+  "topics": [
+    "Climate Agreements",
+    "Diplomacy",
+    "International development",
+    "Sustainable Development",
+    "United Nations"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Climate Agreements",
+    "Diplomacy",
+    "Diplomacy and International Politics",
+    "Future of Diplomacy Project",
+    "International development",
+    "Middle East & North Africa",
+    "North America",
+    "Sustainable Development",
+    "United Nations"
+  ],
+  "body": "Conversations in Diplomacy: Ban Ki-moon Print Asia & the Pacific Climate Agreements Diplomacy Diplomacy and International Politics Future of Diplomacy Project International development Middle East & North Africa North America Sustainable Development United Nations Related Nicholas Burns More From This Expert NATO is Vital to U.S. National Security Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change Related Ban Ki-moon More From This Expert Conversations in Diplomacy: Secretary-General Ban Ki-moon and Ambassador Susan Thornton Ban Ki-moon on Office Hours Podcast Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 The Problem of China in the British Foreign Office Mind by Oliver Yule-Smith December 2025",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Future of Diplomacy Project, Belfer Center",
+    "date": "2017-04-24T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:05:32+00:00",
+    "prompt_hash": "f3b757e41d6c75fb95a2f77123990ef0864517ee",
+    "result": {
+      "main_content_en": "This article is part of the 'Conversations in Diplomacy' series featuring former UN Secretary-General Ban Ki-moon. It focuses on his diplomatic efforts and perspectives on key global challenges during his tenure. The core themes include the critical importance of international cooperation in addressing climate change, as exemplified by the Paris Agreement, and the pursuit of sustainable development through frameworks like the UN's Sustainable Development Goals (SDGs). The discussion highlights the role of multilateral diplomacy in bridging divides between nations, particularly between developed and developing countries, to foster consensus on urgent global issues. It underscores the necessity of persistent diplomatic engagement and leadership in navigating complex international politics to achieve collective action on climate and development.",
+      "main_content_zh": "本文是“外交对话”系列的一部分，以前联合国秘书长潘基文为主角。文章聚焦于他在任期间的外交努力以及对关键全球挑战的看法。核心主题包括国际合作在应对气候变化（以《巴黎协定》为例）中的至关重要性，以及通过联合国可持续发展目标（SDGs）等框架追求可持续发展。讨论强调了多边外交在弥合国家间分歧、特别是在发达国家与发展中国家之间，以就紧迫的全球问题达成共识方面的作用。文章阐明了在复杂的国际政治中，为实现气候与发展方面的集体行动，持续的外交接触和领导力的必要性。",
+      "keywords_en": [
+        "Multilateral Diplomacy",
+        "Climate Change",
+        "Paris Agreement",
+        "Sustainable Development Goals (SDGs)",
+        "International Cooperation",
+        "United Nations",
+        "Secretary-General",
+        "Global Governance",
+        "Consensus Building",
+        "Developing Countries",
+        "Diplomatic Engagement",
+        "Global Challenges",
+        "Leadership",
+        "International Politics",
+        "Collective Action"
+      ],
+      "keywords_zh": [
+        "多边外交",
+        "气候变化",
+        "巴黎协定",
+        "可持续发展目标（SDGs）",
+        "国际合作",
+        "联合国",
+        "秘书长",
+        "全球治理",
+        "共识构建",
+        "发展中国家",
+        "外交接触",
+        "全球挑战",
+        "领导力",
+        "国际政治",
+        "集体行动"
+      ],
+      "topic_words_en": [
+        "Diplomacy",
+        "Climate Policy",
+        "Sustainable Development"
+      ],
+      "topic_words_zh": [
+        "外交",
+        "气候政策",
+        "可持续发展"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

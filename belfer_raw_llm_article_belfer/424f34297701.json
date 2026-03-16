@@ -1,0 +1,101 @@
+{
+  "title": "John Park: The Unintended Consequences of North Korea's Self-Quarantine",
+  "canonical_url": "https://www.belfercenter.org/publication/john-park-unintended-consequences-north-koreas-self-quarantine",
+  "summary": "John Park: The Unintended Consequences of North Korea's Self-Quarantine",
+  "published": "2020-03-19T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "The unintended consequences of #NorthKorea 's self-quarantine. @DrJohnSPark explains. #COVID19 #Coronavirus pic.twitter.com/tV3wAN5CGX — Belfer Center (@BelferCenter) March 19, 2020 John Park: The Unintended Consequences of North Korea's Self-Quarantine Print Coronavirus Global Health Public Health Related John S. Park More From This Expert Negotiating with North Korea: Key Lessons Learned from Negotiators' Genesis Period Belfer Center's Korea Project Co-Leads Planning for South Korean President's Historic Harvard Visit and Speech Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-03-19T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:24:17+00:00",
+    "prompt_hash": "7c1fa7f2a412fe040e9b2c4dc5371652564a4556",
+    "result": {
+      "main_content_en": "The article discusses the unintended consequences of North Korea's self-quarantine measures during the COVID-19 pandemic. It references an analysis by John Park, highlighting the broader implications for global health policy and crisis management. The context includes related discussions on emerging technology, scientific advancement, and global policy, with mentions of other topics such as H3N2 virus subclades, mRNA vaccine research funding, and global governance structures. The piece situates North Korea's specific actions within a wider framework of international public health challenges and technological responses.",
+      "main_content_zh": "本文探讨了朝鲜在COVID-19疫情期间采取自我隔离措施所带来的意外后果。文章引用了约翰·帕克的分析，强调了其对全球卫生政策和危机管理的更广泛影响。背景涉及新兴技术、科学进步和全球政策的相关讨论，并提及了H3N2病毒亚支、mRNA疫苗研究资助以及全球治理结构等其他话题。文章将朝鲜的具体行动置于国际公共卫生挑战和技术应对的更广泛框架中进行审视。",
+      "keywords_en": [
+        "self-quarantine",
+        "North Korea",
+        "COVID-19",
+        "pandemic",
+        "global health",
+        "public health",
+        "crisis management",
+        "emerging technology",
+        "scientific advancement",
+        "global policy",
+        "H3N2",
+        "subclade",
+        "mRNA vaccine",
+        "research funding",
+        "vaccine development",
+        "global governance",
+        "international response",
+        "health policy",
+        "consequences",
+        "isolation measures"
+      ],
+      "keywords_zh": [
+        "自我隔离",
+        "朝鲜",
+        "COVID-19",
+        "大流行病",
+        "全球卫生",
+        "公共卫生",
+        "危机管理",
+        "新兴技术",
+        "科学进步",
+        "全球政策",
+        "H3N2",
+        "亚支",
+        "mRNA疫苗",
+        "研究资助",
+        "疫苗开发",
+        "全球治理",
+        "国际应对",
+        "卫生政策",
+        "后果",
+        "隔离措施"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Global Health Policy",
+        "Pandemic Response",
+        "Emerging Technology",
+        "Science Policy"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "全球卫生政策",
+        "大流行病应对",
+        "新兴技术",
+        "科学政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

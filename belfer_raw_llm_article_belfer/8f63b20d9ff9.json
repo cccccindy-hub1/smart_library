@@ -1,0 +1,103 @@
+{
+  "title": "Questions From Quarantine: Mental Health and Self-care During Times of Extreme Stress",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-mental-health-and-self-care-during-times-extreme-stress",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-06-11T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine. Questions From Quarantine: Mental Health and Self-care During Times of Extreme Stress Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-06-11T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:11:57+00:00",
+    "prompt_hash": "0bfa0946cbe6fd3afdfc7cd3d8a35e50d8267989",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who provide guidance on maintaining mental health and self-care during the extreme stress of quarantine and global crisis. The series, titled 'Questions From Quarantine,' invites public participation by submitting questions via social media with a specific hashtag. It aims to offer practical advice for staying sane and sanitary, addressing the psychological challenges posed by prolonged isolation and pandemic-related anxieties. The initiative underscores the importance of accessible expert-led support for public well-being during emergencies.",
+      "main_content_zh": "安全与全球健康项目每周推出一档网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，旨在为处于隔离和全球危机极端压力下的人们提供心理健康与自我护理指导。该系列名为“隔离之问”，鼓励公众通过社交媒体使用特定标签提交问题，以获得保持理智与卫生的实用建议。节目着重应对长期隔离和疫情相关焦虑带来的心理挑战，强调在紧急情况下由专家主导、易于获取的公众支持对于维护社会福祉的重要性。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "quarantine",
+        "mental health",
+        "self-care",
+        "extreme stress",
+        "global crisis",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "public well-being",
+        "psychological challenges",
+        "isolation",
+        "pandemic",
+        "expert advice",
+        "sanitary",
+        "public participation",
+        "social media",
+        "hashtag",
+        "support",
+        "emergency"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "隔离",
+        "心理健康",
+        "自我护理",
+        "极端压力",
+        "全球危机",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "公众福祉",
+        "心理挑战",
+        "孤立",
+        "疫情",
+        "专家建议",
+        "卫生",
+        "公众参与",
+        "社交媒体",
+        "标签",
+        "支持",
+        "紧急情况"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Mental Health",
+        "Crisis Management",
+        "Global Health",
+        "Quarantine Support"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "心理健康",
+        "危机管理",
+        "全球健康",
+        "隔离支持"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

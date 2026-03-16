@@ -1,0 +1,97 @@
+{
+  "title": "Clear, Actionable Ways to Enhance Cybersecurity in the Water Sector",
+  "canonical_url": "https://www.belfercenter.org/publication/clear-actionable-ways-enhance-cybersecurity-water-sector",
+  "summary": "Know the Adversaries. Bolster the defense. Mitigate the disaster.",
+  "published": "2022-06-07T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Project",
+    "Cyber Security"
+  ],
+  "topics": [
+    "Cyber Security"
+  ],
+  "tags": [
+    "Cyber Project",
+    "Cyber Security"
+  ],
+  "body": "In May of 2022, Lauren Zabierek, Executive Director of the Cyber Project at the Harvard Kennedy School’s Belfer Center, and Sean Plankey, former Principal Deputy Assistant Secretary in the Office of Cybersecurity, Energy Security, and Emergency Response at Department of Energy, delivered a talk entitled, We Must Regulate Water and Wastewater Cybersecurity--Here's How, at Hack the Capitol 5.0 . The talk was a small discussion during the day-long, multi-track event designed to educate congressional staffers, scholars, and the press on some of the most critical cybersecurity challenges facing our nation today. Based on the article by Lauren and Belfer Cyber Project nonresident fellow, Selena Larson, this talk expanded on the concept from specifically the water and wastewater sector to encompass critical infrastructure more broadly. These recommendations (including specific water recommendations in the paper) are offered in the following categories: Cybersecurity Legislation Continuity of Economy Water and Wastewater, Specifically Pass mandatory cybersecurity regulations legislation for Critical Infrastructure: Congress provides Sector Risk Management Agencies (SRMAs) rulemaking authority under an amendment to the Administrative Procedure Act (APA) . SRMAs engage industry to develop sector specific rulemaking to minimize cybersecurity risk. Require SRMAs to fund and staff advisory boards with participation from private industry and first responders (e.g. Electricity Sector Coordinating Council, Oil and Gas Sector Coordinating Council, National Maritime Security Advisory Committee). Appropriate funding for municipal grants to provide a cybersecurity “ standard of care ” with breach notification requirements Set requirements for cyber disruption and disaster mitigation and response . Authorize CISA as the standard maker for cybersecurity definitions, and allow the agency to update the definitions as the threat landscape & business models evolve. Reframe the focus on “left and right of boom” planning . We live in an age of constant disaster Cultivate a preventative vice reactive culture Move Incident Response Mainstream: Exercise more than the IT or Security Teams Include cybersecurity in Business Continuity Planning for Disaster Response Build Resiliency through Continuity of the Economy Planning Continuity of the Economy Planning is required by law: The 2021 NDAA stipulated the President must create a plan within two years. The President must define who is in charge between the National Response Framework, PPD-41, and the National Cyber Incident Response Plan. A plan must involve the states and their homeland security and emergency management offices in coordination with the federal Department of Homeland Security. It must also involve funding, regular exercise at a regional and national level, and collection of lessons learned . Appropriate state and local grant program for a cybersecurity “standard of care” with municipal utilities to include breach notification and mutual aid amongst providers. Model after the CIP framework, incorporate cybersecurity rules into the Environmental Protection Agency (EPA) Sanitary Surveys . Add Cybersecurity of information and operational technology to the eight focus areas covered by the EPA Sanitary Survey. Create North American standards for OT sensors and actuators . Require engineering firms to incorporate cybersecurity into their device engineering design and require acceptance and testing. Require detection and response plans aligned with NIST Cybersecurity Framework and coordinated with the relevant SRMA for all Critical Infrastructure. Codify Water ISAC list of cybersecurity fundamentals into regulatory requirements for all water and wastewater facilities Address specific regulations based on common cyberattack behaviors such as: Restricting remote access and externally accessible services Requiring access controls on IT & OT assets Immediately revoking access to outgoing employees Maintain a resilient control system in which pressure and treatment functions can be manually run Incorporate protective technology The latest from Belfer See more Recommended citation Zabierek, Lauren and Sean Plankey. “Clear, Actionable Ways to Enhance Cybersecurity in the Water Sector.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 7, 2022 Copy to Clipboard Clear, Actionable Ways to Enhance Cybersecurity in the Water Sector View Citation Print Cyber Project Cyber Security Recommended citation Zabierek, Lauren and Sean Plankey. “Clear, Actionable Ways to Enhance Cybersecurity in the Water Sector.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 7, 2022 Copy to Clipboard Author Lauren Zabierek More From This Expert We All Play a Role in Creating a Culture of Belonging and Diversity The New Frontier of Democratic Self-Defense Author Sean Plankey Related Selena Larson More From This Expert It's Time to Regulate Water and Wastewater Cybersecurity--Here's How Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2022-06-07T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:44:34+00:00",
+    "prompt_hash": "f591cd2ae19489b65c283f3acf409cdbe7e905a6",
+    "result": {
+      "main_content_en": "The article outlines clear, actionable recommendations to enhance cybersecurity in the U.S. water sector and critical infrastructure broadly. It is based on a talk by Lauren Zabierek and Sean Plankey, which expanded on a related article. The recommendations are categorized into three main areas: Cybersecurity Legislation, Continuity of the Economy, and specific measures for Water and Wastewater systems. Key legislative proposals include passing mandatory cybersecurity regulations for critical infrastructure, granting Sector Risk Management Agencies (SRMAs) rulemaking authority, and authorizing CISA as the standard maker for cybersecurity definitions. For continuity, the plan must involve states, include funding and exercises, and cultivate a preventative culture. Specific water sector actions include incorporating cybersecurity into EPA Sanitary Surveys, creating North American standards for OT sensors, and codifying Water ISAC fundamentals into regulatory requirements. The overall goal is to build resilience through mandatory standards, coordinated planning, and addressing common attack vectors.",
+      "main_content_zh": "本文概述了加强美国水务部门及更广泛关键基础设施网络安全的清晰、可操作的建议。这些建议基于劳伦·扎比雷克和肖恩·普兰基的一次演讲，该演讲拓展了相关文章的观点。建议主要分为三大类：网络安全立法、经济连续性规划以及针对水务和废水处理系统的具体措施。关键的立法提案包括通过针对关键基础设施的强制性网络安全法规，授予部门风险管理机构（SRMAs）制定规则的权力，以及授权网络安全和基础设施安全局（CISA）作为网络安全定义的标准制定者。在经济连续性方面，计划必须涉及各州，包含资金和演练，并培养预防性文化。针对水务部门的具体行动包括将网络安全纳入美国环境保护署（EPA）的卫生调查，为运营技术（OT）传感器和执行器制定北美标准，并将水务信息共享与分析中心（Water ISAC）的基本网络安全要求编入所有水务设施的监管规定。总体目标是通过强制性标准、协调规划和应对常见攻击行为来构建韧性。",
+      "keywords_en": [
+        "Cybersecurity Legislation",
+        "Critical Infrastructure",
+        "Sector Risk Management Agencies (SRMAs)",
+        "Administrative Procedure Act (APA)",
+        "Continuity of the Economy",
+        "CISA",
+        "National Response Framework",
+        "PPD-41",
+        "National Cyber Incident Response Plan",
+        "Environmental Protection Agency (EPA)",
+        "Sanitary Surveys",
+        "Operational Technology (OT)",
+        "NIST Cybersecurity Framework",
+        "Water ISAC",
+        "breach notification",
+        "mutual aid",
+        "rule-making authority",
+        "standard of care",
+        "resiliency",
+        "remote access controls"
+      ],
+      "keywords_zh": [
+        "网络安全立法",
+        "关键基础设施",
+        "部门风险管理机构（SRMAs）",
+        "行政程序法（APA）",
+        "经济连续性",
+        "网络安全和基础设施安全局（CISA）",
+        "国家响应框架",
+        "PPD-41",
+        "国家网络事件响应计划",
+        "环境保护署（EPA）",
+        "卫生调查",
+        "运营技术（OT）",
+        "NIST网络安全框架",
+        "水务信息共享与分析中心（Water ISAC）",
+        "违规通知",
+        "互助协议",
+        "规则制定权",
+        "注意标准",
+        "韧性",
+        "远程访问控制"
+      ],
+      "topic_words_en": [
+        "Cybersecurity Regulation",
+        "Water Sector Security",
+        "Critical Infrastructure Protection",
+        "Incident Response",
+        "Policy Recommendations"
+      ],
+      "topic_words_zh": [
+        "网络安全监管",
+        "水务部门安全",
+        "关键基础设施保护",
+        "事件响应",
+        "政策建议"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

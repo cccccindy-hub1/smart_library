@@ -1,0 +1,101 @@
+{
+  "title": "Caring for Someone Who Has COVID-19 At Home: Universal Measures",
+  "canonical_url": "https://www.belfercenter.org/publication/caring-someone-who-has-covid-19-home-universal-measures",
+  "summary": "The COVID-19 pandemic is far from over. Household transmission of the virus continues to be common and one of the leading causes of new infections.",
+  "published": "2021-06-21T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "The COVID-19 pandemic is far from over. At least half a million new infections are recorded every day from around the world – still, a gross underestimate on the true burden of disease. Cases continue to increase in many countries including South America, at least 14 African nations, Russia, Oman, Mongolia, Malaysia, and many others. India-like-surges are still likely to occur with vaccine deserts in many parts of the world. Household transmission of the virus continues to be common and one of the leading causes of new infections. We emphasis basic measures households can take to help curb the spread of the virus in a home environment while caring for someone who has COVID-19. In addition to these basic measures, it’s important to also consider mental health support. For more resources, here’s a great Communication Toolkit on COVID-19 Resources: https://www.hsph.harvard.edu/india-center/resources-covid19/ The latest from Belfer See more Recommended citation Madad, Syra and Ananya Awasthi. “Caring for Someone Who Has COVID-19 At Home: Universal Measures.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 21, 2021 Copy to Clipboard Caring for Someone Who Has COVID-19 At Home: Universal Measures View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra and Ananya Awasthi. “Caring for Someone Who Has COVID-19 At Home: Universal Measures.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 21, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Ananya Awasthi Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-06-21T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:54:39+00:00",
+    "prompt_hash": "4924b258838b122a60b2227af96befef553828fe",
+    "result": {
+      "main_content_en": "The COVID-19 pandemic persists globally, with daily infection counts exceeding half a million, a figure considered a significant underestimate. Cases are rising in numerous regions including South America, at least 14 African nations, Russia, Oman, Mongolia, and Malaysia. The threat of severe surges, similar to India's experience, remains high, particularly in areas with low vaccine access. Household transmission is identified as a primary driver of new infections. This article emphasizes universal, basic public health measures that households can implement to curb viral spread while caring for a COVID-19 patient at home. These measures are crucial for mitigating risk within the domestic environment. The article also highlights the importance of considering mental health support for caregivers and patients, and provides a link to a comprehensive COVID-19 communication toolkit from Harvard's India Center for further resources.",
+      "main_content_zh": "新冠疫情远未结束，全球每日记录的新增感染病例至少50万例，而这仍是对真实疾病负担的严重低估。包括南美洲、至少14个非洲国家、俄罗斯、阿曼、蒙古、马来西亚在内的许多地区病例数持续上升。类似印度式的病例激增仍可能在世界许多疫苗匮乏的地区发生。家庭内病毒传播依然普遍，是导致新感染的主要原因之一。本文重点阐述了家庭在照顾COVID-19患者时可以采取的基本通用措施，以帮助遏制病毒在家庭环境中的传播。除了这些基本措施，考虑为照顾者和患者提供心理健康支持也同样重要。文章还提供了哈佛大学印度中心关于COVID-19资源的沟通工具包链接，以供获取更多信息。",
+      "keywords_en": [
+        "COVID-19",
+        "pandemic",
+        "household transmission",
+        "home care",
+        "public health measures",
+        "infection control",
+        "vaccine deserts",
+        "case surge",
+        "mental health support",
+        "caregiver",
+        "global health",
+        "infection underestimate",
+        "basic measures",
+        "virus spread",
+        "domestic environment",
+        "communication toolkit",
+        "resource",
+        "India-like surge",
+        "SARS-CoV-2",
+        "isolation"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "新冠疫情",
+        "家庭传播",
+        "居家照护",
+        "公共卫生措施",
+        "感染控制",
+        "疫苗荒漠",
+        "病例激增",
+        "心理健康支持",
+        "照护者",
+        "全球健康",
+        "感染低估",
+        "基本措施",
+        "病毒传播",
+        "家庭环境",
+        "沟通工具包",
+        "资源",
+        "印度式激增",
+        "SARS-CoV-2",
+        "隔离"
+      ],
+      "topic_words_en": [
+        "COVID-19",
+        "Public Health",
+        "Home Care",
+        "Pandemic Response",
+        "Infection Prevention"
+      ],
+      "topic_words_zh": [
+        "COVID-19",
+        "公共卫生",
+        "居家照护",
+        "疫情应对",
+        "感染预防"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

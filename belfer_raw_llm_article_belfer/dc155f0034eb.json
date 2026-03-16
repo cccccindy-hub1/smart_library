@@ -1,0 +1,93 @@
+{
+  "title": "Michael Sulmeyer on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/michael-sulmeyer-office-hours-podcast",
+  "summary": "Michael Sulmeyer (@sultanofcyber), Director of the Cyber Security Project at the Belfer Center and former Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense, talks with Aroop Mukharji (@aroopmukharji) about protecting yourself online, running for office in the age of social media, and cyber security’s “sex appeal.”",
+  "published": "2016-06-01T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "North America"
+  ],
+  "topics": [
+    "Cyber Security"
+  ],
+  "tags": [
+    "Cyber Security",
+    "North America"
+  ],
+  "body": "Dr. Michael Sulmeyer is the Belfer Center's Cyber Security Project Director at the Harvard Kennedy School. He is also a Contributing Editor for Lawfare. Before Harvard, he served as the Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense. There, he worked closely with the Joint Staff and Cyber Command on a variety of efforts to counter malicious cyber activity against U.S. and DoD interests. For this work, he received the Secretary Medal for Exceptional Public Service. The latest from Belfer See more Michael Sulmeyer on Office Hours Podcast Print Cyber Security North America Related Michael Sulmeyer More From This Expert \"Star Wars\" and Cyber: Can history help us build today's defenses? War on the Rocks Podcast: The Big Cyber Spectacular Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-06-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:17:39+00:00",
+    "prompt_hash": "9b76fe6ee64b1b9e69d857f09cee56ab4cac3829",
+    "result": {
+      "main_content_en": "The article profiles Dr. Michael Sulmeyer, the Cyber Security Project Director at Harvard Kennedy School's Belfer Center and a Contributing Editor for Lawfare. It details his significant prior role as Director for Plans and Operations for Cyber Policy within the Office of the Secretary of Defense, where he collaborated with the Joint Staff and U.S. Cyber Command on countering malicious cyber activities targeting U.S. and Department of Defense interests. For this service, he was awarded the Secretary Medal for Exceptional Public Service. The piece positions him as a leading expert in cybersecurity policy and strategy, connecting his work to broader discussions on national defense and cyber threats. The context includes related content from the Belfer Center, such as Bruce Schneier's congressional testimony on AI and a cybersecurity strategy scorecard report, highlighting the center's ongoing focus on technology and security policy.",
+      "main_content_zh": "本文介绍了哈佛大学肯尼迪学院贝尔弗中心网络安全项目主任、Lawfare特约编辑迈克尔·苏尔迈耶博士。文章重点详述了他此前在美国国防部长办公室担任网络政策计划与行动主任的重要履历，期间他与参谋长联席会议及美国网络司令部密切合作，共同应对针对美国及国防部利益的恶意网络活动，并因此荣获杰出公共服务部长奖章。文章将其定位为网络安全政策与战略领域的权威专家，并将其工作与更广泛的国防和网络威胁讨论联系起来。背景部分提及贝尔弗中心的相关内容，如布鲁斯·施奈尔关于人工智能的国会证词和网络安全战略记分卡报告，凸显了该中心在科技与安全政策领域的持续关注。",
+      "keywords_en": [
+        "Michael Sulmeyer",
+        "Cyber Security",
+        "Belfer Center",
+        "Harvard Kennedy School",
+        "Office of the Secretary of Defense",
+        "Cyber Policy",
+        "Joint Staff",
+        "Cyber Command",
+        "malicious cyber activity",
+        "Secretary Medal for Exceptional Public Service",
+        "Lawfare",
+        "national defense",
+        "cyber threats",
+        "cybersecurity strategy",
+        "technology policy",
+        "security policy",
+        "Bruce Schneier",
+        "Artificial Intelligence",
+        "testimony",
+        "Department of Defense"
+      ],
+      "keywords_zh": [
+        "迈克尔·苏尔迈耶",
+        "网络安全",
+        "贝尔弗中心",
+        "哈佛肯尼迪学院",
+        "国防部长办公室",
+        "网络政策",
+        "参谋长联席会议",
+        "网络司令部",
+        "恶意网络活动",
+        "杰出公共服务部长奖章",
+        "Lawfare",
+        "国防",
+        "网络威胁",
+        "网络安全战略",
+        "科技政策",
+        "安全政策",
+        "布鲁斯·施奈尔",
+        "人工智能",
+        "证词",
+        "国防部"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "Defense Policy",
+        "Expert Profile"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "国防政策",
+        "专家简介"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

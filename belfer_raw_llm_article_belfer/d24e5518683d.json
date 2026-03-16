@@ -1,0 +1,99 @@
+{
+  "title": "Juliette Kayyem on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/juliette-kayyem-office-hours-podcast",
+  "summary": "Juliette Kayyem (@juliettekayyem), Lecturer in Public Policy at the Harvard Kennedy School, and former Assistant Secretary for Intergovernmental Affairs at the Department of Homeland Security, sits down with Aroop Mukharji (@aroopmukharji) to talk about everything from safeguarding mega events to safeguarding your home and family.",
+  "published": "2015-12-10T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Homeland security",
+    "International Security & Defense",
+    "National security economics",
+    "North America"
+  ],
+  "topics": [
+    "Homeland security",
+    "International Security & Defense",
+    "National security economics"
+  ],
+  "tags": [
+    "Homeland security",
+    "International Security & Defense",
+    "National security economics",
+    "North America"
+  ],
+  "body": "Juliette Kayyem has spent over 15 years managing complex policy initiatives and organizing government responses to major crises in both state and federal government. She is the founder of Kayyem Solutions, LLC , providing strategic advice in technology, risk management, mega-event planning and cybersecurity. Clients comprise a range of companies including Airbnb, Rave Mobile Safety, and the International Centre for Sport Security. Juliette is currently the Belfer Lecturer in International Security at Harvard Kennedy School and an on-air security analyst for CNN. She also hosts a regular podcast entitled The SCIF for WGBH, Boston’s local NPR station, and her newest book, S ecurity Mom: An Unclassified Guide to Protecting Our Homeland and Your Home , was published in 2016. The latest from Belfer See more Juliette Kayyem on Office Hours Podcast Print Homeland security International Security & Defense National security economics North America Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Up Next Photo Credit Toggle Adobe Stock Policy Briefs Countering Foreign Interference: Weighing in on the Canadian Public Inquiry Oct. 23, 2024 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle AP Photo/Mike Carlson Article Bounce Back Better: Four Keys to Disaster Resilience in U.S. Communities Oct. 1, 2024 by Mysore, Mihir , Tim Ward, Tom Dohrmann and David Bibo Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2015-12-10T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:22:08+00:00",
+    "prompt_hash": "0293d509f56d91c2f375276b6f39d5a6f8ce8b81",
+    "result": {
+      "main_content_en": "Juliette Kayyem is a security expert with over 15 years of experience managing complex policy initiatives and government crisis responses. She founded Kayyem Solutions, LLC, a firm providing strategic advice in technology, risk management, mega-event planning, and cybersecurity to clients such as Airbnb and the International Centre for Sport Security. Academically, she serves as the Belfer Lecturer in International Security at Harvard Kennedy School. Her public roles include being a CNN on-air security analyst and hosting the podcast 'The SCIF' for WGBH. Her 2016 book, 'Security Mom: An Unclassified Guide to Protecting Our Homeland and Your Home,' reflects her focus on bridging national and domestic security concerns.",
+      "main_content_zh": "朱丽叶特·凯耶姆是一位拥有超过15年经验的安全专家，擅长管理复杂的政策倡议和政府重大危机应对工作。她创立了凯耶姆解决方案有限责任公司，为包括爱彼迎和国际体育安全中心在内的客户提供技术、风险管理、大型活动规划和网络安全方面的战略咨询。在学术界，她担任哈佛大学肯尼迪学院的贝尔弗国际安全讲师。她的公众角色包括担任美国有线电视新闻网的安全分析评论员，以及为波士顿公共广播电台WGBH主持播客节目“The SCIF”。她于2016年出版的著作《安全妈妈：保护我们的国土与家园的非机密指南》体现了她连接国家安全与家庭安全关切的关注点。",
+      "keywords_en": [
+        "Homeland security",
+        "Cybersecurity",
+        "Risk management",
+        "Mega-event planning",
+        "Crisis response",
+        "International security",
+        "Policy initiatives",
+        "Strategic advice",
+        "Technology",
+        "Harvard Kennedy School",
+        "Security analyst",
+        "Podcast",
+        "Supply chains",
+        "Federated learning",
+        "Disaster resilience",
+        "Artificial Intelligence",
+        "Analytic tradecraft",
+        "Foreign interference"
+      ],
+      "keywords_zh": [
+        "国土安全",
+        "网络安全",
+        "风险管理",
+        "大型活动规划",
+        "危机应对",
+        "国际安全",
+        "政策倡议",
+        "战略咨询",
+        "技术",
+        "哈佛肯尼迪学院",
+        "安全分析员",
+        "播客",
+        "供应链",
+        "联邦学习",
+        "灾害恢复力",
+        "人工智能",
+        "分析技能",
+        "外国干预"
+      ],
+      "topic_words_en": [
+        "Homeland Security",
+        "Crisis Management",
+        "Cybersecurity",
+        "Public Policy",
+        "International Relations"
+      ],
+      "topic_words_zh": [
+        "国土安全",
+        "危机管理",
+        "网络安全",
+        "公共政策",
+        "国际关系"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

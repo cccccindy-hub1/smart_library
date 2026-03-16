@@ -1,0 +1,104 @@
+{
+  "title": "Video: Brexit - What's Next?",
+  "canonical_url": "https://www.belfercenter.org/publication/video-brexit-whats-next",
+  "summary": "The Project on Europe and the Transatlantic Relationship in cooperation with the Institute of Politics invited Ed Balls, former UK Shadow Chancellor, Harriet Cross, British Consul General to New England, and Amanda Sloat, Senior Fellow at the Brookings Institute, to discuss the current state and future of Brexit in a John F. Kennedy Jr. Forum event moderated by Cathryn Clüver Ashbrook.",
+  "published": "2019-02-12T12:00:00Z",
+  "authors": [
+    "Eric Rosenbach, Carlo Giannone, Slavina Ancheva, Luc Hillion, Ethan Lee",
+    "Lukasz Kolodziej"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Diplomacy",
+    "Europe",
+    "Europe and the Transatlantic Relationship",
+    "European studies",
+    "International Relations",
+    "North America"
+  ],
+  "topics": [
+    "Diplomacy",
+    "European studies",
+    "International Relations"
+  ],
+  "tags": [
+    "Diplomacy",
+    "Europe",
+    "Europe and the Transatlantic Relationship",
+    "European studies",
+    "International Relations",
+    "North America"
+  ],
+  "body": "The Project on Europe and the Transatlantic Relationship in cooperation with the Institute of Politics invited Ed Balls, former UK Shadow Chancellor, Harriet Cross, British Consul General to New England, and Amanda Sloat, Senior Fellow at the Brookings Institute, to discuss the current state and future of Brexit in a John F. Kennedy Jr. Forum event moderated by Cathryn Clüver Ashbrook. Video: Brexit - What's Next? Print Diplomacy Europe Europe and the Transatlantic Relationship European studies International Relations North America Related Cathryn Clüver Ashbrook More From This Expert A Decade of Diplomacy: The Future of Diplomacy Project at 10 100 Days of Biden: A Transatlantic Balance? Up Next Reports & Papers Russian Threats to NATO’s Eastern Flank: Scenarios, Strategy, and Policy for European Security Feb. 5, 2026 by Eric Rosenbach, Carlo Giannone, Slavina Ancheva, Luc Hillion, Ethan Lee and Lukasz Kolodziej From Defense, Emerging Technology, and Strategy Photo Credit Toggle AP Photo/Vlad Kravchuk Reports & Papers A Flawed Path to Peace: The Weaknesses of the Proposed U.S.–Russia Framework for Ukraine Dec. 10, 2025 by Tanya Kozyreva Reports & Papers Building a Stronger Europe: A Companion to A New Transatlantic Bargain Feb. 12, 2025 by Richard Hooker",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-02-12T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:36:44+00:00",
+    "prompt_hash": "28185fd5068e17da971f3386c4e6833450ba9443",
+    "result": {
+      "main_content_en": "The article describes a forum event organized by the Project on Europe and the Transatlantic Relationship and the Institute of Politics, focusing on the state and future of Brexit. The discussion featured prominent figures including former UK Shadow Chancellor Ed Balls, British Consul General to New England Harriet Cross, and Brookings Institute Senior Fellow Amanda Sloat. The event was moderated by Cathryn Clüver Ashbrook as part of the John F. Kennedy Jr. Forum series. The core of the content is the presentation of this expert panel discussion, captured in a video titled 'Brexit - What's Next?', which aimed to analyze the ongoing developments and potential trajectories following the UK's decision to leave the European Union. The surrounding text lists related reports and papers on transatlantic relations and European security, indicating the event's context within broader diplomatic and policy research.",
+      "main_content_zh": "本文介绍了一场由“欧洲与跨大西洋关系项目”和政治研究所共同举办的论坛活动，主题聚焦于英国脱欧的现状与未来。讨论会邀请了多位知名人士参与，包括英国前影子财政大臣埃德·鲍尔斯、英国驻新英格兰总领事哈里特·克罗斯以及布鲁金斯学会高级研究员阿曼达·斯洛特。活动由凯瑟琳·克利弗·阿什布鲁克主持，属于约翰·F·肯尼迪青年论坛系列活动的一部分。文章的核心内容是这场专家小组讨论会的介绍，其讨论内容被制作成题为“英国脱欧：下一步是什么？”的视频，旨在分析英国决定离开欧盟后的持续事态发展与潜在路径。正文周围列出了有关跨大西洋关系和欧洲安全的相关报告与论文，表明该活动处于更广泛的外交与政策研究背景之中。",
+      "keywords_en": [
+        "Brexit",
+        "Project on Europe and the Transatlantic Relationship",
+        "Institute of Politics",
+        "John F. Kennedy Jr. Forum",
+        "Ed Balls",
+        "Harriet Cross",
+        "Amanda Sloat",
+        "Cathryn Clüver Ashbrook",
+        "UK Shadow Chancellor",
+        "British Consul General",
+        "Brookings Institute",
+        "Senior Fellow",
+        "forum event",
+        "diplomacy",
+        "European studies",
+        "International Relations",
+        "transatlantic",
+        "panel discussion",
+        "policy analysis",
+        "European Union"
+      ],
+      "keywords_zh": [
+        "英国脱欧",
+        "欧洲与跨大西洋关系项目",
+        "政治研究所",
+        "约翰·F·肯尼迪青年论坛",
+        "埃德·鲍尔斯",
+        "哈里特·克罗斯",
+        "阿曼达·斯洛特",
+        "凯瑟琳·克利弗·阿什布鲁克",
+        "英国影子财政大臣",
+        "英国总领事",
+        "布鲁金斯学会",
+        "高级研究员",
+        "论坛活动",
+        "外交",
+        "欧洲研究",
+        "国际关系",
+        "跨大西洋",
+        "小组讨论",
+        "政策分析",
+        "欧盟"
+      ],
+      "topic_words_en": [
+        "Brexit",
+        "Transatlantic Relations",
+        "Diplomatic Forum"
+      ],
+      "topic_words_zh": [
+        "英国脱欧",
+        "跨大西洋关系",
+        "外交论坛"
+      ],
+      "relevance_score": 0.0
+    }
+  }
+}

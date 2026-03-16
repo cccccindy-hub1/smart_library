@@ -1,0 +1,103 @@
+{
+  "title": "Meghan O'Sullivan on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/meghan-osullivan-office-hours",
+  "summary": "Meghan O’Sullivan, Jeane Kirkpatrick Professor of the Practice of International Affairs at the Harvard Kennedy School and author of 'Windfall: How the New Energy Abundance Upends Global Politics and Strengthens America’s Power,' talks with Aroop Mukharji (@aroopmukharji) about fracking, America’s strategic petroleum reserve, energy abundance, and her early start in geopolitics.",
+  "published": "2017-09-01T12:00:00Z",
+  "authors": [
+    "Michael A Mehling"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Energy",
+    "Geopolitics of Energy Project",
+    "Middle East & North Africa",
+    "North America",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "topics": [
+    "Energy",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "tags": [
+    "Energy",
+    "Geopolitics of Energy Project",
+    "Middle East & North Africa",
+    "North America",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "body": "Gallery 1 of 4 Meghan O'Sullivan: Defining Tight Oil 2 of 4 Meghan O’Sullivan: My Early Fascination with Landlocked Countries 3 of 4 Meghan O'Sullivan: Fracking, Solar, Wind, and Natural Gas 4 of 4 Meghan O'Sullivan: Trump’s Risky Business on the Strategic Petroleum Reserve Meghan L. O’Sullivan is the Jeane Kirkpatrick Professor of the Practice of International Affairs and Director of the Geopolitics of Energy Project at Harvard University’s Kennedy School. Her expertise includes the geopolitics of energy, decision making in foreign policy, nation-building, counterinsurgency, and the Middle East. The latest from Belfer See more Meghan O'Sullivan on Office Hours Print Energy Geopolitics of Energy Project Middle East & North Africa North America Oil Oil & Energy Prices Related Meghan L. O'Sullivan Request Interview More From This Expert Rupture: (Re)thinking Middle Powers in a Fragmented World Mushrooming: Tackling Growing Nuclear Proliferation Risk Up Next Photo Credit Toggle AP/Matthias Schrader, File Reports & Papers In the Vortex of Great Power Competition: Climate, Trade, and Geostrategic Rivalry in U.S.–China–EU Relations April 2025 by Michael A Mehling From Harvard Project on Climate Agreements Photo Credit Toggle AP News/Matthew Brown Reports & Papers Methane Abatement Costs in the Oil and Gas Industry: Survey and Synthesis Mar. 26, 2025 by Joseph Aldy, Forest Reinhardt and Robert N. Stavins Photo Credit Toggle Doug Gavel Q&A Trump 2.0 and its Impact on Climate Policy: A Conversation with Joseph Aldy Mar. 10, 2025 by Robert N Stavins and Joseph E. Aldy",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-09-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:54:12+00:00",
+    "prompt_hash": "b04bfc254caf8ace9bec0e1d1bbf78608737bfd0",
+    "result": {
+      "main_content_en": "The article features Meghan L. O'Sullivan, the Jeane Kirkpatrick Professor at Harvard Kennedy School and Director of the Geopolitics of Energy Project. It highlights her expertise in the geopolitics of energy, foreign policy decision-making, nation-building, counterinsurgency, and the Middle East. The content references specific topics she has addressed, including defining tight oil, her interest in landlocked countries, the roles of fracking, solar, wind, and natural gas, and critiques of Trump's policies regarding the Strategic Petroleum Reserve. The piece situates her work within broader discussions on energy security, market dynamics, and the intersection of energy policy with international relations and geopolitical strategy.",
+      "main_content_zh": "本文重点介绍了哈佛大学肯尼迪学院珍妮·柯克帕特里克实践教授兼能源地缘政治项目主任梅根·L·奥沙利文。文章强调了她在能源地缘政治、外交政策决策、国家建设、反叛乱和中东事务方面的专业知识。内容提及了她探讨的具体议题，包括致密油的定义、对内陆国家的早期兴趣、水力压裂、太阳能、风能和天然气的作用，以及对特朗普政府战略石油储备政策的批评。文章将她的工作置于更广泛的讨论中，涉及能源安全、市场动态以及能源政策与国际关系、地缘政治战略的交集。",
+      "keywords_en": [
+        "Geopolitics of Energy",
+        "Tight Oil",
+        "Fracking",
+        "Strategic Petroleum Reserve",
+        "Energy Security",
+        "Foreign Policy",
+        "Nation-Building",
+        "Counterinsurgency",
+        "Middle East",
+        "Natural Gas",
+        "Solar Energy",
+        "Wind Energy",
+        "Oil Prices",
+        "Energy Markets",
+        "International Affairs",
+        "Geopolitical Strategy",
+        "Energy Policy",
+        "Harvard Kennedy School"
+      ],
+      "keywords_zh": [
+        "能源地缘政治",
+        "致密油",
+        "水力压裂",
+        "战略石油储备",
+        "能源安全",
+        "外交政策",
+        "国家建设",
+        "反叛乱",
+        "中东",
+        "天然气",
+        "太阳能",
+        "风能",
+        "石油价格",
+        "能源市场",
+        "国际事务",
+        "地缘政治战略",
+        "能源政策",
+        "哈佛肯尼迪学院"
+      ],
+      "topic_words_en": [
+        "Energy Geopolitics",
+        "Oil & Gas",
+        "Foreign Policy",
+        "Energy Security",
+        "Middle East"
+      ],
+      "topic_words_zh": [
+        "能源地缘政治",
+        "石油与天然气",
+        "外交政策",
+        "能源安全",
+        "中东"
+      ],
+      "relevance_score": 0.6
+    }
+  }
+}

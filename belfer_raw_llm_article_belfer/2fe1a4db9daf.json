@@ -1,0 +1,89 @@
+{
+  "title": "Positive Impact of COVID19 Vaccines at the Individual and Population Level",
+  "canonical_url": "https://www.belfercenter.org/publication/positive-impact-covid19-vaccines-individual-and-population-level",
+  "summary": "As more people get vaccinated, we will not only see improvements individually, but its impact collectively, at the population level, with decreasing cases, hospitalizations and deaths.",
+  "published": "2021-05-20T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "The United States has entered a new phase of the COVID19 pandemic where cases are decreasing, and vaccination rates are increasing. Vaccines not only benefit the individual who has gotten vaccinated by decreasing their chances of getting infected, experiencing disease and death but also benefits the population at large by creating more “viral dead ends.” This two-level benefit is further broken down in the table below to display the positive impact of the FDA emergency authorized COVID19 vaccine. As more people get vaccinated, we will not only see improvements individually, but its impact collectively, at the population level, with decreasing cases, hospitalizations and deaths. In the end, we need more people vaccinated to build community immunity. Every vaccination counts! The latest from Belfer See more Recommended citation Madad, Syra and Katelyn Jetelina. “Positive Impact of COVID19 Vaccines at the Individual and Population Level.” Belfer Center for Science and International Affairs, Harvard Kennedy School , May 20, 2021 Copy to Clipboard Positive Impact of COVID19 Vaccines at the Individual and Population Level View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra and Katelyn Jetelina. “Positive Impact of COVID19 Vaccines at the Individual and Population Level.” Belfer Center for Science and International Affairs, Harvard Kennedy School , May 20, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Katelyn Jetelina More From This Expert Six Things to Do Regardless of Variant Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-05-20T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:56:01+00:00",
+    "prompt_hash": "995d8bd232d8ea8837b5df067e99b287875d593d",
+    "result": {
+      "main_content_en": "The article discusses the United States entering a new phase of the COVID-19 pandemic characterized by decreasing cases and increasing vaccination rates. It emphasizes the dual-level benefits of FDA emergency-authorized COVID-19 vaccines. At the individual level, vaccination reduces the chances of infection, severe disease, and death. At the population level, widespread vaccination creates more \"viral dead ends,\" leading to collective benefits such as decreased cases, hospitalizations, and deaths. The core argument is that increasing vaccination coverage is essential for building community immunity, and every vaccination contributes significantly to this public health goal.",
+      "main_content_zh": "本文探讨了美国进入新冠疫情新阶段，其特征是病例减少和疫苗接种率上升。文章强调了美国食品药品监督管理局紧急授权使用的新冠疫苗带来的双重益处。在个体层面，接种疫苗可降低个人感染、罹患重症和死亡的风险。在群体层面，广泛的疫苗接种创造了更多的“病毒传播终点”，从而带来集体效益，包括病例数、住院人数和死亡人数的下降。核心论点是，提高疫苗接种覆盖率对于建立社区免疫至关重要，每一次接种都对实现这一公共卫生目标具有重大意义。",
+      "keywords_en": [
+        "COVID-19 pandemic",
+        "vaccination rates",
+        "FDA emergency authorized",
+        "individual benefit",
+        "population benefit",
+        "viral dead ends",
+        "community immunity",
+        "hospitalizations",
+        "deaths",
+        "public health",
+        "vaccination coverage",
+        "severe disease",
+        "infection",
+        "collective impact",
+        "pandemic phase"
+      ],
+      "keywords_zh": [
+        "新冠疫情",
+        "疫苗接种率",
+        "FDA紧急授权",
+        "个体益处",
+        "群体益处",
+        "病毒传播终点",
+        "社区免疫",
+        "住院人数",
+        "死亡人数",
+        "公共卫生",
+        "疫苗覆盖率",
+        "重症",
+        "感染",
+        "集体影响",
+        "大流行阶段"
+      ],
+      "topic_words_en": [
+        "COVID-19 Vaccines",
+        "Public Health",
+        "Pandemic Response",
+        "Vaccination Impact"
+      ],
+      "topic_words_zh": [
+        "新冠疫苗",
+        "公共卫生",
+        "疫情应对",
+        "疫苗接种影响"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

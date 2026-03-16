@@ -1,0 +1,93 @@
+{
+  "title": "Arctic Change: How Do We Know What We Know, and What Do We DO About It?",
+  "canonical_url": "https://www.belfercenter.org/publication/arctic-change-how-do-we-know-what-we-know-and-what-do-we-do-about-it",
+  "summary": "Focusing on the situation in the Arctic, Drs. Sarah Dewey and Sarah Mackie from our Arctic Initiative will be discussing aspects of climate change in the Arctic, from the production of knowledge to how it can feed into positive policy solutions. They will also share stories of their academic paths and answer your questions about turning research into a career.",
+  "published": "2020-06-29T12:00:00Z",
+  "authors": [
+    "David Balton"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Arctic Initiative",
+    "Environment & Climate Change"
+  ],
+  "topics": [
+    "Environment & Climate Change"
+  ],
+  "tags": [
+    "Arctic Initiative",
+    "Environment & Climate Change"
+  ],
+  "body": "How can we keep environmental justice in mind when examining issues of climate change? What steps can students and aspiring policymakers take on climate change? How bad is plastic pollution in the Arctic Ocean and what can policymakers do about it? Arctic Change: How Do We Know What We Know, and What Do We DO About It? Print Arctic Initiative Environment & Climate Change Related Sarah Dewey More From This Expert Managing Plastic Pollution in the Arctic Ocean: An Integrated Quantitative Flux Estimate and Policy Study Related Sarah Mackie More From This Expert Managing Plastic Pollution in the Arctic Ocean: An Integrated Quantitative Flux Estimate and Policy Study The Role of Governance in Promoting the Resilience of Arctic Communities Up Next Photo Credit Toggle Peter Prokosc/Grid-ARENDAL via Flickr Reports & Papers Arctic Ocean Governance: Workshop Report and Recommendations for Policymakers Feb. 17, 2026 by David Balton From Arctic Initiative Photo Credit Toggle -tacitos-, CC BY 4.0, via Wikimedia Commons Article Geopolitics of Rare Earth Elements in the Arctic Jan. 29, 2026 by Alexandra Middleton Presentations Governing Solar Radiation Management in a Rapidly Changing Arctic Jan. 27, 2026 by Jennifer Spence",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-06-29T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:09:39+00:00",
+    "prompt_hash": "f8bce98cbe50ac125f9658950219bbf12667ac1f",
+    "result": {
+      "main_content_en": "The article discusses the multifaceted challenges of climate change and environmental degradation in the Arctic, framed by key questions on environmental justice, actionable steps for students and policymakers, and the specific issue of plastic pollution in the Arctic Ocean. It highlights the need for integrated policy studies and quantitative assessments to manage these issues effectively. The content references specific reports and presentations on Arctic Ocean governance, the geopolitics of rare earth elements, and solar radiation management, indicating a focus on science-based policymaking and international cooperation to address environmental threats and promote community resilience in the region.",
+      "main_content_zh": "本文探讨了北极地区气候变化和环境退化的多方面挑战，围绕环境正义、学生和决策者可采取的行动步骤以及北极海洋塑料污染等关键问题展开。文章强调需要通过综合政策研究和定量评估来有效管理这些问题。内容提及了关于北极海洋治理、稀土元素地缘政治以及太阳辐射管理等方面的具体报告和演示，表明其重点在于基于科学的政策制定和国际合作，以应对环境威胁并促进该地区社区的韧性。",
+      "keywords_en": [
+        "Arctic",
+        "climate change",
+        "environmental justice",
+        "plastic pollution",
+        "policy",
+        "governance",
+        "resilience",
+        "Arctic Ocean",
+        "quantitative flux estimate",
+        "geopolitics",
+        "rare earth elements",
+        "solar radiation management",
+        "environmental degradation",
+        "policymakers",
+        "international cooperation",
+        "community resilience",
+        "integrated study",
+        "science-based",
+        "Arctic Initiative",
+        "workshop report"
+      ],
+      "keywords_zh": [
+        "北极",
+        "气候变化",
+        "环境正义",
+        "塑料污染",
+        "政策",
+        "治理",
+        "韧性",
+        "北冰洋",
+        "定量通量估算",
+        "地缘政治",
+        "稀土元素",
+        "太阳辐射管理",
+        "环境退化",
+        "决策者",
+        "国际合作",
+        "社区韧性",
+        "综合研究",
+        "基于科学",
+        "北极倡议",
+        "研讨会报告"
+      ],
+      "topic_words_en": [
+        "Arctic Policy",
+        "Climate Change",
+        "Environmental Governance"
+      ],
+      "topic_words_zh": [
+        "北极政策",
+        "气候变化",
+        "环境治理"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

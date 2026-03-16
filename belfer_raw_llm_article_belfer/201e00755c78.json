@@ -1,0 +1,91 @@
+{
+  "title": "Jens Stoltenberg on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/jens-stoltenberg-office-hours-podcast",
+  "summary": "Secretary General of NATO and former Prime Minister of Norway Jens Stoltenberg (@jensstoltenberg) speaks with Aroop Mukharji (@aroopmukharji) about NATO, the Arctic, Russia, and what he looks forward to when he visits America.",
+  "published": "2016-11-01T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe",
+    "International Security & Defense",
+    "North America"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "Europe",
+    "International Security & Defense",
+    "North America"
+  ],
+  "body": "Jens Stoltenberg is the 13th Secretary General of the North Atlantic Treaty Organization (NATO.) Stoltenberg also served as Prime Minister of Norway twice, from 2000 to 2001 and from 2005 to 2013. The latest from Belfer See more Jens Stoltenberg on Office Hours Podcast Print Europe International Security & Defense North America Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-11-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:13:16+00:00",
+    "prompt_hash": "962a425a2558e57692b4f6d2daf99a4eb72fb666",
+    "result": {
+      "main_content_en": "The article introduces Jens Stoltenberg, the 13th Secretary General of NATO and former Prime Minister of Norway. It references his appearance on the 'Office Hours Podcast' and situates the piece within the Belfer Center's content. The body text primarily lists related explainers and event summaries from the center, including an explainer on NATO's Article 5 and collective defense, a summary on rethinking middle powers, and another on nuclear proliferation risks. The core content is a brief biographical note on Stoltenberg followed by promotional links to other thematic pieces on international security, defense, and emerging technology topics dated around 2026.",
+      "main_content_zh": "本文介绍了北约第13任秘书长、挪威前首相延斯·斯托尔滕贝格，提及他出现在“Office Hours Podcast”中，并将文章置于贝尔弗中心的内容框架内。正文主要列出了该中心相关的解释性文章和活动摘要，包括一篇关于北约第五条和集体防御原则的解释，一篇关于在碎片化世界中重新思考中等国家的摘要，以及另一篇关于应对核扩散风险的文章。核心内容是对斯托尔滕贝格的简短生平介绍，随后是到2026年左右关于国际安全、国防和新兴技术主题的其他专题文章的推广链接。",
+      "keywords_en": [
+        "NATO",
+        "Secretary General",
+        "Jens Stoltenberg",
+        "Prime Minister of Norway",
+        "Collective Defense",
+        "Article 5",
+        "International Security",
+        "Defense",
+        "Emerging Technology",
+        "Nuclear Proliferation",
+        "Middle Powers",
+        "Belfer Center",
+        "Podcast",
+        "Alliance",
+        "Strategic Policy",
+        "Security Architecture",
+        "Transatlantic Relations",
+        "Deterrence"
+      ],
+      "keywords_zh": [
+        "北约",
+        "秘书长",
+        "延斯·斯托尔滕贝格",
+        "挪威首相",
+        "集体防御",
+        "第五条",
+        "国际安全",
+        "国防",
+        "新兴技术",
+        "核扩散",
+        "中等国家",
+        "贝尔弗中心",
+        "播客",
+        "联盟",
+        "战略政策",
+        "安全架构",
+        "跨大西洋关系",
+        "威慑"
+      ],
+      "topic_words_en": [
+        "NATO",
+        "International Security",
+        "Collective Defense"
+      ],
+      "topic_words_zh": [
+        "北约",
+        "国际安全",
+        "集体防御"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

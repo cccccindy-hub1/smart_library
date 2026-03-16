@@ -1,0 +1,101 @@
+{
+  "title": "Is the War in Ukraine Distracting the U.S. From the Much Larger Challenge China Poses in Asia Specifically and to the U.S.-led World Order Generally?",
+  "canonical_url": "https://www.belfercenter.org/publication/war-ukraine-distracting-us-much-larger-challenge-china-poses-asia-specifically-and-us",
+  "summary": "Russia’s full-scale invasion of Ukraine has prompted policymakers in Washington to devote substantial attention and resources over the past 20 months to supporting Kyiv. Some observers fear that the war in Ukraine could divert the United States’ focus from other priorities, most notably the wide-ranging challenges posed to U.S. interests by a powerful and ambitious China. This study group, led by Dr. Karen Donfried, is examining key foreign policy debates flowing from Russia’s war against Ukraine. Two teams of four students each debated this week's topic as the rest of the study group observed.",
+  "published": "2023-10-30T12:00:00Z",
+  "authors": [
+    "Tanya Kozyreva"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "China & security",
+    "Europe and the Transatlantic Relationship",
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "topics": [
+    "China & security",
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "tags": [
+    "China & security",
+    "Europe and the Transatlantic Relationship",
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "body": "Distinct or Related Challenges The latest from Belfer See more Capacity and Limits Walking and Chewing Gum Cross-Cutting Considerations Grand Strategies and Big Questions Is the War in Ukraine Distracting the U.S. From the Much Larger Challenge China Poses in Asia Specifically and to the U.S.-led World Order Generally? Print China & security Europe and the Transatlantic Relationship U.S. Foreign Policy War in Ukraine Related Dr. Karen Donfried More From This Expert Should the Biden Administration Pressure the Ukrainians to go to the Negotiating Table and Resolve the Dispute with Russia Diplomatically? Should the Biden Administration Provide Ukraine with any Weapons (Short of Nuclear, Chemical, or Biological Weapons) it Requires to Win the War? Related Charles Landow More From This Expert European Security Unsettled: The Debates Unleashed by Russia’s War Against Ukraine Up Next Photo Credit Toggle AP Photo/Vlad Kravchuk Reports & Papers A Flawed Path to Peace: The Weaknesses of the Proposed U.S.–Russia Framework for Ukraine Dec. 10, 2025 by Tanya Kozyreva From Defense, Emerging Technology, and Strategy Photo Credit Toggle NATO Event Summary Watch: NATO Deputy Secretary General Radmila Šekerinska Dec. 8, 2025 Photo Credit Toggle Julia Vassileva Article Living on the Edge: NATO’s Eastern Frontier, Article 5, and Russia’s Motive Sep. 22, 2025 by Julia Vassileva",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-10-30T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:30:54+00:00",
+    "prompt_hash": "decc0343ceb344ad6247adfad70c1b5a11872f7d",
+    "result": {
+      "main_content_en": "The article examines the strategic dilemma facing the United States, questioning whether its significant focus and resource allocation towards the war in Ukraine is diverting attention from the broader, long-term challenge posed by China. It frames China as a systemic rival to the U.S.-led world order, with ambitions extending across Asia and globally, representing a more profound strategic competition. The analysis suggests that while the Ukraine conflict demands immediate attention, it risks creating a 'distraction' that could allow China to advance its geopolitical and economic influence unchecked. The piece implies a need for the U.S. to balance its commitments, ensuring that managing the European crisis does not come at the expense of strategic preparedness and engagement in the Indo-Pacific region, which is central to 21st-century power dynamics.",
+      "main_content_zh": "本文探讨美国面临的战略困境，质疑其对乌克兰战争的大量关注和资源投入是否分散了应对中国所构成的更广泛、长期挑战的注意力。文章将中国定位为美国主导的世界秩序的系统性对手，其雄心遍及亚洲乃至全球，代表着更深刻的战略竞争。分析指出，尽管乌克兰冲突需要立即关注，但它可能造成一种“干扰”，使中国得以不受制约地推进其地缘政治和经济影响力。文章暗示美国需要平衡其各项承诺，确保处理欧洲危机不会以牺牲在印太地区的战略准备和参与为代价，而该地区是21世纪权力动态的核心。",
+      "keywords_en": [
+        "Strategic Competition",
+        "U.S.-led World Order",
+        "Resource Allocation",
+        "Indo-Pacific",
+        "Geopolitical Influence",
+        "Systemic Rival",
+        "Grand Strategy",
+        "Power Dynamics",
+        "Strategic Dilemma",
+        "Distraction",
+        "Long-term Challenge",
+        "European Crisis",
+        "Military Focus",
+        "Global Ambitions",
+        "Strategic Preparedness",
+        "Balance of Power",
+        "Foreign Policy",
+        "Security Commitment",
+        "Alliance Management",
+        "Emerging Threat"
+      ],
+      "keywords_zh": [
+        "战略竞争",
+        "美国主导的世界秩序",
+        "资源分配",
+        "印太地区",
+        "地缘政治影响力",
+        "系统性对手",
+        "大战略",
+        "权力动态",
+        "战略困境",
+        "注意力分散",
+        "长期挑战",
+        "欧洲危机",
+        "军事重心",
+        "全球野心",
+        "战略准备",
+        "力量平衡",
+        "外交政策",
+        "安全承诺",
+        "联盟管理",
+        "新兴威胁"
+      ],
+      "topic_words_en": [
+        "U.S.-China Relations",
+        "Strategic Distraction",
+        "Great Power Competition",
+        "Foreign Policy Prioritization"
+      ],
+      "topic_words_zh": [
+        "中美关系",
+        "战略干扰",
+        "大国竞争",
+        "外交政策优先级"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Questions from Quarantine: Halloween and COVID-19",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-halloween-and-covid-19",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-10-14T12:00:00Z",
+  "authors": [
+    "Shady ElGhazaly Harb"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Corruption",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Corruption",
+    "Public Health"
+  ],
+  "tags": [
+    "Corruption",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: Halloween and COVID-19 Print Corruption Public Health Security and Global Health Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle (Evelyn Hockstein/Pool Photo via AP) Article Will Egypt Be the Next Syria? March 2025 by Shady ElGhazaly Harb From Middle East Initiative Photo Credit Toggle Capt. James Sheehan, U.S. Army Article The Cult of the Persuasive: Why U.S. Security Assistance Fails Winter 2022/23 by Rachel Tecott Metz Photo Credit Toggle AP/Mary Altaffer Reports & Papers Mexico’s Energy Reforms: A Blow to Realizing the Most Competitive and Dynamic Region in the World Feb. 28, 2022 by Meghan O'Sullivan",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-10-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:04:13+00:00",
+    "prompt_hash": "1a5de432316f14ba7366cdbcec413e30663e060f",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who provide advice on managing life during the COVID-19 pandemic. The series, titled 'Questions from Quarantine,' addresses public concerns about staying safe and mentally healthy during the global health crisis. Each episode invites viewers to submit questions via social media using a dedicated hashtag. The specific article references a Halloween-themed episode, indicating a focus on adapting traditional activities like holidays to public health guidelines during the pandemic. The broader context includes related expert analyses on topics such as mass migration, school reopenings, and global security, positioning the series within wider discussions on crisis management and public policy.",
+      "main_content_zh": "安全与全球健康项目推出每周网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，为观众提供在COVID-19疫情期间管理生活的建议。该系列名为“隔离中的问题”，旨在解答公众在全球健康危机中如何保持安全与心理健康的疑问。每期节目邀请观众通过社交媒体使用特定标签提交问题。本文提及了万圣节主题的剧集，表明其关注点在于如何使传统节日活动适应疫情期间的公共卫生指南。更广泛的背景包括相关专家对大规模移民、学校重新开放和全球安全等议题的分析，将该系列置于危机管理和公共政策的更广泛讨论中。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "Questions from Quarantine",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "COVID-19",
+        "pandemic",
+        "public health",
+        "crisis management",
+        "Halloween",
+        "mental health",
+        "global crisis",
+        "web series",
+        "expert advice",
+        "health guidelines",
+        "social media",
+        "hashtag",
+        "public policy",
+        "security",
+        "global health",
+        "quarantine"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "隔离中的问题",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "COVID-19",
+        "疫情",
+        "公共卫生",
+        "危机管理",
+        "万圣节",
+        "心理健康",
+        "全球危机",
+        "网络系列",
+        "专家建议",
+        "健康指南",
+        "社交媒体",
+        "标签",
+        "公共政策",
+        "安全",
+        "全球健康",
+        "隔离"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Crisis Communication",
+        "Pandemic Response",
+        "Global Security",
+        "Health Policy"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "危机沟通",
+        "疫情应对",
+        "全球安全",
+        "健康政策"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

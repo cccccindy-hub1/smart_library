@@ -1,0 +1,99 @@
+{
+  "title": "Margaret MacMillan on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/margaret-macmillan-office-hours-podcast",
+  "summary": "Margaret MacMillan, Professor of History at the University of Toronto and affiliate with the Belfer Center’s Applied History Project, talks with Aroop Mukharji (@aroopmukharji) about how to identify good history, dead white man theory, and Canadian vs. U.S. donuts.",
+  "published": "2018-05-03T12:00:00Z",
+  "authors": [
+    "Oliver Yule-Smith"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Applied History Project",
+    "History"
+  ],
+  "topics": [
+    "History"
+  ],
+  "tags": [
+    "Applied History Project",
+    "History"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Margaret MacMillan on Office Hours Podcast Print Applied History Project History Up Next Books The Problem of China in the British Foreign Office Mind December 2025 by Oliver Yule-Smith From International Security Program Photo Credit Toggle AP/Khalil Senosi, File Article From Legal Transplants to Policy Irritants: Chinese Economic Expansion and Global Legal Change Summer 2025 by Kevin Keller Photo Credit Toggle AP Photo/Boris Yurchenko, File Article To Agree or Not to Agree: Hawks, Doves, and Regime Type in International Rivalry and Rapprochement Fall 2025 by Michael A. Goldfien",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-05-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:44:46+00:00",
+    "prompt_hash": "b40020c3c3c8d8daa6c47691a1390784683f36d0",
+    "result": {
+      "main_content_en": "The article is a promotional piece for the Belfer Center's 'Office Hours' podcast, featuring an episode with historian Margaret MacMillan. It provides links to subscribe via various platforms like iTunes, Google Play, Stitcher, Pocket Cast, and TuneIn. The body primarily lists other recent or upcoming content from the Belfer Center, creating a catalog-like structure. This includes references to the 'Applied History Project,' a forthcoming article titled 'The Problem of China in the British Foreign Office Mind' by Oliver Yule-Smith (dated December 2025), and another article 'From Legal Transplants to Policy Irritants: Chinese Economic Expansion and Global Legal Change' by Kevin Keller (Summer 2025). It also mentions a third piece, 'To Agree or Not to Agree: Hawks, Doves, and Regime Type in International Rivalry and Rapprochement' by Michael A. Goldfien (Fall 2025). The core content is an announcement for the podcast episode, while the bulk of the text serves to highlight adjacent scholarly works on historical analysis, foreign policy, and international relations, particularly concerning China and global legal/political dynamics.",
+      "main_content_zh": "本文是贝尔弗中心“Office Hours”播客的推广文章，重点介绍了历史学家玛格丽特·麦克米伦参与的一期节目。正文提供了通过iTunes、Google Play、Stitcher、Pocket Cast和TuneIn等平台订阅的链接。文章主体部分主要列举了贝尔弗中心其他近期或即将发布的内容，形成了一种目录式的结构。这包括对“应用历史项目”的提及，一篇由奥利弗·尤尔-史密斯撰写、定于2025年12月发表的题为《英国外交部心中的中国问题》的文章，以及另一篇由凯文·凯勒撰写、定于2025年夏季发表的《从法律移植到政策刺激物：中国经济扩张与全球法律变革》。文章还提到了第三篇作品，即迈克尔·A·戈德芬撰写的《同意与否：国际对抗与和解中的鹰派、鸽派与政权类型》（2025年秋季）。核心内容是播客节目的公告，而文本的大部分则用于推介有关历史分析、外交政策和国际关系，特别是涉及中国及全球法律/政治动态的相邻学术著作。",
+      "keywords_en": [
+        "Office Hours Podcast",
+        "Belfer Center",
+        "Margaret MacMillan",
+        "Applied History Project",
+        "The Problem of China",
+        "British Foreign Office",
+        "International Security Program",
+        "Legal Transplants",
+        "Policy Irritants",
+        "Chinese Economic Expansion",
+        "Global Legal Change",
+        "Hawks and Doves",
+        "Regime Type",
+        "International Rivalry",
+        "Rapprochement",
+        "Podcast Promotion",
+        "Historical Analysis",
+        "Foreign Policy",
+        "Oliver Yule-Smith",
+        "Kevin Keller",
+        "Michael A. Goldfien"
+      ],
+      "keywords_zh": [
+        "Office Hours播客",
+        "贝尔弗中心",
+        "玛格丽特·麦克米伦",
+        "应用历史项目",
+        "中国问题",
+        "英国外交部",
+        "国际安全项目",
+        "法律移植",
+        "政策刺激物",
+        "中国经济扩张",
+        "全球法律变革",
+        "鹰派与鸽派",
+        "政权类型",
+        "国际对抗",
+        "和解",
+        "播客推广",
+        "历史分析",
+        "外交政策",
+        "奥利弗·尤尔-史密斯",
+        "凯文·凯勒",
+        "迈克尔·A·戈德芬"
+      ],
+      "topic_words_en": [
+        "Podcast",
+        "History",
+        "Foreign Policy",
+        "China Studies",
+        "International Relations"
+      ],
+      "topic_words_zh": [
+        "播客",
+        "历史",
+        "外交政策",
+        "中国研究",
+        "国际关系"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

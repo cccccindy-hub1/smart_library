@@ -1,0 +1,93 @@
+{
+  "title": "Ban Ki-moon on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/ban-ki-moon-office-hours",
+  "summary": "Ban Ki-moon, the 8th Secretary-General of the United Nations (2007–2016), takes a moment to talk with Aroop Mukharji (@aroopmukharji) about Trump’s withdrawal from the Paris climate agreement, how to become UN Secretary-General, and his favorite meals in New England.",
+  "published": "2017-08-01T12:00:00Z",
+  "authors": [
+    "Bard Harstad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Europe",
+    "Middle East & North Africa",
+    "North America",
+    "United Nations"
+  ],
+  "topics": [
+    "United Nations"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Europe",
+    "Middle East & North Africa",
+    "North America",
+    "United Nations"
+  ],
+  "body": "Gallery 1 of 4 Ban Ki-moon: Trump and the Paris Climate Agreement 2 of 4 Ban Ki-moon: One Thing the UN Isn’t United On 3 of 4 Ban Ki-moon: Clam Chowder, Harvard Square, and Raw Oysters 4 of 4 Ban Ki-moon: How to Become UN Secretary-General Ban Ki-moon is the eighth Secretary-General of the United Nations (2007–2016) and former Minister of Foreign Affairs and Trade of South Korea. He earned a Master of Public Administration degree from Harvard's Kennedy School of Government in 1985. The latest from Belfer See more Ban Ki-moon on Office Hours Print Open Section Navigation In this article Close Section Navigation Asia & the Pacific Europe Middle East & North Africa North America United Nations Related Ban Ki-moon More From This Expert Conversations in Diplomacy: Secretary-General Ban Ki-moon and Ambassador Susan Thornton Ban Ki-moon on Office Hours Podcast Up Next Photo Credit Toggle AP/Ivan Valencia, File Reports & Papers Improving Tropical Forest Financing: From TFFF and REDD+ to SSLB and FLL August 2025 by Bard Harstad From Harvard Project on Climate Agreements Photo Credit Toggle Unknown Q&A Assessing the Outcome of COP29: A Conversation with New York Times Climate Reporter Max Bearak Dec. 4, 2024 by Robert N Stavins and Max Bearak Photo Credit Toggle AP/Leo Correa Article Why COP-29 Proved Nuclear Energy is Essential for a Green Future Nov. 19, 2024 by Natia Gamkrelidze and Andrei Covatariu",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-08-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:55:40+00:00",
+    "prompt_hash": "56f621c008f23f968d78c2cc5cd52ae3635083c5",
+    "result": {
+      "main_content_en": "The article features Ban Ki-moon, the eighth UN Secretary-General and former South Korean Foreign Minister, who holds a Master's in Public Administration from Harvard Kennedy School. It presents a series of his perspectives on international diplomacy and climate policy, including discussions on the Trump administration's stance regarding the Paris Climate Agreement, internal UN divisions, and personal anecdotes from his time at Harvard. The content is part of a broader 'Office Hours' series and is situated alongside related expert analyses and reports on climate finance and COP outcomes, indicating a focus on his post-secretariat reflections and ongoing climate governance debates.",
+      "main_content_zh": "本文聚焦联合国第八任秘书长、韩国前外交通商部长官潘基文，他拥有哈佛大学肯尼迪政府学院的公共管理硕士学位。文章呈现了他关于国际外交和气候政策的一系列观点，包括对特朗普政府巴黎气候协定立场的讨论、联合国内部的分歧，以及他在哈佛求学时的个人轶事。这些内容属于“Office Hours”系列访谈的一部分，并与有关气候融资和COP会议结果的相关专家分析及报告并列呈现，表明文章重点在于其卸任秘书长职务后的反思以及持续进行的气候治理议题讨论。",
+      "keywords_en": [
+        "Ban Ki-moon",
+        "United Nations",
+        "Secretary-General",
+        "Paris Climate Agreement",
+        "Trump administration",
+        "climate policy",
+        "diplomacy",
+        "Harvard Kennedy School",
+        "Master of Public Administration",
+        "foreign affairs",
+        "South Korea",
+        "international governance",
+        "COP",
+        "climate finance",
+        "expert analysis",
+        "Office Hours",
+        "reflections"
+      ],
+      "keywords_zh": [
+        "潘基文",
+        "联合国",
+        "秘书长",
+        "巴黎气候协定",
+        "特朗普政府",
+        "气候政策",
+        "外交",
+        "哈佛肯尼迪学院",
+        "公共管理硕士",
+        "外交事务",
+        "韩国",
+        "国际治理",
+        "气候变化大会",
+        "气候融资",
+        "专家分析",
+        "Office Hours",
+        "反思"
+      ],
+      "topic_words_en": [
+        "Climate Diplomacy",
+        "UN Leadership",
+        "Post-Tenure Reflections"
+      ],
+      "topic_words_zh": [
+        "气候外交",
+        "联合国领导力",
+        "卸任后反思"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

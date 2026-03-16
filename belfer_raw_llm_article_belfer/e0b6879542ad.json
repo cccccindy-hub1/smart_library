@@ -1,0 +1,98 @@
+{
+  "title": "Breaking the Buck: What Libra’s Demise Means for Central Banks",
+  "canonical_url": "https://www.belfercenter.org/publication/breaking-buck-what-libras-demise-means-central-banks",
+  "summary": "With Libra’s development, the debate over central bank digital currencies has been spurred by anxieties that regulators will be left behind by the rapid pace of private innovation.",
+  "published": "2019-10-09T12:00:00Z",
+  "authors": [
+    "Jeffrey Frankel"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Economic Policy",
+    "International Finance"
+  ],
+  "topics": [
+    "Economic Policy",
+    "International Finance"
+  ],
+  "tags": [
+    "Economic Policy",
+    "International Finance"
+  ],
+  "body": "PayPal’s withdrawal from the Libra association marks the beginning of the end for Facebook’s digital currency initiative. In truth, the prospect of a digital means of payment is no innovation: much of the money supply is already electronic one way or another, from excess reserves held at the Fed to internet platforms like PayPal. Even in the banking system itself, the use of debit and credit cards speaks to an increasingly cashless future, with or without a specifically designated digital currency. Though China and many other developing nations feature expansive mobile payments infrastructure, these systems take the place of card-based payments, which continue to play a large role in the West. Whether one digital payment is better than the other is contested, but it is clear that there is nothing “new” about electronic currency. From its inception, Libra marketed broad, cohesive banking services, without being subject to a broad, cohesive banking regulatory framework. Throughout the history of financial markets, the development of safe assets and instruments featuring at-par convertibility has stretched across centuries, from early Dutch attempts at fiat currency in the 17th century to the repo market of today. The cycles in the history of money are defined less by innovation in payments methods and more by innovations in debt markets. As such, central bank digital currencies are less innovative for their transfer functions, like Zelle or Venmo, and more for their impact on the banking system. With Libra’s development, the debate over central bank digital currencies has been spurred by anxieties that regulators will be left behind by the rapid pace of private innovation. In the current monetary system, much as how individuals maintain their own deposit accounts at local banks, those banks, in turn, open reserve accounts at the Federal Reserve. A central bank digital currency would expand these deposit privileges to the broader population, with the potential to enhance the pass-through mechanism of monetary policy, but also with the risk of disintermediating commercial banks and reducing overall lending. Relative to such a proposal, Libra is a second-best solution that outsources this work to private actors in the absence of a monetary or regulatory authority. In essence, if individuals began depositing funds at central banks, the reduced deposits given to private banks could spur greater competition among private banks in funding markets. Deposit rates could rise, potentially drawing in some customers, but the resulting higher cost of funding could also push some banks into riskier segments of funding markets, which, in a future crisis, could cause significant damage. At the same time, if central banks entered commercial lending to offset the impact of reduced deposits at commercial banks, one hypothetical result could be more funds directed into risk-free financial assets at the expense of the real economy. Much like Libra, a central bank digital currency will not only have to address these concerns, but also enable monetary authorities to behave, to some extent, like commercial entities. Setting aside the macroeconomic downsides associated with Libra, on a fundamental level, the combination of Facebook’s social network and Libra’s insufficient Anti-Money Laundering and Counter-Financing of Terrorism (AML/CFT) structure could carry grave consequences. Not only would a central bank struggle with similar functions, but it would also be forced generally, in issuing a digital currency, to both compete with and regulate the private banking system. Though there is a critical need for global regulators to monitor and respond developments in digital payments, it is never as simple as merely creating a sovereign digital currency. As such, the assumption that Libra’s existence proves the need for a central bank digital currency is a misnomer that assumes Libra’s practical adoption will follow. From an FX standpoint, the Libra Reserve’s investment in safe assets denominated in multiple currencies, rather than just one, will extend greater FX risk on its customers than simply using one. From a financial inclusion standpoint, there is little evidence to suggest that Libra can address the needs of those without bank accounts, who choose to not participate for a variety of reasons well beyond a lack of access to electronic payments. With its structure working against the benefits of a central bank digital currency, Libra is less of a call to action and more a solution in search of a problem. Statements and views expressed in this commentary are solely those of the author and do not imply endorsement by Harvard University, Harvard Kennedy School, or the Belfer Center for Science and International Affairs. Michael B. Greenwald is a fellow at Harvard Kennedy School's Belfer Center for Science and International Affairs. He is also a senior adviser to Atlantic Council President and Chief Executive Officer Frederick Kempe and an adjunct professor at Boston University. From 2015-2017, Greenwald served as the US Treasury attaché to Qatar and Kuwait. The latest from Belfer See more Recommended citation Greenwald, Michael. “Breaking the Buck: What Libra’s Demise Means for Central Banks.” Belfer Center for Science and International Affairs, Harvard Kennedy School , October 9, 2019 Copy to Clipboard Breaking the Buck: What Libra’s Demise Means for Central Banks View Citation Print Economic Policy International Finance Recommended citation Greenwald, Michael. “Breaking the Buck: What Libra’s Demise Means for Central Banks.” Belfer Center for Science and International Affairs, Harvard Kennedy School , October 9, 2019 Copy to Clipboard Author Michael B. Greenwald More From This Expert What Will Determine the Future of Money? A National Security Strategy for Dollar Innovation Up Next Blog Post Why didn't Trump's tariffs crash the economy in 2025? Dec. 31, 2025 by Jeffrey Frankel Photo Credit Toggle via AP Newsroom Policy Briefs What Lifting U.S. Sanctions Means for Syria’s Transition Dec. 23, 2025 by Ibrahim Al-Assil Blog Post How Will Unsustainable US Debt End? Nov. 30, 2025 by Jeffrey Frankel",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-10-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:29:17+00:00",
+    "prompt_hash": "0c2cb33640bdfbc370a47b183ce8c5fb6322d394",
+    "result": {
+      "main_content_en": "The article discusses the implications of Facebook's Libra project faltering for central banks and digital currencies. It argues that digital payment methods themselves are not novel, as electronic money already exists widely. The true innovation of central bank digital currencies (CBDCs) lies not in their payment function but in their potential to reshape the banking system, such as by allowing direct public deposits at central banks. This could improve monetary policy transmission but also risks disintermediating commercial banks and affecting lending. The piece contends that Libra, as a private initiative lacking proper regulatory frameworks, highlighted anxieties about private sector innovation outpacing regulation but is not a valid proof-of-concept for CBDCs. Libra's structural flaws, including multi-currency FX risk and unproven financial inclusion benefits, make it a 'solution in search of a problem.' The article concludes that creating a sovereign digital currency is complex, requiring central banks to both compete with and regulate private banks, and is not a simple response to private sector developments.",
+      "main_content_zh": "本文探讨了Facebook的Libra项目受挫对中央银行及数字货币的启示。文章指出，数字支付方式本身并非创新，因为电子货币已广泛存在。中央银行数字货币（CBDC）的真正创新之处不在于其支付功能，而在于其重塑银行体系的潜力，例如允许公众直接在央行存款。这可能改善货币政策传导机制，但也存在使商业银行脱媒并影响贷款的风险。文章认为，Libra作为一个缺乏适当监管框架的私人项目，凸显了人们对私营部门创新速度超过监管的担忧，但它并不能作为CBDC的有效概念验证。Libra的结构性缺陷，包括多币种带来的外汇风险以及未经证实的金融普惠效益，使其成为一个“为解决问题而寻找的方案”。文章总结道，创建主权数字货币是复杂的，需要中央银行既与私营银行竞争又对其进行监管，并非是对私营部门发展的简单回应。",
+      "keywords_en": [
+        "Libra",
+        "central bank digital currency",
+        "CBDC",
+        "digital payment",
+        "financial regulation",
+        "monetary policy",
+        "banking system",
+        "disintermediation",
+        "financial inclusion",
+        "Anti-Money Laundering",
+        "AML/CFT",
+        "FX risk",
+        "private innovation",
+        "commercial banks",
+        "Federal Reserve",
+        "safe assets",
+        "debt markets",
+        "payment infrastructure",
+        "regulatory framework",
+        "sovereign digital currency"
+      ],
+      "keywords_zh": [
+        "Libra",
+        "中央银行数字货币",
+        "CBDC",
+        "数字支付",
+        "金融监管",
+        "货币政策",
+        "银行体系",
+        "金融脱媒",
+        "金融普惠",
+        "反洗钱",
+        "AML/CFT",
+        "外汇风险",
+        "私营部门创新",
+        "商业银行",
+        "美联储",
+        "安全资产",
+        "债务市场",
+        "支付基础设施",
+        "监管框架",
+        "主权数字货币"
+      ],
+      "topic_words_en": [
+        "Digital Currency",
+        "Central Banking",
+        "Financial Regulation",
+        "Monetary Policy",
+        "Payment Systems"
+      ],
+      "topic_words_zh": [
+        "数字货币",
+        "中央银行",
+        "金融监管",
+        "货币政策",
+        "支付系统"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

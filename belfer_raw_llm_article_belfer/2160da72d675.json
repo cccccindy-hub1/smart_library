@@ -1,0 +1,97 @@
+{
+  "title": "Questions from Quarantine: Vaccine Priorities and 2021",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-vaccine-priorities-and-2021",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-12-09T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: Vaccine Priorities and 2021 Print Coronavirus Global Health Public Health Security and Global Health Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-12-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:02:27+00:00",
+    "prompt_hash": "b296f993ce4752c5cca2d09a0149b333a5a1c87a",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who address public questions submitted with the hashtag #QuestionsFromQuarantine. The series, airing every Tuesday, aims to provide guidance on maintaining mental and physical well-being during the ongoing global health crisis. The specific article focuses on the topic of vaccine priorities and the outlook for 2021, situating this discussion within the broader context of public health security and pandemic response. It serves as a platform for expert advice and public engagement on critical issues related to the coronavirus pandemic.",
+      "main_content_zh": "安全与全球健康项目每周举办一次网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，回答公众通过#QuestionsFromQuarantine标签提交的问题。该系列节目每周二播出，旨在为持续的全球健康危机期间如何保持身心健康提供指导。本文具体聚焦于疫苗优先次序和2021年展望这一主题，并将此讨论置于公共卫生安全和疫情应对的更广泛背景中。它是一个关于冠状病毒大流行相关关键问题的专家建议和公众参与平台。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "#QuestionsFromQuarantine",
+        "vaccine priorities",
+        "2021 outlook",
+        "public health",
+        "global health",
+        "coronavirus",
+        "pandemic response",
+        "expert advice",
+        "public engagement",
+        "mental well-being",
+        "physical well-being",
+        "crisis guidance",
+        "health security"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "#隔离问题",
+        "疫苗优先次序",
+        "2021年展望",
+        "公共卫生",
+        "全球健康",
+        "冠状病毒",
+        "疫情应对",
+        "专家建议",
+        "公众参与",
+        "心理健康",
+        "身体健康",
+        "危机指导",
+        "健康安全"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Global Health",
+        "Coronavirus",
+        "Vaccine Strategy",
+        "Crisis Communication"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "全球健康",
+        "冠状病毒",
+        "疫苗策略",
+        "危机沟通"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

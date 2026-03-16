@@ -1,0 +1,93 @@
+{
+  "title": "Norman Roule on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/norman-roule-office-hours-podcast",
+  "summary": "Norman Roule, a 34-year CIA veteran and Middle East expert, sits down with with Aroop Mukharji to talk about the culture at the CIA, Yemen, and theater.",
+  "published": "2019-05-10T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Intelligence",
+    "Intelligence Project",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "Intelligence"
+  ],
+  "tags": [
+    "Intelligence",
+    "Intelligence Project",
+    "Middle East & North Africa"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Norman Roule on Office Hours Podcast Print Intelligence Intelligence Project Middle East & North Africa Related Norman T. Roule More From This Expert Intelligence From al-Baghdadi Raid, Including 2 Prisoners, Could Reveal Trove of ISIS Clues Related Aroop Mukharji More From This Expert The Meddler’s Trap: McKinley, the Philippines, and the Difficulty of Letting Go Bound to Happen: Explanation Bias in Historical Analysis Up Next Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker Photo Credit Toggle Adobe Stock, by Odin AI, #830981342 Article Intelligence outsourcing for non-traditional clients: the rise of private sector intelligence providers January 6, 2025 by Katherine Tucker and Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-05-10T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:33:40+00:00",
+    "prompt_hash": "c5f808ac96e8452667f3105cbde9f735b2ef68d2",
+    "result": {
+      "main_content_en": "The article is a podcast episode summary featuring Norman Roule, a former senior U.S. intelligence official, discussing intelligence matters related to the Middle East and North Africa. It highlights his expertise and the broader work of the Belfer Center's Intelligence Project. The content references related analyses, such as intelligence gains from the al-Baghdadi raid and the rise of private sector intelligence providers. It also notes other project activities, including a senior fellow teaching briefing techniques and reports on private sector intelligence career trends. The piece serves as a promotional hub for the Center's intelligence-focused research, publications, and events.",
+      "main_content_zh": "本文是一期播客节目摘要，以美国前高级情报官员诺曼·鲁尔为主角，探讨了与中东和北非相关的情报议题。文章突出了鲁尔的专业知识以及贝尔弗中心情报项目的更广泛工作。内容涉及相关分析，例如从巴格达迪突袭行动中获取的情报收益，以及私营部门情报提供商的兴起。文章还提到了该项目的其他活动，包括一位高级研究员教授情报简报技巧，以及关于私营部门情报职业趋势的报告。这篇文章充当了一个宣传中心，旨在推广该中心以情报为重点的研究、出版物和活动。",
+      "keywords_en": [
+        "Intelligence",
+        "Middle East",
+        "North Africa",
+        "Belfer Center",
+        "Intelligence Project",
+        "Norman Roule",
+        "Podcast",
+        "al-Baghdadi",
+        "ISIS",
+        "Private Sector Intelligence",
+        "Intelligence Briefing",
+        "Career Trends",
+        "Intelligence Analysis",
+        "National Security",
+        "Policy",
+        "Think Tank",
+        "Research",
+        "Outsourcing",
+        "Non-traditional Clients"
+      ],
+      "keywords_zh": [
+        "情报",
+        "中东",
+        "北非",
+        "贝尔弗中心",
+        "情报项目",
+        "诺曼·鲁尔",
+        "播客",
+        "巴格达迪",
+        "伊斯兰国",
+        "私营部门情报",
+        "情报简报",
+        "职业趋势",
+        "情报分析",
+        "国家安全",
+        "政策",
+        "智库",
+        "研究",
+        "外包",
+        "非传统客户"
+      ],
+      "topic_words_en": [
+        "Intelligence Analysis",
+        "Middle East Policy",
+        "Private Sector Intelligence"
+      ],
+      "topic_words_zh": [
+        "情报分析",
+        "中东政策",
+        "私营部门情报"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

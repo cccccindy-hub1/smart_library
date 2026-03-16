@@ -1,0 +1,115 @@
+{
+  "title": "Matthew Bunn on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/matthew-bunn-office-hours-podcast",
+  "summary": "Matthew Bunn, Professor of Practice at Harvard Kennedy School and Co-Principal Investigator at the Belfer Center’s Project on Managing the Atom, sits down with Aroop Mukharji (@aroopmukharji) to talk about everything nuclear—from the nuclear football to the best way to prevent nuclear smuggling.",
+  "published": "2016-04-04T12:00:00Z",
+  "authors": [
+    "Lauren Sukin, J. Luis Rodriguez",
+    "Stephen Herzog"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "India's Nuclear Program",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America",
+    "North Korea Nuclear Program",
+    "Nuclear Issues",
+    "Nuclear Terrorism",
+    "Nuclear Weapons"
+  ],
+  "topics": [
+    "India's Nuclear Program",
+    "Iran's Nuclear Program",
+    "North Korea Nuclear Program",
+    "Nuclear Issues",
+    "Nuclear Terrorism",
+    "Nuclear Weapons"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "India's Nuclear Program",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America",
+    "North Korea Nuclear Program",
+    "Nuclear Issues",
+    "Nuclear Terrorism",
+    "Nuclear Weapons"
+  ],
+  "body": "Matthew Bunn is a Professor of Practice at Harvard University's John F. Kennedy School of Government. His research interests include nuclear theft and terrorism; nuclear proliferation and measures to control it; the future of nuclear energy and its fuel cycle; and policies to promote innovation in energy technologies. Before joining the Kennedy School in January 1997, he served for three years as an adviser to the Office of Science and Technology Policy, where he played a major role in U.S. policies related to the control and disposition of weapons-usable nuclear materials in the United States and the former Soviet Union, and directed a secret study for President Clinton on security for nuclear materials in Russia. The latest from Belfer See more Matthew Bunn on Office Hours Podcast Print Asia & the Pacific India's Nuclear Program Iran's Nuclear Program Middle East & North Africa North America North Korea Nuclear Program Nuclear Issues Nuclear Terrorism Nuclear Weapons Related Matthew Bunn Request Interview More From This Expert Post-New START: The Future of Nuclear Restraint Professor Matthew Bunn's thoughts on the 80th Anniversary of the Trinity Test Up Next Photo Credit Toggle Created using R by the authors Article Rethinking the Deterrence-Disarmament Dichotomy: The Complex Landscape of Global Nuclear Weapons Preferences 2026 by Lauren Sukin, J. Luis Rodriguez and Stephen Herzog From International Security Program Photo Credit Toggle Harvard Magazine Presentations Post-New START: The Future of Nuclear Restraint Feb. 9, 2026 by Matthew Bunn Photo Credit Toggle Public Domain/DOD Defense Visual Information Center Policy Briefs Public Opinion, Nuclear Weapon Use, and the Perils of Selective Reading January 2026 by Stephen Herzog",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-04-04T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:19:13+00:00",
+    "prompt_hash": "fc674668713e860d3e10b15f5fedbdd6869362df",
+    "result": {
+      "main_content_en": "Matthew Bunn, a Professor of Practice at Harvard University's John F. Kennedy School of Government, focuses his research on nuclear theft, terrorism, proliferation, and the future of nuclear energy and its fuel cycle. Prior to his academic role, he served as an adviser to the Office of Science and Technology Policy, significantly contributing to U.S. policies on controlling weapons-usable nuclear materials in the U.S. and the former Soviet Union. He also directed a classified study for President Clinton concerning nuclear material security in Russia. His expertise spans critical areas of nuclear security and non-proliferation policy.",
+      "main_content_zh": "马修·邦恩是哈佛大学肯尼迪政府学院的实践教授，其研究兴趣包括核盗窃与核恐怖主义、核扩散及其控制措施、核能及其燃料循环的未来，以及促进能源技术创新的政策。在1997年加入肯尼迪学院之前，他曾担任白宫科技政策办公室顾问三年，在美国及前苏联武器级核材料的控制与处置相关政策制定中发挥了重要作用，并为克林顿总统主导了一项关于俄罗斯核材料安全的秘密研究。他的专业领域涵盖了核安全与防扩散政策的关键议题。",
+      "keywords_en": [
+        "nuclear theft",
+        "nuclear terrorism",
+        "nuclear proliferation",
+        "non-proliferation",
+        "nuclear energy",
+        "fuel cycle",
+        "weapons-usable nuclear materials",
+        "Office of Science and Technology Policy",
+        "former Soviet Union",
+        "nuclear material security",
+        "nuclear security",
+        "deterrence",
+        "disarmament",
+        "nuclear weapons",
+        "policy innovation",
+        "energy technology",
+        "arms control",
+        "nuclear restraint",
+        "public opinion"
+      ],
+      "keywords_zh": [
+        "核盗窃",
+        "核恐怖主义",
+        "核扩散",
+        "防扩散",
+        "核能",
+        "燃料循环",
+        "武器级核材料",
+        "科技政策办公室",
+        "前苏联",
+        "核材料安全",
+        "核安全",
+        "威慑",
+        "裁军",
+        "核武器",
+        "政策创新",
+        "能源技术",
+        "军备控制",
+        "核克制",
+        "公众舆论"
+      ],
+      "topic_words_en": [
+        "Nuclear Security",
+        "Non-Proliferation",
+        "Nuclear Policy",
+        "Energy Technology",
+        "Arms Control"
+      ],
+      "topic_words_zh": [
+        "核安全",
+        "防扩散",
+        "核政策",
+        "能源技术",
+        "军备控制"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

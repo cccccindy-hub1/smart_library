@@ -1,0 +1,95 @@
+{
+  "title": "Vaccination Crucial in This Year's Respiratory Season",
+  "canonical_url": "https://www.belfercenter.org/publication/vaccination-crucial-years-respiratory-season",
+  "summary": "As we approach this year's respiratory season it's important to recognize the importance of vaccination and how vaccines help reduce the risk of serious illness, hospitalization and death.",
+  "published": "2023-09-13T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "As we approach this year's respiratory season and multiple co-circulating respiratory viruses such as flu, RSV (Respiratory Syncytial Virus), and the SARS-CoV-2 virus which causes COVID-19, it's important to recognize the importance of vaccination and how vaccines help reduce the risk of serious illness, hospitalization and even death. To find flu vaccine locations near you: www.vaccines.gov To find COVID-19 vaccine locations near you: www.vaccines.gov Call 1-800-232-0233 Text your zip code to 438829 To find RSV vaccine locations, contact your nearest healthcare clinic, pharmacy, or checking with your primary care physician. Vaccine Eligibility and Administration Information Vaccine Eligibility Co-Administration with other Vaccines Number of Doses Updated COVID-19 Vaccine 6 months and older Yes 1 *Some people may get additional doses of COVID-19 vaccines based on 65+ age/immune status. Talk to your healthcare provider about additional updated doses Seasonal Influenza Vaccine 6 months and older Yes 1 standard dose for most persons 1 higher dose or adjuvanted influenza vaccine for adults over 65 (preferred) or standard dose 2 doses over 4 weeks apart for some children aged 6 months through 8 years if never received influenza vaccine, or who have not had up to or more than 2 total doses of vaccine before July 1, 2023, or if flu vaccine history is unknown. Respiratory Syncytial Virus (RSV) Vaccine 60 years of age and older Yes 1 The latest from Belfer See more Recommended citation Madad, Syra. “Vaccination Crucial in This Year's Respiratory Season.” Belfer Center for Science and International Affairs, Harvard Kennedy School , September 13, 2023 Copy to Clipboard Vaccination Crucial in This Year's Respiratory Season View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra. “Vaccination Crucial in This Year's Respiratory Season.” Belfer Center for Science and International Affairs, Harvard Kennedy School , September 13, 2023 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-09-13T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:32:09+00:00",
+    "prompt_hash": "7b61a91c571c115f043ee456c174b8ba09b681cc",
+    "result": {
+      "main_content_en": "The article emphasizes the critical importance of vaccination during the respiratory season, which features multiple co-circulating viruses including influenza, RSV, and SARS-CoV-2 (COVID-19). It highlights that vaccines significantly reduce the risk of serious illness, hospitalization, and death. The piece provides specific guidance on locating vaccines: using vaccines.gov for flu and COVID-19 shots, texting a zip code to 438829, or contacting local clinics for RSV vaccines. It details eligibility and administration protocols for three key vaccines: the updated COVID-19 vaccine (for ages 6 months+, one dose, with potential additional doses for those 65+ or immunocompromised), the seasonal influenza vaccine (for ages 6 months+, one dose, with special higher-dose options for adults over 65 and multi-dose schedules for some young children), and the RSV vaccine (for ages 60+, one dose). The author underscores the need for public engagement with healthcare providers to determine appropriate vaccination schedules.",
+      "main_content_zh": "本文强调了在流感、呼吸道合胞病毒（RSV）和导致COVID-19的SARS-CoV-2病毒等多种呼吸道病毒共同流行的季节，疫苗接种的至关重要性。文章指出，疫苗能显著降低重症、住院和死亡的风险。文章提供了获取疫苗的具体途径：通过vaccines.gov网站寻找流感和COVID-19疫苗，发送邮政编码至438829短信服务，或联系当地诊所获取RSV疫苗。详细说明了三种关键疫苗的接种资格和方案：更新的COVID-19疫苗（适用于6个月及以上人群，一剂，65岁及以上或免疫力低下者可能需额外剂次）、季节性流感疫苗（适用于6个月及以上人群，一剂，65岁以上成人建议接种高剂量或佐剂疫苗，部分幼儿需接种两剂）以及RSV疫苗（适用于60岁及以上人群，一剂）。作者呼吁公众应咨询医疗提供者以确定合适的接种计划。",
+      "keywords_en": [
+        "vaccination",
+        "respiratory season",
+        "influenza",
+        "RSV",
+        "SARS-CoV-2",
+        "COVID-19",
+        "vaccine eligibility",
+        "co-administration",
+        "public health",
+        "hospitalization",
+        "serious illness",
+        "vaccines.gov",
+        "healthcare provider",
+        "dose schedule",
+        "immunocompromised",
+        "adjuvanted vaccine",
+        "global health",
+        "prevention",
+        "risk reduction"
+      ],
+      "keywords_zh": [
+        "疫苗接种",
+        "呼吸道疾病流行季",
+        "流感",
+        "呼吸道合胞病毒",
+        "SARS-CoV-2",
+        "COVID-19",
+        "疫苗资格",
+        "联合接种",
+        "公共卫生",
+        "住院治疗",
+        "重症",
+        "疫苗查询网站",
+        "医疗提供者",
+        "接种方案",
+        "免疫力低下",
+        "佐剂疫苗",
+        "全球健康",
+        "预防",
+        "风险降低"
+      ],
+      "topic_words_en": [
+        "Vaccination",
+        "Respiratory Viruses",
+        "Public Health Policy"
+      ],
+      "topic_words_zh": [
+        "疫苗接种",
+        "呼吸道病毒",
+        "公共卫生政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

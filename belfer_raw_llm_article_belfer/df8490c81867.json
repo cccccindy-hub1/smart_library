@@ -1,0 +1,96 @@
+{
+  "title": "Event Debrief: The Future of Resource Adequacy in a Decarbonized Grid",
+  "canonical_url": "https://www.belfercenter.org/publication/event-debrief-future-resource-adequacy-decarbonized-grid",
+  "summary": "Concerns over resource adequacy during periods of peak demand or supply crises are rising with increasing deployment of renewable energy. Conleigh Byers says mandatory forward market contracts could help.",
+  "published": "2024-04-26T12:00:00Z",
+  "authors": [
+    "Le Xie"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Electricity",
+    "Energy",
+    "Environment and Natural Resources"
+  ],
+  "topics": [
+    "Electricity",
+    "Energy"
+  ],
+  "tags": [
+    "Electricity",
+    "Energy",
+    "Environment and Natural Resources"
+  ],
+  "body": "Key Takeaways Concerns over resource adequacy during periods of peak demand or supply crises are rising with increasing deployment of renewable energy. Resource adequacy is a function of electricity markets, which contain both market-oriented and centralized planning elements. Marginal pricing in energy markets remains the optimal operational and investment signal. Managing price volatility for risk-averse investors and consumers is even more important in a decarbonized grid. This can be done through capacity markets or centralized procurement, but these have downsides. Mandatory forward market contracts, which already exist in certain circumstances and markets, could be a \"close-to\" first-best market solution that can help resolve resource adequacy challenges driven by the energy transition, including: reliability, cost to consumers, and accelerating construction of new generation capacity. The latest from Belfer See more To achieve net-zero emissions goals, the world needs an estimated two to three times the amount of electricity generation in 2050 that we have today. So says Conleigh Byers, Environmental Fellow at the Harvard University Center for the Environment and Belfer Center for Science and International Affairs, echoing similar warnings given by other speakers in the Harvard Kennedy School’s ongoing Energy Policy Seminar. Byers’ current research focuses on power system resource adequacy in a decarbonized future. One of the most important aspects of grid reliability, resource adequacy is defined as the ability of a power system to supply enough electricity—at the right locations—to keep the lights on during all hours of the year, measured at a system level as the probability of an outage. As electrification increases overall power demand and increasingly distributed, varied, and intermittent renewable power sources come online, maintaining resource adequacy has become a greater challenge. With this in mind, Byers posed a rhetorical question to the audience: “is our current system design up for the challenge of a decarbonized world?” Her answer was a resounding “no.” Pointing to the Texas blackouts in the 2021 freeze , the recent suspension of the electricity market in Australia, and the price shocks affecting European consumers in the wake of Russia’s invasion of Ukraine, Byers noted that the tension between market outcomes and central planning has been heightened as a result of the strains placed on a resource-strapped power grid. With over 1,250 GW of zero-carbon generating capacity seeking access to power grids in the United States and wait times increasing every year, the interconnection backlog further challenges resource adequacy. According to Byers, one result of the ongoing transition from fossil fuels to renewables is the transformation of the energy system from a capacity-limited paradigm (in which the question was how much thermal power generation to build to keep up with demand) to a variable, “energy-limited” paradigm complicated by the availability of intermittent generation, treating demand as fixed instead of flexible, and transmission constraints. To Byers, short-term markets are insufficient for protecting long-term resource adequacy, due to problems with reliability, cost, and need to build new generation capacity quickly. This is further complicated by zero-variable cost resources, the need for storage, and incentivizing risk-adverse investors, consumers, and system operators. As a result, Byers proposes a mandatory forward market model in lieu of traditional capacity markets or centralized procurement as a way to ensure long-term resource adequacy. Forward contracts are customized contracts between two parties to buy or sell an asset at a specified price on a future date. Long-term forward contracting in power markets, which “contracts for energy rather than capacity,” can better incentivize reliability by providing a financial penalty for resources that fail to deliver. It reduces the need for long deliverable capacity studies that are mandatory in capacity markets and delay approvals, and hedges against volatility in “full-strength prices,” providing less expensive financing and protecting consumers from high prices. Given all these benefits, why isn’t there more forward contracting? Byers notes that many producers are willing to sign long-term power purchase agreements (PPAs), a form of long-term contracts for energy supply, but many load-serving entities and retail customers aren’t. Byers ascribes this reluctance to externalities: reliability is in part a common good, and consumers are insufficiently incentivized to pay for it. To address this problem, a few markets have made forward contracts mandatory. In New Jersey, the Board of Public Utilities designed the New Jersey Basic Generation Service (BGS), a default forward contract system for power that retail customers can opt out of, providing ex-post load hedging but no marginal incentives for flexible demand. In Australia, the Australian Energy Market Operator implemented a Retailer Reliability Obligation (RRO) that centralizes contracting for additional future power supply if there is an expected shortfall. Several policy questions arise when one considers implementing such schemes more broadly. While a first-best solution would be to have each consumer voluntarily contract for its optimal quantity, with deviations then bought and sold on the spot market, what fixed quantities should be required for consumers to buy? Should it be based on ex-ante estimates, ex-post selection, percentage load share, or some other mechanism? Should this be mandatory for everyone, or only small consumers, because large consumers are assumed to be better able to find an optimal hedge? Which market price should be used – the day-ahead market price or the real-time market? Acknowledging these challenges, Byers proposed a “close-to first best market solution” that would combine elements of locational marginal pricing and day-ahead markets with virtual transactions (but without capacity markets), plus ERCOT-style scarcity pricing, and elements of a New Jersey BGS-style consumer hedging approach. An alternative to this approach could be to leverage a fully centralized integrated resource planning approach, which would sacrifice efficiency derived from market signals and risk getting estimates wrong. A hybrid approach, in which short-term markets are kept largely as they are to preserve some market competition, would combine this market competition with competition for the market, with governments offering competitive tenders and entering long-term contracts. Relying on markets instead of central planning may complicate the timing of company entries and exits, taking decades to reach a new market equilibrium. Without a carbon market, this also runs the risk of only incrementally procuring clean energy when a rapid transition is needed. Byers is continuing to mull over these implementation challenges and tradeoffs, investigating how mandatory forward contracts compare with capacity markets on reliability during worst-case scenarios, how they might change the endogenous cost of capital, how to preserve marginal incentives while still hedging against high prices, and what the impact of subsidies could be on investor risk under mandatory forward contracting schemes. Despite these lingering questions, Byers demonstrated that mandatory forward contracting, in some form, is worth considering as a potential market model to ensure resource adequacy and speed up renewable energy deployment. Recommended citation Floyd, Matt. “Event Debrief: The Future of Resource Adequacy in a Decarbonized Grid.” Belfer Center for Science and International Affairs, Harvard Kennedy School , April 26, 2024 Copy to Clipboard Event Debrief: The Future of Resource Adequacy in a Decarbonized Grid View Citation Print Electricity Energy Environment and Natural Resources Recommended citation Floyd, Matt. “Event Debrief: The Future of Resource Adequacy in a Decarbonized Grid.” Belfer Center for Science and International Affairs, Harvard Kennedy School , April 26, 2024 Copy to Clipboard Author Matt Floyd More From This Expert Stimulating Clean Hydrogen Demand: The Current Landscape Event Debrief: Planning the Mid-Transition for Just and Sustainable Decarbonization Related Conleigh Byers More From This Expert Electricity Market Design and Risk Trading with Flexible and Endogenous Demand Up Next Photo Credit Toggle AP Photo/Ted Shaffrey, File Policy Briefs AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment Feb. 10, 2026 by Rachel Mural, Dipesh Pherwani, Chaitanya Gupta, Yiqi Yu, Ai Takahashi, Dongjoo Kim, Subir Majumder, Henry Lee, Minlan Yu and Le Xie From Environment and Natural Resources Article Electricity Market Design and Risk Trading with Flexible and Endogenous Demand Dec. 22, 2025 by Conleigh Byers and Farhad Billimoria Photo Credit Toggle Adobe Stock/Sevda Ercan Article Decarbonizing Residential Space Heating with Heat Pumps in the United States Dec. 10, 2025 by Roxana Shafiee and Daniel Schrag",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2024-04-26T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:19:21+00:00",
+    "prompt_hash": "3514dc0d218f3ccc1fecd1cdaefadeb8d7fe32d9",
+    "result": {
+      "main_content_en": "The article discusses the growing challenge of ensuring resource adequacy in power grids undergoing decarbonization. As electrification increases demand and intermittent renewable sources like wind and solar become more prevalent, maintaining a reliable electricity supply becomes more complex. Conleigh Byers argues that current market designs are insufficient for this transition, citing failures like the 2021 Texas blackouts. The shift from a capacity-limited to an energy-limited paradigm, complicated by zero-variable cost resources and transmission constraints, exposes weaknesses in short-term markets. Byers proposes mandatory forward market contracts as a superior alternative to traditional capacity markets or centralized procurement. These long-term contracts for energy, rather than capacity, can incentivize reliability through financial penalties for non-delivery, reduce bureaucratic delays, hedge against price volatility, and lower financing costs. While implementation questions remain—such as determining contract quantities and which consumers should participate—mandatory forward contracting is presented as a 'close-to' first-best market solution to ensure reliability, control consumer costs, and accelerate the construction of new generation capacity needed for a net-zero future.",
+      "main_content_zh": "本文探讨了在电网脱碳过程中日益严峻的资源充足性挑战。随着电气化提升整体电力需求，以及风能、太阳能等间歇性、分布式的可再生能源占比增加，维持可靠的电力供应变得更为复杂。康利·拜尔斯认为，当前的市场设计不足以应对这一能源转型，并引用了2021年德州大停电等案例作为佐证。电力系统正从以容量限制为主的范式，转向受间歇性发电、需求刚性及输电约束影响的、可变的“能源限制”范式，这暴露了短期市场的缺陷。拜尔斯提出，强制性远期市场合同是比传统的容量市场或集中采购更优的解决方案。这种针对能源而非容量的长期合同，可以通过对未能履约的资源施加财务惩罚来激励可靠性，减少容量市场所需的冗长审批研究，对冲“高强度价格”的波动，并提供更便宜的融资。尽管实施中仍存在政策问题，例如如何确定合同数量、哪些消费者应被强制参与等，但强制性远期合同被视为一种“接近”最优的市场模式，有望在保障可靠性、控制用户成本和加速建设净零未来所需的新发电容量方面发挥关键作用。",
+      "keywords_en": [
+        "resource adequacy",
+        "decarbonized grid",
+        "forward market contracts",
+        "capacity markets",
+        "renewable energy",
+        "intermittent generation",
+        "electricity markets",
+        "market design",
+        "reliability",
+        "price volatility",
+        "energy transition",
+        "centralized procurement",
+        "locational marginal pricing",
+        "power purchase agreements (PPAs)",
+        "scarcity pricing",
+        "integrated resource planning",
+        "electrification",
+        "zero-carbon generation",
+        "interconnection backlog",
+        "demand hedging"
+      ],
+      "keywords_zh": [
+        "资源充足性",
+        "脱碳电网",
+        "远期市场合同",
+        "容量市场",
+        "可再生能源",
+        "间歇性发电",
+        "电力市场",
+        "市场设计",
+        "可靠性",
+        "价格波动",
+        "能源转型",
+        "集中采购",
+        "节点边际定价",
+        "购电协议",
+        "稀缺定价",
+        "综合资源规划",
+        "电气化",
+        "零碳发电",
+        "并网积压",
+        "需求对冲"
+      ],
+      "topic_words_en": [
+        "Electricity Market Design",
+        "Grid Reliability",
+        "Energy Transition Policy"
+      ],
+      "topic_words_zh": [
+        "电力市场设计",
+        "电网可靠性",
+        "能源转型政策"
+      ],
+      "relevance_score": 0.85
+    }
+  }
+}

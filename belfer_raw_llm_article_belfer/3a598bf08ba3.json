@@ -1,0 +1,95 @@
+{
+  "title": "Chuck Freilich on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/chuck-freilich-office-hours-podcast",
+  "summary": "Chuck Freilich, former Israeli Deputy National Security Adviser, Belfer Center Senior Fellow, and Author of “Israeli National Security: A New Strategy for an Era of Change,” talks with Aroop Mukharji (@aroopmukharji) about Israel’s goals for the future, its relationship with the U.S., and his personal experience making aliyah as a teenager.",
+  "published": "2018-03-01T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "International Security & Defense",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Chuck Freilich on Office Hours Podcast Print International Security & Defense International Security Program Middle East & North Africa Related Chuck Freilich More From This Expert Israel May Stand Alone vs Iran Israel's National Security Policy Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-03-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:46:27+00:00",
+    "prompt_hash": "237663967e53904b4fa14f92af5e9acd0d5bb30a",
+    "result": {
+      "main_content_en": "The article is a podcast episode summary featuring Chuck Freilich discussing Israel's national security policy, particularly regarding Iran. It highlights the concept that 'Israel May Stand Alone vs Iran,' indicating a potential unilateral security stance. The context includes broader international security topics such as NATO's Article 5 on collective defense, the role of middle powers in a fragmented world, and the growing risks of nuclear proliferation. The discussion is situated within the Belfer Center's International Security Program, focusing on defense, emerging technology, and strategy issues related to the Middle East and North Africa region.",
+      "main_content_zh": "本文是一期播客节目的内容摘要，嘉宾查克·弗莱利奇讨论了以色列的国家安全政策，特别是针对伊朗的立场。文章强调了“以色列可能在对抗伊朗时孤军奋战”的观点，暗示了其可能采取的单边安全姿态。讨论背景涉及更广泛的国际安全议题，包括北约第五条关于集体防御的条款、中等国家在碎片化世界中的角色，以及日益增长的核扩散风险。此次对话隶属于贝尔弗科学和国际事务中心的国际安全项目，重点关注与中东和北非地区相关的国防、新兴技术与战略问题。",
+      "keywords_en": [
+        "Israel",
+        "Iran",
+        "national security policy",
+        "unilateral stance",
+        "collective defense",
+        "NATO Article 5",
+        "nuclear proliferation",
+        "Middle East",
+        "North Africa",
+        "International Security Program",
+        "defense strategy",
+        "emerging technology",
+        "middle powers",
+        "fragmented world",
+        "security risk",
+        "Belfer Center",
+        "podcast",
+        "Chuck Freilich"
+      ],
+      "keywords_zh": [
+        "以色列",
+        "伊朗",
+        "国家安全政策",
+        "单边立场",
+        "集体防御",
+        "北约第五条",
+        "核扩散",
+        "中东",
+        "北非",
+        "国际安全项目",
+        "国防战略",
+        "新兴技术",
+        "中等国家",
+        "碎片化世界",
+        "安全风险",
+        "贝尔弗中心",
+        "播客",
+        "查克·弗莱利奇"
+      ],
+      "topic_words_en": [
+        "International Security",
+        "Defense Policy",
+        "Middle East",
+        "Nuclear Proliferation",
+        "Collective Defense"
+      ],
+      "topic_words_zh": [
+        "国际安全",
+        "国防政策",
+        "中东",
+        "核扩散",
+        "集体防御"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

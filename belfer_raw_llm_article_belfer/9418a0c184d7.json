@@ -1,0 +1,87 @@
+{
+  "title": "Congratulations to Belfer Center Affiliates",
+  "canonical_url": "https://www.belfercenter.org/publication/congratulations-belfer-center-affiliates",
+  "summary": "Successes of the Belfer Center's various fellows and affiliates, including Juliette Kayyem, Joseph Aldy, Dara Kay Cohen, and Sébastien Philippe, are highlighted.",
+  "published": "",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "Harvard Kennedy School Dean Douglas Elemendorf announced in May the promotion of the Belfer Center’s Juliette Kayyem to Senior Lecturer. Through her teaching, government service, journal- ism, and private sector work, Kayyem is a national leader in America’s homeland security efforts. Joseph Aldy , a Belfer Center affiliate who works actively with the Harvard Project on Climate Agreements, has been appointed Professor of the Practice of Public Policy at the Kennedy School. Associate Professor of Public Policy Dara Kay Cohen , who works with the Center’s International Security Program, received the Emerging Scholar Award from the International Security Studies Section of the International Studies Association. Cohen’s research focuses on civil war and the dynamics of violence, and gender and conflict. Stanton Nuclear Security Fellow Sébastien Philippe has been selected to participate in the69th Lindau Nobel Laureate Meeting, scheduled for late June. Philippe conducts research at the intersection of measurement systems and cryptography, with applications to nuclear arms control verification. The latest from Belfer See more Recommended citation \"Congratulations to Belfer Center Affiliates.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School (Summer 2019). Copy to Clipboard Congratulations to Belfer Center Affiliates View Citation Print Recommended citation \"Congratulations to Belfer Center Affiliates.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School (Summer 2019). Copy to Clipboard",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:32:38+00:00",
+    "prompt_hash": "a536f27f0e550bdcb2f625ee68f05a92c131e7c2",
+    "result": {
+      "main_content_en": "The article announces several achievements and appointments of affiliates of the Harvard Kennedy School's Belfer Center. Dean Douglas Elmendorf promoted Juliette Kayyem to Senior Lecturer, recognizing her national leadership in homeland security through diverse roles. Joseph Aldy, working with the Harvard Project on Climate Agreements, was appointed Professor of the Practice of Public Policy. Associate Professor Dara Kay Cohen, affiliated with the Center's International Security Program, received the Emerging Scholar Award for her research on civil war, violence dynamics, and gender in conflict. Additionally, Stanton Nuclear Security Fellow Sébastien Philippe was selected to attend the 69th Lindau Nobel Laureate Meeting; his research applies measurement systems and cryptography to nuclear arms control verification. The piece highlights the Center's ongoing contributions to science, international affairs, and public policy.",
+      "main_content_zh": "本文宣布了哈佛大学肯尼迪学院贝尔弗中心几位成员的成就与任命。院长道格拉斯·埃尔门多夫将朱丽叶·凯耶姆晋升为高级讲师，肯定她通过教学、政府服务、新闻及私营部门工作在美国国土安全领域的全国性领导作用。积极与哈佛气候协议项目合作的约瑟夫·阿尔迪被任命为肯尼迪学院公共政策实践教授。与中心国际安全项目合作的公共政策副教授达拉·凯·科恩获得了国际研究协会国际安全研究分部颁发的新兴学者奖，她的研究聚焦于内战、暴力动态以及性别与冲突。此外，斯坦顿核安全研究员塞巴斯蒂安·菲利普被选中参加第69届林道诺贝尔奖得主大会；他的研究涉及测量系统与密码学的交叉领域，应用于核军备控制核查。文章凸显了该中心在科学、国际事务和公共政策领域的持续贡献。",
+      "keywords_en": [
+        "Belfer Center",
+        "Harvard Kennedy School",
+        "Senior Lecturer",
+        "homeland security",
+        "Professor of the Practice",
+        "Climate Agreements",
+        "Emerging Scholar Award",
+        "International Security Program",
+        "civil war",
+        "gender and conflict",
+        "Stanton Nuclear Security Fellow",
+        "Lindau Nobel Laureate Meeting",
+        "measurement systems",
+        "cryptography",
+        "nuclear arms control verification",
+        "public policy",
+        "appointments",
+        "achievements",
+        "research",
+        "affiliates"
+      ],
+      "keywords_zh": [
+        "贝尔弗中心",
+        "哈佛肯尼迪学院",
+        "高级讲师",
+        "国土安全",
+        "实践教授",
+        "气候协议",
+        "新兴学者奖",
+        "国际安全项目",
+        "内战",
+        "性别与冲突",
+        "斯坦顿核安全研究员",
+        "林道诺贝尔奖得主大会",
+        "测量系统",
+        "密码学",
+        "核军备控制核查",
+        "公共政策",
+        "任命",
+        "成就",
+        "研究",
+        "成员"
+      ],
+      "topic_words_en": [
+        "Academic Appointments",
+        "Research Recognition",
+        "Security Studies",
+        "Nuclear Verification",
+        "Climate Policy"
+      ],
+      "topic_words_zh": [
+        "学术任命",
+        "研究表彰",
+        "安全研究",
+        "核核查",
+        "气候政策"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

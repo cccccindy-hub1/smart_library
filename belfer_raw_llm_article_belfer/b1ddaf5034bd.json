@@ -1,0 +1,87 @@
+{
+  "title": "Ash Carter on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/ash-carter-office-hours-podcast",
+  "summary": "Ash Carter, the 25th Secretary of Defense and the Director of the Belfer Center, talks with Aroop Mukharji (@aroopmukharji) about how he connected the technology industry with the Defense Department through DIUx, the tensions between the President and his cabinet, and what lessons we can learn from medieval history.",
+  "published": "2018-01-03T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "International Security & Defense"
+  ],
+  "body": "Ash Carter on Office Hours Podcast Print International Security & Defense Related Ash Carter More From This Expert Ash Carter’s Lessons from ISIS for Israel’s Campaign Against Hamas The Legacy of Ash Carter Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-01-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:47:44+00:00",
+    "prompt_hash": "5932631e883a3b9b9fe817877ee353af8f689c48",
+    "result": {
+      "main_content_en": "The article is a transcript or summary of an interview with former U.S. Secretary of Defense Ash Carter on the 'Office Hours' podcast. While the full body text is not provided, the context suggests the discussion centered on international security and defense policy. The surrounding metadata and links reference topics such as lessons from the ISIS campaign applicable to Israel's actions against Hamas, the legacy of Ash Carter, NATO's Article 5 collective defense principle, and broader issues of emerging technology, strategy, and nuclear proliferation. The content positions Carter's insights within contemporary defense challenges and strategic thinking.",
+      "main_content_zh": "本文是前美国国防部长阿什·卡特在“Office Hours”播客节目中访谈的文字记录或摘要。虽然正文全文未直接呈现，但上下文表明讨论聚焦于国际安全与防务政策。相关的元数据和链接提及了从打击ISIS行动中汲取的、可适用于以色列对抗哈马斯的经验教训、阿什·卡特的遗产、北约第五条集体防御原则，以及更广泛的新兴技术、战略和核扩散问题。内容将卡特的见解置于当代防务挑战和战略思维的框架内进行阐述。",
+      "keywords_en": [
+        "Ash Carter",
+        "Office Hours Podcast",
+        "International Security",
+        "Defense Policy",
+        "ISIS",
+        "Israel",
+        "Hamas",
+        "NATO Article 5",
+        "Collective Defense",
+        "Emerging Technology",
+        "Strategy",
+        "Nuclear Proliferation",
+        "Middle Powers",
+        "Legacy",
+        "Campaign",
+        "Lessons Learned",
+        "Fragmentation",
+        "Risk"
+      ],
+      "keywords_zh": [
+        "阿什·卡特",
+        "Office Hours播客",
+        "国际安全",
+        "防务政策",
+        "伊斯兰国",
+        "以色列",
+        "哈马斯",
+        "北约第五条",
+        "集体防御",
+        "新兴技术",
+        "战略",
+        "核扩散",
+        "中等强国",
+        "遗产",
+        "军事行动",
+        "经验教训",
+        "碎片化",
+        "风险"
+      ],
+      "topic_words_en": [
+        "Defense Strategy",
+        "International Security",
+        "Podcast Interview"
+      ],
+      "topic_words_zh": [
+        "防务战略",
+        "国际安全",
+        "播客访谈"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

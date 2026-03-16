@@ -1,0 +1,87 @@
+{
+  "title": "News & Impact",
+  "canonical_url": "https://www.belfercenter.org/publication/news-impact",
+  "summary": "Belfer Center faculty, fellows, and staff in the recent news: Ash Carter, John P. Holdren, Matthew Meselson, Eric Rosenbach, Nicholas Burns, Douglas Lute, and others.",
+  "published": "",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "IN D.C. The Belfer Center’s National Security Fellows traveled to Washington, D.C. in early May for meetings at the White House, State Department, Pentagon, and other agencies to present takeaways from their research. They met with the Acting Secretary of Defense Patrick M. Shanahan , Chairman of the Joint Chiefs Joseph Dunford , Secretary of the Air Force Heather Wilson , and other top leaders. Former National Security Fellow James McConville has been nominated by the White House to become the next Army Chief of Staff. On May 13, the Technology and Public Purpose Project (TAPP) and New America's Public Interest Tech Teams co-hosted the Data Privacy + Design Workshop in Washington DC. The event brought together UX/UI designers, engineers, privacy experts from civil society organizations, research- ers, and congressional staff. TAPP is also working on a forthcoming report that will examine the landscape of science and technology (S&T) expertise and resources available to Congress. AWARDS Belfer Center Director and former Secretary of Defense Ash Carter and Science, Technology, and Public Policy Co-Director and former Science Advisor to the President John P. Holdren have been selected by the government of Japan to receive the prestigious Order of the Rising Sun awards for their notable contributions to strengthening Japan-U.S. relations in the fields of security/ defense and science/technology, respectively. Carter will receive the Grand Cordon of the Order of the Rising Sun and Holdren the Order of the Rising Sun, Gold and Silver Star . They are recognized for their work with Japan during the Obama administration. Matthew Meselson , Belfer Center Board member and Harvard Professor, has received the $50,000 Future of Life Award for his role in the 1972 biological Weapons Convention, an international treaty that affirmed the existing ban on the use of biological weapons and also banned production, stockpiling, and offensive research into biological weapons. BEFORE CONGRESS In April, Project on Managing the Atom’s Matthew Bunn , Nickolas Roth , and William H. Tobey released a policy brief calling on Congress to increase funding for programs that reduce the dangers of nuclear theft and terrorism. Their brief is titled “Securing Nuclear Weapons and Materials Worldwide: Expanded Funding Needed for a More Ambitious Approach.” At a hearing in March on “China’s Challenges to U.S. Commerce,” Eric Rosenbach testified before the Senate Committee on Commerce, Science and Transportation about China’s move into the Information Age. Without a U.S. national strategy, he said, our country “risks ceding its leadership role in future economic, military, and political landscapes.” Nicholas Burns and Douglas Lute testified before the House Foreign Affairs Committee in March about NATO and the vital importance of American leadership in the alliance. On the seventieth anniversary of NATO, Burns and Lute discussed their report, NATO at Seventy: An Alliance in Crisis , at the Munich Security Conference and at several other major events. SHAPING PUBLIC OPINION Through panel discussions, presentations, and interviews about her new book, How We Win, Senior Fellow Farah Pandith continues to raise awareness of why she believes young people become extremists and how to prevent that conversion. Amanda Sloat , fellow with the Project on Europe and Transatlantic Relations, has helped keep the world informed on Brexit issues and U.S.-Europe relations through her insightful commentary in print and broadcast media. The latest from Belfer See more Recommended citation \"News and Impact.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School (Summer 2019). Copy to Clipboard News & Impact View Citation Print Recommended citation \"News and Impact.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School (Summer 2019). Copy to Clipboard",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:32:09+00:00",
+    "prompt_hash": "035736eea6341ddb7730d8a669bf02c9e2a22ef9",
+    "result": {
+      "main_content_en": "In early May, the Belfer Center's National Security Fellows visited Washington, D.C., engaging with top officials at the White House, State Department, and Pentagon to present their research findings. The Technology and Public Purpose Project co-hosted a Data Privacy + Design Workshop and is preparing a report on science and technology expertise for Congress. The Center's leadership, including Ash Carter and John P. Holdren, received Japan's Order of the Rising Sun awards for strengthening bilateral ties in security and science. Matthew Meselson was honored with the Future of Life Award for his work on the Biological Weapons Convention. Belfer Center experts testified before Congress on issues ranging from nuclear security funding and China's technological challenges to NATO's future. Additionally, fellows like Farah Pandith and Amanda Sloat are shaping public discourse on extremism and transatlantic relations through media engagements and publications.",
+      "main_content_zh": "5月初，贝尔弗中心的国家安全研究员前往华盛顿特区，在白宫、国务院和五角大楼与高级官员会面，展示其研究成果。技术与公共目的项目联合主办了数据隐私与设计研讨会，并正在撰写一份关于国会可用科技专业知识的报告。中心主任阿什·卡特和联合主任约翰·霍尔德伦因在安全与科技领域加强美日关系而获得日本颁发的旭日勋章。马修·梅塞尔森因在《禁止生物武器公约》中的贡献获得未来生命奖。中心专家在国会作证，议题包括核安全资金、中国技术挑战以及北约未来。此外，高级研究员法拉·潘迪斯和阿曼达·斯洛特通过媒体评论和著作，就极端主义预防、英国脱欧及美欧关系等议题引导公众舆论。",
+      "keywords_en": [
+        "National Security Fellows",
+        "White House",
+        "Pentagon",
+        "Data Privacy",
+        "UX/UI Design",
+        "Science and Technology Expertise",
+        "Order of the Rising Sun",
+        "Biological Weapons Convention",
+        "Nuclear Security",
+        "Congressional Testimony",
+        "China's Information Age",
+        "NATO Alliance",
+        "Extremism Prevention",
+        "Brexit",
+        "Transatlantic Relations",
+        "Policy Brief",
+        "Workshop",
+        "Award",
+        "Public Opinion",
+        "Technology Policy"
+      ],
+      "keywords_zh": [
+        "国家安全研究员",
+        "白宫",
+        "五角大楼",
+        "数据隐私",
+        "用户体验/界面设计",
+        "科学技术专业知识",
+        "旭日勋章",
+        "禁止生物武器公约",
+        "核安全",
+        "国会证词",
+        "中国信息时代",
+        "北约联盟",
+        "极端主义预防",
+        "英国脱欧",
+        "跨大西洋关系",
+        "政策简报",
+        "研讨会",
+        "奖项",
+        "公众舆论",
+        "科技政策"
+      ],
+      "topic_words_en": [
+        "National Security",
+        "Science & Technology Policy",
+        "International Awards",
+        "Congressional Engagement",
+        "Public Discourse"
+      ],
+      "topic_words_zh": [
+        "国家安全",
+        "科技政策",
+        "国际奖项",
+        "国会参与",
+        "公众讨论"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

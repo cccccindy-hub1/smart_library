@@ -1,0 +1,91 @@
+{
+  "title": "Kendall Hoyt on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/kendall-hoyt-office-hours-podcast",
+  "summary": "Kendall Hoyt, Assistant Professor of Medicine at the Dartmouth Medical School and former fellow with the Belfer Center’s International Security Program, talks with Aroop Mukharji (@aroopmukharji) about improving response time to outbreaks, a brief history of anti-vaxxers, and how she got into biodefense.",
+  "published": "2018-04-02T12:00:00Z",
+  "authors": [
+    "Michael Redlich"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Africa",
+    "Asia & the Pacific",
+    "Biosafety",
+    "North America"
+  ],
+  "topics": [
+    "Biosafety"
+  ],
+  "tags": [
+    "Africa",
+    "Asia & the Pacific",
+    "Biosafety",
+    "North America"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Kendall Hoyt on Office Hours Podcast Print Africa Asia & the Pacific Biosafety North America Related Kendall Hoyt More From This Expert Kendall Hoyt on Office Hours A Double-Edged Sword: Globalization and Biosecurity Up Next Reports & Papers Down with the Sickness: Biological Weapons in the Past, Present, and Future May. 22, 2025 by Michael Redlich From Defense, Emerging Technology, and Strategy Photo Credit Toggle AP Photo/John Minchillo Article Modernizing Biosecurity and Biosafety in the U.S.: Key Lessons Learned Nov. 7, 2023 by Janet Egan and Syra Madad Doom: The Politics of Catastrophe by Niall Ferguson May 2021",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-04-02T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:45:32+00:00",
+    "prompt_hash": "d2b02bfc6cf7290927c459a7783694039044dcb4",
+    "result": {
+      "main_content_en": "The article discusses the importance of modernizing biosecurity and biosafety frameworks, particularly within the United States, drawing on insights from expert Kendall Hoyt. It highlights the dual nature of globalization as both a facilitator of scientific collaboration and a potential amplifier of biological threats. The piece references historical and contemporary perspectives on biological weapons, emphasizing the need for updated policies and international cooperation to address emerging biological risks. Key lessons are drawn from past experiences to inform future strategies in defense and emerging technology sectors, underscoring the ongoing challenge of balancing scientific progress with global security.",
+      "main_content_zh": "本文围绕生物安全与生物安保框架的现代化展开讨论，重点借鉴了专家肯德尔·霍伊特的见解。文章指出全球化具有双刃剑效应，既促进了科学合作，也可能加剧生物威胁。内容涉及对生物武器历史与现状的分析，强调需要更新政策和加强国际合作以应对新出现的生物风险。文章从过往经验中汲取关键教训，为国防和新兴技术领域的未来战略提供参考，核心在于平衡科技进步与全球安全之间的持续挑战。",
+      "keywords_en": [
+        "Biosecurity",
+        "Biosafety",
+        "Globalization",
+        "Biological Weapons",
+        "Emerging Technology",
+        "Defense Strategy",
+        "Policy Modernization",
+        "International Cooperation",
+        "Biological Threats",
+        "Scientific Collaboration",
+        "Risk Management",
+        "Security Frameworks",
+        "Lessons Learned",
+        "Biological Risks",
+        "Technology Policy"
+      ],
+      "keywords_zh": [
+        "生物安保",
+        "生物安全",
+        "全球化",
+        "生物武器",
+        "新兴技术",
+        "国防战略",
+        "政策现代化",
+        "国际合作",
+        "生物威胁",
+        "科学合作",
+        "风险管理",
+        "安全框架",
+        "经验教训",
+        "生物风险",
+        "科技政策"
+      ],
+      "topic_words_en": [
+        "Biosecurity",
+        "Biosafety",
+        "Global Health Security",
+        "Biological Threats",
+        "Science Policy"
+      ],
+      "topic_words_zh": [
+        "生物安保",
+        "生物安全",
+        "全球卫生安全",
+        "生物威胁",
+        "科技政策"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

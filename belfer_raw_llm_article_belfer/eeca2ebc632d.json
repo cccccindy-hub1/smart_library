@@ -1,0 +1,93 @@
+{
+  "title": "Steven Pinker on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/steven-pinker-office-hours",
+  "summary": "Steven Pinker (@sapinker), Cognitive Scientist and Professor of Psychology at Harvard University, talks with Aroop Mukharji (@aroopmukharji) about language, violence and video games, the future of war, and the possibility of a Trump presidency.",
+  "published": "2016-08-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "North America",
+    "Science & Technology"
+  ],
+  "topics": [
+    "Science & Technology"
+  ],
+  "tags": [
+    "North America",
+    "Science & Technology"
+  ],
+  "body": "Gallery 1 of 4 2 of 4 3 of 4 4 of 4 Steven Pinker is a Johnstone Family Professor in the Department of Psychology at Harvard University. He conducts research on language and cognition, writes for publications such as the New York Times, Time and The Atlantic , and is the author of ten books, including The Language Instinct , How the Mind Works , The Blank Slate , The Stuff of Thought , The Better Angels of Our Nature, and most recently, The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century. The latest from Belfer See more Steven Pinker (@sapinker), Cognitive Scientist and Professor of Psychology at Harvard University, talks with Aroop Mukharji (@aroopmukharji) about language, violence and video games, the future of war, and the possibility of a Trump presidency. Steven Pinker on Office Hours Print North America Science & Technology Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ETSAGP Program Event Summary AI, Health, and the Future of Scientific Cooperation Feb. 2, 2026 by Kalwani, Gaurav and Syra Madad Photo Credit Toggle Russian Defense Ministry Press Service via AP, File Article Computer Says, “War”: AI and Resort-to-Force Decision Making in a Context of Rapid Change and Global Uncertainty 2026 by Toni Erskine and Steven E. Miller",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-08-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:16:26+00:00",
+    "prompt_hash": "9b39a218e8295dd92b5adace0c622af7f9259f06",
+    "result": {
+      "main_content_en": "The article features an interview with Steven Pinker, a renowned cognitive scientist and psychology professor at Harvard University. He discusses a range of topics including language, cognition, and the relationship between violence and video games. The conversation also explores the future of warfare and touches on the political landscape, specifically the possibility of a Trump presidency. Pinker is noted for his research and publications on these subjects, contributing to public discourse through major media outlets. The context is part of a series of think-tank discussions on science, technology, and policy.",
+      "main_content_zh": "本文以哈佛大学心理学教授、著名认知科学家史蒂芬·平克为主角，记录了一次访谈内容。访谈涉及语言与认知、暴力与电子游戏的关系等核心学术领域，并延伸探讨了未来战争的形态以及当时的政治前景，特别是特朗普当选总统的可能性。平克以其在该领域的研究和多部著作而闻名，并通过《纽约时报》等主流媒体参与公共讨论。该内容隶属于智库关于科技与政策系列讨论的一部分，体现了学术思想与公共政策的交叉。",
+      "keywords_en": [
+        "Steven Pinker",
+        "cognitive science",
+        "psychology",
+        "language",
+        "cognition",
+        "violence",
+        "video games",
+        "future of war",
+        "Trump presidency",
+        "Harvard University",
+        "The Better Angels of Our Nature",
+        "public discourse",
+        "think tank",
+        "interview",
+        "research",
+        "publications",
+        "policy",
+        "North America",
+        "Science & Technology"
+      ],
+      "keywords_zh": [
+        "史蒂芬·平克",
+        "认知科学",
+        "心理学",
+        "语言",
+        "认知",
+        "暴力",
+        "电子游戏",
+        "未来战争",
+        "特朗普总统",
+        "哈佛大学",
+        "人性中的善良天使",
+        "公共讨论",
+        "智库",
+        "访谈",
+        "研究",
+        "出版物",
+        "政策",
+        "北美",
+        "科学技术"
+      ],
+      "topic_words_en": [
+        "Cognitive Science",
+        "Language & Cognition",
+        "Violence & Society",
+        "Future of Conflict",
+        "Science Policy"
+      ],
+      "topic_words_zh": [
+        "认知科学",
+        "语言与认知",
+        "暴力与社会",
+        "未来冲突",
+        "科技政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

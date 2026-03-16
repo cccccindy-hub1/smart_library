@@ -1,0 +1,110 @@
+{
+  "title": "Elizabeth Sherwood-Randall on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/elizabeth-sherwood-randall-office-hours",
+  "summary": "Elizabeth Sherwood-Randall (@LSRTweets), former Deputy Secretary of Energy and Belfer Center Senior Fellow, talks with Aroop Mukharji (@aroopmukharji) about the mystery surrounding the Energy Department’s National Laboratories, the smart grid, the U.S. nuclear arsenal, energy sources of the future, and her favorite energy bar.",
+  "published": "2018-02-01T12:00:00Z",
+  "authors": [
+    "Lauren Sukin, J. Luis Rodriguez",
+    "Stephen Herzog"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Energy",
+    "North America",
+    "Nuclear Weapons",
+    "Renewable Energy",
+    "U.S. Energy Policy",
+    "U.S. Nuclear Issues"
+  ],
+  "topics": [
+    "Energy",
+    "Nuclear Weapons",
+    "Renewable Energy",
+    "U.S. Energy Policy",
+    "U.S. Nuclear Issues"
+  ],
+  "tags": [
+    "Energy",
+    "North America",
+    "Nuclear Weapons",
+    "Renewable Energy",
+    "U.S. Energy Policy",
+    "U.S. Nuclear Issues"
+  ],
+  "body": "Gallery 1 of 5 Elizabeth Sherwood-Randall: The Mysterious National Laboratories 2 of 5 Elizabeth Sherwood-Randall: Modernizing the U.S. Nuclear Arsenal 3 of 5 Elizabeth Sherwood-Randall: My Favorite \"Energy Bar\" 4 of 5 Elizabeth Sherwood-Randall: Explaining Smart Grids 5 of 5 Elizabeth Sherwood-Randall: Investing in a Clean Energy Future Elizabeth Sherwood-Randall on Office Hours Print Energy North America Nuclear Weapons Renewable Energy U.S. Energy Policy U.S. Nuclear Issues Related Elizabeth D. Sherwood-Randall More From This Expert At the Brink: Loose Nukes The Urgent Need for a National Biosecurity Initiative Up Next Photo Credit Toggle Created using R by the authors Article Rethinking the Deterrence-Disarmament Dichotomy: The Complex Landscape of Global Nuclear Weapons Preferences 2026 by Lauren Sukin, J. Luis Rodriguez and Stephen Herzog From International Security Program Photo Credit Toggle Harvard Magazine Presentations Post-New START: The Future of Nuclear Restraint Feb. 9, 2026 by Matthew Bunn Photo Credit Toggle Public Domain/DOD Defense Visual Information Center Policy Briefs Public Opinion, Nuclear Weapon Use, and the Perils of Selective Reading January 2026 by Stephen Herzog",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-02-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:47:09+00:00",
+    "prompt_hash": "39a3b54db49d6f888e8f2f7efb325c4a206fcbea",
+    "result": {
+      "main_content_en": "The article features insights from Elizabeth Sherwood-Randall on U.S. energy and nuclear policy. She discusses the critical role of national laboratories in scientific innovation and national security. A key focus is modernizing the U.S. nuclear arsenal to maintain deterrence while ensuring safety and reliability. Sherwood-Randall also emphasizes the importance of investing in a clean energy future, highlighting renewable energy sources and smart grid technologies to enhance efficiency and resilience. The piece connects energy policy with nuclear security, arguing for integrated strategies that address both climate change and geopolitical threats. It references related expert analyses on topics like post-New START nuclear restraint and the public perception of nuclear weapons use.",
+      "main_content_zh": "本文收录了伊丽莎白·舍伍德-兰德尔关于美国能源与核政策的见解。她探讨了国家实验室在科学创新和国家安全中的关键作用。一个重点是美国核武库的现代化，旨在维持威慑力，同时确保安全与可靠性。舍伍德-兰德尔还强调了投资清洁能源未来的重要性，着重介绍了可再生能源和智能电网技术，以提高效率和韧性。文章将能源政策与核安全联系起来，主张制定综合战略以应对气候变化和地缘政治威胁。文中引用了相关专家分析，涉及新削减战略武器条约后的核克制、公众对核武器使用的看法等议题。",
+      "keywords_en": [
+        "Elizabeth Sherwood-Randall",
+        "national laboratories",
+        "nuclear arsenal modernization",
+        "deterrence",
+        "clean energy",
+        "renewable energy",
+        "smart grid",
+        "energy policy",
+        "nuclear security",
+        "U.S. Energy Policy",
+        "nuclear weapons",
+        "scientific innovation",
+        "climate change",
+        "geopolitical threats",
+        "New START",
+        "nuclear restraint",
+        "public opinion",
+        "energy resilience",
+        "energy efficiency",
+        "biosecurity"
+      ],
+      "keywords_zh": [
+        "伊丽莎白·舍伍德-兰德尔",
+        "国家实验室",
+        "核武库现代化",
+        "威慑",
+        "清洁能源",
+        "可再生能源",
+        "智能电网",
+        "能源政策",
+        "核安全",
+        "美国能源政策",
+        "核武器",
+        "科学创新",
+        "气候变化",
+        "地缘政治威胁",
+        "新削减战略武器条约",
+        "核克制",
+        "公众舆论",
+        "能源韧性",
+        "能源效率",
+        "生物安全"
+      ],
+      "topic_words_en": [
+        "Nuclear Policy",
+        "Energy Security",
+        "Technology Innovation",
+        "National Laboratories",
+        "Strategic Deterrence"
+      ],
+      "topic_words_zh": [
+        "核政策",
+        "能源安全",
+        "技术创新",
+        "国家实验室",
+        "战略威慑"
+      ],
+      "relevance_score": 0.85
+    }
+  }
+}

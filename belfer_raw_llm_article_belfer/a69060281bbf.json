@@ -1,0 +1,93 @@
+{
+  "title": "Vera Mironova on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/vera-mironova-office-hours",
+  "summary": "Vera Mironova (@vera_mironov), an Associate with the Belfer Center’s International Security Program, talks with Aroop Mukharji (@aroopmukharji) about ISIS’s drug and alcohol problem, her experience embedded in combat zones, and how insurgents shop around for the best job opportunities.",
+  "published": "2017-12-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Conflict & Conflict Resolution",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "Conflict & Conflict Resolution"
+  ],
+  "tags": [
+    "Conflict & Conflict Resolution",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "body": "Gallery 1 of 4 Vera Mironova: Drinking on the Front Lines—ISIS's Drug & Alcohol Problem 2 of 4 Vera Mironova: Predicting the Future of ISIS 3 of 4 Vera Mironova: The Market of Insurgent Groups 4 of 4 Vera Mironova: Safety Measures in Conflict Zones Vera Mironova on Office Hours Print Conflict & Conflict Resolution International Security Program Middle East & North Africa Related Vera Mironova More From This Expert Jihadists from Ex-Soviet Central Asia: Where Are They? Why Did They Radicalize? What Next? Vera Mironova on Office Hours Podcast Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle via AP Newsroom Policy Briefs What Lifting U.S. Sanctions Means for Syria’s Transition Dec. 23, 2025 by Ibrahim Al-Assil Event Summary Identity and Politics: Managing Diversity in the Middle East Dec. 19, 2025 by Mark van de Fliert",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-12-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:48:14+00:00",
+    "prompt_hash": "3affd7e9de6bb91a51684b3ceac0a54314d19f97",
+    "result": {
+      "main_content_en": "The article features Vera Mironova's insights on conflict dynamics, derived from her 'Office Hours' series. It covers specific issues within insurgent groups, such as substance abuse problems among ISIS fighters, which can impact operational effectiveness and morale. The discussion extends to predicting the future trajectory of ISIS, analyzing the competitive 'market' of insurgent groups, and reviewing safety protocols used in active conflict zones. The context focuses on the Middle East, North Africa, and former Soviet Central Asia, examining the drivers of radicalization and the practical realities of warfare. The analysis is grounded in field research, offering a granular view of non-state armed actors and conflict resolution challenges.",
+      "main_content_zh": "本文基于维拉·米罗诺娃在“办公时间”系列中的见解，探讨了冲突动态的具体问题。内容涉及 ISIS 等 insurgent 组织内部的具体情况，例如战斗人员的药物与酒精滥用问题，这会影响其作战效能和士气。讨论延伸至预测 ISIS 的未来轨迹、分析 insurgent 组织竞争的“市场”环境，以及审视活跃冲突区中采用的安全措施。背景聚焦于中东、北非及前苏联中亚地区，探讨了激进化的驱动因素和战争的实际现实。该分析以实地研究为基础，提供了对非国家武装行为体和冲突解决挑战的细致观察。",
+      "keywords_en": [
+        "ISIS",
+        "insurgent groups",
+        "conflict zones",
+        "radicalization",
+        "substance abuse",
+        "operational effectiveness",
+        "morale",
+        "field research",
+        "non-state actors",
+        "Middle East",
+        "North Africa",
+        "Central Asia",
+        "safety protocols",
+        "conflict dynamics",
+        "warfare",
+        "jihadists",
+        "International Security",
+        "conflict resolution",
+        "armed groups",
+        "predictive analysis"
+      ],
+      "keywords_zh": [
+        "ISIS",
+        "叛乱组织",
+        "冲突地区",
+        "激进化",
+        "药物滥用",
+        "作战效能",
+        "士气",
+        "实地研究",
+        "非国家行为体",
+        "中东",
+        "北非",
+        "中亚",
+        "安全协议",
+        "冲突动态",
+        "战争",
+        "圣战分子",
+        "国际安全",
+        "冲突解决",
+        "武装团体",
+        "预测分析"
+      ],
+      "topic_words_en": [
+        "Insurgency",
+        "Conflict Studies",
+        "Middle East Security"
+      ],
+      "topic_words_zh": [
+        "叛乱",
+        "冲突研究",
+        "中东安全"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

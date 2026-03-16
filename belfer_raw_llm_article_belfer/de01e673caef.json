@@ -1,0 +1,87 @@
+{
+  "title": "Keeping Safe and Protecting Yourself and Others from COVID19",
+  "canonical_url": "https://www.belfercenter.org/publication/keeping-safe-and-protecting-yourself-and-others-covid19",
+  "summary": "The graphic “Keeping Safe and Protecting Yourself and Others from COVID19” covers 11 measures we should all be taking to prevent infection and spreading it to others.",
+  "published": "2021-02-01T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "The cavalry (COVID19 vaccines) have arrived. But this is no time to let down our guard. Community transmission of SARS-COV-2 is ongoing and the number of current and daily new infections are persistently high and new variants continuing to cause concern. Even with two highly efficacious COVID19 vaccines authorized in the United States and more in the pipeline (Johnson and Johnson and Novavax), we must continue preventative measures until transmission reduction is achieved and we learn more about COVID19 vaccines ability to prevent infection and onward spread. The graphic “Keeping Safe and Protecting Yourself and Others from COVID19” covers 11 measures we should all be taking to prevent infection and spreading it to others. The latest from Belfer See more Recommended citation Madad, Syra and Angela Rasmussen. “Keeping Safe and Protecting Yourself and Others from COVID19 .” Belfer Center for Science and International Affairs, Harvard Kennedy School , February 1, 2021 Copy to Clipboard Keeping Safe and Protecting Yourself and Others from COVID19 View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra and Angela Rasmussen. “Keeping Safe and Protecting Yourself and Others from COVID19 .” Belfer Center for Science and International Affairs, Harvard Kennedy School , February 1, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Angela Rasmussen Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-02-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:00:44+00:00",
+    "prompt_hash": "05b4bac571e601cf3448bf095274e6be3df9bb93",
+    "result": {
+      "main_content_en": "While COVID-19 vaccines have arrived, community transmission of SARS-CoV-2 remains high with concerning new variants. Even with authorized vaccines and more in development, preventative measures must continue until transmission is reduced and more is learned about the vaccines' ability to prevent infection and spread. The article emphasizes the ongoing need for collective adherence to safety measures, outlining 11 key actions for personal and community protection against the virus.",
+      "main_content_zh": "尽管COVID-19疫苗已经问世，但SARS-CoV-2的社区传播仍然活跃，感染人数居高不下，新的变异株持续引发担忧。即使在美国已授权使用高效疫苗且更多疫苗正在研发中，在实现传播减少以及进一步了解疫苗预防感染和阻止传播的能力之前，必须继续坚持预防措施。文章强调了持续采取集体防护措施的必要性，并概述了11项关键行动，旨在保护个人和社区免受病毒感染。",
+      "keywords_en": [
+        "COVID-19 vaccines",
+        "community transmission",
+        "SARS-CoV-2",
+        "new variants",
+        "preventative measures",
+        "infection prevention",
+        "vaccine efficacy",
+        "authorized vaccines",
+        "transmission reduction",
+        "onward spread",
+        "public health",
+        "global health",
+        "safety measures",
+        "personal protection",
+        "collective action"
+      ],
+      "keywords_zh": [
+        "COVID-19疫苗",
+        "社区传播",
+        "SARS-CoV-2",
+        "新变异株",
+        "预防措施",
+        "感染预防",
+        "疫苗效力",
+        "授权疫苗",
+        "传播减少",
+        "继续传播",
+        "公共卫生",
+        "全球健康",
+        "安全措施",
+        "个人防护",
+        "集体行动"
+      ],
+      "topic_words_en": [
+        "COVID-19",
+        "Vaccination",
+        "Public Health Policy"
+      ],
+      "topic_words_zh": [
+        "COVID-19",
+        "疫苗接种",
+        "公共卫生政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

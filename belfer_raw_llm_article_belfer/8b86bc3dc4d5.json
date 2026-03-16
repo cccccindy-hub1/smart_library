@@ -1,0 +1,104 @@
+{
+  "title": "Graham Allison on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/graham-allison-office-hours-podcast",
+  "summary": "Graham Allison (@GrahamTAllison), who is stepping down as the Director of the Belfer Center, a position he’s held for the past 22 years, takes a moment to talk with Aroop Mukharji (@aroopmukharji) about his new book “Destined for War: Can America and China Escape Thucydides’s Trap.” Allison explains the big idea that is Thucydides’s Trap, what might spark war between America and China, and what he has in common with Queen Elizabeth II.",
+  "published": "2017-06-30T12:00:00Z",
+  "authors": [
+    "Oliver Yule-Smith"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Applied History Project",
+    "Asia & the Pacific",
+    "China & security",
+    "History",
+    "North America"
+  ],
+  "topics": [
+    "China & security",
+    "History"
+  ],
+  "tags": [
+    "Applied History Project",
+    "Asia & the Pacific",
+    "China & security",
+    "History",
+    "North America"
+  ],
+  "body": "Director of Harvard's Belfer Center for Science and International Affairs, Graham Allison is a leading analyst of U.S. national security and defense policy with a special interest in nuclear weapons, terrorism, and decision-making. He has the sole distinction of having twice been awarded the Department of Defense's highest civilian award, the Distinguished Public Service Medal, first by Secretary Cap Weinberger and second by Secretary Bill Perry. As \"Founding Dean\" of the modern Kennedy School, under his leadership, from 1977 to 1989, a small, undefined program grew twenty-fold to become a major professional school of public policy and government. His latest book, Destined for War: Can America and China Escape Thucydides’s Trap?, was published by Houghton Mifflin Harcourt in May 2017. The latest from Belfer See more Graham Allison on Office Hours Podcast Print Applied History Project Asia & the Pacific China & security History North America Related Graham Allison Request Interview More From This Expert Mushrooming: Tackling Growing Nuclear Proliferation Risk Escaping Thucydides’s Trap in China-U.S. Relations Up Next Books The Problem of China in the British Foreign Office Mind December 2025 by Oliver Yule-Smith From International Security Program Photo Credit Toggle Associated Press - Tatan Syuflana Reports & Papers Active Alignment: How Indonesia Can Shape the U.S.-China Strategic Competition Nov. 20, 2025 by Basri, Muhamad Chatib and Evan Laksmana Photo Credit Toggle AP Photo/Mark Schiefelbein Article Keeping Pace with the Times: China’s Arms Control Tradition, New Challenges, and Nuclear Learning Summer 2025 by Wu Riqiang",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-06-30T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:55:59+00:00",
+    "prompt_hash": "e5b5dc3e78de63ada2f0238ff9de0c2990c475ff",
+    "result": {
+      "main_content_en": "Graham Allison, Director of Harvard's Belfer Center for Science and International Affairs, is a preeminent analyst of U.S. national security and defense policy, with a specialized focus on nuclear weapons, terrorism, and decision-making. He holds the unique distinction of twice receiving the Department of Defense's highest civilian honor, the Distinguished Public Service Medal. As the 'Founding Dean' of the modern Harvard Kennedy School, he oversaw its twenty-fold growth from 1977 to 1989, transforming it into a leading institution for public policy and government. His recent work, particularly his 2017 book 'Destined for War: Can America and China Escape Thucydides’s Trap?', applies historical frameworks—specifically the 'Thucydides's Trap' concept—to analyze the strategic competition and potential conflict dynamics between the United States and China. His expertise bridges applied history, grand strategy, and the critical examination of major power rivalry in the contemporary international system.",
+      "main_content_zh": "哈佛大学贝尔弗科学与国际事务中心主任格雷厄姆·艾利森是美国国家安全与国防政策领域的顶尖分析家，尤其专注于核武器、恐怖主义和决策过程研究。他拥有独一无二的殊荣，曾两次获得美国国防部授予平民的最高奖项——杰出公共服务奖章。作为现代哈佛肯尼迪学院的“创院院长”，他在1977年至1989年的领导下，推动该学院规模增长了二十倍，使其发展成为公共政策与政府管理领域的重要专业学院。其近期著作，特别是2017年出版的《注定一战：中美能否避免修昔底德陷阱？》，运用历史框架——尤其是“修昔底德陷阱”概念——来分析美国与中国之间的战略竞争与潜在冲突动态。他的专业领域融合了应用历史学、大战略研究以及对当代国际体系中大国竞争的批判性审视。",
+      "keywords_en": [
+        "Graham Allison",
+        "Belfer Center",
+        "U.S. national security",
+        "defense policy",
+        "nuclear weapons",
+        "terrorism",
+        "decision-making",
+        "Distinguished Public Service Medal",
+        "Harvard Kennedy School",
+        "Founding Dean",
+        "public policy",
+        "Thucydides's Trap",
+        "Destined for War",
+        "U.S.-China relations",
+        "strategic competition",
+        "applied history",
+        "grand strategy",
+        "power rivalry",
+        "civilian award",
+        "professional school"
+      ],
+      "keywords_zh": [
+        "格雷厄姆·艾利森",
+        "贝尔弗中心",
+        "美国国家安全",
+        "国防政策",
+        "核武器",
+        "恐怖主义",
+        "决策过程",
+        "杰出公共服务奖章",
+        "哈佛肯尼迪学院",
+        "创院院长",
+        "公共政策",
+        "修昔底德陷阱",
+        "注定一战",
+        "中美关系",
+        "战略竞争",
+        "应用历史",
+        "大战略",
+        "大国竞争",
+        "平民奖项",
+        "专业学院"
+      ],
+      "topic_words_en": [
+        "U.S.-China Relations",
+        "Applied History",
+        "National Security",
+        "Strategic Competition",
+        "Policy Education"
+      ],
+      "topic_words_zh": [
+        "中美关系",
+        "应用历史",
+        "国家安全",
+        "战略竞争",
+        "政策教育"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

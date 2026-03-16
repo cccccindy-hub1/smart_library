@@ -1,0 +1,35 @@
+{
+  "title": "Lessons From the Dyn DDoS Attack",
+  "canonical_url": "https://www.belfercenter.org/publication/lessons-dyn-ddos-attack",
+  "summary": "\"The botnets attacking Dyn and Brian Krebs consisted largely of unsecure Internet of Things (IoT) devices — webcams, digital video recorders, routers and so on. This isn't new, either. We've already seen internet-enabled refrigerators and TVs used in DDoS botnets. But again, the scale is bigger now. In 2014, the news was hundreds of thousands of IoT devices — the Dyn attack used millions. Analysts expect the IoT to increase the number of things on the internet by a factor of 10 or more.\"",
+  "published": "2024-10-11T12:00:00Z",
+  "authors": [
+    "Judit Gaspar, Maria Robson-Morrow",
+    "Katherine Tucker"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Project",
+    "Cyber Security",
+    "Governance",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Governance",
+    "Information Technology",
+    "Science & Technology"
+  ],
+  "tags": [
+    "Cyber Project",
+    "Cyber Security",
+    "Governance",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "A week ago Friday, someone took down numerous popular websites in a massive distributed denial-of-service (DDoS) attack against the domain name provider Dyn . DDoS attacks are neither new nor sophisticated. The attacker sends a massive amount of traffic, causing the victim's system to slow to a crawl and eventually crash. There are more or less clever variants, but basically, it's a datapipe-size battle between attacker and victim. If the defender has a larger capacity to receive and process data, he or she will win. If the attacker can throw more data than the victim can process, he or she will win.... Continue reading: https://securityintelligence.com/lessons-from-the-dyn-ddos-attack/ The latest from Belfer See more Recommended citation Schneier, Bruce. “Lessons From the Dyn DDoS Attack.” Security Intelligence , November 1, 2016 Copy to Clipboard Lessons From the Dyn DDoS Attack View Citation Print Cyber Project Cyber Security Governance Information Technology Science & Technology Science, Technology, and Public Policy Recommended citation Schneier, Bruce. “Lessons From the Dyn DDoS Attack.” Security Intelligence , November 1, 2016 Copy to Clipboard Author Bruce Schneier Request Interview More From This Expert Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Reimagining Democracy Up Next Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker From Intelligence Project Photo Credit Toggle Adobe Article AI’s New Frontier in War Planning: How AI Agents Can Revolutionize Military Decision-Making Oct. 11, 2024 by Richard Farnell and Kira Coffey Photo Credit Toggle London Review of Books Logo Article Kill Lists Oct. 10, 2024 by Sophia Goodfriend",
+  "node_id": ""
+}

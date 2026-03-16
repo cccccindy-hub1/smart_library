@@ -1,0 +1,100 @@
+{
+  "title": "Controlling Data Privacy and Security",
+  "canonical_url": "https://www.belfercenter.org/publication/controlling-data-privacy-and-security",
+  "summary": "Earlier this year, the Belfer Center’s Cyber Project embarked on an ambitious project, but one we believe is achievable: to get a federal data privacy and security law passed. Such a law will have enormous benefits for consumers, businesses, and national security. In the absence of a federal law, organizations are still free to collect, hold, process, use, and sell data however they wish. In collaboration with the R Street Institute’s Cybersecurity and Emerging Threats Team, led by Tatyana Bolton, and Cyberspace Solarium Commission’s Senior Advisor Cory Simpson, the Cyber Project is taking a focused approach to the problem.",
+  "published": "2025-06-05T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Artificial Intelligence",
+    "Cyber Project",
+    "Cyber Security"
+  ],
+  "topics": [
+    "Artificial Intelligence",
+    "Cyber Security"
+  ],
+  "tags": [
+    "Artificial Intelligence",
+    "Cyber Project",
+    "Cyber Security"
+  ],
+  "body": "Featured in the Spring 2022 Newsletter Earlier this year, the Belfer Center’s Cyber Project embarked on an ambitious project: to get a federal data privacy and security law passed. Such a law will have enormous benefits for consumers, businesses, and national security. As Belfer Center Co-Director Eric Rosenbach noted in his Senate testimony in 2019, “In the absence of a national strategy to protect Americans’ data, promote the competitiveness of American firms, and secure our information and technology infrastructure assets, the U.S. risks ceding its leadership role in the future economic, military, and political landscapes.” Yet despite years of effort and support from Industry, consumer advocates, and lawmakers on both sides of the aisle, Congress hasn’t been able to pass a law. Because there is no law, organizations are free to collect, hold, process, use, and sell data however they wish. While data is the lifeblood of technology development, the lack of rules puts consumers at risk from adversarial nations and harmful business practices. From an economic perspective, fears over the lack of privacy regulations and lack of control over citizens’ data are leading nations to turn to data localization mechanisms, harming global business. And from a national security standpoint, as we work to develop and deploy emerging technologies that require big data, it is imperative that the collection and use of data is done in a manner that is privacy-protecting, while encouraging innovation and protecting national security through strong cybersecurity. Part of doing so is through increased collaboration with allies and like-minded nations, which will be easier and more effective with a national data privacy law. Meanwhile, several states have started to understand the urgency around these issues. While this is positive in one sense—states taking legislative action to protect their residents—the result is a patchwork of laws that are cumbersome for businesses and organizations to navigate. Moreover, as a consumer, it is not beneficial to have varying rights when traveling between states. The time to pass a federal law is now—before the scales tip too far and the political will to get something done evaporates. In collaboration with the R Street Institute’s Cybersecurity and Emerging Threats Team, led by Tatyana Bolton , and Cyberspace Solarium Commission’s Senior Advisor Cory Simpson , the Cyber Project is taking a focused approach to the problem. While the main bills on the table, both from Democrats and Republicans, are largely aligned in principle and process, there are some major roadblocks preventing progress: the issues of Preemption of State Law, Private Right of Action, and the Role of the Federal Trade Commission. The Cyber Project and team's goal is to get bipartisan, external consensus on each of these issues. The strategy is to dive deep on these issues and provide recommendations for pathways forward within each. After more than 50 conversations with external stakeholders from industry, consumer advocacy groups, think tanks, Congress, and former executive branch officials, detailed recommendations will be released soon. Preliminary findings are available here . The latest from Belfer See more Recommended citation \"Controlling Data Privacy and Security.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School (Spring 2022). Copy to Clipboard Controlling Data Privacy and Security View Citation Print Artificial Intelligence Cyber Project Cyber Security Recommended citation \"Controlling Data Privacy and Security.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School (Spring 2022). Copy to Clipboard Author Lauren Zabierek More From This Expert We All Play a Role in Creating a Culture of Belonging and Diversity The New Frontier of Democratic Self-Defense Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:45:50+00:00",
+    "prompt_hash": "aab51dfc67a4119fcc6c409fd42d3f4126cdfff4",
+    "result": {
+      "main_content_en": "The article discusses the urgent need for a comprehensive federal data privacy and security law in the United States. It highlights that despite bipartisan support and industry backing, Congress has failed to pass such legislation, leaving organizations free to handle data without uniform rules. This absence poses risks to consumers from adversarial nations and harmful business practices, encourages data localization that harms global commerce, and undermines national security as emerging technologies rely on big data. The piece notes that while some states have enacted their own laws, this creates a confusing patchwork. The Belfer Center's Cyber Project, in collaboration with other organizations, is focusing on overcoming key legislative roadblocks—namely Preemption of State Law, Private Right of Action, and the Role of the Federal Trade Commission—by building bipartisan consensus and providing detailed recommendations based on extensive stakeholder consultations.",
+      "main_content_zh": "本文阐述了美国亟需制定一部全面的联邦数据隐私与安全法律。文章指出，尽管得到两党、行业和消费者的支持，国会仍未能通过相关立法，导致组织可以随意收集、持有、处理和出售数据，缺乏统一规则。这种法律缺失使消费者面临来自敌对国家和有害商业行为的风险，促使各国采取数据本地化措施从而损害全球商业，并在依赖大数据的新兴技术发展中危及国家安全。文章提到，虽然一些州已自行立法，但这形成了繁琐且不一致的法律拼凑，给企业和消费者带来不便。贝尔弗中心网络项目正与其他机构合作，专注于解决阻碍立法进程的核心争议点：州法律优先权、私人诉讼权以及联邦贸易委员会的角色。其目标是通过与产业界、消费者倡导团体、智库及政府官员的广泛磋商，就这些问题达成两党共识并提出详细建议，以推动联邦法律的通过。",
+      "keywords_en": [
+        "federal data privacy law",
+        "data security",
+        "national security",
+        "data localization",
+        "emerging technologies",
+        "big data",
+        "cybersecurity",
+        "preemption of state law",
+        "private right of action",
+        "Federal Trade Commission",
+        "bipartisan consensus",
+        "consumer advocacy",
+        "legislative roadblocks",
+        "information infrastructure",
+        "global business",
+        "adversarial nations",
+        "harmful business practices",
+        "innovation",
+        "stakeholder consultations",
+        "regulatory patchwork"
+      ],
+      "keywords_zh": [
+        "联邦数据隐私法",
+        "数据安全",
+        "国家安全",
+        "数据本地化",
+        "新兴技术",
+        "大数据",
+        "网络安全",
+        "州法律优先权",
+        "私人诉讼权",
+        "联邦贸易委员会",
+        "两党共识",
+        "消费者权益倡导",
+        "立法障碍",
+        "信息基础设施",
+        "全球商业",
+        "敌对国",
+        "有害商业行为",
+        "创新",
+        "利益相关方磋商",
+        "法规拼凑"
+      ],
+      "topic_words_en": [
+        "Data Privacy",
+        "Cybersecurity Policy",
+        "Federal Legislation",
+        "Technology Governance",
+        "National Strategy"
+      ],
+      "topic_words_zh": [
+        "数据隐私",
+        "网络安全政策",
+        "联邦立法",
+        "技术治理",
+        "国家战略"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

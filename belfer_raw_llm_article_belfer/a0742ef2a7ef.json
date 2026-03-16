@@ -1,0 +1,99 @@
+{
+  "title": "Lauren Zabierek: Times of Uncertainty Create Opportunities for Bad Cyber Actors",
+  "canonical_url": "https://www.belfercenter.org/publication/lauren-zabierek-times-uncertainty-create-opportunities-bad-cyber-actors",
+  "summary": "Lauren Zabierek: Times of Uncertainty Create Opportunities for Bad Cyber Actors",
+  "published": "2020-03-30T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Cyber Project",
+    "Cyber Security",
+    "Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Cyber Security",
+    "Global Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Cyber Project",
+    "Cyber Security",
+    "Global Health"
+  ],
+  "body": "Times of uncertainty create opportunities for bad actors in the #cyber realm, says @LZXDC . @BelferCyber pic.twitter.com/IQmq32REeM — Belfer Center (@BelferCenter) March 30, 2020 Lauren Zabierek: Times of Uncertainty Create Opportunities for Bad Cyber Actors Print Coronavirus Cyber Project Cyber Security Global Health Related Lauren Zabierek More From This Expert We All Play a Role in Creating a Culture of Belonging and Diversity The New Frontier of Democratic Self-Defense Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-03-30T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:21:19+00:00",
+    "prompt_hash": "1c8c61655b34d694712522e1e7f38659732325bc",
+    "result": {
+      "main_content_en": "Lauren Zabierek highlights that periods of global uncertainty, such as the COVID-19 pandemic, create significant opportunities for malicious cyber actors. These actors exploit heightened public anxiety, increased remote work, and strained healthcare systems to launch targeted attacks. The article, part of the Belfer Center's Cyber Project, emphasizes the intersection of cybersecurity with global health crises. It discusses how threat actors use phishing, misinformation campaigns, and attacks on critical infrastructure, particularly in the health sector, to achieve their goals. The piece underscores the need for robust cyber defenses and international cooperation during such crises to protect sensitive data and maintain public trust in digital systems.",
+      "main_content_zh": "劳伦·扎比雷克指出，全球不确定时期，例如COVID-19大流行，为恶意网络行为者创造了重要机会。这些行为者利用公众焦虑加剧、远程工作普及和医疗系统压力，发动针对性攻击。本文作为贝尔弗中心网络项目的一部分，强调了网络安全与全球健康危机的交叉点。文章讨论了威胁行为者如何利用网络钓鱼、虚假信息活动以及对关键基础设施（尤其是卫生部门）的攻击来实现其目标。文章强调，在此类危机期间，需要建立强大的网络防御体系并加强国际合作，以保护敏感数据并维持公众对数字系统的信任。",
+      "keywords_en": [
+        "cybersecurity",
+        "uncertainty",
+        "bad actors",
+        "COVID-19",
+        "phishing",
+        "misinformation",
+        "critical infrastructure",
+        "healthcare",
+        "remote work",
+        "Belfer Center",
+        "Cyber Project",
+        "global health",
+        "cyber attacks",
+        "threat actors",
+        "international cooperation",
+        "public trust",
+        "digital systems",
+        "exploitation",
+        "anxiety",
+        "pandemic"
+      ],
+      "keywords_zh": [
+        "网络安全",
+        "不确定性",
+        "恶意行为者",
+        "COVID-19",
+        "网络钓鱼",
+        "虚假信息",
+        "关键基础设施",
+        "医疗保健",
+        "远程工作",
+        "贝尔弗中心",
+        "网络项目",
+        "全球健康",
+        "网络攻击",
+        "威胁行为者",
+        "国际合作",
+        "公众信任",
+        "数字系统",
+        "漏洞利用",
+        "焦虑",
+        "大流行"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "Global Health Crisis",
+        "Cyber Threats"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "全球健康危机",
+        "网络威胁"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

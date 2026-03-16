@@ -1,0 +1,83 @@
+{
+  "title": "Jennifer Lerner on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/jennifer-lerner-office-hours-podcast",
+  "summary": "Social psychologist Jennifer Lerner, the Navy’s first Chief Decision Scientist and a Harvard Kennedy School professor, sits down with with Aroop Mukharji to talk about decision science, leadership, and the sunk cost bias.",
+  "published": "2019-03-12T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Jennifer Lerner on Office Hours Podcast Print Related Jennifer Lerner More From This Expert Leadership is Associated with Lower Levels of Stress Related Aroop Mukharji More From This Expert The Meddler’s Trap: McKinley, the Philippines, and the Difficulty of Letting Go Bound to Happen: Explanation Bias in Historical Analysis",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-03-12T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:35:38+00:00",
+    "prompt_hash": "a6cc68ca479df5bb0ffbde586dbe72da96d27f7f",
+    "result": {
+      "main_content_en": "The article presents an interview with Jennifer Lerner, a professor at Harvard Kennedy School, on the Office Hours Podcast. It focuses on her research into the science of judgment and decision-making, particularly within high-stakes environments like government and public policy. Lerner discusses the systematic biases and emotional influences that can impair decision-making among leaders and policymakers. Her work applies psychological principles to improve the quality and rationality of critical choices, aiming to develop evidence-based strategies for reducing error and enhancing outcomes in leadership contexts. The discussion likely covers concepts from behavioral science as they relate to organizational behavior and public administration.",
+      "main_content_zh": "本文介绍了哈佛肯尼迪学院教授詹妮弗·勒纳在《办公时间》播客中的访谈内容。访谈聚焦于她对判断与决策科学的研究，特别是在政府与公共政策等高风险环境中的应用。勒纳探讨了影响领导者和政策制定者决策的系统性偏见与情感因素。她的工作旨在运用心理学原理，提升关键决策的质量与理性，开发基于证据的策略以减少领导情境中的错误并改善结果。讨论可能涉及行为科学中与组织行为和公共管理相关的概念。",
+      "keywords_en": [
+        "judgment",
+        "decision-making",
+        "behavioral science",
+        "cognitive bias",
+        "leadership",
+        "public policy",
+        "high-stakes environments",
+        "emotional influence",
+        "rationality",
+        "evidence-based strategies",
+        "systematic error",
+        "organizational behavior",
+        "psychological principles",
+        "policy analysis",
+        "risk assessment",
+        "heuristics",
+        "government",
+        "administrative science",
+        "choice architecture",
+        "critical thinking"
+      ],
+      "keywords_zh": [
+        "判断",
+        "决策",
+        "行为科学",
+        "认知偏差",
+        "领导力",
+        "公共政策",
+        "高风险环境",
+        "情感影响",
+        "理性",
+        "循证策略",
+        "系统性错误",
+        "组织行为",
+        "心理学原理",
+        "政策分析",
+        "风险评估",
+        "启发法",
+        "政府",
+        "管理科学",
+        "选择架构",
+        "批判性思维"
+      ],
+      "topic_words_en": [
+        "Behavioral Science",
+        "Decision Theory",
+        "Leadership Psychology"
+      ],
+      "topic_words_zh": [
+        "行为科学",
+        "决策理论",
+        "领导心理学"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "William Rapp on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/william-rapp-office-hours-podcast",
+  "summary": "Retired Army Major General William Rapp, former Commandant of both the United States Military Academy and the U.S. Army War College, and currently the Faculty Chair of the Belfer Center’s National Security Fellows Program, sits down with with Aroop Mukharji to talk about civilian-military relations, congressional oversight, and the biggest adjustments to civilian life.",
+  "published": "2019-01-11T12:00:00Z",
+  "authors": [
+    "Nicholas D Anderson",
+    "Daryl Press"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Defense Project",
+    "Military policy"
+  ],
+  "topics": [
+    "Military policy"
+  ],
+  "tags": [
+    "Defense Project",
+    "Military policy"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more William Rapp on Office Hours Podcast Print Defense Project Military policy Related William Rapp Related Aroop Mukharji More From This Expert The Meddler’s Trap: McKinley, the Philippines, and the Difficulty of Letting Go Bound to Happen: Explanation Bias in Historical Analysis Up Next Photo Credit Toggle U.S. Indo-Pacific Command via AP Article Access Denied? The Sino-American Contest for Military Primacy in Asia Summer 2025 by Nicholas D Anderson and Daryl Press From International Security Program Photo Credit Toggle AP Photo Article The U.S.-China Military Balance in Space: Implications for Future Warfare in the Pacific Spring 2025 by Zachary Burdette Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-01-11T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:37:30+00:00",
+    "prompt_hash": "c9d88b3f169834ad646b3bfdb1f202b1e688bf37",
+    "result": {
+      "main_content_en": "The article, part of the Office Hours Podcast series, features an episode with William Rapp. It is published by the Belfer Center's Defense Project and focuses on military policy. The content is situated within a broader context of U.S.-China strategic competition, as indicated by references to related articles on topics such as military primacy in Asia and the military balance in space. The discussion likely centers on defense strategy, geopolitical analysis, and the implications of technological and military developments for future warfare, particularly in the Indo-Pacific region. The piece serves as an expert commentary segment within a larger repository of policy research and analysis.",
+      "main_content_zh": "本文是《Office Hours Podcast》系列的一部分，以威廉·拉普（William Rapp）为主角的一期节目。该内容由贝尔弗中心（Belfer Center）的国防项目（Defense Project）发布，核心主题是军事政策。文章背景置于更广泛的中美战略竞争框架下，文中提及的相关文章涉及亚洲军事主导权、太空军事平衡等议题。讨论很可能围绕国防战略、地缘政治分析，以及技术和军事发展对未来战争（尤其是在印太地区）的影响展开。该文章属于一个更大的政策研究与分析库中的专家评论部分。",
+      "keywords_en": [
+        "Office Hours Podcast",
+        "William Rapp",
+        "Belfer Center",
+        "Defense Project",
+        "Military Policy",
+        "U.S.-China Competition",
+        "Military Primacy",
+        "Indo-Pacific",
+        "Space Warfare",
+        "Defense Strategy",
+        "Geopolitical Analysis",
+        "International Security",
+        "Strategic Competition",
+        "Future Warfare",
+        "Expert Commentary"
+      ],
+      "keywords_zh": [
+        "Office Hours Podcast",
+        "威廉·拉普",
+        "贝尔弗中心",
+        "国防项目",
+        "军事政策",
+        "中美竞争",
+        "军事主导权",
+        "印太地区",
+        "太空战",
+        "国防战略",
+        "地缘政治分析",
+        "国际安全",
+        "战略竞争",
+        "未来战争",
+        "专家评论"
+      ],
+      "topic_words_en": [
+        "Military Policy",
+        "U.S.-China Relations",
+        "Defense Analysis"
+      ],
+      "topic_words_zh": [
+        "军事政策",
+        "中美关系",
+        "防务分析"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

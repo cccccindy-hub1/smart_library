@@ -1,0 +1,101 @@
+{
+  "title": "Questions from Quarantine: Pandemic Family Management and Women Leaving the Workforce",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-pandemic-family-management-and-women-leaving-workforce",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-10-21T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine. Questions from Quarantine: Pandemic Family Management and Women Leaving the Workforce Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-10-21T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:03:53+00:00",
+    "prompt_hash": "b378f0c78a1617b881f4c91a137d6c3e39a623bd",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux, addressing audience questions submitted via social media with the hashtag #QuestionsFromQuarantine. The series provides guidance on managing personal and family well-being during the COVID-19 pandemic, focusing on practical advice for maintaining sanity and hygiene amid global crisis conditions. A specific episode highlighted the topic of pandemic family management and its disproportionate impact on women, linking to broader concerns about women leaving the workforce due to increased caregiving burdens. The article context includes related expert commentary on supply chain management, event safety planning, and public health issues like the H3N2 influenza variant, positioning the discussion within ongoing policy debates about pandemic response, gender equity, and workforce stability.",
+      "main_content_zh": "安全与全球健康项目每周举办网络系列节目，由安全专家朱丽叶·凯耶姆和医学专家玛格丽特·布尔多博士主持，通过社交媒体标签#QuestionsFromQuarantine收集并回答观众提问。该系列旨在为全球危机中的个人与家庭提供保持心理平衡与卫生的实用建议。其中一期特别关注疫情下的家庭管理及其对女性的不成比例影响，关联到因照料负担加重导致女性退出劳动力市场的广泛社会问题。文章背景还涉及供应链管理、大型活动安全规划等相关专家评论，以及H3N2流感变种等公共卫生议题，将讨论置于疫情应对、性别平等和劳动力市场稳定等持续政策辩论的框架之中。",
+      "keywords_en": [
+        "quarantine",
+        "pandemic management",
+        "workforce participation",
+        "caregiving burden",
+        "gender equity",
+        "public health crisis",
+        "family well-being",
+        "remote advice",
+        "social media engagement",
+        "global health security",
+        "crisis response",
+        "mental health",
+        "hygiene practices",
+        "expert commentary",
+        "policy debate",
+        "influenza variant",
+        "supply chain",
+        "event safety",
+        "women's employment",
+        "telehealth"
+      ],
+      "keywords_zh": [
+        "隔离",
+        "疫情管理",
+        "劳动力参与",
+        "照料负担",
+        "性别平等",
+        "公共卫生危机",
+        "家庭福祉",
+        "远程建议",
+        "社交媒体互动",
+        "全球健康安全",
+        "危机应对",
+        "心理健康",
+        "卫生实践",
+        "专家评论",
+        "政策辩论",
+        "流感变种",
+        "供应链",
+        "活动安全",
+        "女性就业",
+        "远程医疗"
+      ],
+      "topic_words_en": [
+        "pandemic response",
+        "gender and work",
+        "public health communication",
+        "crisis family dynamics"
+      ],
+      "topic_words_zh": [
+        "疫情应对",
+        "性别与工作",
+        "公共卫生传播",
+        "危机家庭动态"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

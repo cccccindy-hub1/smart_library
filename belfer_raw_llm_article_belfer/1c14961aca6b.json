@@ -1,0 +1,87 @@
+{
+  "title": "Risk Reduction for the Unvaccinated",
+  "canonical_url": "https://www.belfercenter.org/publication/risk-reduction-unvaccinated",
+  "summary": "The U.S. has now entered a new phase of the pandemic – this time a preventable fourth surge fueled by the highly transmissible Delta variant. Here are ways you can reduce your risk.",
+  "published": "2021-07-29T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "The U.S. has now entered a new phase of the pandemic – this time a preventable fourth surge fueled by the highly transmissible Delta variant. Nearly 97 percent of hospitalized COVID-19 patients have not been vaccinated. A stark reminder of the divide among vaccinated and the unvaccinated. The COVID-19 vaccine is the leading public health prevention strategy along with layered risk reduction measures as described in the “Risk Reduction for the Unvaccinated” table below. The importance of these measures increases as a function of the prevalence of infection in a given area. Unvaccinated individuals in places where community transmission is substantial (>50 cases per 100,000 population) and high (>100 cases per 100,000 population) face significant exposure risk. The latest from Belfer See more Recommended citation Madad, Syra and Amesh Adalja. “Risk Reduction for the Unvaccinated.” Belfer Center for Science and International Affairs, Harvard Kennedy School , July 29, 2021 Copy to Clipboard Risk Reduction for the Unvaccinated View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra and Amesh Adalja. “Risk Reduction for the Unvaccinated.” Belfer Center for Science and International Affairs, Harvard Kennedy School , July 29, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Amesh Adalja More From This Expert Technology Factsheet: Vaccine Platforms Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-07-29T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:53:26+00:00",
+    "prompt_hash": "b2b6ca8141795fe6592a8b92e6fc821bc0374f55",
+    "result": {
+      "main_content_en": "The United States is experiencing a preventable fourth surge of the COVID-19 pandemic, driven by the highly transmissible Delta variant. A stark divide exists between vaccinated and unvaccinated individuals, with nearly 97% of hospitalized patients being unvaccinated. The COVID-19 vaccine remains the primary public health prevention strategy. For the unvaccinated, layered risk reduction measures are critical, especially in areas with substantial or high community transmission (exceeding 50 or 100 cases per 100,000 population, respectively). The importance of these protective measures increases directly with the local prevalence of infection, highlighting the significant exposure risk faced by unvaccinated individuals in high-transmission zones.",
+      "main_content_zh": "美国正经历由高传染性德尔塔变种驱动的、本可预防的第四波疫情。疫苗接种者与未接种者之间存在显著鸿沟，近97%的住院患者未接种疫苗。新冠疫苗是首要的公共卫生预防策略。对于未接种疫苗的个体，采取分层的风险降低措施至关重要，特别是在社区传播达到“显著”（每10万人超过50例）或“高”（每10万人超过100例）水平的地区。这些保护措施的重要性与当地感染流行率直接相关，凸显了未接种疫苗者在高传播区域面临的重大暴露风险。文章强调了在疫苗覆盖不足的情况下，结合多种防护手段以减少感染风险的必要性。",
+      "keywords_en": [
+        "Delta variant",
+        "community transmission",
+        "unvaccinated",
+        "risk reduction",
+        "public health prevention",
+        "layered measures",
+        "hospitalization rate",
+        "exposure risk",
+        "prevalence of infection",
+        "preventable surge",
+        "vaccine strategy",
+        "case rate",
+        "pandemic phase",
+        "protective measures",
+        "transmission level"
+      ],
+      "keywords_zh": [
+        "德尔塔变种",
+        "社区传播",
+        "未接种疫苗者",
+        "风险降低",
+        "公共卫生预防",
+        "分层措施",
+        "住院率",
+        "暴露风险",
+        "感染流行率",
+        "可预防的激增",
+        "疫苗策略",
+        "病例率",
+        "大流行阶段",
+        "防护措施",
+        "传播水平"
+      ],
+      "topic_words_en": [
+        "COVID-19",
+        "Vaccination",
+        "Public Health Policy"
+      ],
+      "topic_words_zh": [
+        "新冠肺炎",
+        "疫苗接种",
+        "公共卫生政策"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

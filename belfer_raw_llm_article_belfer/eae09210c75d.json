@@ -1,0 +1,96 @@
+{
+  "title": "Kelly Greenhill on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/kelly-greenhill-office-hours-podcast",
+  "summary": "Kelly Greenhill, an Associate Professor at Tufts University and a Research Fellow with the Belfer Center’s International Security Project, talks with Aroop Mukharji (@aroopmukharji) about refugees, building walls, R2P, and weapons of mass migration.",
+  "published": "2016-10-03T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense"
+  ],
+  "tags": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense",
+    "Middle East & North Africa"
+  ],
+  "body": "Kelly M. Greenhill is a research fellow in the Belfer Center's International Security Program and an Associate Professor (with tenure) at Tufts University. Her research focuses on foreign policy, the use of military force, and what are frequently called \"new security challenges,\" including civil wars; the use of forced migration as a weapon; military intervention and (counter-) insurgency; and international crime as a challenge to domestic governance. She holds a Ph.D. and an S.M. from M.I.T., a C.S.S. from Harvard University, and a B.A. (with distinction and highest honors) in Political Economy and in Scandinavian Studies from the University of California at Berkeley. Greenhill also serves as Chair of the Conflict, Security, and Public Policy Working Group at the International Security Program and as Associate Editor of the journal International Security . The latest from Belfer See more Kelly Greenhill on Office Hours Podcast Print Conflict & Conflict Resolution International Security & Defense Middle East & North Africa Related Kelly M. Greenhill More From This Expert When Migrants Become Weapons: The Long History and Worrying Future of a Coercive Tactic The Power and Limits of Compellence: A Research Note Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-10-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:14:43+00:00",
+    "prompt_hash": "2578700198297068d83c3f4928a805f09e096b74",
+    "result": {
+      "main_content_en": "Kelly M. Greenhill is a research fellow at the Belfer Center's International Security Program and a tenured associate professor at Tufts University. Her research expertise encompasses foreign policy, the use of military force, and 'new security challenges.' These challenges include civil wars, the strategic use of forced migration as a weapon, military intervention and counter-insurgency, and international crime as a threat to domestic governance. She holds advanced degrees from MIT and Harvard and a BA from UC Berkeley. Greenhill also chairs the Conflict, Security, and Public Policy Working Group and is an associate editor for the journal International Security. The article references her appearance on the 'Office Hours' podcast, situating her work within broader discussions on conflict resolution and international security.",
+      "main_content_zh": "凯莉·M·格林希尔是贝尔弗中心国际安全项目的研究员，也是塔夫茨大学的终身副教授。她的研究专注于外交政策、军事力量的使用以及所谓的“新安全挑战”。这些挑战包括内战、将强迫移民作为武器的策略性运用、军事干预与反叛乱，以及作为国内治理威胁的国际犯罪。她拥有麻省理工学院和哈佛大学的高级学位，以及加州大学伯克利分校的政治经济学和斯堪的纳维亚研究学士学位。格林希尔还担任国际安全项目中冲突、安全与公共政策工作小组的主席，并且是《国际安全》期刊的副主编。本文提及她参与“Office Hours”播客节目，将她的研究置于冲突解决和国际安全的更广泛讨论框架内。",
+      "keywords_en": [
+        "Kelly Greenhill",
+        "Belfer Center",
+        "International Security Program",
+        "foreign policy",
+        "military force",
+        "new security challenges",
+        "civil wars",
+        "forced migration",
+        "weapon",
+        "military intervention",
+        "counter-insurgency",
+        "international crime",
+        "domestic governance",
+        "Tufts University",
+        "research fellow",
+        "associate professor",
+        "Conflict Security Public Policy Working Group",
+        "International Security journal"
+      ],
+      "keywords_zh": [
+        "凯莉·格林希尔",
+        "贝尔弗中心",
+        "国际安全项目",
+        "外交政策",
+        "军事力量",
+        "新安全挑战",
+        "内战",
+        "强迫移民",
+        "武器",
+        "军事干预",
+        "反叛乱",
+        "国际犯罪",
+        "国内治理",
+        "塔夫茨大学",
+        "研究员",
+        "副教授",
+        "冲突安全公共政策工作小组",
+        "《国际安全》期刊"
+      ],
+      "topic_words_en": [
+        "International Security",
+        "Conflict Resolution",
+        "Foreign Policy",
+        "Migration",
+        "Military Strategy"
+      ],
+      "topic_words_zh": [
+        "国际安全",
+        "冲突解决",
+        "外交政策",
+        "移民",
+        "军事战略"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

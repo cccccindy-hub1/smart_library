@@ -1,0 +1,104 @@
+{
+  "title": "Exploring a World of AI Hackers",
+  "canonical_url": "https://www.belfercenter.org/publication/exploring-world-ai-hackers",
+  "summary": "Bruce Schneier warns that AIs are becoming hackers. They're able to find exploitable vulnerabilities in software code. They're still not very good at it, but they'll get better. It's the kind of problem that lends itself to modern machine learning techniques: an enormous amount of input data, pattern matching, and goals that permit reinforcement. We have every reason to believe that AIs will continue to get better at this task and will soon surpass humans. They'll even come up with hacks that we humans would judge creative.",
+  "published": "2025-06-05T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Artificial Intelligence",
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Artificial Intelligence",
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology"
+  ],
+  "tags": [
+    "Artificial Intelligence",
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "Featured in the Belfer Center Spring 2021 Newsletter » The latest from Belfer See more AIs are becoming hackers. They're able to find exploitable vulnerabilities in software code. They're still not very good at it, but they'll get better. It's the kind of problem that lends itself to modern machine learning techniques: an enormous amount of input data, pattern matching, and goals that permit reinforcement. We have every reason to believe that AIs will continue to get better at this task, and will soon surpass humans. They'll even come up with hacks that we humans would judge creative. Software isn't the only code that could be hacked by AIs. The tax code consists of rules — algorithms — with inputs and outputs. Humans already hack the tax code. We call what they find \"loopholes,\" and their exploits \"tax avoidance strategies.\" And we call the hackers \"tax accounts\" or \"tax attorneys.\" There's no reason to think that an AI can't be trained on the country's — or the world's — tax laws, government opinions, and court rulings. Or on the laws and rules of financial markets. Or of legislative processes, or elections. And when they are, what sorts of novel hacks will they discover? And how will that affect our society? I just published an essay with the Belfer Center's Cybersecurity Project and the Council for the Responsible Use of AI that explores this question. In \" The Coming AI Hackers ,\" I generalize the notion of hacking to include these broader social systems, and then look at how AIs are hacking us humans and then how they might hack human systems of governance. Along the way, I discuss Google's Go-playing AI, robot dogs, King Midas, and genies—be very careful how you word your desires—and Deep Thought's answer to \"the ultimate question to life, the universe, and everything.\" AI vulnerability finding can benefit the defender. A software company could employ these tools to secure its own code before release. We can imagine a time when software vulnerabilities are a thing of the past. But the transition period will be dangerous: all the legacy code will be vulnerable, and patching it will be difficult or impossible. We can also imagine the same trajectory for other systems. New tax laws could be tested for loopholes. It doesn't mean they'll be patched, of course, but they will become part of the debate. But here, again, I worry about the transition period, when newly capable AIs are turned loose on our legacy rules. We don't have governance structures that can deal with an AI who finds hundreds of loopholes in our tax laws, or in the regulations that govern financial markets. That level of abuse will overwhelm the underlying systems. How realistic any of this is depends a lot on the details, and I explore that in the essay. The summary is that while this is still science fiction, it's not stupid science fiction. And we should start thinking about the implications of AI hackers now, before they become reality. Recommended citation \"Exploring a World of AI Hackers.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2021) Copy to Clipboard Exploring a World of AI Hackers View Citation Print Artificial Intelligence Cyber Project Cyber Security Information Technology Science & Technology Science, Technology, and Public Policy Recommended citation \"Exploring a World of AI Hackers.\" Belfer Center Newsletter, Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2021) Copy to Clipboard Author Bruce Schneier Request Interview More From This Expert Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Reimagining Democracy Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:55:29+00:00",
+    "prompt_hash": "27e5f44513a8780d4d04a80d1115375af0eb81e2",
+    "result": {
+      "main_content_en": "Artificial intelligence systems are evolving into hackers capable of identifying exploitable vulnerabilities in software code. While currently limited, their proficiency is expected to surpass human capabilities due to the suitability of machine learning for pattern matching and reinforcement in such tasks. This concept extends beyond software to societal systems governed by rules and algorithms, such as tax codes, financial regulations, and legislative processes. AI could be trained on these vast datasets to discover novel 'loopholes' or exploits. The transition period poses significant risks, as legacy systems may be overwhelmed by AI-discovered vulnerabilities before robust governance structures are established. While defensive uses, like pre-release code security testing, offer benefits, proactive consideration of the societal implications is crucial before these capabilities become a widespread reality.",
+      "main_content_zh": "人工智能系统正在演变为能够识别软件代码中可利用漏洞的“黑客”。尽管目前能力有限，但由于机器学习在模式识别和强化学习方面的适用性，其在此类任务上的熟练度预计将超越人类。这一概念超越了软件范畴，延伸至由规则和算法治理的社会系统，例如税法、金融法规和立法程序。人工智能可以在这些庞大的数据集上进行训练，以发现新颖的“漏洞”或利用方法。过渡时期存在重大风险，因为在建立稳健的治理结构之前，遗留系统可能被人工智能发现的漏洞所淹没。虽然防御性用途（如发布前的代码安全测试）带来了好处，但在这些能力成为普遍现实之前，主动考虑其社会影响至关重要。文章强调，尽管这目前仍带有科幻色彩，但并非无稽之谈，需要从现在开始思考应对策略。",
+      "keywords_en": [
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Machine Learning",
+        "Vulnerabilities",
+        "Software Code",
+        "Tax Code",
+        "Loopholes",
+        "Governance",
+        "Reinforcement Learning",
+        "Pattern Matching",
+        "Legacy Systems",
+        "Financial Regulations",
+        "Algorithmic Exploitation",
+        "Social Systems",
+        "Transition Period",
+        "Policy",
+        "Risk",
+        "Hackers",
+        "Defense",
+        "Exploits"
+      ],
+      "keywords_zh": [
+        "人工智能",
+        "网络安全",
+        "机器学习",
+        "漏洞",
+        "软件代码",
+        "税法",
+        "漏洞利用",
+        "治理",
+        "强化学习",
+        "模式匹配",
+        "遗留系统",
+        "金融监管",
+        "算法利用",
+        "社会系统",
+        "过渡期",
+        "政策",
+        "风险",
+        "黑客",
+        "防御",
+        "攻击"
+      ],
+      "topic_words_en": [
+        "AI Security",
+        "Algorithmic Governance",
+        "Societal Risk"
+      ],
+      "topic_words_zh": [
+        "人工智能安全",
+        "算法治理",
+        "社会风险"
+      ],
+      "relevance_score": 0.95
+    }
+  }
+}

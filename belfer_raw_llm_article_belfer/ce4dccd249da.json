@@ -1,0 +1,92 @@
+{
+  "title": "Graham Allison on An Intelligent Way to Reopen",
+  "canonical_url": "https://www.belfercenter.org/publication/graham-allison-intelligent-way-reopen",
+  "summary": "We can reopen in an intelligent way while going further to protect the most vulnerable, says Graham Allison.",
+  "published": "2020-04-29T12:00:00Z",
+  "authors": [
+    "Jeffrey Frankel"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Economic Policy",
+    "Economics & Global Affairs",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Economic Policy",
+    "Economics & Global Affairs",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Economic Policy",
+    "Economics & Global Affairs",
+    "Public Health"
+  ],
+  "body": "We can #reopen in an intelligent way while going further to protect the most vulnerable, says @GrahamTAllison : https://t.co/9FTxxts8Nn #coronavirus #COVID19 pic.twitter.com/wJxnrdzQUg — Belfer Center (@BelferCenter) April 29, 2020 We can reopen in an intelligent way while going further to protect the most vulnerable, says Graham Allison. Graham Allison on An Intelligent Way to Reopen Print Coronavirus Economic Policy Economics & Global Affairs Public Health Related Graham Allison Request Interview More From This Expert Mushrooming: Tackling Growing Nuclear Proliferation Risk Escaping Thucydides’s Trap in China-U.S. Relations Up Next Blog Post Why didn't Trump's tariffs crash the economy in 2025? Dec. 31, 2025 by Jeffrey Frankel Photo Credit Toggle via AP Newsroom Policy Briefs What Lifting U.S. Sanctions Means for Syria’s Transition Dec. 23, 2025 by Ibrahim Al-Assil Blog Post How Will Unsustainable US Debt End? Nov. 30, 2025 by Jeffrey Frankel",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-29T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:16:55+00:00",
+    "prompt_hash": "3e5b44ce488822e7a53a17c3898ecbae1981f341",
+    "result": {
+      "main_content_en": "The article discusses Graham Allison's perspective on implementing an intelligent strategy to reopen society during the COVID-19 pandemic. The core argument emphasizes that reopening can proceed in a measured, data-driven manner while simultaneously enhancing protections for the most vulnerable populations. This approach seeks to balance economic recovery with critical public health imperatives, moving beyond a simplistic binary choice between total lockdown and unrestricted opening. The discussion is framed within the broader context of policy responses to the coronavirus crisis, integrating considerations from economic policy, global affairs, and public health strategy to formulate a coherent and sustainable path forward.",
+      "main_content_zh": "本文阐述了格雷厄姆·艾利森关于在新冠疫情中实施智能重启策略的观点。核心论点是，社会重启可以采取一种有分寸、数据驱动的方式进行，同时加强对最脆弱人群的保护措施。这一方法旨在平衡经济复苏与关键的公共卫生需求，超越全面封锁与无限制开放之间的简单二元对立。讨论被置于应对冠状病毒危机的更广泛政策背景之下，整合了经济政策、全球事务和公共卫生战略等多方面的考量，以规划一条连贯且可持续的前进道路。",
+      "keywords_en": [
+        "reopen",
+        "intelligent strategy",
+        "vulnerable populations",
+        "COVID-19 pandemic",
+        "public health",
+        "economic recovery",
+        "data-driven",
+        "policy response",
+        "coronavirus",
+        "lockdown",
+        "protection measures",
+        "balanced approach",
+        "sustainable path",
+        "global affairs",
+        "economic policy",
+        "health imperatives"
+      ],
+      "keywords_zh": [
+        "重启",
+        "智能策略",
+        "脆弱人群",
+        "新冠疫情",
+        "公共卫生",
+        "经济复苏",
+        "数据驱动",
+        "政策应对",
+        "冠状病毒",
+        "封锁",
+        "保护措施",
+        "平衡方法",
+        "可持续路径",
+        "全球事务",
+        "经济政策",
+        "卫生需求"
+      ],
+      "topic_words_en": [
+        "Public Health Policy",
+        "Economic Recovery",
+        "COVID-19 Response"
+      ],
+      "topic_words_zh": [
+        "公共卫生政策",
+        "经济复苏",
+        "新冠疫情应对"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

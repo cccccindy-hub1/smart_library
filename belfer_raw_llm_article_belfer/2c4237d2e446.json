@@ -1,0 +1,97 @@
+{
+  "title": "Amanda Sloat on the Response to COVID-19 Around the Globe",
+  "canonical_url": "https://www.belfercenter.org/publication/amanda-sloat-response-covid-19-around-globe",
+  "summary": "Coronavirus is a shared human experience, but people are coping differently around the world. Amanda Sloat has insights from 68 countries.",
+  "published": "2020-04-22T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Europe and the Transatlantic Relationship",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Europe and the Transatlantic Relationship",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "#Coronavirus is a shared human experience, but people are coping differently around the world. @A_Sloat has insights from 68 countries. #COVID19 https://t.co/zkqnGHua6R pic.twitter.com/GxoWq1LniD — Belfer Center (@BelferCenter) April 22, 2020 Amanda Sloat on the Response to COVID-19 Around the Globe Print Coronavirus Europe and the Transatlantic Relationship Global Health Public Health Related Dr. Amanda Sloat More From This Expert Stronger Together: A Strategy to Revitalize Transatlantic Power How Will COVID-19 Affect the Transatlantic Relationship? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-22T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:17:50+00:00",
+    "prompt_hash": "9ecdedd3721b4dd690c6440a5a2b3fdc1624bcdf",
+    "result": {
+      "main_content_en": "The article, based on insights from Amanda Sloat covering 68 countries, discusses the varied global responses to the COVID-19 pandemic. While the coronavirus represents a shared human experience, nations and regions have adopted different coping mechanisms and policy approaches. The piece highlights the importance of understanding these diverse strategies within the context of global health and transatlantic relations. It situates this analysis within a broader discussion on science and technology policy, as indicated by related content on topics such as mRNA vaccine research and global governance structures, emphasizing the interconnectedness of public health crises, technological advancement, and international cooperation.",
+      "main_content_zh": "本文基于阿曼达·斯洛特对68个国家的观察，探讨了全球对COVID-19疫情的不同应对方式。尽管冠状病毒是人类共同的经历，但各国和各地区采取了各异的应对机制和政策路径。文章强调了在全球卫生和跨大西洋关系背景下理解这些多样化策略的重要性。分析被置于更广泛的科技政策讨论中，相关内容包括mRNA疫苗研究和全球治理结构等主题，凸显了公共卫生危机、技术进步与国际合作之间的相互关联性。",
+      "keywords_en": [
+        "COVID-19",
+        "Coronavirus",
+        "Global Response",
+        "Public Health",
+        "Global Health",
+        "Transatlantic Relationship",
+        "Policy Approaches",
+        "International Cooperation",
+        "Science and Technology Policy",
+        "mRNA Vaccine",
+        "Global Governance",
+        "Pandemic",
+        "Coping Mechanisms",
+        "Health Crisis",
+        "Technology Advancement",
+        "Belfer Center",
+        "Amanda Sloat"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "冠状病毒",
+        "全球应对",
+        "公共卫生",
+        "全球卫生",
+        "跨大西洋关系",
+        "政策路径",
+        "国际合作",
+        "科技政策",
+        "mRNA疫苗",
+        "全球治理",
+        "大流行",
+        "应对机制",
+        "卫生危机",
+        "技术进步",
+        "贝尔弗中心",
+        "阿曼达·斯洛特"
+      ],
+      "topic_words_en": [
+        "Global Health",
+        "Public Health Policy",
+        "COVID-19 Response",
+        "International Relations",
+        "Science Policy"
+      ],
+      "topic_words_zh": [
+        "全球卫生",
+        "公共卫生政策",
+        "COVID-19应对",
+        "国际关系",
+        "科技政策"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

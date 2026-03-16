@@ -1,0 +1,91 @@
+{
+  "title": "Back-to-School Pandemic Toolbox for Parents and Caregivers",
+  "canonical_url": "https://www.belfercenter.org/publication/back-school-pandemic-toolbox-parents-and-caregivers",
+  "summary": "Pediatric cases of COVID-19 are continuously rising in the midst of back to school re-openings. The Centers for Disease Control and Preventions updated Guidance for COVID-19 Prevention in K - 12 Schools to keep children safe through a layered prevention strategy is essential for schools to follow and consistently implement.",
+  "published": "2021-08-24T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "Pediatric cases of COVID-19 are continuously rising in the midst of back to school re-openings. The Centers for Disease Control and Preventions updated Guidance for COVID-19 Prevention in K - 12 Schools to keep children safe through a layered prevention strategy is essential for schools to follow and consistently implement. Beyond school-specific strategies, we share our back to school pandemic toolbox as parents of children under the age of twelve who are not yet eligible to be vaccinated with risk reduction measures that can be readily applied and implemented as children head back to school for in-person learning. Other respiratory infections are also on the rise like RSV and parainfluenza viruses so this toolbox can help mitigate and reduce the risk of other circulating respiratory viruses. The latest from Belfer See more Recommended citation Madad, Syra and Uzma Syed. “Back-to-School Pandemic Toolbox for Parents and Caregivers .” Belfer Center for Science and International Affairs, Harvard Kennedy School , August 24, 2021 Copy to Clipboard Back-to-School Pandemic Toolbox for Parents and Caregivers View Citation Print Coronavirus Global Health Public Health Recommended citation Madad, Syra and Uzma Syed. “Back-to-School Pandemic Toolbox for Parents and Caregivers .” Belfer Center for Science and International Affairs, Harvard Kennedy School , August 24, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Uzma Syed Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-08-24T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:52:55+00:00",
+    "prompt_hash": "189b22cf20ba0227cb79f0086b2ed5ddb9fe92ad",
+    "result": {
+      "main_content_en": "With pediatric COVID-19 cases rising during school reopenings, the article emphasizes the critical need for schools to implement the CDC's updated layered prevention strategy for K-12 settings. It specifically addresses parents and caregivers of children under twelve, who are ineligible for vaccination, by providing a practical 'pandemic toolbox' of risk reduction measures for in-person learning. This toolbox is also framed as useful for mitigating other increasing respiratory infections like RSV and parainfluenza. The piece is presented as expert guidance from the Belfer Center to help families navigate the ongoing public health challenges of the school year.",
+      "main_content_zh": "随着学校重新开学，儿童COVID-19病例持续增加。文章强调，学校必须遵循并持续实施美国疾病控制与预防中心（CDC）更新的K-12学校COVID-19预防指南，该指南通过分层预防策略保障儿童安全。文章特别针对12岁以下尚未符合疫苗接种资格的儿童的父母和看护者，分享了一个“疫情工具箱”，其中包含可立即应用和实施的风险降低措施，以应对儿童返校进行面对面学习的情况。该工具箱也有助于减轻和降低其他正在传播的呼吸道病毒（如呼吸道合胞病毒和副流感病毒）的风险。本文是贝尔弗中心提供的专家指导，旨在帮助家庭应对学年中持续的公共卫生挑战。",
+      "keywords_en": [
+        "COVID-19",
+        "pediatric cases",
+        "school reopenings",
+        "CDC Guidance",
+        "layered prevention strategy",
+        "K-12 schools",
+        "risk reduction",
+        "vaccination ineligible",
+        "respiratory infections",
+        "RSV",
+        "parainfluenza",
+        "public health",
+        "parents",
+        "caregivers",
+        "in-person learning",
+        "Belfer Center",
+        "expert guidance"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "儿童病例",
+        "学校重新开放",
+        "CDC指南",
+        "分层预防策略",
+        "K-12学校",
+        "风险降低",
+        "不符合疫苗接种资格",
+        "呼吸道感染",
+        "呼吸道合胞病毒",
+        "副流感病毒",
+        "公共卫生",
+        "父母",
+        "看护者",
+        "面对面学习",
+        "贝尔弗中心",
+        "专家指导"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Education Policy",
+        "Pandemic Response"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "教育政策",
+        "疫情应对"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

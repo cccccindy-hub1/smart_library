@@ -1,0 +1,23 @@
+{
+  "title": "New Risks in Ransomware: Supply Chain Attacks and Cryptocurrency",
+  "canonical_url": "https://www.belfercenter.org/publication/new-risks-ransomware-supply-chain-attacks-and-cryptocurrency",
+  "summary": "This paper provides an overview of the current ransomware landscape, such as the rise of Ransomware-as-a-Service (RaaS) and the increase of supply chain attacks, while also gesturing towards potential emerging solutions, such as software bill of materials (SBOM), vulnerability disclosure databases, and stricter cryptocurrency regulations.",
+  "published": "2022-05-16T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Cyber Security"
+  ],
+  "tags": [
+    "Cyber Security",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "Executive Summary With the first attack dating back to 1989, ransomware is far from a new phenomenon. However, as of late, ransomware attacks have significantly changed in nature, becoming larger, more sophisticated, and more frequent. While once a rare and petty crime, ransomware has now proliferated and quickly matured into a lucrative business with the emergence of cryptocurrencies that have facilitated large, untraceable transactions. Now, organized and often state-backed hacking groups not only perpetuate sophisticated, targeted campaigns, but also franchise the infrastructure needed to carry such campaigns and sell it as Ransomware-as-a-Service (RaaS) on the dark web. Just as concerning as the increased pace of ransomware is the emergence of a new delivery mechanism for malware that has been used in some of the most infamous ransomware attacks. As hacker groups have become increasingly sophisticated, modern software has become increasingly vulnerable to attack. Complex software must incorporate a multitude of pre-written code components from various sources, including open source code. Hacker groups can then target less secure software components, known as a supply chain attack, in order to extort a wide swath of companies or customers. Supply chain attacks are particularly dangerous if they establish a thread of control through an update package, such as the SolarWinds attack, which then provides hackers with the highest level of access to a machine’s resources. This paper seeks to provide an overview of the current ransomware landscape, such as the rise of RaaS and the increase of supply chain attacks, while also gesturing towards potential emerging solutions. While not an exhaustive list, promising solutions address the vulnerability of complex software reliant on outside code components, such as software bill of materials (SBOM) and vulnerability disclosure databases, or address the payout, such as stricter cryptocurrency regulations. The latest from Belfer See more Recommended citation Robinson , Amy, Casey Corcoran and James Waldo. “New Risks in Ransomware: Supply Chain Attacks and Cryptocurrency.” Belfer Center for Science and International Affairs, Harvard Kennedy School , May 16, 2022 Copy to Clipboard New Risks in Ransomware: Supply Chain Attacks and Cryptocurrency View Citation Print Cyber Security Science, Technology, and Public Policy Recommended citation Robinson , Amy, Casey Corcoran and James Waldo. “New Risks in Ransomware: Supply Chain Attacks and Cryptocurrency.” Belfer Center for Science and International Affairs, Harvard Kennedy School , May 16, 2022 Copy to Clipboard Author Amy Robinson More From This Expert Technical Difficulties of Contact Tracing Technology Factsheet: Machine Learning Author Casey Corcoran More From This Expert Defense Playbook for Campaigns The U.S. Isn’t Prepared to Fend Off Foreign Meddling in 2020. We Need a National Strategy Author James Waldo Request Interview More From This Expert Guns, Incels, and Algorithms: Where We Are on Managing Terrorist and Violent Extremist Content Online Technical Difficulties of Contact Tracing Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": ""
+}

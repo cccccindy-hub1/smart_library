@@ -1,0 +1,103 @@
+{
+  "title": "Questions from Quarantine: COVID-19 Perspectives, the Lack of PPE, and Staying Safe and Sane at Home",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-covid-19-perspectives-lack-ppe-and-staying-safe-and-sane-home",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and don't forget to Tweet with #QuestionsFromQuarantine for a chance to have your question featured in next week's episode!",
+  "published": "2020-03-31T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and don't forget to Tweet with #QuestionsFromQuarantine for a chance to have your question featured in next week's episode! Questions from Quarantine: COVID-19 Perspectives, the Lack of PPE, and Staying Safe and Sane at Home Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-03-31T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:20:50+00:00",
+    "prompt_hash": "d51784c83a4bafa70357d55320cbeff2f91af288",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who address audience questions submitted under the hashtag #QuestionsFromQuarantine. The series, titled 'Questions from Quarantine,' focuses on providing guidance during the COVID-19 crisis, covering topics such as perspectives on the pandemic, the critical shortage of Personal Protective Equipment (PPE), and strategies for maintaining mental and physical well-being while in isolation. The initiative aims to offer expert advice on staying safe and sane, encouraging public participation by featuring selected questions in subsequent episodes aired every Tuesday.",
+      "main_content_zh": "安全与全球健康项目推出每周网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持。该系列名为“隔离问题”，旨在回答观众通过话题标签#QuestionsFromQuarantine提交的疑问。节目聚焦于COVID-19危机期间的指导，涵盖对疫情的看法、个人防护装备严重短缺的问题，以及在隔离期间保持身心健康的方法。该项目每周二播出，通过提供专家建议，帮助公众在危机中保持安全与理智，并鼓励观众参与互动，其问题有机会在后续节目中被选中讨论。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "quarantine",
+        "COVID-19",
+        "PPE shortage",
+        "public health",
+        "mental well-being",
+        "isolation",
+        "expert advice",
+        "audience questions",
+        "global crisis",
+        "sanitary measures",
+        "safety protocols",
+        "pandemic response",
+        "health security",
+        "crisis management",
+        "public engagement",
+        "weekly episodes"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多博士",
+        "隔离",
+        "COVID-19",
+        "个人防护装备短缺",
+        "公共卫生",
+        "心理健康",
+        "隔离措施",
+        "专家建议",
+        "观众提问",
+        "全球危机",
+        "卫生措施",
+        "安全协议",
+        "疫情应对",
+        "健康安全",
+        "危机管理",
+        "公众参与",
+        "每周节目"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "COVID-19",
+        "Crisis Management",
+        "Mental Health",
+        "PPE"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "COVID-19",
+        "危机管理",
+        "心理健康",
+        "个人防护装备"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

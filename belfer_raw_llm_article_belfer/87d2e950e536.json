@@ -1,0 +1,93 @@
+{
+  "title": "Margaret MacMillan on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/margaret-macmillan-office-hours",
+  "summary": "Margaret Macmillan, Professor of History at the University of Toronto and affiliate with the Belfer Center’s Applied History Project, talks with Aroop Mukharji (@aroopmukharji) about how to identify good history, dead white man theory, and Canadian vs. U.S. donuts.",
+  "published": "2018-05-03T12:00:00Z",
+  "authors": [
+    "Oliver Yule-Smith"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Applied History Project",
+    "History"
+  ],
+  "topics": [
+    "History"
+  ],
+  "tags": [
+    "Applied History Project",
+    "History"
+  ],
+  "body": "Gallery 1 of 4 Margaret MacMillan: How Do You Know When History is Good? 2 of 4 Margaret MacMillan: Battle of the Donuts - Canada vs. U.S. 3 of 4 Margaret MacMillan: Dead White Man Theory – Unfair Criticism? 4 of 4 Margaret MacMillan: What I Miss About Canada Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Margaret MacMillan on Office Hours Print Applied History Project History Up Next Books The Problem of China in the British Foreign Office Mind December 2025 by Oliver Yule-Smith From International Security Program Photo Credit Toggle AP/Khalil Senosi, File Article From Legal Transplants to Policy Irritants: Chinese Economic Expansion and Global Legal Change Summer 2025 by Kevin Keller Photo Credit Toggle AP Photo/Boris Yurchenko, File Article To Agree or Not to Agree: Hawks, Doves, and Regime Type in International Rivalry and Rapprochement Fall 2025 by Michael A. Goldfien",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-05-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:44:27+00:00",
+    "prompt_hash": "df2d6b6b526289f8e311e1e03ea920a4b2ec5ae3",
+    "result": {
+      "main_content_en": "The article presents an interview with historian Margaret MacMillan, part of the 'Office Hours' podcast series. It touches on her perspectives regarding historical analysis, including how to assess the quality of historical work and specific historical anecdotes such as the 'Battle of the Donuts' between Canada and the U.S. The discussion also addresses critiques of historical focus, like the 'Dead White Man Theory,' and personal reflections on Canada. The content is framed within the Applied History Project, which aims to apply historical insights to contemporary policy challenges. The broader context includes references to other historical and policy research publications from the same institution, such as analyses of China's role in British foreign policy and the legal implications of Chinese economic expansion.",
+      "main_content_zh": "本文是一篇对历史学家玛格丽特·麦克米伦的访谈，隶属于“Office Hours”播客系列。内容涉及麦克米伦对历史分析的看法，包括如何评判历史著作的优劣，以及具体的历史轶事，如加美之间的“甜甜圈之战”。讨论还涉及对历史研究焦点的批评，例如“已故白人男性理论”，以及她对加拿大的个人回忆。访谈被置于“应用历史项目”的框架内，该项目旨在将历史见解应用于当代政策挑战。文章背景还提及了同一机构的其他历史与政策研究出版物，例如关于中国在英国外交政策中角色的分析，以及中国经济扩张带来的法律影响等。",
+      "keywords_en": [
+        "Applied History Project",
+        "Margaret MacMillan",
+        "historical analysis",
+        "Office Hours podcast",
+        "Battle of the Donuts",
+        "Dead White Man Theory",
+        "policy challenges",
+        "historical insights",
+        "Canada",
+        "United States",
+        "history quality",
+        "international relations",
+        "foreign policy",
+        "legal change",
+        "economic expansion",
+        "think-tank",
+        "interview",
+        "contemporary policy"
+      ],
+      "keywords_zh": [
+        "应用历史项目",
+        "玛格丽特·麦克米伦",
+        "历史分析",
+        "Office Hours播客",
+        "甜甜圈之战",
+        "已故白人男性理论",
+        "政策挑战",
+        "历史见解",
+        "加拿大",
+        "美国",
+        "历史著作质量",
+        "国际关系",
+        "外交政策",
+        "法律变革",
+        "经济扩张",
+        "智库",
+        "访谈",
+        "当代政策"
+      ],
+      "topic_words_en": [
+        "Applied History",
+        "Historical Methodology",
+        "Policy Analysis",
+        "International Relations",
+        "Podcast Interview"
+      ],
+      "topic_words_zh": [
+        "应用历史",
+        "历史方法论",
+        "政策分析",
+        "国际关系",
+        "播客访谈"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

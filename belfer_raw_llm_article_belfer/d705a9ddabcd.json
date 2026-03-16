@@ -1,0 +1,97 @@
+{
+  "title": "Questions from Quarantine: COVID-19 Post-Peak Governance",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-covid-19-post-peak-governance",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-04-29T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: COVID-19 Post-Peak Governance Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-29T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:16:42+00:00",
+    "prompt_hash": "165f698fcf96f0995dc14fc068c189cbe8ddcafe",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who address public questions submitted with the hashtag #QuestionsFromQuarantine. The series, titled 'Questions from Quarantine: COVID-19 Post-Peak Governance,' focuses on providing guidance for maintaining mental and physical well-being during the global crisis, with a specific emphasis on governance challenges after the pandemic's peak. It represents an initiative to disseminate expert advice directly to the public, leveraging social media for engagement. The content is part of a broader effort to discuss security and health policy intersections, as indicated by related expert analyses on topics such as mega-event safety and global supply chains.",
+      "main_content_zh": "安全与全球健康项目每周推出一个网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持。该系列名为“隔离期的问题：COVID-19峰值后治理”，旨在回答公众通过推特话题#QuestionsFromQuarantine提交的疑问，为全球危机期间保持身心健康提供建议，并特别关注疫情峰值后的治理挑战。这是一个通过社交媒体与公众互动、传播专家知识的倡议。该内容属于更广泛讨论安全与健康政策交叉议题的一部分，相关专家分析涉及大型活动安全规划、全球贸易供应链等主题。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "quarantine",
+        "post-peak governance",
+        "COVID-19",
+        "global crisis",
+        "public health",
+        "expert advice",
+        "social media engagement",
+        "mental well-being",
+        "physical well-being",
+        "health policy",
+        "security policy",
+        "global health",
+        "pandemic response",
+        "crisis management",
+        "public engagement"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多博士",
+        "隔离",
+        "峰值后治理",
+        "COVID-19",
+        "全球危机",
+        "公共卫生",
+        "专家建议",
+        "社交媒体互动",
+        "心理健康",
+        "身体健康",
+        "健康政策",
+        "安全政策",
+        "全球健康",
+        "疫情应对",
+        "危机管理",
+        "公众参与"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Crisis Governance",
+        "Expert Communication"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "危机治理",
+        "专家传播"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

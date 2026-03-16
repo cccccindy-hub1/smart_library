@@ -1,0 +1,103 @@
+{
+  "title": "Joseph S. Nye: U.S. and China Need a More Cooperative Security Stance",
+  "canonical_url": "https://www.belfercenter.org/publication/joseph-s-nye-us-and-china-need-more-cooperative-security-stance",
+  "summary": "Joseph S. Nye: U.S. and China Need a More Cooperative Security Stance",
+  "published": "2020-03-25T12:00:00Z",
+  "authors": [
+    "Shady ElGhazaly Harb"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "China & security",
+    "Coronavirus",
+    "Corruption",
+    "Global Health",
+    "International Security & Defense"
+  ],
+  "topics": [
+    "China & security",
+    "Coronavirus",
+    "Corruption",
+    "Global Health",
+    "International Security & Defense"
+  ],
+  "tags": [
+    "China & security",
+    "Coronavirus",
+    "Corruption",
+    "Global Health",
+    "International Security & Defense"
+  ],
+  "body": "The U.S. and China should adopt a more cooperative national security stance to fight the #COVID19 pandemic, says @Joe_Nye . #coronavirus pic.twitter.com/fzdv25eGy5 — Belfer Center (@BelferCenter) March 25, 2020 Joseph S. Nye: U.S. and China Need a More Cooperative Security Stance Print China & security Coronavirus Corruption Global Health International Security & Defense Related Joseph S. Nye More From This Expert Don't 'Jeopardize Free Speech That Is Fundamental' to Harvard, Says Prof A Life in the American Century Up Next Photo Credit Toggle (Evelyn Hockstein/Pool Photo via AP) Article Will Egypt Be the Next Syria? March 2025 by Shady ElGhazaly Harb From Middle East Initiative Photo Credit Toggle Capt. James Sheehan, U.S. Army Article The Cult of the Persuasive: Why U.S. Security Assistance Fails Winter 2022/23 by Rachel Tecott Metz Photo Credit Toggle AP/Mary Altaffer Reports & Papers Mexico’s Energy Reforms: A Blow to Realizing the Most Competitive and Dynamic Region in the World Feb. 28, 2022 by Meghan O'Sullivan",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-03-25T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:22:10+00:00",
+    "prompt_hash": "cd72a0bde238f23d6be9e7d82a352fa320fd6639",
+    "result": {
+      "main_content_en": "The article argues that the United States and China must adopt a more cooperative security stance, particularly in response to global crises like the COVID-19 pandemic. It references Joseph S. Nye's perspective that such cooperation is essential for effective pandemic response. The context includes broader discussions on international security, global health, and the challenges of corruption. The piece is framed within the Belfer Center's analysis, suggesting that adversarial postures between major powers hinder collective action against transnational threats. It touches on related topics such as free speech, security assistance, and regional energy reforms, positioning the U.S.-China relationship as central to addressing both immediate health emergencies and long-term strategic stability.",
+      "main_content_zh": "本文主张美国和中国需要采取更加合作的安保立场，尤其是在应对诸如COVID-19大流行等全球危机时。文章引用了约瑟夫·奈的观点，认为这种合作对于有效的疫情应对至关重要。背景涉及更广泛的国际安全、全球卫生以及腐败挑战的讨论。该文基于贝尔弗中心的分析框架，指出主要大国之间的对抗姿态会阻碍针对跨国威胁的集体行动。文章还提及了相关议题，如言论自由、安全援助和区域能源改革，并将美中关系置于应对紧迫卫生突发事件和长期战略稳定的核心位置。",
+      "keywords_en": [
+        "cooperative security",
+        "U.S.-China relations",
+        "COVID-19 pandemic",
+        "global health",
+        "international security",
+        "Joseph S. Nye",
+        "Belfer Center",
+        "transnational threats",
+        "strategic stability",
+        "pandemic response",
+        "adversarial posture",
+        "collective action",
+        "security assistance",
+        "corruption",
+        "energy reforms",
+        "free speech",
+        "regional stability",
+        "major powers",
+        "crisis management",
+        "health emergencies"
+      ],
+      "keywords_zh": [
+        "合作安全",
+        "美中关系",
+        "COVID-19大流行",
+        "全球卫生",
+        "国际安全",
+        "约瑟夫·奈",
+        "贝尔弗中心",
+        "跨国威胁",
+        "战略稳定",
+        "疫情应对",
+        "对抗姿态",
+        "集体行动",
+        "安全援助",
+        "腐败",
+        "能源改革",
+        "言论自由",
+        "区域稳定",
+        "主要大国",
+        "危机管理",
+        "卫生突发事件"
+      ],
+      "topic_words_en": [
+        "U.S.-China Relations",
+        "Global Health Security",
+        "International Cooperation"
+      ],
+      "topic_words_zh": [
+        "美中关系",
+        "全球卫生安全",
+        "国际合作"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

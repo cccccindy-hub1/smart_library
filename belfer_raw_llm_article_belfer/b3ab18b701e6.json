@@ -1,0 +1,97 @@
+{
+  "title": "Questions from Quarantine: Coronavirus Timeline, Coming Out of Quarantine, Zoom Drinks",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-coronavirus-timeline-coming-out-quarantine-zoom-drinks",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and don't forget to Tweet with #QuestionsFromQuarantine for a chance to have your question featured in next week's episode!",
+  "published": "2020-04-14T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "Questions from Quarantine: Coronavirus Timeline, Coming Out of Quarantine, Zoom Drinks Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:18:49+00:00",
+    "prompt_hash": "df698516b78377869ca57f63e466164e89e9cdcf",
+    "result": {
+      "main_content_en": "The article addresses key public health questions during the COVID-19 pandemic, focusing on the timeline of the coronavirus outbreak, strategies for safely transitioning out of quarantine, and the social adaptation to remote interactions such as virtual gatherings ('Zoom drinks'). It discusses the complexities of managing public health security in a globalized context, emphasizing the need for evidence-based policies to guide reopening phases and mitigate long-term societal and economic impacts. The piece situates these immediate concerns within the broader framework of global health security and pandemic preparedness.",
+      "main_content_zh": "本文探讨了新冠疫情期间的关键公共卫生问题，重点关注冠状病毒疫情的时间线、安全解除隔离的策略以及社会对远程互动（如虚拟聚会“Zoom酒会”）的适应。文章讨论了在全球化背景下管理公共卫生安全的复杂性，强调需要以证据为基础的政策来指导重新开放阶段，并减轻长期的社会和经济影响。文章将这些即时关切置于全球卫生安全和流行病防范的更广泛框架内进行分析。",
+      "keywords_en": [
+        "Coronavirus",
+        "COVID-19",
+        "Quarantine",
+        "Timeline",
+        "Public Health",
+        "Global Health",
+        "Pandemic Preparedness",
+        "Reopening",
+        "Social Distancing",
+        "Remote Interaction",
+        "Zoom",
+        "Virtual Gatherings",
+        "Health Security",
+        "Evidence-based Policy",
+        "Mitigation",
+        "Outbreak Management",
+        "Societal Impact",
+        "Economic Impact",
+        "Transition Strategy"
+      ],
+      "keywords_zh": [
+        "冠状病毒",
+        "新冠肺炎",
+        "隔离",
+        "时间线",
+        "公共卫生",
+        "全球卫生",
+        "大流行防范",
+        "重新开放",
+        "社交距离",
+        "远程互动",
+        "Zoom",
+        "虚拟聚会",
+        "卫生安全",
+        "循证政策",
+        "缓解措施",
+        "疫情管理",
+        "社会影响",
+        "经济影响",
+        "过渡策略"
+      ],
+      "topic_words_en": [
+        "Pandemic Response",
+        "Public Health Policy",
+        "Social Adaptation"
+      ],
+      "topic_words_zh": [
+        "大流行应对",
+        "公共卫生政策",
+        "社会适应"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

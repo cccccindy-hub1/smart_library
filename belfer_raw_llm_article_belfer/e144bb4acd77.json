@@ -1,0 +1,96 @@
+{
+  "title": "Elizabeth Sherwood-Randall on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/elizabeth-sherwood-randall-office-hours-podcast",
+  "summary": "Elizabeth Sherwood-Randall (@LSRTweets), former Deputy Secretary of Energy and Belfer Center Senior Fellow, talks with Aroop Mukharji (@aroopmukharji) about the mystery surrounding the Energy Department’s National Laboratories, the smart grid, the U.S. nuclear arsenal, energy sources of the future, and her favorite energy bar.",
+  "published": "2018-02-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Energy",
+    "North America",
+    "U.S. Nuclear Issues"
+  ],
+  "topics": [
+    "Energy",
+    "U.S. Nuclear Issues"
+  ],
+  "tags": [
+    "Energy",
+    "North America",
+    "U.S. Nuclear Issues"
+  ],
+  "body": "Elizabeth Sherwood-Randall on Office Hours Podcast Print Energy North America U.S. Nuclear Issues Related Elizabeth D. Sherwood-Randall More From This Expert At the Brink: Loose Nukes The Urgent Need for a National Biosecurity Initiative Up Next Article The Disintegration of the USSR and the Fate of the Soviet Nuclear Arsenal: Assessing Ukraine's Relinquishment of Nuclear Weapons Left on its Territory Winter, 2025 From Managing the Atom Article Memo to Trump: Cancel the Sea-launched Nuclear Cruise Missile Jan. 17, 2025 by David Kearn Photo Credit Toggle AP Photo/Ng Han Guan Article Chinese Views of Strategic Stability: Implications for U.S.-China Relations Fall 2024 by David C. Logan",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-02-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:47:23+00:00",
+    "prompt_hash": "ad4e5a52da1f60db596668b55842d7be58a14022",
+    "result": {
+      "main_content_en": "The article presents an interview with Elizabeth Sherwood-Randall on the Office Hours Podcast, focusing on U.S. nuclear policy and energy security. The discussion centers on the historical context of nuclear weapons management, particularly following the disintegration of the USSR and the subsequent fate of the Soviet nuclear arsenal in Ukraine. It references related expert analyses on topics such as the urgent need for a national biosecurity initiative and critiques of specific U.S. weapons programs, like the proposed sea-launched nuclear cruise missile. The conversation also touches upon broader strategic stability issues, including Chinese perspectives on U.S.-China relations. The content is framed within the think-tank's focus on nuclear non-proliferation, arms control, and contemporary geopolitical challenges to energy and national security.",
+      "main_content_zh": "本文介绍了伊丽莎白·舍伍德-兰德尔在《Office Hours》播客中的访谈内容，核心聚焦于美国核政策与能源安全。讨论围绕核武器管理的历史背景展开，特别是苏联解体后其核武库在乌克兰的命运。文章引用了相关专家分析，涉及国家生物安全倡议的紧迫需求，以及对美国特定武器项目（如拟议的海基核巡航导弹）的批评。对话还触及更广泛的战略稳定问题，包括中国对中美关系的看法。内容置于该智库对核不扩散、军备控制以及当代地缘政治对能源和国家安全挑战的研究框架内。",
+      "keywords_en": [
+        "nuclear policy",
+        "energy security",
+        "Soviet nuclear arsenal",
+        "USSR disintegration",
+        "Ukraine",
+        "non-proliferation",
+        "arms control",
+        "biosecurity initiative",
+        "sea-launched cruise missile",
+        "strategic stability",
+        "U.S.-China relations",
+        "geopolitical challenges",
+        "national security",
+        "weapons programs",
+        "expert analysis",
+        "think-tank",
+        "podcast",
+        "historical context",
+        "security initiative"
+      ],
+      "keywords_zh": [
+        "核政策",
+        "能源安全",
+        "苏联核武库",
+        "苏联解体",
+        "乌克兰",
+        "核不扩散",
+        "军备控制",
+        "生物安全倡议",
+        "海基巡航导弹",
+        "战略稳定",
+        "中美关系",
+        "地缘政治挑战",
+        "国家安全",
+        "武器项目",
+        "专家分析",
+        "智库",
+        "播客",
+        "历史背景",
+        "安全倡议"
+      ],
+      "topic_words_en": [
+        "Nuclear Weapons",
+        "Energy Security",
+        "Arms Control",
+        "Strategic Stability",
+        "U.S.-China Relations"
+      ],
+      "topic_words_zh": [
+        "核武器",
+        "能源安全",
+        "军备控制",
+        "战略稳定",
+        "中美关系"
+      ],
+      "relevance_score": 0.6
+    }
+  }
+}

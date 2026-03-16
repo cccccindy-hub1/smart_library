@@ -1,0 +1,99 @@
+{
+  "title": "Niall Ferguson on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/niall-ferguson-office-hours-podcast",
+  "summary": "Niall Ferguson (@nfergus), Laurence A. Tisch Professor of History, Harvard University, and author of “Kissinger: 1923-1968: The Idealist,” sits down with Aroop Mukharji (@aroopmukharji) to talk about everything from Kissinger, the “secret swinger,” to why ISIS is like the Bolsheviks.",
+  "published": "2016-01-19T12:00:00Z",
+  "authors": [
+    "Oliver Yule-Smith"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Applied History Project",
+    "Europe",
+    "History",
+    "North America"
+  ],
+  "topics": [
+    "History"
+  ],
+  "tags": [
+    "Applied History Project",
+    "Europe",
+    "History",
+    "North America"
+  ],
+  "body": "Niall Ferguson, MA, D.Phil., is Laurence A. Tisch Professor of History at Harvard University. He is also a Senior Fellow at the Hoover Institution, Stanford University, and a Visiting Professor at Tsinghua University, Beijing. He co-chairs the Applied History Project at the Belfer Center along with Center Director Graham Allison. Ferguson is the author of fourteen books. His first, Paper and Iron: Hamburg Business and German Politics in the Era of Inflation 1897-1927 , was short-listed for the History Today Book of the Year award, while the collection of essays he edited, Virtual History: Alternatives and Counterfactuals , was a UK bestseller. In 1998 he published to international critical acclaim The Pity of War: Explaining World War One and The World’s Banker: The History of the House of Rothschild . The latter won the Wadsworth Prize for Business History and was also short-listed for the Jewish Quarterly/Wingate Literary Award and the American National Jewish Book Award. In 2001, after a year as a Houblon-Norman Fellow at the Bank of England, he published The Cash Nexus . His other books include Empire , Colossus , The War of the World , The Ascent of Money , Civilization: The West and the Rest , and The Great Degeneration . The latest from Belfer See more Niall Ferguson on Office Hours Podcast Print Applied History Project Europe History North America Related Niall Ferguson Request Interview More From This Expert Doom: The Politics of Catastrophe Niall Ferguson's Message from History's Ages of Disruption Up Next Books The Problem of China in the British Foreign Office Mind December 2025 by Oliver Yule-Smith From International Security Program Photo Credit Toggle AP/Khalil Senosi, File Article From Legal Transplants to Policy Irritants: Chinese Economic Expansion and Global Legal Change Summer 2025 by Kevin Keller Photo Credit Toggle AP Photo Article The Rules-Based International Order: A Historical Analysis Fall 2025 by Marc Trachtenberg",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-01-19T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:21:11+00:00",
+    "prompt_hash": "101bd450e1c76f5b3b451602c77b90342b026646",
+    "result": {
+      "main_content_en": "The article profiles historian Niall Ferguson, highlighting his academic positions at Harvard University, the Hoover Institution at Stanford, and Tsinghua University. It details his role as co-chair of the Belfer Center's Applied History Project and provides a comprehensive list of his published works. These include notable books such as 'Paper and Iron,' 'Virtual History,' 'The Pity of War,' 'The World's Banker,' 'The Cash Nexus,' 'Empire,' 'Colossus,' 'The War of the World,' 'The Ascent of Money,' 'Civilization: The West and the Rest,' and 'The Great Degeneration.' The text serves as a biographical and bibliographic overview of his career and scholarly contributions to the field of history.",
+      "main_content_zh": "本文介绍了历史学家尼尔·弗格森，概述了他在哈佛大学、斯坦福大学胡佛研究所以及清华大学担任的学术职务。文中强调了他共同主持贝尔弗科学与国际事务中心应用历史项目的角色，并详细列举了他的著作。这些著作包括《纸与铁》、《虚拟历史》、《战争的悲悯》、《世界银行家》、《金钱关系》、《帝国》、《巨人》、《世界战争》、《货币崛起》、《文明：西方与其他国家》以及《大退化》。文章主要提供了其职业生涯和学术贡献的传记性与文献性概述。",
+      "keywords_en": [
+        "Niall Ferguson",
+        "Applied History Project",
+        "Harvard University",
+        "Hoover Institution",
+        "Tsinghua University",
+        "Belfer Center",
+        "Paper and Iron",
+        "Virtual History",
+        "The Pity of War",
+        "The World's Banker",
+        "The Cash Nexus",
+        "Empire",
+        "Colossus",
+        "The War of the World",
+        "The Ascent of Money",
+        "Civilization",
+        "The Great Degeneration",
+        "History",
+        "Historian",
+        "Senior Fellow"
+      ],
+      "keywords_zh": [
+        "尼尔·弗格森",
+        "应用历史项目",
+        "哈佛大学",
+        "胡佛研究所",
+        "清华大学",
+        "贝尔弗中心",
+        "纸与铁",
+        "虚拟历史",
+        "战争的悲悯",
+        "世界银行家",
+        "金钱关系",
+        "帝国",
+        "巨人",
+        "世界战争",
+        "货币崛起",
+        "文明",
+        "大退化",
+        "历史",
+        "历史学家",
+        "高级研究员"
+      ],
+      "topic_words_en": [
+        "Biography",
+        "Academic Career",
+        "Historical Publications",
+        "Applied History"
+      ],
+      "topic_words_zh": [
+        "人物传记",
+        "学术生涯",
+        "历史著作",
+        "应用历史"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

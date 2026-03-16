@@ -1,0 +1,99 @@
+{
+  "title": "Starlink and the Russia-Ukraine War: A Case of Commercial Technology and Public Purpose?",
+  "canonical_url": "https://www.belfercenter.org/publication/starlink-and-russia-ukraine-war-case-commercial-technology-and-public-purpose",
+  "summary": "Starlink, provided by SpaceX, became crucial for Ukraine's connectivity in the Russia-Ukraine war. Initially offered at low cost, SpaceX later sought U.S. funding, revealing risks in relying on private technology for critical infrastructure during conflict. The case underscores the need for stronger public-private partnerships and coordinated procurement strategies as commercial space ventures become more prominent.",
+  "published": "2023-03-09T12:00:00Z",
+  "authors": [
+    "Tanya Kozyreva"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe",
+    "Technology and Public Purpose",
+    "War in Ukraine"
+  ],
+  "topics": [
+    "War in Ukraine"
+  ],
+  "tags": [
+    "Europe",
+    "Technology and Public Purpose",
+    "War in Ukraine"
+  ],
+  "body": "The commercial space technology Starlink grabbed headlines in the wake of the Russian-Ukraine war. Just two days into the conflict, Elon Musk, CEO and founder of SpaceX, the company that operates Starlink, agreed to supply Ukraine with the technology to ensure they had reliable internet connectivity and communication. Starlink has since been touted as critical in the war effort, but it has not come without hazards. The case of Starlink support illuminates not just the opportunities of emerging technology in crisis, but also the politics (the lowercase p version concerning power and human behavior) and limitations of technology. This piece reviews the deployment of Starlink in the Russia-Ukraine war and analyzes the technology, politics, and public purpose dimensions of SpaceX’s support in Ukraine. Overview of Starlink and Its Use in the War Starlink, launched by SpaceX in 2019, is a private sector-run, low earth orbit satellite constellation that provides high-speed, low-latency broadband internet across the globe.[1] The goal of the technology is to increase access to high quality broadband and provide more people with reliable connectivity for digital communication, online services and goods, and information. Just a few days into the Russia-Ukraine war, Mykhailo Fedorov, Ukraine’s Minister of Digital Transformation, corresponded with Elon Musk over Twitter, asking for Starlink services to be provided to the country to ensure stable communication for civilians and the government as the war broke out. Within twelve hours of Fedorov’s appeal, Musk replied on the social media platform saying “Starlink service is now active in Ukraine.” Fedorov’s request came amid widespread internet blackouts in the country,[2] so the efficient response undoubtedly proved advantageous - it only took a few hours for SpaceX to activate the service, and only two days for new terminals to be shipped to Ukraine for enhanced and scaled connectivity in the region. Since activation, SpaceX’s service has been used by civilians and military officials alike. By May 2022, over 150,000 Ukrainians were using Starlink on a daily basis.[3] In fact, Federov publicly claimed that Starlink “is crucial support for Ukraine’s infrastructure and restoring the destroyed territories.” And as the technology was rapidly integrated into the communications infrastructure of the country, Kyiv’s military began applying it creatively in the battlefield, such as using it to control unmanned surveillance and reconnaissance aerial vehicles and unmanned combat aerial vehicles (aka drones).[4] Starlink has undoubtedly played an important role in basic communications and strategic field operations in the wake of the war. From a technical standpoint, low orbit constellations have proven to be reliable, dynamic, and resilient. However, the shifting tide of Musk’s support highlights the risks of direct supply of critical technology to warzones by commercial actors. Riding the Wave of Private Sector Support At first, SpaceX provided service for little cost to Ukraine – a seemingly altruistic move by Musk. However, in September 2022, a little over six months after Starlink was deployed in Ukraine, the company wrote a letter to the Pentagon saying that it could no longer foot the bill.[5] They asked that the U.S. Department of Defense take over funding for Ukraine’s government and military use of Starlink, which SpaceX said would cost upwards of $120 million USD just for the remainder of 2022.[6] It would cost almost $400 million to continue operating for another twelve months. It turns out, however, that SpaceX was not incurring most of the cost thus far for Starlink operation in the war. Based on the figures shared directly by the company, around 85 percent of the terminals and 30 percent of the internet connectivity provided thus far were paid for by the United States (such as USAID), Poland, and other groups.[7] SpaceX, however, wanted the U.S. government to pay a greater share. Although no details have been publicly disclosed about an agreement between the U.S. and SpaceX, Starlink is still operational in Ukraine. So we can assume the U.S. government agreed to pay some, if not all, of the costs for continued operation of the technology. SpaceX, and particularly Musk, was able to play the role of wartime hero, showcasing the power and value of the technology products the company developed, while simultaneously avoiding sustained and hefty bills (and instead bringing in revenue for one of his flagship companies). Flash forward another five months to February 2023: SpaceX made another significant shift regarding the use of Starlink in the war. The company at this point said it would restrict Ukraine’s use of Starlink for offensive military purposes. Gywnne Shotwell, president and chief operating officer of SpaceX, said that the company’s intent was “never to have [the Ukrainian military] use it for offensive purposes.” Shotwell, in response to whether the company foresaw this military application when they first deployed Starlink, said, \"We didn't think about it. I didn't think about it… but we learned pretty quickly.\"[8] And yet, they allowed the offensive use of the technology for nearly a year without push back. Suddenly, at the one-year mark of the war, their stance shifted.[9] It is not yet clear how this decision will impact the performance of the Ukrainian military, but it is likely to have consequences. The Opportunities and Risks of Unchecked Technology Supply in Times of Conflict Starlink, which has proved to be a key tool in the war, was initially deployed without coordination and checks. There were both benefits and risks associated with the privately-owned technology and Ukraine’s ad hoc procurement method. The Benefits Firstly, the deployment was extremely efficient. The initial Starlink agreement was made on Twitter, and it only took two days for the initial hardware shipment to hit the ground in the Ukraine. This, at least publicly, starkly juxtaposed the government red tape and politics that were involved in the larger U.S. response. Secondly, there was fast user adoption by civilians and military forces. Because commercial technologies are developed for mass market, the barrier for adoption is much lower as compared to bespoke defense-specific technologies. In the Ukraine case, hospitals, schools, and forces were able to take full advantage of the technological tool without heavy upfront training. Also, the technology is relatively low cost while also being cutting edge. Low earth orbit satellites, an emerging industry, have lower upfront launch costs per unit (incurred by the company) as compared to traditional geostationary satellite. In addition, commercial companies like SpaceX build for economies of scale, so the cost per user is often cheaper for otherwise expensive infrastructure and tools. Finally, the private sector nowadays, and especially successful companies like SpaceX, benefit from housing some of the best technical teams. When Starlink faced cyberattacks by Russian forces, SpaceX’s team heightened security and addressed the attacks, rather than having the Ukrainian forces who procured the technology responsible for system defense. The Risks First and foremost, the Starlink case highlights the pitfalls of being beholden to a single commercial company for such critical communication infrastructure during conflict. This is particularly acute because of the methods of procurement, in which no long-term U.S. institution de-risked the agreement upfront to ensure stable support. For that reason, we observed the volatility of Musk’s enthusiasm to aid Ukraine, both in financing and in scope of service/use. This is related to a second observed risk, which comes when private companies acting in their own capacity do not acknowledge the larger ecosystem of procurement and crisis response. This allows for efficient deployment, but the politics and perception of wartime support are fraught and there are reasons why countries take time to consider what technology and training they can provide. Finally, when a single company—or technology billionaire—claims the spotlight, there can be a heavy attribution of success to a commercial product or person, which can provide poor incentives for companies like SpaceX. In May 2022, SpaceX disclosed that its valuation had risen to $127 billion and it has raised $2 billion in additional capital.[10] Starlink undoubtedly provided a stage for Musk to showcase the power and value of his technology, which just happened to be well timed as the company raised another capital round. Conclusions and Recommendations According to a report from the Space Foundation, the space industry grew at its fastest pace in recent history to reach a record $469 billion in 2021 for annual global spending. What is even more noteworthy is that commercial space ventures accounted for 77 percent of that. Privately owned commercial space and other deep technologies are starting to dominate the marketplace relative to public providers. SpaceX is part of a trend that cannot be ignored, especially as public sector leaders and stakeholders plan for future crisis response—whether it is for a crisis or war they are part of or supporting. The incentives, operating principles, and accountability mechanisms for the private sector differ from those of the public sector, as we saw clearly through the Starlink case.[11] Government leaders need to build stronger public-private relationships with rising tech companies, as well as establish coordination plans to ensure commercial technologies are responsibly deployed in areas of conflict or other crises. As Rishi Iyengar said in a recent Foreign Policy article , we need to understand “how to make a full-spectrum military procurement process predictable and sustainable in the future” – especially in the wake of a rapidly maturing commercial deep tech sector. Starlink is a useful case that underpins this very point, and we can only hope business and government leaders learn from this example. It is imperative that we act swiftly to update our procurement and response systems as more private companies own the development and deployment of critical technology. [1] Starlink Homepage. Accessed February 2023. https://www.starlink.com/. [2] https://www.economist.com/graphic-detail/2022/02/26/ukrainian-cities-are-suffering-internet-blackouts [3] Sheetz, Michael. “About 150,000 People in Ukraine Are Using SpaceX's Starlink Internet Service Daily, Government Official Says.” CNBC. CNBC, May 2, 2022. https://www.cnbc.com/2022/05/02/ukraine-official-150000-using-spacexs-starlink-daily.html. [4] “Ukrainian Cities Are Suffering Internet Blackouts.” The Economist. The Economist Newspaper, February 26, 2022. https://www.economist.com/graphic-detail/2022/02/26/ukrainian-cities-are-suffering-internet-blackouts. [5] Marquardt, Alex. “Exclusive: Musk's SpaceX Says It Can No Longer Pay for Critical Satellite Services in Ukraine, Asks Pentagon to Pick up the Tab | CNN Politics.” CNN. Cable News Network, October 14, 2022. https://www.cnn.com/2022/10/13/politics/elon-musk-spacex-starlink-ukraine/index.html. [6] Ibid. [7] Ibid. [8] Roulette, Joey. “SpaceX Curbed Ukraine's Use of Starlink Internet for Drones -Company President.” Reuters. Thomson Reuters, February 9, 2023. https://www.reuters.com/business/aerospace-defense/spacex-curbed-ukraines-use-starlink-internet-drones-company-president-2023-02-09/. [9] Musk said in a Tweet that “Starlink is the communication backbone of Ukraine, especially at the front lines, where almost all other Internet connectivity has been destroyed. But we will not enable escalation of conflict that may lead to WW3.” [10] Sheetz, Michael. “SpaceX Raises Another $250 Million in Equity, Lifts Total to $2 Billion in 2022.” CNBC. CNBC, August 5, 2022. https://www.cnbc.com/2022/08/05/elon-musks-spacex-raises-250-million-in-equity.html. [11] There are of course juxtapositions in the Russia-Ukraine war to the Starlink case, such as the support efforts by Google and Microsoft. These are alternative cases that are worth studying, especially in comparison to SpaceX, in order to understand best practices and the role of the private sector in wartime efforts. The latest from Belfer See more Recommended citation Jayanti, Amritha. “Starlink and the Russia-Ukraine War: A Case of Commercial Technology and Public Purpose?.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 9, 2023 Copy to Clipboard Starlink and the Russia-Ukraine War: A Case of Commercial Technology and Public Purpose? View Citation Print Open Section Navigation In this article Close Section Navigation Europe Technology and Public Purpose War in Ukraine Recommended citation Jayanti, Amritha. “Starlink and the Russia-Ukraine War: A Case of Commercial Technology and Public Purpose?.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 9, 2023 Copy to Clipboard Author Amritha Jayanti More From This Expert Technology Primer: Post-Quantum Cryptography Technology Primer: Direct Air Capture Up Next Photo Credit Toggle AP Photo/Vlad Kravchuk Reports & Papers A Flawed Path to Peace: The Weaknesses of the Proposed U.S.–Russia Framework for Ukraine Dec. 10, 2025 by Tanya Kozyreva From Defense, Emerging Technology, and Strategy Photo Credit Toggle NATO Event Summary Watch: NATO Deputy Secretary General Radmila Šekerinska Dec. 8, 2025 Photo Credit Toggle Julia Vassileva Article Living on the Edge: NATO’s Eastern Frontier, Article 5, and Russia’s Motive Sep. 22, 2025 by Julia Vassileva",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-03-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:37:56+00:00",
+    "prompt_hash": "d12e8b9a5d7b5c3b814557416904e8dd314d667f",
+    "result": {
+      "main_content_en": "The article examines the deployment of SpaceX's Starlink satellite internet service in Ukraine following Russia's invasion. Initially hailed as a critical tool for restoring civilian and military communications, Starlink's provision was rapid and efficient, facilitated by a direct Twitter exchange. However, the case reveals significant complexities. SpaceX's initial altruistic stance shifted as the company later requested the U.S. Department of Defense to fund the service and subsequently restricted Ukraine's use of the technology for offensive military purposes. The analysis highlights both the benefits of private sector agility in crisis response—such as low-cost, cutting-edge technology and rapid deployment—and the inherent risks. These risks include dependency on a single commercial entity, volatile commitment from corporate leadership, and the lack of coordinated, long-term procurement frameworks between governments and private tech firms during conflicts.",
+      "main_content_zh": "本文分析了俄罗斯入侵乌克兰后，SpaceX公司的星链卫星互联网服务在乌克兰的部署情况。星链最初被誉为恢复民用和军事通信的关键工具，其通过推特直接沟通促成的供应迅速而高效。然而，该案例揭示了显著的复杂性。SpaceX最初持利他主义立场，但后来转而要求美国国防部为该项服务提供资金，并随后限制乌克兰将该项技术用于进攻性军事目的。分析强调了私营部门在危机应对中的敏捷性所带来的好处——例如低成本、尖端技术和快速部署——以及固有的风险。这些风险包括对单一商业实体的依赖、企业领导层承诺的反复无常，以及在冲突期间政府与私营科技公司之间缺乏协调的、长期的采购框架。文章最后建议，随着更多私营公司掌控关键技术的开发和部署，必须迅速更新采购和响应系统，并建立更强大的公私合作关系。",
+      "keywords_en": [
+        "Starlink",
+        "SpaceX",
+        "Russia-Ukraine War",
+        "satellite constellation",
+        "low earth orbit",
+        "broadband internet",
+        "commercial technology",
+        "public-private partnership",
+        "crisis response",
+        "military procurement",
+        "critical infrastructure",
+        "cyberattacks",
+        "private sector",
+        "funding",
+        "offensive use",
+        "communication",
+        "deployment",
+        "procurement",
+        "resilience",
+        "deep tech"
+      ],
+      "keywords_zh": [
+        "星链",
+        "SpaceX",
+        "俄乌战争",
+        "卫星星座",
+        "低地球轨道",
+        "宽带互联网",
+        "商业技术",
+        "公私合作伙伴关系",
+        "危机应对",
+        "军事采购",
+        "关键基础设施",
+        "网络攻击",
+        "私营部门",
+        "资金",
+        "进攻性使用",
+        "通信",
+        "部署",
+        "采购",
+        "韧性",
+        "深度科技"
+      ],
+      "topic_words_en": [
+        "Satellite Internet",
+        "Warfare Technology",
+        "Public-Private Dynamics",
+        "Crisis Procurement",
+        "Technology Policy"
+      ],
+      "topic_words_zh": [
+        "卫星互联网",
+        "战争技术",
+        "公私互动",
+        "危机采购",
+        "科技政策"
+      ],
+      "relevance_score": 0.85
+    }
+  }
+}

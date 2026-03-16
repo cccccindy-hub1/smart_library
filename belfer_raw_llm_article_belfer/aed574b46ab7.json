@@ -1,0 +1,94 @@
+{
+  "title": "Defending American Democracy from Cyber Threats",
+  "canonical_url": "https://www.belfercenter.org/publication/defending-american-democracy-cyber-threats",
+  "summary": "Former Pentagon “cyber czar” Eric Rosenbach is Co-Director of Harvard Kennedy School’s Belfer Center for Science and International Affairs and head of the new Defending Digital Democracy project. Rosenbach outlines the various cyber threats against American election systems and democratic processes – and how to better protect our democracy from nation-state attacks.",
+  "published": "2017-11-03T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "Defending Digital Democracy",
+    "Democracy",
+    "North America"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Democracy"
+  ],
+  "tags": [
+    "Cyber Security",
+    "Defending Digital Democracy",
+    "Democracy",
+    "North America"
+  ],
+  "body": "Former Pentagon “cyber czar” Eric Rosenbach is Co-Director of Harvard Kennedy School’s Belfer Center for Science and International Affairs and head of the new Defending Digital Democracy project. Rosenbach outlines the various cyber threats against American election systems and democratic processes – and how to better protect our democracy from nation-state attacks. The latest from Belfer See more Related resources: Managing Election Technology: https://www.eac.gov/voting-equipment/managing-election-technology/ Election Security Preparedness: https://www.eac.gov/election-officials/election-security-preparedness/ Contingency Plans: https://www.eac.gov/election-officials/contingency-plans/ Recommended citation Rosenbach, Eric. “Defending American Democracy from Cyber Threats.” Belfer Center for Science and International Affairs, Harvard Kennedy School , November 3, 2017 Copy to Clipboard Defending American Democracy from Cyber Threats View Citation Print Cyber Security Defending Digital Democracy Democracy North America Recommended citation Rosenbach, Eric. “Defending American Democracy from Cyber Threats.” Belfer Center for Science and International Affairs, Harvard Kennedy School , November 3, 2017 Copy to Clipboard Author Eric Rosenbach Request Interview More From This Expert Russian Threats to NATO’s Eastern Flank: Scenarios, Strategy, and Policy for European Security Critical and Emerging Technologies Index Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-11-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:51:38+00:00",
+    "prompt_hash": "a88fc3be0474c6f6e0fb010d643cc8ca0d420de5",
+    "result": {
+      "main_content_en": "The article discusses the cyber threats facing American democracy, as outlined by Eric Rosenbach, Co-Director of the Belfer Center for Science and International Affairs and head of the Defending Digital Democracy project. It focuses on the vulnerabilities of U.S. election systems and democratic processes to nation-state cyber attacks. The piece references the project's goal of developing strategies and resources to better protect these critical infrastructures. It includes links to related resources on managing election technology, security preparedness, and contingency planning, emphasizing a practical approach to defense.",
+      "main_content_zh": "本文以哈佛大学贝尔弗中心联合主任兼“捍卫数字民主”项目负责人埃里克·罗森巴赫的视角，阐述了美国民主制度面临的网络威胁。文章重点分析了美国选举系统和民主进程在面对民族国家网络攻击时的脆弱性，并介绍了该项目旨在制定策略、提供资源以加强保护的相关工作。文中引用了关于选举技术管理、安全准备和应急计划的相关资源链接，强调了采取切实可行的防御措施来保障民主制度的重要性。",
+      "keywords_en": [
+        "cyber threats",
+        "election systems",
+        "democratic processes",
+        "nation-state attacks",
+        "Defending Digital Democracy",
+        "Belfer Center",
+        "cyber security",
+        "election security",
+        "contingency plans",
+        "security preparedness",
+        "vulnerabilities",
+        "protection",
+        "Harvard Kennedy School",
+        "Eric Rosenbach",
+        "infrastructure",
+        "strategy",
+        "resources",
+        "technology management"
+      ],
+      "keywords_zh": [
+        "网络威胁",
+        "选举系统",
+        "民主进程",
+        "民族国家攻击",
+        "捍卫数字民主",
+        "贝尔弗中心",
+        "网络安全",
+        "选举安全",
+        "应急计划",
+        "安全准备",
+        "脆弱性",
+        "保护",
+        "哈佛肯尼迪学院",
+        "埃里克·罗森巴赫",
+        "基础设施",
+        "战略",
+        "资源",
+        "技术管理"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "Election Integrity",
+        "Democratic Resilience"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "选举公正",
+        "民主韧性"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

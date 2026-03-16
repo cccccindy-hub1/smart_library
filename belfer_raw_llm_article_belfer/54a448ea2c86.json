@@ -1,0 +1,91 @@
+{
+  "title": "Invitation to a Beheading",
+  "canonical_url": "https://www.belfercenter.org/publication/invitation-beheading",
+  "summary": "\"...[J]ournalists in the past were often regarded as neutral intermediaries between hostage takers and those willing to pay ransom. Now it is unsafe for journalists to go anywhere near ISIS.\"",
+  "published": "",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security Program",
+    "Middle East & North Africa",
+    "North America"
+  ],
+  "topics": [],
+  "tags": [
+    "International Security Program",
+    "Middle East & North Africa",
+    "North America"
+  ],
+  "body": "Note A version of this op-ed subsequently appeared in the Huffington Post on November 26, 2014. The latest from Belfer See more Borrowing a title from the book by Vladimir Nabokov, we can say that the beheadings of innocents in Syria have changed everything. Two British aid workers, two American journalists, and one American aid worker, executed for all the world to see. Events too horrible for our children to look at. As Jeffrey Goldberg pointed out at the Harvard Kennedy School's Shorenstein Center on November 20, 2004, journalists in the past were often regarded as neutral intermediaries between hostage takers and those willing to pay ransom. Now it is unsafe for journalists to go anywhere near ISIS. The upside for ISIS is that it attracts more recruits, including European natives such as the two Frenchmen who were present at the murder of the latest victim, the American Peter Kassig. The downside is that it has attracted the implacable enmity of the West. Just ask Osama bin Laden. The debate over boots on the ground in Iraq and Syria has now lost its meaning. The United States has got to respond to the beheading of innocent U.S. citizens. The beheadings have turned around American public opinion. ISIS has taken a fateful step too far. It may not fully realize this, or it may not care. Statements and views expressed in this commentary are solely those of the author and do not imply endorsement by Harvard University, the Harvard Kennedy School, or the Belfer Center for Science and International Affairs. Recommended citation Cogan, Charles. \"Invitation to a Beheading.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, November 26, 2014. Copy to Clipboard Invitation to a Beheading View Citation Print International Security Program Middle East & North Africa North America Recommended citation Cogan, Charles. \"Invitation to a Beheading.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, November 26, 2014. Copy to Clipboard Author Charles G. Cogan More From This Expert Usurpation! Saudi Arabia: Youth (and Geniture) Will Be Served",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:28:26+00:00",
+    "prompt_hash": "c3cc632e16673b3090b2f8463d345a8fc8786acc",
+    "result": {
+      "main_content_en": "The article argues that the public beheadings of Western civilians by ISIS in Syria have fundamentally altered the geopolitical landscape. These horrific acts, targeting journalists and aid workers, have shattered the traditional perception of journalists as neutral intermediaries and made regions under ISIS control extremely dangerous for them. While such brutality serves ISIS by attracting radicalized recruits from Europe, it has also irrevocably mobilized Western public opinion and governments against the group, drawing a parallel to the fate of Osama bin Laden. The author contends that these events have rendered previous debates about deploying ground troops in Iraq and Syria obsolete, necessitating a decisive U.S. military response to the killing of its citizens.",
+      "main_content_zh": "本文认为，伊斯兰国（ISIS）在叙利亚对西方平民实施的公开斩首行为，从根本上改变了地缘政治格局。这些针对记者和援助工作者的暴行，打破了记者作为中立调解人的传统认知，并使ISIS控制区对他们而言变得极度危险。虽然这种残暴行为通过吸引欧洲等地被激进化的追随者而为ISIS服务，但它也无可挽回地动员了西方公众舆论和政府来反对该组织，其下场可与奥萨马·本·拉登相类比。作者主张，这些事件使得先前关于在伊拉克和叙利亚部署地面部队的辩论失去了意义，美国必须对其公民被杀害做出果断的军事回应。",
+      "keywords_en": [
+        "beheadings",
+        "ISIS",
+        "Syria",
+        "journalists",
+        "aid workers",
+        "hostage takers",
+        "ransom",
+        "recruits",
+        "European natives",
+        "Western enmity",
+        "Osama bin Laden",
+        "boots on the ground",
+        "Iraq",
+        "U.S. military response",
+        "public opinion",
+        "geopolitical landscape",
+        "neutral intermediaries",
+        "radicalization",
+        "decisive response"
+      ],
+      "keywords_zh": [
+        "斩首",
+        "伊斯兰国",
+        "叙利亚",
+        "记者",
+        "援助工作者",
+        "劫持人质者",
+        "赎金",
+        "招募成员",
+        "欧洲本土人员",
+        "西方敌意",
+        "奥萨马·本·拉登",
+        "地面部队",
+        "伊拉克",
+        "美国军事回应",
+        "公众舆论",
+        "地缘政治格局",
+        "中立调解人",
+        "激进化",
+        "果断回应"
+      ],
+      "topic_words_en": [
+        "Counterterrorism",
+        "Middle East Conflict",
+        "Media & War",
+        "U.S. Foreign Policy"
+      ],
+      "topic_words_zh": [
+        "反恐",
+        "中东冲突",
+        "媒体与战争",
+        "美国外交政策"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

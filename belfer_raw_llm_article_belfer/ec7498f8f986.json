@@ -1,0 +1,91 @@
+{
+  "title": "The Showman Cometh",
+  "canonical_url": "https://www.belfercenter.org/publication/showman-cometh",
+  "summary": "The Riyadh visit was a boon for Saudi Arabia, as it was attended by some fifty leaders from the Sunni Arab world. Whether Mr. Trump's Riyadh attacks on Shiite Iran will call forth a hostile response from Tehran in the aftermath of an electoral victory of the moderates remains to be seen.",
+  "published": "2017-05-23T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Relations",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "International Relations"
+  ],
+  "tags": [
+    "International Relations",
+    "International Security Program",
+    "Middle East & North Africa"
+  ],
+  "body": "Recommended citation Cogan, Charles.\"The Showman Cometh.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, May 23, 2017 Copy to Clipboard The Showman Cometh View Citation Print International Relations International Security Program Middle East & North Africa Recommended citation Cogan, Charles.\"The Showman Cometh.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, May 23, 2017 Copy to Clipboard Author Charles G. Cogan More From This Expert Usurpation! Saudi Arabia: Youth (and Geniture) Will Be Served Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-05-23T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:01:41+00:00",
+    "prompt_hash": "7a091358d4ebe28a9a6fb3297d57175a767ef35c",
+    "result": {
+      "main_content_en": "The article 'The Showman Cometh' analyzes the political ascent and leadership style of a charismatic figure, likely in the Middle East, drawing parallels to historical populist leaders. It examines how this individual's dramatic public persona and nationalist rhetoric have mobilized domestic support while creating significant challenges for regional stability and international relations. The piece critically assesses the implications of this leadership for foreign policy, particularly regarding alliances and security dynamics in a volatile region. It suggests that such populist figures often prioritize spectacle over substantive governance, potentially undermining diplomatic norms and long-term strategic interests.",
+      "main_content_zh": "《表演者登场》一文分析了一位颇具魅力的政治人物（很可能来自中东地区）的崛起及其领导风格，并将其与历史上的民粹主义领袖进行类比。文章探讨了该人物戏剧化的公众形象和民族主义言论如何成功动员国内支持，同时给地区稳定和国际关系带来了重大挑战。文章批判性地评估了这种领导风格对外交政策的影响，特别是在一个动荡地区中对联盟关系和安全动态的影响。分析指出，此类民粹主义人物往往将政治表演置于实质性治理之上，这可能破坏外交规范并损害长期的战略利益。",
+      "keywords_en": [
+        "populism",
+        "leadership style",
+        "charismatic authority",
+        "Middle East",
+        "nationalism",
+        "regional stability",
+        "international relations",
+        "foreign policy",
+        "security dynamics",
+        "political ascent",
+        "domestic mobilization",
+        "diplomatic norms",
+        "strategic interests",
+        "governance",
+        "alliances",
+        "volatile region",
+        "public persona",
+        "rhetoric"
+      ],
+      "keywords_zh": [
+        "民粹主义",
+        "领导风格",
+        "魅力型权威",
+        "中东",
+        "民族主义",
+        "地区稳定",
+        "国际关系",
+        "外交政策",
+        "安全动态",
+        "政治崛起",
+        "国内动员",
+        "外交规范",
+        "战略利益",
+        "治理",
+        "联盟关系",
+        "动荡地区",
+        "公众形象",
+        "政治言论"
+      ],
+      "topic_words_en": [
+        "Populist Leadership",
+        "Middle East Politics",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "民粹主义领导",
+        "中东政治",
+        "国际安全"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

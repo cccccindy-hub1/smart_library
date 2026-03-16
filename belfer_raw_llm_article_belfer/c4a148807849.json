@@ -1,0 +1,92 @@
+{
+  "title": "Bruce Schneier on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/bruce-schneier-office-hours-podcast",
+  "summary": "Cybersecurity expert Bruce Schneier, author of the “Schneier on Security” blog and a Research Fellow with the Belfer Center’s Cyber Security Project, sits down with with Aroop Mukharji to talk about cybersecurity and tech, his book \"Click Here to Kill Everybody,\" and the hacker mentality.",
+  "published": "2019-02-11T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "Information Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Information Technology"
+  ],
+  "tags": [
+    "Cyber Security",
+    "Information Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Bruce Schneier on Office Hours Podcast Print Cyber Security Information Technology Science, Technology, and Public Policy Related Bruce Schneier Request Interview More From This Expert Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Reimagining Democracy Related Aroop Mukharji More From This Expert The Meddler’s Trap: McKinley, the Philippines, and the Difficulty of Letting Go Bound to Happen: Explanation Bias in Historical Analysis Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2019-02-11T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:36:57+00:00",
+    "prompt_hash": "4297dbb13b019961daacae2beb6af0750c6d2c31",
+    "result": {
+      "main_content_en": "The article is a podcast episode featuring cybersecurity expert Bruce Schneier discussing the intersection of technology and public policy. While the full transcript is not provided, the context indicates a focus on the federal government's role in the age of artificial intelligence, as referenced by a linked 2025 congressional testimony. The discussion likely covers critical issues in cyber security, information technology governance, and the development of strategies and standards to address emerging technological challenges. The content is situated within the broader work of a think-tank dedicated to science, technology, and public policy, analyzing how governments can and should adapt to rapid technological change.",
+      "main_content_zh": "本文是一期播客节目，内容为网络安全专家布鲁斯·施奈尔探讨科技与公共政策的交叉领域。虽然未提供完整文字稿，但从上下文可知，讨论重点涉及人工智能时代联邦政府的角色，这一点可从链接的2025年国会证词中得到印证。对话很可能涵盖网络安全、信息技术治理的关键议题，以及为应对新兴技术挑战而制定的战略和标准。内容隶属于一个专注于科学、技术与公共政策的智库工作范畴，旨在分析政府如何以及应该如何适应快速的技术变革。",
+      "keywords_en": [
+        "Cybersecurity",
+        "Artificial Intelligence",
+        "Public Policy",
+        "Federal Government",
+        "Information Technology",
+        "Technology Governance",
+        "Congressional Testimony",
+        "Science and Technology Policy",
+        "Emerging Technology",
+        "Strategic Standards",
+        "Cyber Security Strategy",
+        "Policy Analysis",
+        "Think Tank",
+        "Podcast",
+        "Bruce Schneier",
+        "AI Governance",
+        "Digital Security",
+        "Regulatory Adaptation"
+      ],
+      "keywords_zh": [
+        "网络安全",
+        "人工智能",
+        "公共政策",
+        "联邦政府",
+        "信息技术",
+        "技术治理",
+        "国会证词",
+        "科技政策",
+        "新兴技术",
+        "战略标准",
+        "网络安全战略",
+        "政策分析",
+        "智库",
+        "播客",
+        "布鲁斯·施奈尔",
+        "人工智能治理",
+        "数字安全",
+        "监管适应"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "AI Policy",
+        "Technology Governance"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "人工智能政策",
+        "技术治理"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "What is Belgium Anyway?",
+  "canonical_url": "https://www.belfercenter.org/publication/what-belgium-anyway",
+  "summary": "Created as a state only in 1830, largely at the instigation of the British, who wanted it as a buffer against possible further French imperialism, it could be argued that the country could have been divided along linguistic lines, between France and the Netherlands.",
+  "published": "2023-11-26T12:00:00Z",
+  "authors": [
+    "Jay Mens"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe",
+    "Governance",
+    "History",
+    "International Relations",
+    "International Security & Defense",
+    "International Security Program",
+    "Terrorism & Counterterrorism"
+  ],
+  "topics": [
+    "Governance",
+    "History",
+    "International Relations",
+    "International Security & Defense",
+    "Terrorism & Counterterrorism"
+  ],
+  "tags": [
+    "Europe",
+    "Governance",
+    "History",
+    "International Relations",
+    "International Security & Defense",
+    "International Security Program",
+    "Terrorism & Counterterrorism"
+  ],
+  "body": "A New York Times article of April 8 carries the following headline: \"After Attacks, Many Argue Against a United Belgium.\" The terrorist attacks in Belgium on March 22 against the airport and the metro, following the massacre in Paris last November 13, have caused widespread concern as to whether the small Belgian state (pop. 11 million) is capable of handling the threat posed by ISIS, with its sophisticated propaganda apparatus and its seemingly unlimited ability to attract new recruits. Although the French suffered 130 dead in the November attacks, it is the Belgian state that is being criticized for its inability to operate against ISIS. France, in contrast to Belgium, has a tradition of a centralized government and has the most heavily policed state in Western Europe. Among its innovations are a institutionalized riot police (euphemistically known as the Republican Security Companies); a political reporting police, now merged with the internal security agency, the former DST; a judiciary police that is the criminal investigation division of the national police; and a gendarmerie that polices the countryside. Belgium on the other hand is a highly divisive entity whose main ethnic groups — the Flemish and Walloons — are roughly separated from each other, respectively north and south, and speak two languages — Dutch and French — that could hardly be more different from one another. In the First World War, in which the small Belgian Army fought heroically, casualties sometimes occurred when the Flemish enlisted men could not understand the French spoken by their officers. In the Second World War, the successor Belgian King surrendered the Army to the Germans, and among the Flemish population there was a strong but abortive pro-German movement. The Flemish, long the underclass, are now 60 percent of the population and inhabit a land that looks not unlike the neat Dutch countryside and is in sharp contrast to the washed out former industrial powerhouse that was Wallonia. Created as a state only in 1830, largely at the instigation of the British, who wanted it as a buffer against possible further French imperialism, it could be argued that the country could have been divided along linguistic lines, between France and the Netherlands. In Flanders, there is a strong but possibly not decisive opinion in favor of independence. In Wallonia, there is little desire for an independent Wallonia by itself, but, due to the prolonged institutional crisis, there has been a sharp rise in favor of attachment to France if Belgium should break up: 49 percent, according to one poll. Reaction in Paris has been mixed. One French blogger (\"Captans\") had this to say: \"I adore the Belgians. They're charming people, they're faithful friends, and they're humorous and uncomplicated. Everything that the French have lost…Seriously, Messieurs, try to save Belgium if there is still time.\" Statements and views expressed in this commentary are solely those of the author and do not imply endorsement by Harvard University, the Harvard Kennedy School, or the Belfer Center for Science and International Affairs. The latest from Belfer See more Recommended citation Cogan, Charles G. \"What is Belgium Anyway?\" Belfer Center for Science and International Affairs, Harvard Kennedy School, April 18, 2016. Copy to Clipboard What is Belgium Anyway? View Citation Print Europe Governance History International Relations International Security & Defense International Security Program Terrorism & Counterterrorism Recommended citation Cogan, Charles G. \"What is Belgium Anyway?\" Belfer Center for Science and International Affairs, Harvard Kennedy School, April 18, 2016. Copy to Clipboard Author Charles G. Cogan More From This Expert Usurpation! Saudi Arabia: Youth (and Geniture) Will Be Served Up Next Photo Credit Toggle AP/Hussein Malla Article Iran's Implausible Deniability Nov. 26, 2023 by Jay Mens From International Security Program Article The New Cold War Sep. 5, 2023 by Calder Walton Article N.Y.P.D.'s New Intelligence Chief Takes Reins of Secretive Unit Aug. 13, 2023 by Maria Cramer",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:18:54+00:00",
+    "prompt_hash": "7fb77163b7c2fcbd7398e65356278e7be2570266",
+    "result": {
+      "main_content_en": "The article examines Belgium's structural vulnerabilities in counterterrorism following the March 2016 attacks, contrasting it with France's centralized security apparatus. It argues that Belgium's deep internal divisions between the Flemish and Walloon communities, including linguistic and historical tensions, undermine its governance and security coordination. The piece traces Belgium's origins as a buffer state and discusses contemporary separatist sentiments, noting polling that shows significant support in Wallonia for joining France if Belgium dissolves. The analysis suggests these internal fractures critically impair the state's capacity to effectively confront threats from groups like ISIS.",
+      "main_content_zh": "本文探讨了2016年3月恐怖袭击后比利时在反恐方面的结构性弱点，并将其与法国中央集权的安全体系进行对比。文章认为，比利时弗拉芒和瓦隆社群之间深刻的内部裂痕——包括语言和历史紧张关系——削弱了其治理与安全协调能力。文章追溯了比利时作为缓冲国的起源，并讨论了当代的分离主义情绪，指出民调显示如果比利时解体，瓦隆地区有显著比例的人口支持加入法国。分析表明，这些内部裂痕严重损害了比利时应对如 ISIS 等组织威胁的能力。",
+      "keywords_en": [
+        "Belgium",
+        "terrorist attacks",
+        "ISIS",
+        "counterterrorism",
+        "Flemish",
+        "Walloons",
+        "linguistic divisions",
+        "centralized government",
+        "security apparatus",
+        "separatism",
+        "independence movement",
+        "buffer state",
+        "governance",
+        "internal security",
+        "propaganda",
+        "recruitment",
+        "institutional crisis",
+        "Paris attacks",
+        "historical tensions"
+      ],
+      "keywords_zh": [
+        "比利时",
+        "恐怖袭击",
+        "伊斯兰国",
+        "反恐",
+        "弗拉芒人",
+        "瓦隆人",
+        "语言分裂",
+        "中央集权政府",
+        "安全机构",
+        "分离主义",
+        "独立运动",
+        "缓冲国",
+        "治理",
+        "国内安全",
+        "宣传",
+        "招募",
+        "制度危机",
+        "巴黎袭击",
+        "历史紧张关系"
+      ],
+      "topic_words_en": [
+        "Counterterrorism",
+        "Belgian Politics",
+        "Ethnolinguistic Divisions",
+        "Security Governance",
+        "European Security"
+      ],
+      "topic_words_zh": [
+        "反恐",
+        "比利时政治",
+        "民族语言分裂",
+        "安全治理",
+        "欧洲安全"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

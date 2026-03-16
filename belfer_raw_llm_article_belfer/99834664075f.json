@@ -1,0 +1,101 @@
+{
+  "title": "Syra Madad on How New York City Has Handled the COVID-19 Pandemic",
+  "canonical_url": "https://www.belfercenter.org/publication/syra-madad-how-new-york-city-has-handled-covid-19-pandemic",
+  "summary": "Belfer Center Executive Director Aditi Kumar interviews Senior Director of the System-wide Special Pathogens Program at NYC Health + Hospitals Syra Madad about New York City's response to the COVID-19 pandemic.",
+  "published": "2020-06-26T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "Belfer Center Executive Director Aditi Kumar interviews Senior Director of the System-wide Special Pathogens Program at NYC Health + Hospitals Syra Madad about New York City's response to the COVID-19 pandemic. Syra Madad on How New York City Has Handled the COVID-19 Pandemic Print Coronavirus Global Health Public Health Related Aditi Kumar More From This Expert Aspen Strategy Group Policy Book Launch for “Domestic and International (Dis)Order: A Strategic Response” The Week in Covid-19 and Economic Diplomacy: ‘Buy Buy Baby’ Related Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-06-26T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:09:54+00:00",
+    "prompt_hash": "3b8b2af3378e8d525aa638248ea1228d47db4132",
+    "result": {
+      "main_content_en": "In an interview with Belfer Center Executive Director Aditi Kumar, Syra Madad, Senior Director of the System-wide Special Pathogens Program at NYC Health + Hospitals, discusses New York City's response to the COVID-19 pandemic. The conversation highlights the city's public health strategies and operational challenges during the crisis. Madad provides insights into the coordination efforts across healthcare systems, the implementation of infection control protocols, and the adaptation of policies to manage the surge in cases. The discussion underscores the importance of preparedness, rapid response, and lessons learned for future public health emergencies, emphasizing the role of leadership and scientific guidance in navigating the pandemic's complexities within a major urban center.",
+      "main_content_zh": "贝尔弗中心执行主任阿迪蒂·库马尔采访了纽约市健康+医院系统范围特殊病原体项目高级主任西拉·马达德，探讨了纽约市应对COVID-19大流行的措施。访谈聚焦于该市在危机期间的公共卫生策略和运营挑战。马达德分享了全市医疗系统的协调努力、感染控制协议的实施以及为应对病例激增而调整政策的见解。讨论强调了应对未来公共卫生紧急事件的准备、快速响应和经验教训的重要性，突出了在主要城市中心应对大流行复杂性的过程中，领导力和科学指导所发挥的关键作用。",
+      "keywords_en": [
+        "COVID-19 pandemic",
+        "public health response",
+        "New York City",
+        "special pathogens program",
+        "healthcare coordination",
+        "infection control protocols",
+        "public health emergency",
+        "pandemic preparedness",
+        "rapid response",
+        "urban health crisis",
+        "healthcare systems",
+        "policy adaptation",
+        "scientific guidance",
+        "leadership",
+        "case surge management",
+        "operational challenges",
+        "lessons learned",
+        "global health",
+        "Belfer Center",
+        "NYC Health + Hospitals"
+      ],
+      "keywords_zh": [
+        "COVID-19大流行",
+        "公共卫生应对",
+        "纽约市",
+        "特殊病原体项目",
+        "医疗协调",
+        "感染控制协议",
+        "公共卫生紧急事件",
+        "大流行防备",
+        "快速响应",
+        "城市健康危机",
+        "医疗系统",
+        "政策调整",
+        "科学指导",
+        "领导力",
+        "病例激增管理",
+        "运营挑战",
+        "经验教训",
+        "全球健康",
+        "贝尔弗中心",
+        "纽约市健康+医院"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Pandemic Response",
+        "Healthcare Policy",
+        "Urban Health",
+        "Infectious Disease"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "大流行应对",
+        "医疗政策",
+        "城市健康",
+        "传染病"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

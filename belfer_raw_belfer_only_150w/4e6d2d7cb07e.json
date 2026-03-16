@@ -1,0 +1,35 @@
+{
+  "title": "Machine Learning for Policymakers",
+  "canonical_url": "https://www.belfercenter.org/publication/machine-learning-policymakers",
+  "summary": "Few areas of national policymaking will remain untouched by artificial intelligence. Though the challenges it poses are complex, the opportunities it offers are tremendous. Simply put, machine learning is too important to ignore.",
+  "published": "2017-06-26T12:00:00Z",
+  "authors": [
+    "Toni Erskine",
+    "Steven E. Miller"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology",
+    "Science & Technology Policy",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology",
+    "Science & Technology Policy"
+  ],
+  "tags": [
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Science & Technology",
+    "Science & Technology Policy",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "What it is and Why it Matters Summary Machine learning matters. If nothing else, the drumbeat of headlines in recent years offers proof of this. In fields as diverse as healthcare, transportation, policing, and warfighting, machine learning algorithms have already had a significant impact. They seem poised to d more, and the particulars and the implications of this change deserve attention. But machine learning can seem incomprehensible. As a type of artificial intelligence, it can be technical and obtuse. As a fast-changing discipline, it can appear to lack conceptual constants. As a domain of sometimes-inscrutable algorithms, it often hides the answer to one of its most pressing questions: why do machines do what they do? While all of these are real concerns, we believe that not only is it possible for generalists to gain insight into machine learning, it is vital. This paper aims to enable that understanding. First, we introduce and differentiate three types of machine learning algorithms: supervised learning, unsupervised learning, and reinforcement learning. We show how each is well-suited to particular tasks and how the combination of different algorithms and architectures can lead to powerful results. Second, we examine how machine learning has already affected a disparate array of fields. We use these examples of success to introduce important concepts, such as deep learning, computer vision, and the importance of data. With key concepts identified, we next examine how machine learning is poised to be of still greater significance in areas of importance to policymakers. The third section therefore considers the impact machine learning could make in warfighting, healthcare, and policing. New technologies will deeply impact how business is done, changing the nature of jobs and potentially improving overall outcomes. But in each area, there are specific policy, ethical, and technical challenges that must be addressed in order to achieve the best results. For example, the ethics of artificial intelligence in conflict, the challenges of data interoperability in healthcare, and the danger of bias in policing all deserve attention. It is vital that policymakers have an understanding of the key facts of machine learning as they work through these sector-specific challenges. Fourth, we outline some general matters that deserve attention when it comes to machine learning, such as bias, privacy, explainability, and security. In each of these areas, there are crucial questions and challenges. For example, there is tension between the improved accuracy that comes from taking all data into account and the increased unfairness from relying on data correlated with race to make predictions; a similar tension exists between increasing algorithms’ accuracy and usefulness and protecting the privacy of individuals. All of this is complicated by the difficulty in understanding how machine learning algorithms come to certain conclusions—even when those conclusions are correct. Security is also an ever-growing issue. When it comes to managing these and other challenges, engaging with the discipline’s foundational concepts is vital. Fifth, we make recommendations to chart a path forward. It is essential that the bias in already-deployed machine learning algorithms be understood, and that ethics and impacts of machine learning are considered going forward. It is likewise essential that governments encourage the sharing of useful data, and look to how they can better deploy machine learning to improve their own operations. Finally, governments should encourage research and education in machine learning algorithms and applications, particularly those that enhance privacy, security, and explainability. Few areas of national policymaking will remain untouched by artificial intelligence. Though the challenges it poses are complex, the opportunities it offers are tremendous. Simply put, machine learning is too important to ignore. The latest from Belfer See more Recommended citation Buchanan, Ben and Taylor Miller. “Machine Learning for Policymakers.” Cyber Security Project, Belfer Center , June 26, 2017 Copy to Clipboard Machine Learning for Policymakers View Citation Print Cyber Project Cyber Security Information Technology Science & Technology Science & Technology Policy Science, Technology, and Public Policy Recommended citation Buchanan, Ben and Taylor Miller. “Machine Learning for Policymakers.” Cyber Security Project, Belfer Center , June 26, 2017 Copy to Clipboard Author Ben Buchanan More From This Expert Prepared Testimony: House Oversight Committee Nonlethal Weapons and Cyber Capabilities Author Taylor Miller Up Next Photo Credit Toggle Russian Defense Ministry Press Service via AP, File Article Computer Says, “War”: AI and Resort-to-Force Decision Making in a Context of Rapid Change and Global Uncertainty 2026 by Toni Erskine and Steven E. Miller From International Security Program Photo Credit Toggle AP/Hau Dinh Article Navigating the Grid’s Perfect Storm: A Webinar with Andy Sun Dec. 11, 2025 by Robert Stowe Photo Credit Toggle AP/Hau Dinh Reports & Papers Navigating the Grid’s Perfect Storm: Building a Resilient and Reliable Power System November 2025 by Sun, Andy",
+  "node_id": ""
+}

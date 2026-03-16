@@ -1,0 +1,99 @@
+{
+  "title": "Questions from Quarantine: An Increase in Cases",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-increase-cases",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-06-16T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday and if you have a question that you want answered tweet with #QuestionsFromQuarantine . Questions from Quarantine: An Increase in Cases Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-06-16T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:11:44+00:00",
+    "prompt_hash": "2608d05156c5fccac6b61fe7f90f8cb1f73b8f78",
+    "result": {
+      "main_content_en": "The article presents a weekly web series titled 'Questions from Quarantine' hosted by Juliette Kayyem and Dr. Margaret Bourdeaux, focusing on providing expert advice during the COVID-19 pandemic. It invites public participation through social media using the hashtag #QuestionsFromQuarantine, encouraging viewers to submit their questions about managing life and health during the global crisis. The series is framed as a resource for staying 'sane and sanitary,' addressing both mental well-being and public health measures. The broader context includes references to other related content on pandemic management, such as discussions on the H3N2 virus subvariant, mRNA vaccine research funding, and global governance structures for health emergencies. The piece positions itself within ongoing conversations about science policy, emerging technology's role in health crises, and international cooperation.",
+      "main_content_zh": "本文介绍了一个名为“隔离问题”的每周网络系列节目，由朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，旨在为COVID-19大流行期间提供专家建议。该系列鼓励公众通过社交媒体使用#QuestionsFromQuarantine标签提交问题，内容涵盖如何在全球危机中保持身心健康与卫生。文章将其定位为关于保持“理智与卫生”的资源，涉及心理健康和公共卫生措施。更广泛的背景包括对H3N2病毒亚型、mRNA疫苗研究资金以及全球卫生应急治理结构等相关内容的引用。该文章将自己置于关于科学政策、新兴技术在健康危机中的作用以及国际合作的持续讨论之中。",
+      "keywords_en": [
+        "Questions from Quarantine",
+        "COVID-19",
+        "pandemic",
+        "public health",
+        "quarantine",
+        "expert advice",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "global crisis",
+        "mental well-being",
+        "sanitary measures",
+        "H3N2",
+        "mRNA vaccine",
+        "research funding",
+        "global governance",
+        "health emergencies",
+        "science policy",
+        "emerging technology",
+        "international cooperation"
+      ],
+      "keywords_zh": [
+        "隔离问题",
+        "COVID-19",
+        "大流行",
+        "公共卫生",
+        "隔离",
+        "专家建议",
+        "网络系列",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "全球危机",
+        "心理健康",
+        "卫生措施",
+        "H3N2",
+        "mRNA疫苗",
+        "研究资金",
+        "全球治理",
+        "卫生紧急事件",
+        "科学政策",
+        "新兴技术",
+        "国际合作"
+      ],
+      "topic_words_en": [
+        "Pandemic Response",
+        "Public Health Communication",
+        "Science Policy"
+      ],
+      "topic_words_zh": [
+        "大流行应对",
+        "公共卫生传播",
+        "科学政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

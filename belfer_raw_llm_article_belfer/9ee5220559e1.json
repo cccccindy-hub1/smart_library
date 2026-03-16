@@ -1,0 +1,86 @@
+{
+  "title": "Kelly Greenhill on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/kelly-greenhill-office-hours",
+  "summary": "Kelly Greenhill, an Associate Professor at Tufts University and a Research Fellow with the Belfer Center’s International Security Project, talks with Aroop Mukharji (@aroopmukharji) about refugees, building walls, R2P, and weapons of mass migration.",
+  "published": "2016-10-03T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense",
+    "Middle East & North Africa"
+  ],
+  "topics": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense"
+  ],
+  "tags": [
+    "Conflict & Conflict Resolution",
+    "International Security & Defense",
+    "Middle East & North Africa"
+  ],
+  "body": "Kelly Greenhill, an Associate Professor at Tufts University and a Research Fellow with the Belfer Center’s International Security Project, talks with Aroop Mukharji (@aroopmukharji) about refugees, building walls, R2P, and weapons of mass migration. The latest from Belfer See more Gallery 1 of 4 Kelly Greenhill: Border Walls: How Effective? 2 of 4 Kelly Greenhill: Weapons of Mass Migration 3 of 4 Kelly Greenhill: Refugees and Radicalization 4 of 4 Kelly Greenhill: What is R2P? Kelly M. Greenhill is a research fellow in the Belfer Center's International Security Program and an Associate Professor (with tenure) at Tufts University. Her research focuses on foreign policy, the use of military force, and what are frequently called \"new security challenges,\" including civil wars; the use of forced migration as a weapon; military intervention and (counter-) insurgency; and international crime as a challenge to domestic governance. She holds a Ph.D. and an S.M. from M.I.T., a C.S.S. from Harvard University, and a B.A. (with distinction and highest honors) in Political Economy and in Scandinavian Studies from the University of California at Berkeley. Greenhill also serves as Chair of the Conflict, Security, and Public Policy Working Group at the International Security Program and as Associate Editor of the journal International Security . Kelly Greenhill on Office Hours Print Open Section Navigation In this article Close Section Navigation Conflict & Conflict Resolution International Security & Defense Middle East & North Africa Related Kelly M. Greenhill More From This Expert When Migrants Become Weapons: The Long History and Worrying Future of a Coercive Tactic The Power and Limits of Compellence: A Research Note Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle via AP Newsroom Policy Briefs What Lifting U.S. Sanctions Means for Syria’s Transition Dec. 23, 2025 by Ibrahim Al-Assil Event Summary Identity and Politics: Managing Diversity in the Middle East Dec. 19, 2025 by Mark van de Fliert",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-10-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:14:57+00:00",
+    "prompt_hash": "9b31fc59c7a0d1360cf32d885554ab6ba157ec07",
+    "result": {
+      "main_content_en": "In this interview, Kelly Greenhill discusses the concept of 'weapons of mass migration,' exploring how forced migration can be used as a coercive tool in international relations. She analyzes the effectiveness of border walls, the complex relationship between refugees and radicalization, and the principles of the Responsibility to Protect (R2P) doctrine. Her research focuses on new security challenges, including civil wars, military intervention, and the use of migration as a strategic instrument, situating these issues within broader foreign policy and international security debates.",
+      "main_content_zh": "凯莉·格林希尔在访谈中探讨了“大规模移民武器化”的概念，分析了强迫移民如何被用作国际关系中的胁迫工具。她评估了边境墙的有效性，讨论了难民与激进主义之间的复杂关联，并阐释了“保护的责任”（R2P）原则。她的研究聚焦于新型安全挑战，包括内战、军事干预以及将移民作为战略手段等问题，并将这些议题置于更广泛的外交政策和国际安全辩论的框架之中。",
+      "keywords_en": [
+        "weapons of mass migration",
+        "forced migration",
+        "border walls",
+        "refugees",
+        "radicalization",
+        "Responsibility to Protect (R2P)",
+        "coercion",
+        "international security",
+        "foreign policy",
+        "military intervention",
+        "civil wars",
+        "new security challenges",
+        "international relations",
+        "strategic instrument",
+        "Belfer Center",
+        "International Security Project"
+      ],
+      "keywords_zh": [
+        "大规模移民武器化",
+        "强迫移民",
+        "边境墙",
+        "难民",
+        "激进化",
+        "保护的责任（R2P）",
+        "胁迫",
+        "国际安全",
+        "外交政策",
+        "军事干预",
+        "内战",
+        "新型安全挑战",
+        "国际关系",
+        "战略工具",
+        "贝尔弗中心",
+        "国际安全项目"
+      ],
+      "topic_words_en": [
+        "Migration as Weapon",
+        "Border Security",
+        "International Intervention"
+      ],
+      "topic_words_zh": [
+        "移民武器化",
+        "边境安全",
+        "国际干预"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

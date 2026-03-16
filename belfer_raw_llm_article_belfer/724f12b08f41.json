@@ -1,0 +1,93 @@
+{
+  "title": "Robby Mook on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/robby-mook-office-hours-podcast",
+  "summary": "Robby Mook (@RobbyMook), Hillary Clinton’s 2016 Campaign Manager and a Belfer Center Senior Fellow, sits down with with Aroop Mukharji (@aroopmukharji) to talk about lessons from the 2016 campaign, the Defending Digital Democracy Project, and dark chocolate.",
+  "published": "2018-11-05T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Defending Digital Democracy",
+    "Homeland security"
+  ],
+  "topics": [
+    "Homeland security"
+  ],
+  "tags": [
+    "Defending Digital Democracy",
+    "Homeland security"
+  ],
+  "body": "Subscribe to the Office Hours Podcast: iTunes | Google Play | Stitcher | TuneIn The latest from Belfer See more Robby Mook on Office Hours Podcast Print Defending Digital Democracy Homeland security Related Robby Mook Request Interview More From This Expert Beyond 2020: Policy Recommendations for the Future of Election Security The Election Influence Operations Playbook, Part 1 Up Next Photo Credit Toggle Adobe Stock Policy Briefs Countering Foreign Interference: Weighing in on the Canadian Public Inquiry Oct. 23, 2024 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle AP Photo/Mike Carlson Article Bounce Back Better: Four Keys to Disaster Resilience in U.S. Communities Oct. 1, 2024 by Mysore, Mihir , Tim Ward, Tom Dohrmann and David Bibo Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-11-05T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:39:42+00:00",
+    "prompt_hash": "0a0e87bc78ac0513a383f099e4536d4a2672e595",
+    "result": {
+      "main_content_en": "The article is a podcast episode summary featuring Robby Mook discussing election security and defending digital democracy. It highlights the work of the Defending Digital Democracy Project, which focuses on protecting electoral systems from foreign interference and cyber threats. The content emphasizes the importance of policy recommendations and practical playbooks for election officials to enhance security measures. The discussion is framed within the broader context of homeland security, addressing the evolving challenges posed by digital influence operations and the need for resilience in democratic processes. Related materials include policy briefs and reports on countering foreign interference and disaster resilience, indicating a multidisciplinary approach to security policy.",
+      "main_content_zh": "本文是一期播客节目摘要，特邀罗比·穆克讨论选举安全与数字民主防御。文章重点介绍了“捍卫数字民主项目”的工作，该项目致力于保护选举系统免受外国干预和网络威胁。内容强调了为选举官员提供政策建议和实用操作手册以加强安全措施的重要性。讨论置于国土安全的大背景下，阐述了数字影响力行动带来的不断演变的挑战，以及民主进程需要增强韧性的必要性。相关材料包括关于反制外国干预和灾难恢复力的政策简报与报告，体现了安全政策的多学科综合方法。",
+      "keywords_en": [
+        "election security",
+        "digital democracy",
+        "foreign interference",
+        "cyber threats",
+        "Defending Digital Democracy Project",
+        "policy recommendations",
+        "playbook",
+        "homeland security",
+        "influence operations",
+        "resilience",
+        "electoral systems",
+        "security measures",
+        "podcast",
+        "Robby Mook",
+        "disaster resilience",
+        "analytic tradecraft",
+        "intelligence",
+        "AI"
+      ],
+      "keywords_zh": [
+        "选举安全",
+        "数字民主",
+        "外国干预",
+        "网络威胁",
+        "捍卫数字民主项目",
+        "政策建议",
+        "操作手册",
+        "国土安全",
+        "影响力行动",
+        "韧性",
+        "选举系统",
+        "安全措施",
+        "播客",
+        "罗比·穆克",
+        "灾难恢复力",
+        "分析技艺",
+        "情报",
+        "人工智能"
+      ],
+      "topic_words_en": [
+        "Election Security",
+        "Cybersecurity",
+        "Homeland Security",
+        "Digital Democracy",
+        "Policy Analysis"
+      ],
+      "topic_words_zh": [
+        "选举安全",
+        "网络安全",
+        "国土安全",
+        "数字民主",
+        "政策分析"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

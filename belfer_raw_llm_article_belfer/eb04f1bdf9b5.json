@@ -1,0 +1,93 @@
+{
+  "title": "Calder Walton on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/calder-walton-office-hours-podcast",
+  "summary": "Aroop sat down with Calder Walton, the author of Empire of Secrets: British intelligence, the Cold War, and the Twilight of Empire. He is also an Ernest May Fellow in History and Policy, with the Belfer Center’s International Security Program.",
+  "published": "2018-10-03T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe",
+    "Intelligence",
+    "International Security Program",
+    "North America",
+    "Russia"
+  ],
+  "topics": [
+    "Intelligence"
+  ],
+  "tags": [
+    "Europe",
+    "Intelligence",
+    "International Security Program",
+    "North America",
+    "Russia"
+  ],
+  "body": "Subscribe to the Office Hours Podcast iTunes | Google Play | Stitcher | Pocket Cast | TuneIn The latest from Belfer See more Calder Walton on Office Hours Podcast Print Europe Intelligence International Security Program North America Russia Related Calder Walton More From This Expert U.S.-Ukraine Intelligence Sharing: A Conversation with Calder Walton Professor Unmasks Russian Spy Who Stole the Secrets of Concorde Up Next Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker Photo Credit Toggle Adobe Stock, by Odin AI, #830981342 Article Intelligence outsourcing for non-traditional clients: the rise of private sector intelligence providers January 6, 2025 by Katherine Tucker and Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-10-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:40:39+00:00",
+    "prompt_hash": "a6ff5e8601d84313366f071bec4a9a010064b0e1",
+    "result": {
+      "main_content_en": "The article discusses Calder Walton's appearance on the Office Hours podcast, focusing on intelligence and international security topics. While the full transcript of the conversation is not provided, the context suggests the discussion centered on intelligence operations, historical espionage cases like the Russian spy who stole Concorde secrets, and contemporary security challenges involving Europe, North America, and Russia. The piece is part of the Belfer Center's Intelligence Project output, which includes related content on private sector intelligence careers and the rise of private intelligence providers. The metadata indicates a focus on intelligence sharing, espionage history, and the evolving landscape of intelligence work beyond traditional state actors.",
+      "main_content_zh": "本文介绍了卡尔德·沃尔顿（Calder Walton）在“Office Hours”播客节目中的亮相，聚焦于情报与国际安全议题。虽然未提供对话的完整文字稿，但上下文表明讨论核心围绕情报行动、历史上的间谍案件（如窃取协和飞机机密的俄罗斯间谍）以及涉及欧洲、北美和俄罗斯的当代安全挑战。这篇文章属于贝尔弗科学与国际事务中心情报项目的内容产出，该项目还发布了关于私营部门情报职业和私营情报提供商崛起的相关文章。元数据表明，文章重点涉及情报共享、间谍历史以及超越传统国家行为体的情报工作格局演变。",
+      "keywords_en": [
+        "Intelligence",
+        "International Security",
+        "Espionage",
+        "Russia",
+        "Europe",
+        "North America",
+        "Belfer Center",
+        "Podcast",
+        "Calder Walton",
+        "Spy",
+        "Concorde",
+        "Intelligence Sharing",
+        "Intelligence Project",
+        "Private Sector Intelligence",
+        "Security Challenges",
+        "Historical Cases",
+        "State Actors"
+      ],
+      "keywords_zh": [
+        "情报",
+        "国际安全",
+        "间谍活动",
+        "俄罗斯",
+        "欧洲",
+        "北美",
+        "贝尔弗中心",
+        "播客",
+        "卡尔德·沃尔顿",
+        "间谍",
+        "协和飞机",
+        "情报共享",
+        "情报项目",
+        "私营部门情报",
+        "安全挑战",
+        "历史案例",
+        "国家行为体"
+      ],
+      "topic_words_en": [
+        "Intelligence",
+        "Espionage",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "情报",
+        "间谍活动",
+        "国际安全"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

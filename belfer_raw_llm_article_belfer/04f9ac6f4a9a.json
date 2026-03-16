@@ -1,0 +1,97 @@
+{
+  "title": "Questions from Quarantine: Vaccines and the Public Health Response",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-vaccines-and-public-health-response",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-11-23T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: Vaccines and the Public Health Response Print Coronavirus Global Health Public Health Security and Global Health Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-11-23T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:02:59+00:00",
+    "prompt_hash": "b80a2c07f12409b83f612250ee2046548f4b2592",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who address public questions submitted via social media with the hashtag #QuestionsFromQuarantine. The series, titled 'Questions from Quarantine: Vaccines and the Public Health Response,' aims to provide guidance on maintaining mental and physical well-being during the global health crisis. It focuses on public health measures, vaccine-related information, and strategies for coping with the pandemic's challenges. The initiative encourages public engagement and seeks to disseminate expert advice on health security and crisis management directly to a concerned audience.",
+      "main_content_zh": "安全与全球健康项目每周推出一档网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，节目名为“隔离期的问题：疫苗与公共卫生应对”。该系列旨在回答公众通过社交媒体使用#QuestionsFromQuarantine标签提交的疑问，就如何在全球健康危机中保持身心健康提供建议。节目内容聚焦公共卫生措施、疫苗相关信息以及应对疫情挑战的策略。该项目鼓励公众参与，致力于向关注此议题的受众传播有关健康安全和危机管理的专家意见。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "quarantine",
+        "public health response",
+        "vaccines",
+        "global crisis",
+        "health security",
+        "crisis management",
+        "public engagement",
+        "social media",
+        "expert advice",
+        "mental well-being",
+        "physical well-being",
+        "pandemic",
+        "global health",
+        "public health measures"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "隔离",
+        "公共卫生应对",
+        "疫苗",
+        "全球危机",
+        "健康安全",
+        "危机管理",
+        "公众参与",
+        "社交媒体",
+        "专家建议",
+        "心理健康",
+        "身体健康",
+        "大流行病",
+        "全球健康",
+        "公共卫生措施"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Global Health",
+        "Crisis Communication",
+        "Vaccines"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "全球健康",
+        "危机沟通",
+        "疫苗"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

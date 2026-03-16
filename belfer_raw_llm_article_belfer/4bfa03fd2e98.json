@@ -1,0 +1,87 @@
+{
+  "title": "Analyzing the Landscape of Solutions to Social Media’s Harms",
+  "canonical_url": "https://www.belfercenter.org/publication/analyzing-landscape-solutions-social-medias-harms",
+  "summary": "Creating the DPGP Index has provided our research team with a unique perspective to analyze the ecosystem of solutions. Below are a few of our key takeaways.",
+  "published": "2023-03-22T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Technology and Public Purpose"
+  ],
+  "topics": [],
+  "tags": [
+    "Technology and Public Purpose"
+  ],
+  "body": "The following analysis is part of Harvard Kennedy School’s Democracy and Internet Governance Initiative , which has initially focused its research on improving the quality of our information ecosystem, countering online extremism and radicalization, and addressing harassment and diminishing press freedom online. Our team recently published the Digital Platform Governance: Proposals Index (DPGP Index). The Index acts as a database of U.S. proposals aimed at mitigating the harms of digital platforms. It is not exhaustive, and we do not endorse any particular solution. We made this to act as a tool for researchers to better understand the landscape of social media governance, and we are striving to add to it over time. Creating the DPGP Index has provided our research team with a unique perspective to analyze the ecosystem of solutions. Below are a few of our key takeaways. Top Line Takeaways: Congressional and U.S. Agency Action The U.S. Government has analyzed how to address these harms in depth. Congress has considered over 58 unique proposals, and at least 7 federal and local agency actions have been identified as potential solutions to digital harms. Of these proposals, most involve new ideas that were first suggested in the last few years. A few proposals, however, take previously-implemented solutions and re-apply them to the digital era. For example, one proposal involves reforming the Joint Terrorism Task Forces, first implemented in 1979, to better increase cooperation in responding to terrorism online. As the harms of digital platforms have become more clear, the number of proposals to “fix Big Tech” has increased. As more awareness was placed on digital platforms, including following the 2016 U.S. Presidential Elections, proposals for responding to the harms created by these companies increased. In fact, 51 of the 58 (88%) legislative proposals identified were introduced between 2020 and 2022 alone. Legislation remains stuck in Committee. Despite increased attention and awareness, Congress remains stalled. Of the 58 legislative proposals identified, 46 (79%) were referred to Committee and stayed there. Just 5 proposals (7%) have made it through Committee. Of these 5 proposals, just one passed either chamber of Congress, H.R.5314 - Protecting Our Democracy Act. This raises questions around why Congress has been unable to act in the space. More Democrat-Only bills exist than Republican-Only bills. Of the proposals identified, 26 (45%) were sponsored by Democrats only. In comparison, just 10 (17%) of the proposals were sponsored by Republicans alone, while 16 (28%) were bipartisan (the remaining 6 pieces of legislation are either yet to be introduced, or were third party proposals). We have three potential explanations for this. First, Democrat-leaning elected officials may simply be more interested in government action in this space than their Republican-leaning colleagues. Second, Democrat control of the Senate and House for the period of 2020 to 2022, when Congress was most active in this area, may have allowed them to introduce more of their party’s bills. Third, our research may be missing data points, in which case these statistics are in need of re-evaluation after further data collection. Top Line Takeaways: Private Sector Action The Private Sector has identified several solutions. While the concerns around digital platforms are large, 70 proposals have been identified for how the private sector can respond, as well as 5 proposals for public/private cooperation. The Private Sector has tested the vast majority of proposals. Of the 70 proposals identified, just 6 (9%) remain untested by industry. Of these 6 “untested” proposals, some of them may have actually been tested by one of the Platforms without our knowledge, as public information about this space is lacking. Therefore, the true percentage of untested proposals could be even lower. For the 64 proposals that have been tested, the industry standard is generally to not disclose information about internal tests. This standard of nondisclosure makes it difficult to evaluate the effectiveness of various proposals. Few proposals are fully implemented by the industry. The Private Sector may be willing to test proposals, but most are never fully implemented by the industry as a whole. Just 4 proposals (6%) have been deemed fully implemented industry-wide. This may be due to the rise of smaller social media companies that lack the funding or desire to act. Call for Input The Index is a living resource. The list of proposals is not exhaustive, and we do not endorse any particular solution. It is made to be a tool for researchers to better understand the landscape of social media governance, and we are striving to add to it over time. If you believe we are missing any proposals, or if you have comments or edits, please let us know through this form. Your additions will help improve the quality and quantity of our data and make it a more valuable tool. Additionally, in the coming weeks, we are expanding our research by diving into three separate categories of concern and their proposed solutions: (1) polarization, (2) consumer health, safety, privacy, and security, and (3) the disconnect between the government and private sector. The DGDP Index was produced with the help of many dedicated student researchers, including: Derek Belle, Leonie Bolte, Neeraj Chandra, Rohan Chandra, Kenny Chen, Barath Harithas, Nadyah Hilmi, Sandhya Jetty, Ruchika Joshi, Anneka Kumli, Robert Laxer, Jesse Lin, Kendrick McDonald, Nishank Motwani, Elizabeth Parant, Dilnoza Satarova, Maxwell Simon, and Jake Steckler. The latest from Belfer See more Recommended citation Schultz, John. “Analyzing the Landscape of Solutions to Social Media’s Harms.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 22, 2023 Copy to Clipboard Analyzing the Landscape of Solutions to Social Media’s Harms View Citation Print Technology and Public Purpose Recommended citation Schultz, John. “Analyzing the Landscape of Solutions to Social Media’s Harms.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 22, 2023 Copy to Clipboard Author John Schultz More From This Expert The Blueprint for a New Government Agency The Drivers of Platform Harm",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-03-22T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:36:42+00:00",
+    "prompt_hash": "3a59c7c65efb68134169792e0d2a22434df8d269",
+    "result": {
+      "main_content_en": "The article presents findings from the Digital Platform Governance: Proposals Index (DPGP Index), a database of U.S. proposals to mitigate digital platform harms. Key takeaways reveal significant government analysis, with Congress considering over 58 unique proposals, 88% of which were introduced between 2020 and 2022. However, legislative progress is stalled, with 79% of proposals stuck in committee and only one passing a chamber. Partisan differences are noted, with 45% of proposals being Democrat-only versus 17% Republican-only. Private sector action is also analyzed, identifying 70 proposals, most of which have been tested, but industry-wide full implementation is rare at only 6%. The Index is presented as a living tool for researchers, with plans to expand research into polarization, consumer protection, and government-private sector disconnect.",
+      "main_content_zh": "本文介绍了数字平台治理提案索引（DPGP Index）的研究发现，这是一个旨在减轻数字平台危害的美国提案数据库。主要结论显示，美国政府进行了深入分析，国会审议了超过58项独特提案，其中88%在2020年至2022年间提出。然而，立法进程陷入停滞，79%的提案停留在委员会阶段，仅有一项获得国会某一院通过。党派差异明显，45%的提案仅由民主党提出，而仅由共和党提出的占17%。文章也分析了私营部门的行动，共识别出70项提案，其中大部分已进行测试，但全行业全面实施的仅占6%。该索引被定位为研究者的动态工具，并计划将研究扩展至极化、消费者保护以及政府与私营部门脱节等领域。",
+      "keywords_en": [
+        "Digital Platform Governance",
+        "DPGP Index",
+        "legislative proposals",
+        "Congressional action",
+        "private sector solutions",
+        "online harms",
+        "social media governance",
+        "bipartisan",
+        "committee stagnation",
+        "implementation rate",
+        "platform accountability",
+        "information ecosystem",
+        "extremism",
+        "harassment",
+        "press freedom",
+        "public-private cooperation",
+        "polarization",
+        "consumer safety",
+        "data disclosure",
+        "policy analysis"
+      ],
+      "keywords_zh": [
+        "数字平台治理",
+        "DPGP索引",
+        "立法提案",
+        "国会行动",
+        "私营部门解决方案",
+        "网络危害",
+        "社交媒体治理",
+        "两党合作",
+        "委员会停滞",
+        "实施率",
+        "平台问责",
+        "信息生态系统",
+        "极端主义",
+        "网络骚扰",
+        "新闻自由",
+        "公私合作",
+        "极化",
+        "消费者安全",
+        "数据披露",
+        "政策分析"
+      ],
+      "topic_words_en": [
+        "Platform Governance",
+        "Legislative Analysis",
+        "Private Sector Action"
+      ],
+      "topic_words_zh": [
+        "平台治理",
+        "立法分析",
+        "私营部门行动"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

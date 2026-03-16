@@ -1,0 +1,95 @@
+{
+  "title": "Mike Mullen on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/mike-mullen-office-hours-podcast",
+  "summary": "U.S. Navy Admiral (ret.) Mike Mullen, Chairman of the joint Chiefs of Staff from 2007 to 2011, talks with Aroop Mukharji (@aroopmukharji) about global leaders who are moving the needle, worrying trends in U.S. government, and golf and fly fishing.",
+  "published": "2017-03-01T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe",
+    "International Security & Defense",
+    "North America"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "Europe",
+    "International Security & Defense",
+    "North America"
+  ],
+  "body": "Admiral (ret.) Michael \"Mike\" Mullen finished his 43 years of service in the U.S. Navy serving as the 17th Chairman of the Joint Chiefs of Staff, the highest ranking officer in the United States Armed Forces. Mullen previously served as the Navy's 28th Chief of Naval Operations, U.S. Naval Forced Europe, Commander, Allied Joint Force Command Naples, and as the 32nd Vice Chief of Naval Operations. The latest from Belfer See more Mike Mullen on Office Hours Podcast Print Europe International Security & Defense North America Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026 Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-03-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:09:17+00:00",
+    "prompt_hash": "ebf45daacc4715aad9cbd0f05216de13339d0d02",
+    "result": {
+      "main_content_en": "The article profiles Admiral (ret.) Michael 'Mike' Mullen, highlighting his distinguished 43-year career in the U.S. Navy. His service culminated in his role as the 17th Chairman of the Joint Chiefs of Staff, the highest-ranking officer in the U.S. Armed Forces. Prior to this, he held several key leadership positions including the 28th Chief of Naval Operations, Commander of U.S. Naval Forces Europe and Allied Joint Force Command Naples, and the 32nd Vice Chief of Naval Operations. The piece is presented as part of a series from the Belfer Center and is associated with topics of International Security & Defense, with a geographic focus on Europe and North America. It is tagged alongside related content on NATO's Article 5, nuclear proliferation risks, and the role of middle powers in global security.",
+      "main_content_zh": "本文介绍了美国海军退役上将迈克尔·'迈克'·马伦的职业生涯。他服役43年，最终担任第17任参谋长联席会议主席，这是美国武装部队的最高军职。在此之前，他曾担任多项关键领导职务，包括第28任海军作战部长、美国海军欧洲部队司令兼盟军联合部队司令部那不勒斯司令，以及第32任海军作战部副部长。这篇文章是贝尔弗中心系列内容的一部分，归类于国际安全与防务主题，地理上关注欧洲和北美。文章标签与北约第五条、核扩散风险以及中等国家在全球安全中的角色等相关内容并列。",
+      "keywords_en": [
+        "Michael Mullen",
+        "Mike Mullen",
+        "Admiral",
+        "Chairman of the Joint Chiefs of Staff",
+        "Chief of Naval Operations",
+        "U.S. Navy",
+        "U.S. Naval Forces Europe",
+        "Allied Joint Force Command Naples",
+        "Vice Chief of Naval Operations",
+        "Belfer Center",
+        "International Security",
+        "Defense",
+        "Europe",
+        "North America",
+        "NATO Article 5",
+        "Collective Defense",
+        "Nuclear Proliferation",
+        "Middle Powers",
+        "Leadership",
+        "Military Career"
+      ],
+      "keywords_zh": [
+        "迈克尔·马伦",
+        "迈克·马伦",
+        "海军上将",
+        "参谋长联席会议主席",
+        "海军作战部长",
+        "美国海军",
+        "美国海军欧洲部队",
+        "盟军联合部队司令部那不勒斯",
+        "海军作战部副部长",
+        "贝尔弗中心",
+        "国际安全",
+        "防务",
+        "欧洲",
+        "北美",
+        "北约第五条",
+        "集体防御",
+        "核扩散",
+        "中等国家",
+        "领导力",
+        "军事生涯"
+      ],
+      "topic_words_en": [
+        "Military Leadership",
+        "U.S. Defense Policy",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "军事领导力",
+        "美国防务政策",
+        "国际安全"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

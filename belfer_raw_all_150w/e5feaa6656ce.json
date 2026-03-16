@@ -1,0 +1,34 @@
+{
+  "title": "Too Connected to Fail",
+  "canonical_url": "https://www.belfercenter.org/publication/too-connected-fail",
+  "summary": "This paper argues that threats to core internet infrastructure and services can, in fact, rise to the level of a serious national security threat to the United States and will explore scenarios where this may be the case. The paper will discuss several kinds of core internet services and infrastructure and explore the challenges with understanding interdependencies between the internet and critical infrastructure; review recent attack techniques that can cause systemic risk to the internet; discuss various nation state capabilities, intentions and recent activities in this area; and describe how these attacks could be used against the United States to deter the U.S., control escalation, or potentially degrade U.S. warfighting capabilities in a conflict. Finally, the paper concludes with recommendations for what the United States and other governments can do to build defenses and resiliency against systemic threats to the internet.",
+  "published": "2025-06-05T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Infrastructure Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Information Technology",
+    "Infrastructure Technology",
+    "Science & Technology"
+  ],
+  "tags": [
+    "Cyber Project",
+    "Cyber Security",
+    "Information Technology",
+    "Infrastructure Technology",
+    "Science & Technology",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "How Attackers Can Disrupt the Global Internet, Why it Matters, And What We Can Do About It Preview In March of 2015, China turned the backbone infrastructure of its domestic internet - providing connectivity to roughly 700 million people - into a weapon. Using a tool dubbed the Great Cannon, it launched an assault on the networks of a United States company called Github, which was providing safe harbor for content deemed objectionable by the Chinese government. It did so by redirecting internet traffic heading into China towards Github's offending websites, taking the company off-line by swamping it with traffic. Nine months later, the reverse happened to Turkey In December 2015, their domestic internet became a target. Still unidentified attackers flooded Turkey's top-level domain name servers with traffic, effectively severing access to all 400,000 web sites and services (including email) using Turkey's .tr country code. Here, attackers were not targeting Turkey's banks, social networks, or its governments. They were attacking everything because they were attacking connectivity itself. These cases illustrate three central points: the infrastructure that powers global connectivity can be manipulated and attacked; these kinds of attacks can be used to achieve strategic, geopolitical aims; and when connectivity fails, services relying on connectivity fail too. In the rush to reap the benefits of technology, societies have created interconnected systems that link internet infrastructure, physical critical infrastructure, and other networks with businesses and users across the globe. These networks are too complex to accurately map, let alone effectively manage. In this era, attacking the connectivity binding all these devices and systems together will become an increasingly attractive technique for nation states seeking the achieve their goals, and the most open, networked countries will be the most vulnerable. Governments that fail to account for this development - ones that invest inordinate resources to protect government networks and critical infrastructure like power and water without adequately addressing the connectivity that underwrites the entire system - do so at considerable risk. * * * Most users take the internet for granted. It is seamlessly woven into our lives, just as important for social life as it is for business. That we always expect connectivity, despite the occasional lapse on an underground subway car or on an elevator, is a testament to its resilient design. Lately, however, many users have learned that the internet is not one amorphous \"thing\" - it is an extremely complex bundle of technologies that, while resilient, relies on a key set of widely deployed hardware, software, and protocols. When the security of any of these components is compromised, the security of the internet itself may be affected. When these components fail entirely, so goes the internet. These components are \"too connected to fail.\" The latest from Belfer See more Recommended citation Snyder, Charley. “Too Connected to Fail.” Cyber Security Project, Belfer Center , May 2017 Copy to Clipboard Too Connected to Fail View Citation Print Cyber Project Cyber Security Information Technology Infrastructure Technology Science & Technology Science, Technology, and Public Policy Recommended citation Snyder, Charley. “Too Connected to Fail.” Cyber Security Project, Belfer Center , May 2017 Copy to Clipboard Author Charley Snyder Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": ""
+}

@@ -1,0 +1,98 @@
+{
+  "title": "What You Can Do Once Vaccinated",
+  "canonical_url": "https://www.belfercenter.org/publication/what-you-can-do-once-vaccinated",
+  "summary": "With three remarkable COVID-19 vaccines authorized in the U.S. and millions of Americans getting vaccinated daily, it is indeed time for COVID optimism, write Syra Madad and Monica Gandhi. As fully vaccinated persons wonder what activities they can engage in, it’s important to look at it from the lens of those around you and their vulnerability to the virus. The table here provides high level information for those vaccinated.",
+  "published": "2021-03-04T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health"
+  ],
+  "body": "With three remarkable COVID-19 vaccines authorized in the U.S. and millions of Americans getting vaccinated daily, it is indeed time for COVID optimism. The trio, Pfizer BioNTech, Moderna and the Johnson and Johnson COVID-19 vaccines, all protect against severe illness, hospitalization and death and data on vaccines reducing transmission is looking very promising. Even so, activities vaccinated persons can engage in without restrictions is still limited to those among other vaccinated and persons with natural immunity given widespread community transmission and a large susceptible population. As fully vaccinated persons wonder what activities they can engage in, it’s important to look at it from the lens of those around you and their vulnerability to the virus. The table here provides high level information for those vaccinated. Remember, risk reduction is additive. The graphic “ Keeping Safe and Protecting Yourself and Others from COVID19 ” covers 11 measures we should all be taking to prevent infection and spreading it to others. The latest from Belfer See more Recommended citation Madad, Syra and Monica Gandhi. “What You Can Do Once Vaccinated .” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 4, 2021 Copy to Clipboard What You Can Do Once Vaccinated View Citation Print Coronavirus Global Health Recommended citation Madad, Syra and Monica Gandhi. “What You Can Do Once Vaccinated .” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 4, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Monica Gandhi Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-03-04T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:58:46+00:00",
+    "prompt_hash": "844b2d7c407988f370a5b0869352520076250fc1",
+    "result": {
+      "main_content_en": "The authorization of three highly effective COVID-19 vaccines from Pfizer-BioNTech, Moderna, and Johnson & Johnson marks a turning point, offering strong protection against severe illness, hospitalization, and death, with promising data on reducing transmission. However, despite this optimism, activities for vaccinated individuals remain limited due to widespread community transmission and a large susceptible population. Guidance emphasizes that risk reduction is additive and must consider the vulnerability of those around the vaccinated person. The article references a table providing high-level information for the vaccinated and a graphic outlining 11 preventive measures for safety. It concludes by highlighting related expert commentary on topics such as H3N2 'Subclade K' and the risks of defunding mRNA research, situating the vaccination discussion within broader issues of emerging technology and global health policy.",
+      "main_content_zh": "辉瑞-生物科技、莫德纳和强生三款高效新冠疫苗的获批标志着一个转折点，它们能有效预防重症、住院和死亡，且降低传播的数据令人鼓舞。然而，尽管存在这种乐观情绪，由于社区传播广泛和易感人群规模巨大，已接种疫苗者的活动范围仍然受限。指南强调风险降低是累积性的，必须考虑接种者周围人群的脆弱性。文章引用了一个为接种者提供概要信息的表格，以及一张概述11项安全预防措施的图示。最后，文章通过强调专家对H3N2 'K亚分支' 相关议题以及停止资助mRNA研究风险的评论，将疫苗接种讨论置于更广泛的新兴技术与全球卫生政策框架之中。",
+      "keywords_en": [
+        "COVID-19",
+        "vaccine",
+        "Pfizer-BioNTech",
+        "Moderna",
+        "Johnson & Johnson",
+        "vaccination",
+        "transmission",
+        "severe illness",
+        "hospitalization",
+        "community transmission",
+        "risk reduction",
+        "preventive measures",
+        "public health",
+        "global health",
+        "emerging technology",
+        "mRNA research",
+        "H3N2",
+        "Subclade K",
+        "global policy",
+        "scientific cooperation"
+      ],
+      "keywords_zh": [
+        "新冠肺炎",
+        "疫苗",
+        "辉瑞-生物科技",
+        "莫德纳",
+        "强生",
+        "疫苗接种",
+        "病毒传播",
+        "重症",
+        "住院",
+        "社区传播",
+        "风险降低",
+        "预防措施",
+        "公共卫生",
+        "全球卫生",
+        "新兴技术",
+        "mRNA研究",
+        "H3N2",
+        "K亚分支",
+        "全球政策",
+        "科学合作"
+      ],
+      "topic_words_en": [
+        "Vaccination Guidance",
+        "Public Health Policy",
+        "Emerging Technology",
+        "Global Health",
+        "Risk Management"
+      ],
+      "topic_words_zh": [
+        "疫苗接种指南",
+        "公共卫生政策",
+        "新兴技术",
+        "全球卫生",
+        "风险管理"
+      ],
+      "relevance_score": 0.6
+    }
+  }
+}

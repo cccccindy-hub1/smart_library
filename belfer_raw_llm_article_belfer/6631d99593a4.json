@@ -1,0 +1,95 @@
+{
+  "title": "Uber: The View from the East Coast",
+  "canonical_url": "https://www.belfercenter.org/publication/uber-view-east-coast",
+  "summary": "\"I have spent a great deal of time over the past three months using Uber as a means of transportation. I would describe Uber as the hidden success story in the American integration of immigrants.\"",
+  "published": "2017-02-24T12:00:00Z",
+  "authors": [
+    "Andrew R. Lorenzen-Strait"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Immigration",
+    "International Security Program",
+    "North America"
+  ],
+  "topics": [
+    "Immigration"
+  ],
+  "tags": [
+    "Immigration",
+    "International Security Program",
+    "North America"
+  ],
+  "body": "On 23 February, The New York Times front-paged an article highlighting the unrestrained office culture of the San Francisco-based Uber, including cutthroat competition and uninhibited parties. The tone of the article is such that one wonders whether this was in part an article inspired by Uber's enemies. But this is simply a random speculation. For reasons that do not require an elaboration, I have spent a great deal of time over the past three months using Uber as a means of transportation. I would describe Uber as the hidden success story in the American integration of immigrants. Uber drivers are uniformly friendly, helpful and conversational. One might say the antithesis of the taxi culture. Most are young third worlders and live in the (to say the least) modest suburbs around Boston. Nearly all are U.S. citizens and happy to be here. It has made me feel cheerier about the United States than anything else in the recent past. The latest from Belfer See more Statements and views expressed in this commentary are solely those of the author and do not imply endorsement by Harvard University, the Harvard Kennedy School, or the Belfer Center for Science and International Affairs. Recommended citation Cogan, Charles G. \"Uber: The View from the East Coast.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, February 24, 2017 Copy to Clipboard Uber: The View from the East Coast View Citation Print Immigration International Security Program North America Recommended citation Cogan, Charles G. \"Uber: The View from the East Coast.\" Belfer Center for Science and International Affairs, Harvard Kennedy School, February 24, 2017 Copy to Clipboard Author Charles G. Cogan More From This Expert Usurpation! Saudi Arabia: Youth (and Geniture) Will Be Served Up Next Photo Credit Toggle AP Photo/Dario Lopez-Mills Reports & Papers Improving Migrant Child Welfare at the Southwest Border February 2023 by Andrew R. Lorenzen-Strait From Homeland Security Project Photo Credit Toggle AP Photo Article Kennedy School Postdoc Discusses Government-Sanctioned Mass Expulsion at Belfer Center Seminar Nov. 4, 2022 by Cam E Kettles, Jasmine Palma and Rysa Tahilramani Photo Credit Toggle AP/Czarek Sokolowski Article When Migrants Become Weapons: The Long History and Worrying Future of a Coercive Tactic March/April 2022 by Kelly Greenhill",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-02-24T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:10:01+00:00",
+    "prompt_hash": "eda5d2df0ef7b727f08feacf70c47dd5751bd34e",
+    "result": {
+      "main_content_en": "The article discusses the author's positive personal experiences using Uber as a frequent passenger over three months, contrasting it with the negative portrayal in a New York Times article about the company's corporate culture. The author describes Uber drivers as uniformly friendly, helpful, and conversational, representing a stark contrast to traditional taxi culture. The author highlights that most drivers are young immigrants from the third world, living in modest suburbs around Boston, and nearly all are U.S. citizens who are happy to be in the country. This experience is presented as a hidden success story for American immigrant integration, making the author feel more optimistic about the United States than any other recent development. The piece frames this observation within a broader context of immigration and societal integration.",
+      "main_content_zh": "本文基于作者过去三个月频繁使用Uber的个人经历，回应了《纽约时报》一篇关于Uber公司文化的负面报道。作者描述了Uber司机普遍友好、乐于助人且健谈的特点，认为这与传统的出租车文化形成鲜明对比。作者指出，大多数司机是来自第三世界的年轻移民，居住在波士顿周边朴素的郊区，且几乎都是对美国现状感到满意的美国公民。作者将Uber视为美国移民融入社会的一个未被充分认知的成功案例，并表示这一体验比近期任何其他事情都更让他对美国感到乐观。文章将这一观察置于移民与社会融合的更广泛背景下进行讨论。",
+      "keywords_en": [
+        "Uber",
+        "immigration",
+        "integration",
+        "taxi culture",
+        "immigrants",
+        "suburbs",
+        "Boston",
+        "third world",
+        "citizens",
+        "transportation",
+        "corporate culture",
+        "New York Times",
+        "personal experience",
+        "success story",
+        "optimism",
+        "society",
+        "drivers",
+        "friendly",
+        "conversational",
+        "modest"
+      ],
+      "keywords_zh": [
+        "Uber",
+        "移民",
+        "融合",
+        "出租车文化",
+        "移民者",
+        "郊区",
+        "波士顿",
+        "第三世界",
+        "公民",
+        "交通",
+        "公司文化",
+        "纽约时报",
+        "个人经历",
+        "成功案例",
+        "乐观主义",
+        "社会",
+        "司机",
+        "友好",
+        "健谈",
+        "朴素"
+      ],
+      "topic_words_en": [
+        "Immigration Integration",
+        "Ride-sharing Economy",
+        "Social Perception"
+      ],
+      "topic_words_zh": [
+        "移民融合",
+        "共享出行经济",
+        "社会认知"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

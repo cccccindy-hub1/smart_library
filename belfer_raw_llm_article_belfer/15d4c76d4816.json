@@ -1,0 +1,87 @@
+{
+  "title": "At 25, Managing the Atom Looks Back and Ahead",
+  "canonical_url": "https://www.belfercenter.org/publication/25-managing-atom-looks-back-and-ahead",
+  "summary": "Managing the Atom will celebrate its 25th anniversary this academic year. Hosting a conference to celebrate the occasion, MTA will feature a number of panels and keynotes addressing major issues in nuclear proliferation, energy, and security. Highlighting the impact of the MTA community on the nuclear field, the conference will also bring together prominent scholars and practitioners in discussion about how the field has changed as well as where it may go. Date and details will be publicized in the spring semester.",
+  "published": "",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "Featured in the Fall 2021 Newsletter » To celebrate its 25th anniversary this academic year, the Belfer Center’s Project on Managing the Atom (MTA) will host a conference in the spring of 2022. The event will feature a number of panels and keynotes addressing major issues in nuclear proliferation, energy, and security. Highlighting the impact of the MTA community on the nuclear field, the conference will bring together prominent scholars and practitioners to discuss how the field has changed as well as where it may go. Date and details will be publicized in the spring semester. In January, MTA scholars will attend the tenth Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT RevCon) taking place from 4 to 22 January at UN Headquarters in New York. Delegates from hundreds of nations will review the landmark 1968 Treaty on the Non-Proliferation of Nuclear Weapons and discuss further action. MTA will hold a side-session showcasing its ongoing “Atomic Backfires” project, which examines some of the most common foreign policy tools for addressing nuclear dangers in order to highlight costs and consequences inherent to nuclear policymaking. In addition to the 25th anniversary event and the NPT RevCon, MTA will continue its regular seminar series, its Iran Working Group, and its involvement with initiatives on nuclear energy, safety, and security in the Gulf region. The latest from Belfer See more Recommended citation \"At 25, Managing the Atom Project Looks Back and Ahead.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School. (Fall 2021) Copy to Clipboard At 25, Managing the Atom Looks Back and Ahead View Citation Print Recommended citation \"At 25, Managing the Atom Project Looks Back and Ahead.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School. (Fall 2021) Copy to Clipboard",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:49:47+00:00",
+    "prompt_hash": "e3da1fe5685146c87e205dcfe9ff62d28fe0bfa5",
+    "result": {
+      "main_content_en": "The Belfer Center's Project on Managing the Atom (MTA) is celebrating its 25th anniversary during the 2021-2022 academic year. To mark the occasion, it will host a conference in spring 2022 featuring panels and keynotes on nuclear proliferation, energy, and security, bringing together scholars and practitioners to reflect on the field's evolution and future directions. In January 2022, MTA scholars will participate in the tenth NPT Review Conference at the UN, where they will present their 'Atomic Backfires' project analyzing the costs and consequences of nuclear policy tools. Alongside these events, MTA will continue its regular seminar series, Iran Working Group, and initiatives focused on nuclear energy and security in the Gulf region.",
+      "main_content_zh": "哈佛大学贝尔弗科学与国际事务中心的“管理原子项目”正在庆祝其成立25周年。为此，项目计划在2022年春季举办一场会议，聚焦核扩散、核能与核安全等重大议题，汇集知名学者与实践者，探讨该领域的历史变迁与未来走向。2022年1月，项目学者将参加在纽约联合国总部举行的第十次《不扩散核武器条约》审议大会，并举办边会展示其“原子反作用”研究项目，该项目旨在剖析应对核威胁常用外交政策的潜在成本与后果。除周年活动和审议大会外，项目还将持续推进其常规研讨会系列、伊朗工作组，以及涉及海湾地区核能、安全与安保的相关倡议。",
+      "keywords_en": [
+        "Managing the Atom",
+        "Belfer Center",
+        "nuclear proliferation",
+        "nuclear energy",
+        "nuclear security",
+        "NPT Review Conference",
+        "Treaty on the Non-Proliferation of Nuclear Weapons",
+        "Atomic Backfires",
+        "foreign policy",
+        "nuclear policymaking",
+        "Iran Working Group",
+        "Gulf region",
+        "seminar series",
+        "scholars",
+        "practitioners",
+        "conference",
+        "anniversary",
+        "UN Headquarters",
+        "side-session",
+        "nuclear dangers"
+      ],
+      "keywords_zh": [
+        "管理原子项目",
+        "贝尔弗中心",
+        "核扩散",
+        "核能",
+        "核安全",
+        "《不扩散核武器条约》审议大会",
+        "《不扩散核武器条约》",
+        "原子反作用",
+        "外交政策",
+        "核政策制定",
+        "伊朗工作组",
+        "海湾地区",
+        "研讨会系列",
+        "学者",
+        "实践者",
+        "会议",
+        "周年纪念",
+        "联合国总部",
+        "边会",
+        "核威胁"
+      ],
+      "topic_words_en": [
+        "Nuclear Policy",
+        "Non-Proliferation",
+        "International Security",
+        "Nuclear Energy",
+        "Academic Research"
+      ],
+      "topic_words_zh": [
+        "核政策",
+        "核不扩散",
+        "国际安全",
+        "核能",
+        "学术研究"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

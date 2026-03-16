@@ -1,0 +1,98 @@
+{
+  "title": "Wendy Sherman on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/wendy-sherman-office-hours-podcast",
+  "summary": "Former Undersecretary of State Wendy Sherman, a lead negotiator of the P5+1 Iran Nuclear deal and a non-resident Senior Fellow at the Belfer Center, talks with Aroop Mukharji (@aroopmukharji) about her place in history as the first female Undersecretary of State, Vladimir Putin’s sense of humor, and how many snacks it takes to fuel a negotiating team.",
+  "published": "2017-04-03T12:00:00Z",
+  "authors": [
+    "Ariel E Levite"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Civil Wars",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America",
+    "South Asia"
+  ],
+  "topics": [
+    "Civil Wars",
+    "Iran's Nuclear Program"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Civil Wars",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America",
+    "South Asia"
+  ],
+  "body": "Ambassador Wendy Sherman served as Undersecretary of State for Political Affairs at the U.S. Department of State. In this global role, she oversaw the bureaus for Africa, East Asia and the Pacific, Europe and Eurasia, the Near East, South and Central Asia, the Western Hemisphere, and International Organizations. She also led the U.S. negotiating team and was a central player in reaching a successful conclusion of the Iran nuclear agreement. In recognition of her diplomatic accomplishments, she was awarded the National Security Medal by President Barack Obama. Ambassador Sherman previously served as Counselor for the State Department (1997-2001), as well as Special Advisor to President Clinton and Policy Coordinator on North Korea. In that role, she worked as a close advisor to then Secretary of State Madeleine Albright on every major foreign policy and national security issue, and also managed numerous special assignments including negotiations on nuclear non-proliferation. The latest from Belfer See more Wendy Sherman on Office Hours Podcast Print Asia & the Pacific Civil Wars Iran's Nuclear Program Middle East & North Africa North America South Asia Related Wendy R. Sherman Request Interview More From This Expert Impacts of the U.S. Killing of Qassem Soleimani Impacts of U.S. Troop Withdrawal from Syria Up Next Article Hamas' Strength Lies in Its Weakness – and Israel Keeps Playing Into Its Hands Sep. 18, 2025 by Ariel E Levite From International Security Program Blog Post Russians React to Strikes on Iran: Condemn US, Welcome Its Diversion From Ukraine, No Concrete Help to Iran Jun. 23, 2025 by Simon Saradzhyan Article Was Trump Right to Strike Iran and is Diplomacy Still Possible? Jun. 23, 2025",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-04-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:06:51+00:00",
+    "prompt_hash": "dc03bb3540a363140c15cc4cde3761f356002709",
+    "result": {
+      "main_content_en": "Ambassador Wendy Sherman served as Undersecretary of State for Political Affairs, overseeing global bureaus for Africa, East Asia and the Pacific, Europe and Eurasia, the Near East, South and Central Asia, the Western Hemisphere, and International Organizations. She led the U.S. negotiating team that successfully concluded the Iran nuclear agreement, for which she was awarded the National Security Medal by President Barack Obama. Her prior roles included Counselor for the State Department and Special Advisor to President Clinton and Policy Coordinator on North Korea, where she worked closely with Secretary of State Madeleine Albright on major foreign policy and national security issues, managing assignments such as nuclear non-proliferation negotiations.",
+      "main_content_zh": "温迪·谢尔曼大使曾担任负责政治事务的副国务卿，主管美国国务院全球各地区及国际组织事务局，包括非洲、东亚和太平洋、欧洲和欧亚大陆、近东、南亚和中亚、西半球等。她领导了美国谈判团队，成功达成了伊朗核协议，并因此被巴拉克·奥巴马总统授予国家安全勋章。此前，她曾担任国务院顾问、克林顿总统的特别顾问以及朝鲜政策协调员，与时任国务卿马德琳·奥尔布赖特密切合作，处理重大外交政策和国家安全问题，并负责核不扩散谈判等多项特殊任务。",
+      "keywords_en": [
+        "Undersecretary of State",
+        "Political Affairs",
+        "Iran nuclear agreement",
+        "negotiating team",
+        "National Security Medal",
+        "Barack Obama",
+        "Counselor",
+        "Special Advisor",
+        "Policy Coordinator",
+        "North Korea",
+        "Madeleine Albright",
+        "foreign policy",
+        "national security",
+        "nuclear non-proliferation",
+        "diplomacy",
+        "State Department",
+        "global bureaus",
+        "international organizations"
+      ],
+      "keywords_zh": [
+        "副国务卿",
+        "政治事务",
+        "伊朗核协议",
+        "谈判团队",
+        "国家安全勋章",
+        "巴拉克·奥巴马",
+        "顾问",
+        "特别顾问",
+        "政策协调员",
+        "朝鲜",
+        "马德琳·奥尔布赖特",
+        "外交政策",
+        "国家安全",
+        "核不扩散",
+        "外交",
+        "国务院",
+        "全球事务局",
+        "国际组织"
+      ],
+      "topic_words_en": [
+        "Diplomacy",
+        "Nuclear Negotiations",
+        "Foreign Policy"
+      ],
+      "topic_words_zh": [
+        "外交",
+        "核谈判",
+        "外交政策"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

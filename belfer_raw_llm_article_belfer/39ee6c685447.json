@@ -1,0 +1,88 @@
+{
+  "title": "Should the U.S. Continue to Provide the Substantial Level of Military Assistance to Ukraine That is has Over the Past 18 Month?",
+  "canonical_url": "https://www.belfercenter.org/publication/should-us-continue-provide-substantial-level-military-assistance-ukraine-has-over-past",
+  "summary": "Russia’s full-scale invasion of Ukraine has pushed the United States’ substantial level of military assistance to Ukraine over the past 18 months to the forefront of international conversations and debates alike. While some question the assistance altogether, many ask whether or not Europe should be stepping up to do more. This study group, led by Dr. Karen Donfried, is examining key foreign policy debates flowing from Russia’s war against Ukraine. Two teams of four students each debated this week's topic as the rest of the study group observed.",
+  "published": "2023-10-19T12:00:00Z",
+  "authors": [
+    "Tanya Kozyreva"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Europe and the Transatlantic Relationship",
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "topics": [
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "tags": [
+    "Europe and the Transatlantic Relationship",
+    "U.S. Foreign Policy",
+    "War in Ukraine"
+  ],
+  "body": "Geostrategic Case: Pax Americana The latest from Belfer See more European Defense is American Defense Moral Obligations Need for Means-tested Assistance and Burden-sharing Supply Chain Limitations Domestic Political Divisions Should the U.S. Continue to Provide the Substantial Level of Military Assistance to Ukraine That is has Over the Past 18 Month? Print Europe and the Transatlantic Relationship U.S. Foreign Policy War in Ukraine Related Dr. Karen Donfried More From This Expert Should the Biden Administration Pressure the Ukrainians to go to the Negotiating Table and Resolve the Dispute with Russia Diplomatically? Should the Biden Administration Provide Ukraine with any Weapons (Short of Nuclear, Chemical, or Biological Weapons) it Requires to Win the War? Related Vladyslav Wallace More From This Expert Kyrgyzstan in Crisis: A Geopolitical Juncture Should the Biden Administration Pressure the Ukrainians to go to the Negotiating Table and Resolve the Dispute with Russia Diplomatically? Up Next Photo Credit Toggle AP Photo/Vlad Kravchuk Reports & Papers A Flawed Path to Peace: The Weaknesses of the Proposed U.S.–Russia Framework for Ukraine Dec. 10, 2025 by Tanya Kozyreva From Defense, Emerging Technology, and Strategy Photo Credit Toggle NATO Event Summary Watch: NATO Deputy Secretary General Radmila Šekerinska Dec. 8, 2025 Photo Credit Toggle Julia Vassileva Article Living on the Edge: NATO’s Eastern Frontier, Article 5, and Russia’s Motive Sep. 22, 2025 by Julia Vassileva",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-10-19T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:31:28+00:00",
+    "prompt_hash": "6814fa1d377c93491067db8de38714aed58c99cd",
+    "result": {
+      "main_content_en": "The article presents a multifaceted debate on whether the United States should sustain its substantial military assistance to Ukraine, as it has over the past 18 months. It outlines several key considerations, including the geostrategic argument for maintaining a Pax Americana and the perspective that European defense directly contributes to American security. The discussion also encompasses moral obligations to support Ukraine, alongside practical concerns such as the need for means-tested assistance to ensure burden-sharing among allies, limitations in global supply chains for military equipment, and the impact of deepening domestic political divisions within the U.S. on continued funding and support. The piece frames these factors as critical inputs for policymakers evaluating the future trajectory of U.S. aid.",
+      "main_content_zh": "本文围绕美国是否应维持过去18个月以来对乌克兰的实质性军事援助水平展开了多层面的辩论。文章概述了若干关键考量因素，包括维护“美国治下的和平”的地缘战略论点，以及欧洲防御直接关乎美国安全的观点。讨论还涵盖支持乌克兰的道德义务，同时涉及诸多现实问题，例如需要根据实际情况调整援助以确保盟友间的责任分担、全球军事装备供应链的限制，以及美国国内日益加深的政治分歧对持续资金支持和援助政策的影响。这些因素被呈现为政策制定者评估未来美国援助方向的关键依据。",
+      "keywords_en": [
+        "Military Assistance",
+        "Ukraine",
+        "Geostrategic",
+        "Pax Americana",
+        "European Defense",
+        "Burden-sharing",
+        "Supply Chain",
+        "Domestic Politics",
+        "Means-tested Assistance",
+        "U.S. Foreign Policy",
+        "Security",
+        "Aid",
+        "Alliance",
+        "Funding",
+        "Policy Debate",
+        "Strategic Considerations"
+      ],
+      "keywords_zh": [
+        "军事援助",
+        "乌克兰",
+        "地缘战略",
+        "美国治下的和平",
+        "欧洲防务",
+        "责任分担",
+        "供应链",
+        "国内政治",
+        "按需援助",
+        "美国外交政策",
+        "安全",
+        "援助",
+        "联盟",
+        "资金",
+        "政策辩论",
+        "战略考量"
+      ],
+      "topic_words_en": [
+        "U.S. Foreign Policy",
+        "Military Aid",
+        "Ukraine War"
+      ],
+      "topic_words_zh": [
+        "美国外交政策",
+        "军事援助",
+        "乌克兰战争"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

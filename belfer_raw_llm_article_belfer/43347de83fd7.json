@@ -1,0 +1,102 @@
+{
+  "title": "Jake Sullivan on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/jake-sullivan-office-hours-podcast",
+  "summary": "Jake Sullivan, former Director of the Policy Planning Office at the U.S. State Department and former National Security Adviser to Vice President Joe Biden, talks with Aroop Mukharji (@aroopmukharji) about the secret negotiations behind the Iran nuclear deal, long-term policy planning at the State Department, and how to stay sharp on a demanding travel schedule.",
+  "published": "2017-11-01T12:00:00Z",
+  "authors": [
+    "Ariel E Levite"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Diplomacy",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America"
+  ],
+  "topics": [
+    "Diplomacy",
+    "Iran's Nuclear Program"
+  ],
+  "tags": [
+    "Diplomacy",
+    "Iran's Nuclear Program",
+    "Middle East & North Africa",
+    "North America"
+  ],
+  "body": "Jake Sullivan is the former Director of the Policy Planning Office at the U.S. State Department and the former National Security Adviser to Vice President Joe Biden. Along with Bill Burns, Sullivan conducted secret negotiations with Iran that led to the P5+1 agreement. The latest from Belfer See more Jake Sullivan on Office Hours Podcast Print Diplomacy Iran's Nuclear Program Middle East & North Africa North America Related Jake Sullivan Request Interview More From This Expert Jake Sullivan on Office Hours Conversations in Diplomacy: Jake Sullivan on Deconstructing Trump Foreign Policy Up Next Article Hamas' Strength Lies in Its Weakness – and Israel Keeps Playing Into Its Hands Sep. 18, 2025 by Ariel E Levite From International Security Program Blog Post Russians React to Strikes on Iran: Condemn US, Welcome Its Diversion From Ukraine, No Concrete Help to Iran Jun. 23, 2025 by Simon Saradzhyan Article Was Trump Right to Strike Iran and is Diplomacy Still Possible? Jun. 23, 2025",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-11-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:52:11+00:00",
+    "prompt_hash": "76fba0b73f98ef6359ae250b354b1f05cc25bf44",
+    "result": {
+      "main_content_en": "The article discusses Jake Sullivan's background as former Director of the Policy Planning Office at the U.S. State Department and former National Security Adviser to Vice President Joe Biden. It highlights his role in conducting secret negotiations with Iran alongside Bill Burns, which ultimately led to the P5+1 agreement. The content references his appearance on the Office Hours podcast and connects to broader discussions about diplomacy, Iran's nuclear program, and U.S. foreign policy. Additional context includes related analyses of regional dynamics, such as Hamas' strategic calculations and international reactions to strikes on Iran, suggesting ongoing debates about diplomatic approaches versus military actions in Middle Eastern conflicts.",
+      "main_content_zh": "本文介绍了杰克·沙利文作为美国国务院政策规划办公室前主任及副总统乔·拜登前国家安全顾问的背景。文章重点强调了他与比尔·伯恩斯共同主导与伊朗的秘密谈判，这些谈判最终促成了P5+1协议。内容提及他在“办公时间”播客中的露面，并关联到有关外交、伊朗核计划及美国外交政策的更广泛讨论。文章还包含对地区动态的相关分析，例如哈马斯的战略考量以及国际社会对打击伊朗行动的反应，暗示了关于中东冲突中外交途径与军事行动之间的持续辩论。",
+      "keywords_en": [
+        "Jake Sullivan",
+        "Policy Planning Office",
+        "State Department",
+        "National Security Adviser",
+        "Joe Biden",
+        "Bill Burns",
+        "secret negotiations",
+        "Iran",
+        "P5+1 agreement",
+        "diplomacy",
+        "nuclear program",
+        "Office Hours podcast",
+        "foreign policy",
+        "Middle East",
+        "Hamas",
+        "strikes",
+        "international reactions",
+        "conflict",
+        "negotiations",
+        "U.S. foreign policy"
+      ],
+      "keywords_zh": [
+        "杰克·沙利文",
+        "政策规划办公室",
+        "国务院",
+        "国家安全顾问",
+        "乔·拜登",
+        "比尔·伯恩斯",
+        "秘密谈判",
+        "伊朗",
+        "P5+1协议",
+        "外交",
+        "核计划",
+        "办公时间播客",
+        "外交政策",
+        "中东",
+        "哈马斯",
+        "打击",
+        "国际反应",
+        "冲突",
+        "谈判",
+        "美国外交政策"
+      ],
+      "topic_words_en": [
+        "Diplomacy",
+        "Iran Nuclear Deal",
+        "U.S. Foreign Policy",
+        "Middle East Security",
+        "Negotiations"
+      ],
+      "topic_words_zh": [
+        "外交",
+        "伊朗核协议",
+        "美国外交政策",
+        "中东安全",
+        "谈判"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

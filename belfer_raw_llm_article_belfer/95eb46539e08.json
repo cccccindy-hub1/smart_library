@@ -1,0 +1,99 @@
+{
+  "title": "Avril Haines on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/avril-haines-office-hours-podcast",
+  "summary": "Avril Haines, former CIA Deputy Director and former Deputy National Security Adviser to President Obama, chats with Aroop Mukharji (@aroopmukharji) about being a woman at the CIA, why we don’t know much about North Korea, what it’s like inside the White House situation room, and how she went from indie bookstore owner to No. 2 at the CIA.",
+  "published": "2017-10-02T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Intelligence",
+    "North America"
+  ],
+  "topics": [
+    "Intelligence"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Intelligence",
+    "North America"
+  ],
+  "body": "Avril Haines is the former CIA Deputy Director and former Deputy National Security Adviser to President Obama. The latest from Belfer See more Avril Haines on Office Hours Podcast Print Asia & the Pacific Intelligence North America Up Next Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker Photo Credit Toggle Adobe Stock, by Odin AI, #830981342 Article Intelligence outsourcing for non-traditional clients: the rise of private sector intelligence providers January 6, 2025 by Katherine Tucker and Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-10-02T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:53:22+00:00",
+    "prompt_hash": "30333b45cbc51ee35de00b3ee5c1f2de10d592ca",
+    "result": {
+      "main_content_en": "The article is a brief introduction to an episode of the Belfer Center's 'Office Hours Podcast' featuring Avril Haines, the former CIA Deputy Director and former Deputy National Security Adviser to President Obama. It serves as a metadata-rich placeholder, listing the title, publication date, author, and associated topics and tags (Asia & the Pacific, Intelligence, North America). The body primarily consists of promotional links and summaries for other related Belfer Center content, including an event summary on briefing techniques and reports on private sector intelligence careers and the rise of intelligence providers for non-traditional clients. The core content about the Haines interview itself is not elaborated upon in the provided text.",
+      "main_content_zh": "本文是对贝尔弗中心“Office Hours Podcast”一期节目的简要介绍，该期嘉宾为前中央情报局副局长、前总统奥巴马的国家安全事务副助理艾薇儿·海恩斯。文章主要是一个包含丰富元数据的提要，列出了标题、发布日期、作者以及相关主题和标签（亚太地区、情报、北美）。正文主体部分主要由其他相关贝尔弗中心内容的推广链接和摘要构成，包括一篇关于简报技巧的活动总结，以及关于私营部门情报职业趋势和为非常规客户服务的情报提供商崛起的报告。所提供的文本并未详细阐述关于海恩斯访谈本身的核心内容。",
+      "keywords_en": [
+        "Avril Haines",
+        "CIA Deputy Director",
+        "Deputy National Security Adviser",
+        "Office Hours Podcast",
+        "Belfer Center",
+        "Intelligence",
+        "Asia & the Pacific",
+        "North America",
+        "Beth Sanner",
+        "briefing",
+        "private sector intelligence",
+        "intelligence careers",
+        "intelligence outsourcing",
+        "non-traditional clients",
+        "intelligence providers",
+        "Intelligence Project",
+        "senior fellow",
+        "event summary",
+        "reports",
+        "job titles"
+      ],
+      "keywords_zh": [
+        "艾薇儿·海恩斯",
+        "中央情报局副局长",
+        "国家安全事务副助理",
+        "Office Hours Podcast",
+        "贝尔弗中心",
+        "情报",
+        "亚太地区",
+        "北美",
+        "贝丝·桑纳",
+        "简报",
+        "私营部门情报",
+        "情报职业",
+        "情报外包",
+        "非常规客户",
+        "情报提供商",
+        "情报项目",
+        "高级研究员",
+        "活动总结",
+        "报告",
+        "职位名称"
+      ],
+      "topic_words_en": [
+        "Intelligence",
+        "Podcast",
+        "Belfer Center",
+        "National Security",
+        "Private Sector"
+      ],
+      "topic_words_zh": [
+        "情报",
+        "播客",
+        "贝尔弗中心",
+        "国家安全",
+        "私营部门"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

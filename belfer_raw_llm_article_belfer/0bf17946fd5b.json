@@ -1,0 +1,110 @@
+{
+  "title": "International Security Journal Highlights",
+  "canonical_url": "https://www.belfercenter.org/publication/international-security-journal-highlights-25",
+  "summary": "A sampling of articles in the Spring 2016 issue of the Belfer Center's journal International Security.",
+  "published": "2025-11-20T12:00:00Z",
+  "authors": [
+    "Oliver Yule-Smith"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "China & security",
+    "Cyber Security",
+    "India's Nuclear Program",
+    "International Security Program",
+    "Middle East & North Africa",
+    "South Asia",
+    "Terrorism & Counterterrorism"
+  ],
+  "topics": [
+    "China & security",
+    "Cyber Security",
+    "India's Nuclear Program",
+    "Terrorism & Counterterrorism"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "China & security",
+    "Cyber Security",
+    "India's Nuclear Program",
+    "International Security Program",
+    "Middle East & North Africa",
+    "South Asia",
+    "Terrorism & Counterterrorism"
+  ],
+  "body": "Vol. 41 No. 3; Winter 2016-2017 The latest from Belfer See more Is Chinese Nationalism Rising? Evidence from Beijing Alastair Iain Johnston Many commentators claim that rising Chinese nationalism has pushed China’s leadership toward aggressive foreign policies. Responses to the Beijing Area Study survey from 1998 to 2015, however, undermine this claim. Factors such as elite opinion, security dilemma dynamics, and organizational interests better explain China’s bellicose behaviors. Deterrence and Dissuasion in Cyberspace Joseph S. Nye Can states deter adversaries in cyberspace? Analogies drawn from nuclear deterrence mislead; nuclear deterrence aims for total prevention, whereas states cannot prevent every cyberattack. Additionally, even though identifying the source of a cyberattack can be difficult, attribution problems do not hinder three major forms of cyber deterrence: denial, entanglement, and normative taboos. What Is the Cyber Offense-Defense Balance? Conceptions, Causes, and Assessment Rebecca Slayton Does cyberspace favor the offense, as many analysts and policymakers claim? Three factors undermine cyber offensive advantage. A cyber operation’s value, not just its cost, affects the offense-defense balance. Second, defenders can shift the balance in their favor by improving organizational capabilities. Third, attacking physical infrastructure is far more challenging than targeting information networks. Strategies of Nuclear Proliferation: How States Pursue the Bomb Vipin Narang Which nuclear proliferation strategies are available, and how can they be thwarted? States’ proliferation efforts—particularly India’s—show how proliferators choose among four possible strategies: hedging, sprinting, hiding, and sheltered pursuit. Each strategy has flaws that can be exploited to prevent proliferation. Learning to Deter: Deterrence Failure and Success in the Israel-Hezbollah Conflict, 2006–16 Daniel Sobelman Israel and Hezbollah’s interactions before and after the 2006 Lebanon War highlight the sources of deterrence stability. Israel and Hezbollah have learned to apply rational deterrence theory, carefully communicating capabilities and resolve. This history also illustrates how a weak actor can deter a stronger adversary by minimizing its own vulnerability and maximizing that of its opponent. Recommended citation \"International Security Journal Highlights.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2017). Copy to Clipboard International Security Journal Highlights View Citation Print Asia & the Pacific China & security Cyber Security India's Nuclear Program International Security Program Middle East & North Africa South Asia Terrorism & Counterterrorism Recommended citation \"International Security Journal Highlights.\" Belfer Center Newsletter. Belfer Center for Science and International Affairs, Harvard Kennedy School. (Spring 2017). Copy to Clipboard Related Joseph S. Nye More From This Expert Don't 'Jeopardize Free Speech That Is Fundamental' to Harvard, Says Prof A Life in the American Century Up Next Books The Problem of China in the British Foreign Office Mind December 2025 by Oliver Yule-Smith From International Security Program Photo Credit Toggle Associated Press - Tatan Syuflana Reports & Papers Active Alignment: How Indonesia Can Shape the U.S.-China Strategic Competition Nov. 20, 2025 by Basri, Muhamad Chatib and Evan Laksmana Photo Credit Toggle AP Photo Article The U.S.-China Stability-Instability Paradox: Limited War in East Asia Summer 2025 by Henrik Stålhane Hiim and Øystein Tunsjø",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:03:55+00:00",
+    "prompt_hash": "13348423ad144ca2f652bf2542de9aad4d54a6e0",
+    "result": {
+      "main_content_en": "The article presents a collection of research highlights from the International Security journal, focusing on contemporary security challenges. It challenges the common assertion that rising Chinese nationalism drives aggressive foreign policy, citing longitudinal survey data from Beijing. The discussion on cyber deterrence argues against direct analogies with nuclear deterrence, emphasizing denial, entanglement, and normative taboos as viable strategies despite attribution difficulties. It further questions the assumed offensive advantage in cyberspace, highlighting the role of operational value and organizational defense. On nuclear proliferation, it analyzes state strategies like hedging and sprinting, using India's program as a case study. Finally, it examines the Israel-Hezbollah conflict to illustrate how deterrence stability can be achieved and how weaker actors can deter stronger ones through strategic vulnerability management.",
+      "main_content_zh": "本文汇总了《国际安全》期刊的多篇研究摘要，聚焦于当代安全挑战。文章首先质疑了关于中国民族主义上升导致对外政策强硬的普遍说法，引用了对北京地区的长期调查数据。关于网络威慑的讨论指出，不应简单套用核威慑的类比，强调尽管存在溯源困难，但拒止、纠缠和规范禁忌是有效的威慑形式。文章同时质疑了网络空间进攻占优的普遍观点，指出行动的价值和组织的防御能力可以改变攻防平衡。在核扩散方面，文章分析了国家可能采取的如对冲、冲刺等策略，并以印度核项目为例。最后，通过以色列与真主党的冲突案例，阐述了威慑稳定的来源，以及弱势行为体如何通过管理自身与对手的脆弱性来实现对强敌的威慑。",
+      "keywords_en": [
+        "Chinese nationalism",
+        "foreign policy",
+        "cyber deterrence",
+        "attribution",
+        "denial",
+        "entanglement",
+        "normative taboos",
+        "offense-defense balance",
+        "cyber operations",
+        "nuclear proliferation",
+        "hedging",
+        "sprinting",
+        "deterrence theory",
+        "Israel-Hezbollah conflict",
+        "vulnerability",
+        "security dilemma",
+        "organizational capabilities",
+        "strategic communication",
+        "non-state actors"
+      ],
+      "keywords_zh": [
+        "中国民族主义",
+        "外交政策",
+        "网络威慑",
+        "溯源",
+        "拒止",
+        "纠缠",
+        "规范禁忌",
+        "攻防平衡",
+        "网络行动",
+        "核扩散",
+        "对冲策略",
+        "冲刺策略",
+        "威慑理论",
+        "以色列-真主党冲突",
+        "脆弱性",
+        "安全困境",
+        "组织能力",
+        "战略沟通",
+        "非国家行为体"
+      ],
+      "topic_words_en": [
+        "Chinese Foreign Policy",
+        "Cybersecurity",
+        "Nuclear Strategy",
+        "Deterrence Theory",
+        "Regional Conflicts"
+      ],
+      "topic_words_zh": [
+        "中国对外政策",
+        "网络安全",
+        "核战略",
+        "威慑理论",
+        "地区冲突"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

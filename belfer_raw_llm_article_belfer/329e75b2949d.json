@@ -1,0 +1,92 @@
+{
+  "title": "Ehud Barak on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/ehud-barak-office-hours-podcast",
+  "summary": "Former Prime Minister of Israel Ehud Barak (@barak_ehud), the most decorated soldier in Israel’s history and a non-resident Senior Fellow at the Belfer Center, talks with Aroop Mukharji (@aroopmukharji) about who needs to defeat ISIS, how Israelis view President Trump, and why he once dressed as a woman.",
+  "published": "2017-05-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense",
+    "Middle East & North Africa",
+    "Middle East Policy"
+  ],
+  "topics": [
+    "International Security & Defense",
+    "Middle East Policy"
+  ],
+  "tags": [
+    "International Security & Defense",
+    "Middle East & North Africa",
+    "Middle East Policy"
+  ],
+  "body": "Ehud Barak was Israel’s 10th Prime Minister, leading the country out of prolonged recession and into an economic boom, with 5.9% annual growth, record foreign investments, near-zero inflation, a halved deficit, and substantially decreased external debt. Before being elected Prime Minister, Barak completed an illustrious 36-year career in the IDF as the most decorated soldier in its history. He led dozens of still-secret operations and a number of legendary commando raids, including those that freed hostages from a hijacked Sabena airliner in 1972, targeted PLO terrorist leaders in Beirut in 1973, and rescued hostages aboard an Air France jet hijacked to Entebbe Airport in Uganda in 1976. The latest from Belfer See more Ehud Barak on Office Hours Podcast Print International Security & Defense Middle East & North Africa Middle East Policy Related Ehud Barak More From This Expert My Country, My Life Ehud Barak on Office Hours Up Next Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 From Middle Powers Event Summary The Struggle for Democracy in the Arab World Dec. 19, 2025 by Julia Kempton Event Summary Identity and Politics: Managing Diversity in the Middle East Dec. 19, 2025 by Mark van de Fliert",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-05-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:03:06+00:00",
+    "prompt_hash": "9f38bb90f73e6d762e5ac5a85d81d72d110a4a22",
+    "result": {
+      "main_content_en": "The article highlights Ehud Barak's dual legacy as Israel's 10th Prime Minister and a distinguished military leader. As Prime Minister, he is credited with steering Israel out of a prolonged recession into an economic boom characterized by 5.9% annual growth, record foreign investment, near-zero inflation, a halved deficit, and significantly reduced external debt. Prior to his political career, Barak served 36 years in the Israel Defense Forces (IDF), becoming its most decorated soldier. His military career included leading numerous clandestine operations and legendary commando raids, such as the 1972 rescue of hostages from a hijacked Sabena airliner, the 1973 targeting of PLO terrorist leaders in Beirut, and the 1976 Entebbe raid to rescue hostages from a hijacked Air France flight.",
+      "main_content_zh": "本文重点介绍了埃胡德·巴拉克作为以色列第十任总理和杰出军事领导人的双重遗产。在总理任内，他领导以色列走出长期经济衰退，实现了经济繁荣，其标志包括5.9%的年增长率、创纪录的外国投资、接近零的通货膨胀率、赤字减半以及外债大幅减少。在从政之前，巴拉克在以色列国防军服役36年，是该部队历史上获得勋章最多的士兵。他的军事生涯包括领导众多秘密行动和传奇的突击队袭击，例如1972年从被劫持的萨贝纳航空班机上解救人质、1973年在贝鲁特针对巴解组织恐怖分子领导人的行动，以及1976年为解救被劫持的法航客机人质而实施的恩德培行动。",
+      "keywords_en": [
+        "Ehud Barak",
+        "Prime Minister",
+        "Israel",
+        "economic boom",
+        "IDF",
+        "commando raids",
+        "hostage rescue",
+        "Entebbe",
+        "Sabena hijacking",
+        "Beirut operation",
+        "PLO",
+        "foreign investment",
+        "deficit reduction",
+        "external debt",
+        "military decorated",
+        "clandestine operations",
+        "economic growth",
+        "inflation"
+      ],
+      "keywords_zh": [
+        "埃胡德·巴拉克",
+        "总理",
+        "以色列",
+        "经济繁荣",
+        "以色列国防军",
+        "突击队袭击",
+        "人质营救",
+        "恩德培行动",
+        "萨贝纳劫机",
+        "贝鲁特行动",
+        "巴解组织",
+        "外国投资",
+        "赤字削减",
+        "外债",
+        "军事勋章",
+        "秘密行动",
+        "经济增长",
+        "通货膨胀"
+      ],
+      "topic_words_en": [
+        "Israeli Leadership",
+        "Military History",
+        "Economic Policy",
+        "Counterterrorism"
+      ],
+      "topic_words_zh": [
+        "以色列领导层",
+        "军事历史",
+        "经济政策",
+        "反恐行动"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

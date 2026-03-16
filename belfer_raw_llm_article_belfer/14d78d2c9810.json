@@ -1,0 +1,100 @@
+{
+  "title": "Event Debrief: Social Cost of Carbon Could be Significantly Underestimated, Says Environmental Economist Frances Moore",
+  "canonical_url": "https://www.belfercenter.org/publication/event-debrief-social-cost-carbon-could-be-significantly-underestimated-says",
+  "summary": "Harvard Kennedy School’s Energy Policy Seminar series hosted Frances Moore, Associate Professor and the Hurlstone Presidential Chair in the Department of Environmental Science and Policy at the University of California Davis, to present her recent research on how the social cost of carbon is likely significantly underestimated in the academic literature.",
+  "published": "2023-11-27T12:00:00Z",
+  "authors": [
+    "Robert Stowe"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Climate Change Policy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources"
+  ],
+  "topics": [
+    "Climate Change Policy",
+    "Environment & Climate Change"
+  ],
+  "tags": [
+    "Climate Change Policy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources"
+  ],
+  "body": "Key Takeaways The social cost of carbon (SCC) is an important accounting exercise to estimate of the future costs to society caused by anthropogenic climate change driven by carbon emissions. There is significant variation in published studies on the SCC and experts expect that the true SCC is likely a lot higher than what is currently reported in the literature. Accounting for this variation and for recent modeling and parametric improvements yields a higher expected SCC. A recently updated EPA study raised previous estimates from $50/ton to closer to $210/ton, but may still be underestimating the true SCC. On November 13, Harvard Kennedy School hosted the environmental economist Frances Moore, whose recent work has focused on forecasting future damages and costs associated with anthropogenic climate change, something known as the “social cost of carbon” (SCC). While it is difficult to put a price on the disruption to lives, homes, and livelihoods by climate change, incorporating SCC into policymaking and corporate decision-making can be crucial to inform the cost-benefit analyses used to evaluate policies and investments that would reduce society's carbon emissions. And current studies in the literature may be significantly underestimating the true cost, according to Moore. As damages from climate disasters mount around the world, the cost of carbon emissions is becoming more and more evident. Last year, the 10 largest extreme weather events (including record floods in Pakistan, Hurricane Ian in the United States, and more) resulted in an estimated $169 billion in damages . While the idea that there is a social cost associated with carbon emissions is broadly catching on, it is difficult to establish how much. In 2007, U.S. federal agencies were ordered by the courts to consider the SCC in rulemaking processes, with a U.S. Ninth Circuit Court of Appeals remanding a DOT fuel economy rule for failing to assign a dollar value to CO2 emissions, stating that “while the record shows that there is a range of values, the value of carbon emissions reduction is certainly not zero.” “It’s essentially an accounting problem,” according to Moore, Associate Professor and the Hurlstone Presidential Chair in the Department of Environmental Science and Policy at the University of California Davis. She pointed to three primary models used today: the DICE model, FUND, and PAGE. Each attempts to convert the socio-economic impact of a changing climate into common units (discounted dollars) and add them up. These models are currently used within the United States, Canada, Germany, and several other countries to inform policymaking and carbon pricing. The large majority of SCC estimates, including current U.S. federal values (~$50/ton on average), come from these three models. However, growing critiques in the literature on SCC focus on these models’ dated representation of the climate system and expected damages as well as other limitations arising from significant uncertainties and model structure. Moore walked through several recent innovations in SCC model assumptions related to: the earth system and carbon cycles, the inclusion of climactic tipping points, the limited substitutability of certain goods, allowing transient changes in temperature to have persistent effects, accounting for the greater welfare loss of damages in poor regions, distinguishing risk and time preferences, allowing for learning over time, and accounting for model uncertainty. Numerous adjustments to these factors within the baseline modeling has resulted in a proliferation of different estimates. To make sense of the variation, Moore and her team compiled 147 studies from the published literature into one dataset to form a single SCC distribution. Their goal was to identify the structural model assumptions and parametric variation driving the variation in results, so that they could account for these differences and craft a “comprehensive” estimate closer to the “true social cost of carbon.” They then paired this literature survey with a qualitative survey sent to the authors of the papers they compiled, asking each one what they thought was the central value reported in the literature and what they think is the “true” central value. The consensus response was that authors expected a central value of $50 per ton of CO 2 in the literature, versus a “true” value of $120/ton in reality, indicating a perceived discrepancy between published papers (many of them outdated) and what the experts would expect based on new methodologies or advancements. This suggests a downward publication bias, leading studies to report lower SCCs than might otherwise be expected. Although the distribution of 2020 SCC values the team constructed “does not have a clear statistical interpretation,” according to Moore, they identified several main sources of variation, including different damage function parameters, tipping points, limited substitutability, pure time preference, growth damage, distributional weights, endogenous adaptation, etc. As a result, they were able to train a predictive “ Random Forest Model ”—a machine learning algorithm that can flexibly handle nonlinear variation—to produce “synthetic” SCC distributions that match the structural and normative assessments from the surveyed experts. Far from the current consensus in the literature of a SCC of $50/ton (as reported in the expert surveys), Moore’s team’s model produced distributions with a much higher mean of $330/ton and a median of $298/ton. While this may seem like a shocking difference, the U.S. Environmental Protection Agency recently proposed an updated SCC of their own in 2022, with a mean of around $210/ton and median of around $160/ton, which is also significantly higher than the central tendency in the extant literature. The EPA notes this is due to “incorporating recent scientific advances” and updated methodology. Overall, Moore noted that while significant variation remains due to parametric and climate uncertainties, combining multiple elements of recent SCC improvements yields a much higher SCC than previously supposed. This is an important finding not only for updating the existing academic literature, but also with important implications for policymaking around the world as we seek to properly understand the future cost to society associated with continued carbon emissions, informing cost-benefit analyses of reducing emissions in the near-term or even the formation of a price on carbon. The latest from Belfer See more Recommended citation Floyd, Matt. “Event Debrief: Social Cost of Carbon Could be Significantly Underestimated, Says Environmental Economist Frances Moore.” Belfer Center for Science and International Affairs, Harvard Kennedy School , November 27, 2023 Copy to Clipboard Event Debrief: Social Cost of Carbon Could be Significantly Underestimated, Says Environmental Economist Frances Moore View Citation Print Climate Change Policy Environment & Climate Change Environment and Natural Resources Recommended citation Floyd, Matt. “Event Debrief: Social Cost of Carbon Could be Significantly Underestimated, Says Environmental Economist Frances Moore.” Belfer Center for Science and International Affairs, Harvard Kennedy School , November 27, 2023 Copy to Clipboard Author Matt Floyd More From This Expert Stimulating Clean Hydrogen Demand: The Current Landscape Event Debrief: Planning the Mid-Transition for Just and Sustainable Decarbonization Up Next Photo Credit Toggle Ariana Diaz Article Harvard Project Director to Lead Executive Education Program on Climate Policy Dec. 23, 2025 by Robert Stowe From Harvard Project on Climate Agreements Photo Credit Toggle Maria Lidiane Rodrigues Event Summary Harvard Methane Initiative Conducts Research Workshop in São Paulo, Brazil Dec. 23, 2025 by Robert Stowe Photo Credit Toggle AP/Hau Dinh Article Navigating the Grid’s Perfect Storm: A Webinar with Andy Sun Dec. 11, 2025 by Robert Stowe",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-11-27T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:28:03+00:00",
+    "prompt_hash": "4e0bb47d7c9de6b65815c6fb8c441410e2cf7ad6",
+    "result": {
+      "main_content_en": "The social cost of carbon (SCC) is a crucial metric for estimating the future societal damages from carbon emissions and climate change. Environmental economist Frances Moore argues that current SCC estimates, often around $50 per ton, likely significantly underestimate the true cost. This underestimation stems from dated models (DICE, FUND, PAGE) that fail to incorporate recent scientific advances, such as climate tipping points, persistent temperature effects, and distributional impacts on poorer regions. Moore's team synthesized 147 studies and surveyed experts, finding a perceived 'true' central value of $120/ton versus the $50/ton literature consensus, indicating a downward publication bias. By using a machine learning model to account for structural improvements and parametric uncertainties, they generated a much higher SCC distribution with a mean of $330/ton. This aligns with the EPA's 2022 updated mean estimate of ~$210/ton, which also incorporates newer science. The findings highlight the need for updated SCC figures to inform accurate cost-benefit analyses for climate policy and carbon pricing worldwide.",
+      "main_content_zh": "碳的社会成本（SCC）是估算碳排放和气候变化未来社会损害的关键指标。环境经济学家弗朗西斯·摩尔指出，当前SCC的估算值（通常约为每吨50美元）很可能严重低估了真实成本。这种低估源于过时的模型（如DICE、FUND、PAGE），这些模型未能纳入最新的科学进展，例如气候临界点、温度的持续影响以及对贫困地区的差异性影响。摩尔的团队综合了147项研究并调查了相关专家，发现专家们认为真实的中心值应为每吨120美元，而文献共识仅为50美元，这表明存在向下的发表偏倚。通过使用机器学习模型来纳入结构改进和参数不确定性，他们生成了一个高得多的SCC分布，均值达到每吨330美元。这与美国环保署（EPA）2022年更新的均值估算（约210美元/吨）趋势一致，后者也包含了更新的科学依据。这些发现强调，需要更新SCC数据，以便为全球气候政策和碳定价提供更准确的成本效益分析依据。",
+      "keywords_en": [
+        "social cost of carbon",
+        "SCC",
+        "climate change",
+        "carbon emissions",
+        "environmental economics",
+        "damage estimation",
+        "cost-benefit analysis",
+        "DICE model",
+        "FUND model",
+        "PAGE model",
+        "tipping points",
+        "parametric uncertainty",
+        "machine learning",
+        "Random Forest Model",
+        "publication bias",
+        "EPA",
+        "carbon pricing",
+        "policy making",
+        "discounted dollars",
+        "welfare loss"
+      ],
+      "keywords_zh": [
+        "碳的社会成本",
+        "SCC",
+        "气候变化",
+        "碳排放",
+        "环境经济学",
+        "损害估算",
+        "成本效益分析",
+        "DICE模型",
+        "FUND模型",
+        "PAGE模型",
+        "临界点",
+        "参数不确定性",
+        "机器学习",
+        "随机森林模型",
+        "发表偏倚",
+        "美国环保署",
+        "碳定价",
+        "政策制定",
+        "贴现美元",
+        "福利损失"
+      ],
+      "topic_words_en": [
+        "Climate Economics",
+        "Carbon Pricing",
+        "Policy Modeling",
+        "Damage Assessment",
+        "Environmental Valuation"
+      ],
+      "topic_words_zh": [
+        "气候经济学",
+        "碳定价",
+        "政策建模",
+        "损害评估",
+        "环境估值"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Sir Peter Westmacott on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/sir-peter-westmacott-office-hours-podcast",
+  "summary": "Sir Peter Westmacott (@PeterWestmacott), former British Ambassador to the United States and Belfer Center Senior Fellow, talks with Aroop Mukharji (@aroopmukharji) about life as an Ambassador, the British embassy in Washington, D.C., and U.S.-U.K. relations.",
+  "published": "2016-07-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Diplomacy",
+    "Europe",
+    "North America"
+  ],
+  "topics": [
+    "Diplomacy"
+  ],
+  "tags": [
+    "Diplomacy",
+    "Europe",
+    "North America"
+  ],
+  "body": "Sir Peter Westmacott served as British Ambassador to the United States from January 2012 to January 2016. Prior to his position as Ambassador to the United States, Westmacott served as Ambassador to France from 2007-2012, and Ambassador to Turkey from 2002-2006. Westmacott’s 40 year career in the British Diplomatic Service has also included four years in Iran (before the Revolution) and an interim deployment to the European Commission in Brussels. The latest from Belfer See more Sir Peter Westmacott on Office Hours Podcast Print Diplomacy Europe North America Related Sir Peter Westmacott More From This Expert Sir Peter Westmacott on Office Hours Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026 The Problem of China in the British Foreign Office Mind by Oliver Yule-Smith December 2025",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-07-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:16:45+00:00",
+    "prompt_hash": "c38c4ef91c328027c3143b3f643bef1288d4542a",
+    "result": {
+      "main_content_en": "Sir Peter Westmacott, a distinguished British diplomat, reflects on his extensive career in the British Diplomatic Service, which spanned over 40 years. His most prominent roles included serving as British Ambassador to the United States from 2012 to 2016, Ambassador to France from 2007 to 2012, and Ambassador to Turkey from 2002 to 2006. His diplomatic postings also included a four-year assignment in Iran prior to the 1979 Revolution and a deployment to the European Commission in Brussels. The article, presented as part of an 'Office Hours' podcast, highlights his insights and experiences in transatlantic and European diplomacy, focusing on key relationships and geopolitical dynamics during his tenure. The context is part of a broader series of expert discussions on diplomacy and global policy.",
+      "main_content_zh": "彼得·韦斯特马科特爵士是一位资深的英国外交官，回顾了他在英国外交部门超过40年的职业生涯。他曾担任多个重要大使职务，包括2012年至2016年期间的英国驻美国大使、2007年至2012年期间的英国驻法国大使，以及2002年至2006年期间的英国驻土耳其大使。其外交履历还包括伊朗革命前四年的派驻经历以及在布鲁塞尔欧盟委员会的工作。本文以“Office Hours”播客内容形式呈现，重点阐述了他对跨大西洋关系和欧洲外交的见解与经验，探讨了在其任期内关键的地缘政治动态与双边关系。该内容属于更广泛的专家讨论系列的一部分，主题涉及外交与全球政策。",
+      "keywords_en": [
+        "British Ambassador",
+        "Diplomatic Service",
+        "United States",
+        "France",
+        "Turkey",
+        "Iran",
+        "European Commission",
+        "Transatlantic Relations",
+        "Geopolitical Dynamics",
+        "Foreign Policy",
+        "Diplomatic Postings",
+        "Career Retrospective",
+        "Global Policy",
+        "Expert Discussion",
+        "Podcast",
+        "Brussels",
+        "Embassy",
+        "International Relations",
+        "Bilateral Relations",
+        "Diplomacy"
+      ],
+      "keywords_zh": [
+        "英国大使",
+        "外交部门",
+        "美国",
+        "法国",
+        "土耳其",
+        "伊朗",
+        "欧盟委员会",
+        "跨大西洋关系",
+        "地缘政治动态",
+        "外交政策",
+        "外交派驻",
+        "职业生涯回顾",
+        "全球政策",
+        "专家讨论",
+        "播客",
+        "布鲁塞尔",
+        "大使馆",
+        "国际关系",
+        "双边关系",
+        "外交"
+      ],
+      "topic_words_en": [
+        "Diplomacy",
+        "Foreign Service",
+        "International Relations"
+      ],
+      "topic_words_zh": [
+        "外交",
+        "外交服务",
+        "国际关系"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

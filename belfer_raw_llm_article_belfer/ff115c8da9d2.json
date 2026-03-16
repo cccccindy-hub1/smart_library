@@ -1,0 +1,87 @@
+{
+  "title": "Chuck Hagel on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/chuck-hagel-office-hours-podcast",
+  "summary": "Chuck Hagel, 24th U.S. Secretary of Defense, former U.S. Senator from Nebraska, and former Belfer Center Visiting Fellow, talks with Aroop Mukharji (@aroopmukharji) about his advice to the next Secretary of State, bringing Bowe Bergdahl home, being a pioneer in the cellphone industry, and how he likes to insert a bit of fun into a serious job.",
+  "published": "2017-02-01T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense",
+    "North America"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "International Security & Defense",
+    "North America"
+  ],
+  "body": "Chuck Hagel was the 24th Secretary of Defense, serving from February 2013 to February 2015. He is the only Vietnam veteran and the first enlisted combat veteran to serve as Secretary of Defense. Secretary Hagel also served two terms in the United States Senate (1997-2009) representing the state of Nebraska. The latest from Belfer See more Chuck Hagel on Office Hours Podcast Print International Security & Defense North America Related Chuck Hagel More From This Expert Chuck Hagel on Office Hours Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026 Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-02-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:10:53+00:00",
+    "prompt_hash": "d387421c165dc8e9fd089a526de80534e380779d",
+    "result": {
+      "main_content_en": "The article features an interview with Chuck Hagel, the 24th U.S. Secretary of Defense (2013-2015), on the 'Office Hours' podcast. It highlights his unique background as the only Vietnam veteran and first enlisted combat veteran to hold the Secretary of Defense position. The piece also notes his prior service as a two-term U.S. Senator from Nebraska. The content is primarily biographical, detailing his career milestones within the context of national security and defense policy discussions. The broader page includes links to related content on topics such as NATO's Article 5, emerging technology in defense, and nuclear proliferation risks, situating Hagel's insights within ongoing international security dialogues.",
+      "main_content_zh": "本文介绍了美国第24任国防部长查克·哈格尔（2013-2015年在任）接受“Office Hours”播客采访的相关内容。文章强调了他独特的背景：他是唯一一位曾参加越南战争、也是首位以士兵战斗经历出身担任国防部长的官员。同时提及他曾担任内布拉斯加州两届美国参议员的从政经历。内容主要为人物传记性质，概述了其在美国国家安全和国防政策讨论背景下的职业生涯重要节点。页面还包含指向相关内容的链接，涉及北约第五条、国防新兴技术、核扩散风险等主题，将哈格尔的观点置于持续进行的国际安全对话框架之中。",
+      "keywords_en": [
+        "Chuck Hagel",
+        "Secretary of Defense",
+        "Vietnam veteran",
+        "enlisted combat veteran",
+        "United States Senate",
+        "Nebraska",
+        "Office Hours podcast",
+        "biographical",
+        "national security",
+        "defense policy",
+        "international security",
+        "career milestones",
+        "Belfer Center",
+        "podcast interview",
+        "military service",
+        "political career",
+        "security dialogues"
+      ],
+      "keywords_zh": [
+        "查克·哈格尔",
+        "国防部长",
+        "越南战争老兵",
+        "士兵战斗经历",
+        "美国参议院",
+        "内布拉斯加州",
+        "Office Hours播客",
+        "人物传记",
+        "国家安全",
+        "国防政策",
+        "国际安全",
+        "职业生涯节点",
+        "贝尔弗中心",
+        "播客采访",
+        "兵役",
+        "政治生涯",
+        "安全对话"
+      ],
+      "topic_words_en": [
+        "Biography",
+        "Defense Policy",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "人物传记",
+        "国防政策",
+        "国际安全"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Zachary Kaufman on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/zachary-kaufman-office-hours-podcast",
+  "summary": "Zachary Kaufman (@zacharykaufman), an academic specializing in political science, public policy, and law, talks with Aroop Mukharji (@aroopmukharji) about transitional justice, genocide, and the time democracy failed him.",
+  "published": "2016-09-01T12:00:00Z",
+  "authors": [
+    "Sarah G. Phillips",
+    "Daniel J. Tower"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Africa",
+    "Civil Wars",
+    "Conflict & Conflict Resolution",
+    "International Relations"
+  ],
+  "topics": [
+    "Civil Wars",
+    "Conflict & Conflict Resolution",
+    "International Relations"
+  ],
+  "tags": [
+    "Africa",
+    "Civil Wars",
+    "Conflict & Conflict Resolution",
+    "International Relations"
+  ],
+  "body": "Zachary D. Kaufman, J.D., Ph.D., is an academic specializing in law, political science, and public policy. Dr. Kaufman is a Senior Fellow at Harvard University‘s John F. Kennedy School of Government (in the Carr Center for Human Rights Policy). In addition, he continues to be a Visiting Fellow at both Yale Law School and Yale University‘s Genocide Studies Program as well as a Term Member of the Council on Foreign Relations. From 2016 to 2017, Dr. Kaufman will take a leave of absence from Harvard University to serve in the U.S. government as a Council on Foreign Relations International Affairs Fellow. His most recent book is United States Law and Policy on Transitional Justice: Principles, Politics, and Pragmatics (Oxford University Press, 2016). The latest from Belfer See more Zachary Kaufman on Office Hours Podcast Print Africa Civil Wars Conflict & Conflict Resolution International Relations Related Zachary D. Kaufman More From This Expert Zachary Kaufman on Office Hours Term Limits at Home and Abroad Up Next Photo Credit Toggle AP Photo Article Knowing What Not to Know About Islamic State: Terrorism Studies and Public Secrecy Summer 2025 by Sarah G. Phillips and Daniel J. Tower From International Security Program Photo Credit Toggle AP Photo/Khin Maung Win Article Monks Behaving Badly: Explaining Buddhist Violence in Asia Spring 2025 by Nilay Saiya and Stuti Manchanda Photo Credit Toggle Benn Craig Event Summary Sketching a Framework for Syria’s Future May. 6, 2025 by Sendus Majanni",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-09-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:15:18+00:00",
+    "prompt_hash": "3813f643062b505e0475ac97a050b34714c97aa4",
+    "result": {
+      "main_content_en": "The article profiles Zachary D. Kaufman, an academic specializing in law, political science, and public policy. He holds a J.D. and Ph.D. and is a Senior Fellow at Harvard University's John F. Kennedy School of Government within the Carr Center for Human Rights Policy. Additionally, he serves as a Visiting Fellow at both Yale Law School and Yale University's Genocide Studies Program, and is a Term Member of the Council on Foreign Relations. From 2016 to 2017, Dr. Kaufman took a leave from Harvard to serve in the U.S. government as a Council on Foreign Relations International Affairs Fellow. His scholarly work includes the book 'United States Law and Policy on Transitional Justice: Principles, Politics, and Pragmatics' published by Oxford University Press in 2016. The context suggests his expertise is relevant to discussions on civil wars, conflict resolution, and international relations, particularly in regions like Africa.",
+      "main_content_zh": "本文介绍了扎卡里·D·考夫曼，一位专攻法律、政治学和公共政策的学者。他拥有法学博士和哲学博士学位，是哈佛大学肯尼迪政府学院卡尔人权政策中心的高级研究员。此外，他还兼任耶鲁法学院和耶鲁大学种族灭绝研究项目的访问研究员，并且是外交关系协会的任期成员。2016年至2017年间，考夫曼博士从哈佛大学休假，以外交关系协会国际事务研究员的身份在美国政府任职。他的学术著作包括2016年由牛津大学出版社出版的《美国过渡期司法法律与政策：原则、政治与务实》。文章背景表明，他的专业领域与非洲等地区的内战、冲突解决和国际关系议题密切相关。",
+      "keywords_en": [
+        "Zachary Kaufman",
+        "Senior Fellow",
+        "Harvard University",
+        "Carr Center for Human Rights Policy",
+        "Visiting Fellow",
+        "Yale Law School",
+        "Genocide Studies Program",
+        "Council on Foreign Relations",
+        "International Affairs Fellow",
+        "Transitional Justice",
+        "U.S. government",
+        "law",
+        "political science",
+        "public policy",
+        "academic",
+        "book",
+        "Oxford University Press",
+        "conflict resolution",
+        "civil wars",
+        "international relations"
+      ],
+      "keywords_zh": [
+        "扎卡里·考夫曼",
+        "高级研究员",
+        "哈佛大学",
+        "卡尔人权政策中心",
+        "访问研究员",
+        "耶鲁法学院",
+        "种族灭绝研究项目",
+        "外交关系协会",
+        "国际事务研究员",
+        "过渡期司法",
+        "美国政府",
+        "法律",
+        "政治学",
+        "公共政策",
+        "学者",
+        "著作",
+        "牛津大学出版社",
+        "冲突解决",
+        "内战",
+        "国际关系"
+      ],
+      "topic_words_en": [
+        "Academic Profile",
+        "Human Rights Policy",
+        "Transitional Justice",
+        "International Fellowships"
+      ],
+      "topic_words_zh": [
+        "学者简介",
+        "人权政策",
+        "过渡期司法",
+        "国际研究员项目"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

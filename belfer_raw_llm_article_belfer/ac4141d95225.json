@@ -1,0 +1,112 @@
+{
+  "title": "Washington Should Take Action on AI or Stay Out of the Way",
+  "canonical_url": "https://www.belfercenter.org/publication/washington-should-take-action-ai-or-stay-out-way",
+  "summary": "Federal and local regulations are part of the solution to tough issues related to Artificial Intelligence, writes K. Gretchen Greene, but no regulatory approach on its own can fully answer these questions today. \"Finding answers will require significant investments in research and development, collaboration, negotiation, and experimentation, deep and careful thought across many fields and leadership at all levels, across and between governments. The U.S. federal government is well positioned to lead, but if it won't, it should at least stay out of the way.\"",
+  "published": "2020-03-19T12:00:00Z",
+  "authors": [
+    "David Balton",
+    "Stirling Haig"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "Governance",
+    "Innovation Systems",
+    "International Security & Defense",
+    "North America",
+    "Science & Technology",
+    "Technology and Public Purpose"
+  ],
+  "topics": [
+    "Cyber Security",
+    "Governance",
+    "Innovation Systems",
+    "International Security & Defense",
+    "Science & Technology"
+  ],
+  "tags": [
+    "Cyber Security",
+    "Governance",
+    "Innovation Systems",
+    "International Security & Defense",
+    "North America",
+    "Science & Technology",
+    "Technology and Public Purpose"
+  ],
+  "body": "At a time when delivery robots block the sidewalks , leaving wheelchair users stuck, when navigation apps create neighborhood traffic nightmares , when department stores secretly track customers' movements and sell the data, and when angry residents throw rocks at autonomous cars and throw scooters into the sea , it's tempting for Washington to override state and local laws on AI. In fact, the White House's draft memo on Guidance for Regulation of Artificial Intelligence Applications seems designed to preempt state action. But the administration's statements about over-regulation suggest this is a call, not for a federal answer to these problems, but for the destruction of local solutions. That would be a mistake. In the absence of federal action, U.S. cities and states have been regulating facial recognition , autonomous vehicles , rideshare companies , and consumer data collection and sale , offering their residents additional protections and creating environments to test new ideas. As quickly changing technology creates new models and markets, local action offers a natural way to experiment with regulatory environments on a smaller scale before national policies are finalized. However, even the biggest cities and states cannot do what the federal government can. The federal government is in the best position to identify and address some kinds of AI risk, including those which come from cumulative or widespread use or which are threats to or through national infrastructure and networks . It can implement solutions that require significant financial resources, political power, collaboration across governments or with industry, or which might require rethinking common regulatory frameworks or creating national standards. It can take a broader view, offering protection across the U.S. and far beyond. Congress and the White House should use local and international experience to help inform U.S. federal AI policy, provide protection for all residents by creating minimum national standards, and make limited use of federal preemption, at least for now. They should also work to build deep AI technical and policy capacity across all levels and sectors of government. It's hard for governments to compete with AI industry salaries and there are great inefficiencies in each city or state or even each country separately building technical capacity and trying to think through all the societal implications of artificial intelligence and its applications. Many don't have the internal resources to do it well or even at all, leaving industry, academia and nonprofits filling the void: convening city and state leaders, providing tech education for policymakers and building and deploying AI and algorithms for city , state and federal services. Those organizations should all continue to contribute their expertise, but governments should not have to rely on it. The federal government should create a national AI research and policy office, as a resource for local and federal agencies and policymakers, recruiting top talent and encouraging collaboration across all levels of government and across all sectors, providing a cost efficient way to develop, access and share unbiased AI technical and policy expertise. It should be done very quickly, this year. It might only be needed for a limited period, less than 20 years, but there's a pressing need right now. The substantive work could be undertaken in collaboration with existing agencies or national research labs including the United States Digital Service , the Office of Science and Technology Policy , the national transportation lab Volpe , and the DOE's new Office of Artificial Intelligence . Each holds some of the resources that are needed, but none holds the mandate. Governments across the world are trying to figure out what the benefits and risks of AI are, what safeguards should be in place and how high-level principles about trustworthy, responsible, or ethical AI or international human rights should translate to specific action or law about AI. We don't know how AI's unprecedented ability to autonomously pull together data, find patterns and make inferences online and in the physical world, cheaply, quickly and at a massive scale is affecting and will affect societies globally. We don't know how we want it to, or how to get there. Federal and local regulations are part of the solution, but no regulatory approach on its own can fully answer these questions today. Finding answers will require significant investments in research and development, collaboration, negotiation, and experimentation, deep and careful thought across many fields and leadership at all levels, across and between governments. The U.S. federal government is well positioned to lead, but if it won't, it should at least stay out of the way. Gretchen Greene is a Fellow with the Technology and Public Purpose Project at Harvard Kennedy School's Belfer Center and a Senior Advisor at The Hastings Center. She is an internationally recognized expert on face and emotion recognition and AI and AV policy and ethics. The latest from Belfer See more Recommended citation Greene, Gretchen. “Washington Should Take Action on AI or Stay Out of the Way.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 19, 2020 Copy to Clipboard Washington Should Take Action on AI or Stay Out of the Way View Citation Print Cyber Security Governance Innovation Systems International Security & Defense North America Science & Technology Technology and Public Purpose Recommended citation Greene, Gretchen. “Washington Should Take Action on AI or Stay Out of the Way.” Belfer Center for Science and International Affairs, Harvard Kennedy School , March 19, 2020 Copy to Clipboard Author Gretchen Greene More From This Expert The Ethics of AI and Emotional Intelligence We Must Say Out Loud What We Fear and What We Believe Up Next Policy Briefs Revitalizing the Arctic Council Feb. 24, 2026 by David Balton and Stirling Haig From Arctic Initiative Photo Credit Toggle Peter Prokosc/Grid-ARENDAL via Flickr Reports & Papers Arctic Ocean Governance: Workshop Report and Recommendations for Policymakers Feb. 17, 2026 by David Balton Presentations Governing Solar Radiation Management in a Rapidly Changing Arctic Jan. 27, 2026 by Jennifer Spence",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-03-19T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:24:03+00:00",
+    "prompt_hash": "a1d500e46a60c3b0bda37f4ab13baf0cbb05ac74",
+    "result": {
+      "main_content_en": "The article argues against federal preemption of state and local AI regulations, highlighting the value of local experimentation in areas like facial recognition, autonomous vehicles, and data privacy. It acknowledges that the federal government is uniquely positioned to address systemic risks, set national standards, and coordinate large-scale solutions. However, it criticizes the current federal approach as potentially undermining local initiatives. The author advocates for the rapid creation of a national AI research and policy office to build government capacity, foster collaboration, and develop unbiased expertise. The piece concludes that while the federal government should lead, if it fails to act constructively, it should at least not obstruct effective local governance.",
+      "main_content_zh": "本文反对联邦政府抢占州和地方在人工智能监管方面的权力，强调了地方在面部识别、自动驾驶汽车和数据隐私等领域进行监管实验的价值。文章承认联邦政府在应对系统性风险、制定国家标准和协调大规模解决方案方面具有独特优势，但批评当前联邦政府的做法可能破坏地方性解决方案。作者主张迅速建立一个国家人工智能研究与政策办公室，以增强政府能力、促进协作并发展公正的专业知识。文章最后总结，虽然联邦政府应当发挥领导作用，但如果其无法采取建设性行动，至少不应阻碍有效的地方治理。",
+      "keywords_en": [
+        "federal preemption",
+        "state regulation",
+        "local experimentation",
+        "facial recognition",
+        "autonomous vehicles",
+        "consumer data",
+        "national standards",
+        "AI policy",
+        "regulatory frameworks",
+        "technical capacity",
+        "policy expertise",
+        "national infrastructure",
+        "collaboration",
+        "risk assessment",
+        "ethical AI",
+        "government capacity",
+        "research and development",
+        "public-private partnership",
+        "algorithmic governance",
+        "societal implications"
+      ],
+      "keywords_zh": [
+        "联邦优先权",
+        "州级监管",
+        "地方实验",
+        "面部识别",
+        "自动驾驶汽车",
+        "消费者数据",
+        "国家标准",
+        "人工智能政策",
+        "监管框架",
+        "技术能力",
+        "政策专业知识",
+        "国家基础设施",
+        "协作",
+        "风险评估",
+        "伦理人工智能",
+        "政府能力",
+        "研发",
+        "公私合作伙伴关系",
+        "算法治理",
+        "社会影响"
+      ],
+      "topic_words_en": [
+        "AI Governance",
+        "Federalism",
+        "Regulatory Policy",
+        "Technology Ethics",
+        "Public Administration"
+      ],
+      "topic_words_zh": [
+        "人工智能治理",
+        "联邦制",
+        "监管政策",
+        "技术伦理",
+        "公共行政"
+      ],
+      "relevance_score": 0.9
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Event Debrief: Feeling the Heat - How Households Manage High Electricity Bills",
+  "canonical_url": "https://www.belfercenter.org/publication/event-debrief-feeling-heat-how-households-manage-high-electricity-bills",
+  "summary": "Low-income consumers are \"feeling the heat\" of growing energy prices, and reducing their use of potentially life-saving air conditioning technology at a time when global temperatures are rising.",
+  "published": "2024-02-26T12:00:00Z",
+  "authors": [
+    "Le Xie"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "U.S. Energy Policy"
+  ],
+  "topics": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "U.S. Energy Policy"
+  ],
+  "tags": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "U.S. Energy Policy"
+  ],
+  "body": "Key Takeaways As global average temperatures increase, the need for air conditioning will mount, driving higher energy prices. Higher energy prices act as financial stressors, particularly for low-income households, resulting in consumers both reducing the amount of cooling they use and reducing spending in other categories to compensate for higher bills. Effective policy solutions are needed to help households manage higher energy costs and benefit from the potentially life-saving effects of cooling. As many readers can attest, energy bills are on the rise. Nominal average monthly electricity bills in the United States increased 13% from 2021 to 2022, largely as a result of Russia’s invasion of Ukraine, which sent shockwaves through global energy markets. Even after accounting for inflation—which was 8% in 2022—electricity bills increased by 5%. According to Abigail Ostriker, Postdoctoral Fellow at the Harvard University Center for the Environment , many consumers are “feeling the heat” of these higher prices. At a February 12 Energy Policy Seminar , Ostriker explained how understanding how consumers change their behavior to deal with rising prices is an important aspect of studying climate adaptation, as higher average global temperatures are expected to drive increased demand for electricity. Using anonymized bank transaction data for customers of a major U.S. bank from 2018-2019, Ostriker and colleagues set out to measure the two primary techniques that consumers might use to manage high energy bills induced by extreme heat: through own-good substitution (respond to the higher prices by cooling less) or through an income effect (reduced consumption of other goods as a result of higher energy bills). Pairing bank transaction data with daily temperatures allowed the researchers to investigate how the relationship between heat and electricity payments varies by income and how higher electricity payments may affect or crowd out discretionary spending. The latter effect—which is known in the literature as “heat or eat?”—is a real dilemma facing an increasing number of people, especially those in lower income brackets. Energy bills already create financial stress for many Americans: late payments or nonpayment can result in shutoffs, and recent data show that more than 20 million households are behind on their utility bills. As average temperatures increase, and cooling becomes more of a necessity than a luxury, costs are likely to increase and exacerbate this issue. Looking only at customers above a certain income threshold and with a minimum number of monthly transactions (including regular utility payments), the authors were able to match bill payments to temperature in a 30-day window (aggregated daily minimum and maximum temperatures or “cooling degree days”) within a given census block—thereby achieving a relatively granular measure of the individual correlation between payments and cooling degree days (CDDs). By using individual-level transactions rather than thermostat data, the authors were able to reduce measurement error and also include lower-income households that probably don't have smart thermostats. As a result, the study contributes new insights to the literature on the income substitution and consumption smoothing effects of energy bills and other impacts of extreme temperatures. Using this approach, the authors concluded that, compared to benchmarks, lower income households spent more on cooling per degree of higher temperature (Celsius). They observed a significant income effect of higher energy bills—each dollar of additional spending on energy displaced a significant amount of other spending for low-income households. Spending was also suppressed in the weeks immediately leading up to the date that utility bills were due. They also found that low-income households cool much less intensively than high-income households when faced with higher average temperatures (own-good substitution / consumption smoothing). The authors also looked at the relative cost and benefits of increased cooling, which could help save lives but increases electricity bills. They found that, while reducing cooling results in electricity savings on hot days, the cost of less air conditioning use (measured by the increase in heat-related deaths and value of a statistical life) is much higher. There is therefore a significant policy incentive to help reduce the burden of higher electricity costs resulting from climate change-induced extreme heat, particularly for lower-income households. As a result, even with strong private incentives to adapt to climate change, low-income households may not have the resources to do so. Higher temperatures result in lower-income households cutting back on both energy and other consumption—causing both an own-good substitution and income effect. Though this is clearly a problem, more work is needed to pin down effective policy responses—a challenge that Kennedy School graduates should take on. The latest from Belfer See more Recommended citation Floyd, Matt. “Event Debrief: Feeling the Heat - How Households Manage High Electricity Bills.” Belfer Center for Science and International Affairs, Harvard Kennedy School , February 26, 2024 Copy to Clipboard Event Debrief: Feeling the Heat - How Households Manage High Electricity Bills View Citation Print Electricity Energy Environment & Climate Change Environment and Natural Resources U.S. Energy Policy Recommended citation Floyd, Matt. “Event Debrief: Feeling the Heat - How Households Manage High Electricity Bills.” Belfer Center for Science and International Affairs, Harvard Kennedy School , February 26, 2024 Copy to Clipboard Author Matt Floyd More From This Expert Stimulating Clean Hydrogen Demand: The Current Landscape Event Debrief: Planning the Mid-Transition for Just and Sustainable Decarbonization Up Next Photo Credit Toggle AP Photo/Ted Shaffrey, File Policy Briefs AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment Feb. 10, 2026 by Rachel Mural, Dipesh Pherwani, Chaitanya Gupta, Yiqi Yu, Ai Takahashi, Dongjoo Kim, Subir Majumder, Henry Lee, Minlan Yu and Le Xie From Environment and Natural Resources Photo Credit Toggle AP/Hau Dinh Article Navigating the Grid’s Perfect Storm: A Webinar with Andy Sun Dec. 11, 2025 by Robert Stowe Photo Credit Toggle Adobe Stock/Sevda Ercan Article Decarbonizing Residential Space Heating with Heat Pumps in the United States Dec. 10, 2025 by Roxana Shafiee and Daniel Schrag",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2024-02-26T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:23:57+00:00",
+    "prompt_hash": "cfd9ddef141db5c40ec0097c203a661a47af930e",
+    "result": {
+      "main_content_en": "The article discusses the impact of rising electricity bills on households, particularly low-income families, as global temperatures increase and demand for cooling grows. It details a study by Abigail Ostriker and colleagues that used anonymized bank transaction data from 2018-2019 to analyze consumer behavior. The research identified two primary coping mechanisms: 'own-good substitution,' where households reduce cooling to save on bills, and the 'income effect,' where higher energy costs force cuts in other spending. The study found that low-income households spend more per degree of temperature increase, experience a significant displacement of other spending due to energy bills, and cool less intensively than higher-income households. It concludes that while reducing cooling saves money, the associated health risks (like heat-related deaths) are costlier, highlighting a critical need for policy interventions to alleviate the financial burden of climate-induced extreme heat, especially for vulnerable populations.",
+      "main_content_zh": "本文探讨了全球气温上升导致制冷需求增加、电费上涨对家庭，特别是低收入家庭的影响。文章详细介绍了阿比盖尔·奥斯特里克及其同事利用2018-2019年美国一家主要银行的匿名交易数据进行的一项研究。该研究分析了消费者应对高电费的行为，主要识别出两种机制：一是“自身商品替代”，即家庭减少制冷以节省电费；二是“收入效应”，即高昂的能源成本迫使家庭削减其他开支。研究发现，低收入家庭每度温升的制冷支出更高，能源账单会显著挤占其他消费，且在高平均温度下，其制冷强度远低于高收入家庭。文章指出，虽然减少制冷可以节省电费，但由此带来的健康风险（如热相关死亡）代价更高。这凸显了政策干预的必要性，以减轻气候变化导致的极端高温所带来的电费负担，特别是对弱势群体而言。",
+      "keywords_en": [
+        "electricity bills",
+        "low-income households",
+        "climate adaptation",
+        "cooling degree days",
+        "own-good substitution",
+        "income effect",
+        "energy costs",
+        "extreme heat",
+        "consumption smoothing",
+        "financial stress",
+        "utility payments",
+        "discretionary spending",
+        "heat-related deaths",
+        "policy solutions",
+        "energy demand",
+        "temperature increase",
+        "bank transaction data",
+        "behavioral change",
+        "statistical life value",
+        "utility shutoffs"
+      ],
+      "keywords_zh": [
+        "电费",
+        "低收入家庭",
+        "气候适应",
+        "制冷度日",
+        "自身商品替代",
+        "收入效应",
+        "能源成本",
+        "极端高温",
+        "消费平滑",
+        "财务压力",
+        "公用事业缴费",
+        "可自由支配支出",
+        "热相关死亡",
+        "政策解决方案",
+        "能源需求",
+        "气温上升",
+        "银行交易数据",
+        "行为改变",
+        "统计生命价值",
+        "公用事业断供"
+      ],
+      "topic_words_en": [
+        "Energy Policy",
+        "Climate Change",
+        "Household Finance",
+        "Energy Equity",
+        "Consumer Behavior"
+      ],
+      "topic_words_zh": [
+        "能源政策",
+        "气候变化",
+        "家庭财务",
+        "能源公平",
+        "消费者行为"
+      ],
+      "relevance_score": 0.6
+    }
+  }
+}

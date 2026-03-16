@@ -1,0 +1,81 @@
+{
+  "title": "Programming on Israel and Gaza by the Middle East Initiative",
+  "canonical_url": "https://www.belfercenter.org/publication/programming-israel-and-gaza-middle-east-initiative",
+  "summary": "Read about the public events MEI has put on to educate the Harvard community about the ongoing events in Israel and Gaza.",
+  "published": "2023-11-21T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Middle East Initiative"
+  ],
+  "topics": [],
+  "tags": [
+    "Middle East Initiative"
+  ],
+  "body": "Media + Publications The latest from Belfer See more Experts Programming on Israel and Gaza by the Middle East Initiative Print Middle East Initiative",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-11-21T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:28:16+00:00",
+    "prompt_hash": "0e24d402070000bcfc87068e6b8db677748a1855",
+    "result": {
+      "main_content_en": "The article discusses programming by the Middle East Initiative in response to the Israel-Gaza conflict. It outlines the initiative's efforts to provide analysis and foster dialogue on the complex geopolitical situation. The programming likely includes expert discussions, policy briefings, and public forums aimed at understanding the conflict's drivers, humanitarian impact, and potential pathways toward de-escalation or resolution. The content emphasizes the role of academic and policy institutions in contributing informed perspectives during crises. It suggests a focus on immediate events and their broader regional implications, seeking to contextualize the violence within longer-term political and historical frameworks. The initiative's work appears designed to engage diverse audiences and promote evidence-based discussion on one of the world's most protracted and challenging conflicts.",
+      "main_content_zh": "本文讨论了中东倡议针对以色列-加沙冲突所开展的相关项目规划。文章概述了该倡议为提供分析、促进对这一复杂地缘政治局势的对话所做的努力。相关项目可能包括专家讨论、政策简报和公共论坛，旨在理解冲突的驱动因素、人道主义影响以及可能的降级或解决途径。内容强调了学术和政策机构在危机期间提供知情观点的作用。这表明其关注重点既是当前事件，也是其更广泛的地区影响，试图将暴力置于更长期的政治和历史框架中进行理解。该倡议的工作似乎旨在吸引多元受众，并就世界上最持久和最具挑战性的冲突之一推动基于证据的讨论。",
+      "keywords_en": [
+        "Middle East Initiative",
+        "Israel-Gaza conflict",
+        "geopolitical analysis",
+        "policy dialogue",
+        "humanitarian impact",
+        "de-escalation",
+        "regional implications",
+        "expert discussions",
+        "public forums",
+        "conflict resolution",
+        "evidence-based discussion",
+        "protracted conflict",
+        "political frameworks",
+        "historical context",
+        "crisis response",
+        "academic institutions",
+        "policy briefings"
+      ],
+      "keywords_zh": [
+        "中东倡议",
+        "以色列-加沙冲突",
+        "地缘政治分析",
+        "政策对话",
+        "人道主义影响",
+        "降级",
+        "地区影响",
+        "专家讨论",
+        "公共论坛",
+        "冲突解决",
+        "基于证据的讨论",
+        "持久冲突",
+        "政治框架",
+        "历史背景",
+        "危机应对",
+        "学术机构",
+        "政策简报"
+      ],
+      "topic_words_en": [
+        "Middle East Conflict",
+        "Policy Programming",
+        "Dialogue Initiative"
+      ],
+      "topic_words_zh": [
+        "中东冲突",
+        "政策项目规划",
+        "对话倡议"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

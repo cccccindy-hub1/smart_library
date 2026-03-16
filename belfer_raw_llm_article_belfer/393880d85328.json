@@ -1,0 +1,93 @@
+{
+  "title": "Schools Back to Normal in Fall 2021?",
+  "canonical_url": "https://www.belfercenter.org/publication/schools-back-normal-fall-2021",
+  "summary": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day.",
+  "published": "2021-01-29T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "body": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day. Schools Back to Normal in Fall 2021? Print Coronavirus Global Health Public Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? The Importance of Speed in Vaccine Distribution Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? COVID and the Coup Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-01-29T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:01:00+00:00",
+    "prompt_hash": "122f82afcce9c19072d893b1a3b684e9cb654f85",
+    "result": {
+      "main_content_en": "The article discusses the prospects for schools returning to normal operations in the fall of 2021 amidst the ongoing coronavirus pandemic. It is framed within a series of expert Q&A sessions addressing security and public health topics. The core question explores the feasibility and challenges of resuming standard in-person schooling, touching upon broader themes of public health management and pandemic response. The context includes related expert analyses on vaccine distribution speed and crisis management, indicating the discussion is part of a larger conversation on navigating global health emergencies. The piece does not provide a definitive answer but situates the school reopening debate within the complex interplay of health security and societal functioning during a pandemic.",
+      "main_content_zh": "本文探讨了在持续的新冠病毒大流行背景下，学校在2021年秋季恢复正常运作的前景。文章以专家问答形式呈现，聚焦安全与公共卫生议题。核心问题是探究恢复标准线下教学的可行性及面临的挑战，涉及公共卫生管理和疫情应对等更广泛的主题。文中提及了疫苗快速分发和危机管理等相关专家分析，表明这一讨论是关于如何在全球卫生紧急事件中协调健康安全与社会运转的更大对话的一部分。文章并未给出明确结论，而是将学校复课辩论置于疫情期间健康安全与社会功能复杂互动的框架中进行审视。",
+      "keywords_en": [
+        "school reopening",
+        "public health",
+        "coronavirus pandemic",
+        "in-person schooling",
+        "pandemic response",
+        "health security",
+        "vaccine distribution",
+        "crisis management",
+        "global health emergency",
+        "expert Q&A",
+        "societal functioning",
+        "security",
+        "fall 2021",
+        "Margaret Bourdeaux",
+        "Juliette Kayyem",
+        "normal operations",
+        "challenges",
+        "feasibility"
+      ],
+      "keywords_zh": [
+        "学校复课",
+        "公共卫生",
+        "冠状病毒大流行",
+        "线下教学",
+        "疫情应对",
+        "健康安全",
+        "疫苗分发",
+        "危机管理",
+        "全球卫生紧急事件",
+        "专家问答",
+        "社会运转",
+        "安全",
+        "2021年秋季",
+        "恢复正常运作",
+        "挑战",
+        "可行性",
+        "公共卫生管理",
+        "社会功能"
+      ],
+      "topic_words_en": [
+        "Education Policy",
+        "Public Health",
+        "Pandemic Response"
+      ],
+      "topic_words_zh": [
+        "教育政策",
+        "公共卫生",
+        "疫情应对"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

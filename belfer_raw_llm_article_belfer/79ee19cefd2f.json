@@ -1,0 +1,93 @@
+{
+  "title": "John Park on the Key Player in North Korea's Leadership Succession",
+  "canonical_url": "https://www.belfercenter.org/publication/john-park-key-player-north-koreas-leadership-succession",
+  "summary": "Uncertainty of Kim Jong-un's health has many wondering what the future holds for North Korea.",
+  "published": "2020-04-23T12:00:00Z",
+  "authors": [
+    "John Park"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Korea Project",
+    "North Korea Nuclear Program"
+  ],
+  "topics": [
+    "North Korea Nuclear Program"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Korea Project",
+    "North Korea Nuclear Program"
+  ],
+  "body": "Uncertainty of #KimJongun 's health has many wondering what the future holds for #NorthKorea . @DrJohnSPark says #China is a key player. pic.twitter.com/WrstJaBVSI — Belfer Center (@BelferCenter) April 23, 2020 John Park on the Key Player in North Korea's Leadership Succession Print Asia & the Pacific Korea Project North Korea Nuclear Program Related John S. Park More From This Expert Negotiating with North Korea: Key Lessons Learned from Negotiators' Genesis Period Belfer Center's Korea Project Co-Leads Planning for South Korean President's Historic Harvard Visit and Speech Up Next Photo Credit Toggle AP Photo/Evan Vucci Reports & Papers Negotiating with North Korea: Key Lessons Learned from Negotiators' Genesis Period March 2024 by John Park From Defense, Emerging Technology, and Strategy Photo Credit Toggle Martha Stewart Article Belfer Center's Korea Project Co-Leads Planning for South Korean President's Historic Harvard Visit and Speech Spring 2023 Where Do Divergent US and Chinese Approaches to Dealing with North Korea Lead? by John Park August 2022",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-23T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:17:38+00:00",
+    "prompt_hash": "466afd7ebd0abc95caed3d0693d1cf5b765f3662",
+    "result": {
+      "main_content_en": "The article discusses the uncertainty surrounding Kim Jong-un's health and its implications for North Korea's future leadership succession. John Park identifies China as a key player in this process, suggesting that Beijing's influence will be critical in determining the stability and direction of any transition. The context is part of broader discussions on North Korea's nuclear program and regional security dynamics. The piece references related expert analyses on negotiating with North Korea and the divergent approaches of the US and China, situating the leadership question within ongoing strategic and diplomatic challenges on the Korean peninsula.",
+      "main_content_zh": "本文探讨了金正恩健康状况的不确定性及其对朝鲜未来领导权交接的影响。约翰·帕克指出，中国在这一过程中扮演着关键角色，北京的影响力对于决定过渡期的稳定性和方向至关重要。这一讨论置于朝鲜核计划与地区安全动态的更广泛背景之下。文章还提及了有关与朝鲜谈判的相关专家分析，以及美中两国在处理朝鲜问题上的不同方式，将领导权问题置于朝鲜半岛持续的战略与外交挑战之中进行考量。",
+      "keywords_en": [
+        "leadership succession",
+        "Kim Jong-un",
+        "North Korea",
+        "China",
+        "stability",
+        "transition",
+        "nuclear program",
+        "regional security",
+        "diplomatic challenges",
+        "strategic dynamics",
+        "influence",
+        "health uncertainty",
+        "key player",
+        "Beijing",
+        "Korean peninsula",
+        "expert analysis",
+        "negotiations"
+      ],
+      "keywords_zh": [
+        "领导权交接",
+        "金正恩",
+        "朝鲜",
+        "中国",
+        "稳定性",
+        "过渡期",
+        "核计划",
+        "地区安全",
+        "外交挑战",
+        "战略动态",
+        "影响力",
+        "健康状况不确定性",
+        "关键角色",
+        "北京",
+        "朝鲜半岛",
+        "专家分析",
+        "谈判"
+      ],
+      "topic_words_en": [
+        "North Korea",
+        "Leadership Succession",
+        "China's Role",
+        "Regional Security",
+        "Nuclear Program"
+      ],
+      "topic_words_zh": [
+        "朝鲜",
+        "领导权交接",
+        "中国角色",
+        "地区安全",
+        "核计划"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

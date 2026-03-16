@@ -1,0 +1,91 @@
+{
+  "title": "Answers to Tough Questions: the Framework of a Federal Data Security & Privacy Law",
+  "canonical_url": "https://www.belfercenter.org/publication/answers-tough-questions-framework-federal-data-security-privacy-law",
+  "summary": "This one-pager is an overview and precursor to a series of policy recommendations for a federal data privacy and security law, which answer and expand on the concepts of preemption, private right of action, and the role of the FTC.",
+  "published": "2022-06-14T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Project"
+  ],
+  "topics": [],
+  "tags": [
+    "Cyber Project"
+  ],
+  "body": "Download the Explainer [PDF] This one-pager is an overview and precursor to a series of policy recommendations for a federal data privacy and security law, which answer and expand on the concepts of preemption, private right of action, and the role of the FTC. This explainer is part of a series considering roadblocks to a federal data security and privacy law, drawing upon research and engagement with stakeholders to identify and recommend appropriate courses of action to find compromise on federal legislation. Ongoing research also includes topics like civil rights in privacy, arbitration and covered entities and data. We offer the following initial recommendations: On defined preemption Strong preemption language with carve-outs. This prevents a patchwork of frameworks across the country; provides consistent rights for consumers; and recognizes the role of states. Recommended carve-outs include: Traditional areas of state concern like civil rights, specific relationships and gaps in federal law. Emerging areas and gap fillers such as cybersecurity laws and areas not addressed by federal law. Existing federal laws such as student, health (HIPAA), financial (GLBA) and children’s privacy. Balancing state and federal provisions. States are less likely to oppose strong preemption if a federal law is as robust as existing legislation. A federal law should be conscious of this dynamic. Include state Attorneys General or other agencies. States should be a part of enforcement, whether through their attorney general or another agency. State data protection entities could, among other roles, handle carve-outs, serve as an ombudsman for state perspectives and provide subject matter expertise. On the role of the Federal Trade Commission (FTC) Administrative Procedure Act (APA) Rulemaking. A federal privacy bill should grant the FTC targeted rulemaking authority (notice and comment) under Section 5 with ample time for covered entities to comment. Defined Areas for Rulemaking. A federal privacy bill should define the areas for FTC rulemaking, including sensitive covered data; opt-out of transfers of covered data; explicit consent for processing; requests for verification; dark patterns and choice; data security; civil rights and privacy; and data collection. Enforcement. The FTC should be the primary enforcer, and allow state Attorneys General to bring suit on behalf of that state’s constituents. First-time fining authority should be used as a tool to halt the most egregious or urgent practices. The FTC should use warning and remediation letters, safe harbor frameworks, and best practice guidance to achieve broad compliance. Victim’s Relief Fund. Collected funds from fines spent to help small- to medium-sized business compliance and victim relief. Increase Capacity. $500 million for a new FTC Bureau of Privacy with 500 personnel over five years. On a limited private right of action (PRA) Create a PRA. A federal data security and privacy bill should empower everyday Americans to assist in the enforcement of the new law in a clear, confined and meaningful way. This new statutory right should cover data breaches, and extend beyond that by explicitly articulating privacy harms Congress intends to prevent or reduce with a PRA. The greater the harm priority for Congress, the greater the relief made available to the individual. Limit the PRA. To strike the right balance between the American consumer and business, Congress should place clear limits on the created PRA. Congress should creatively and narrowly tailor remedies made available to the individual by (1) leveraging a tiered damage system ; (2) permitting injunctive relief in certain circumstances; and (3) allowing for safe harbors where appropriate. Furthermore, Congress should create pathways for consumers and businesses to come together outside of the courtroom to resolve their differences by (4) establishing a right to cure. The latest from Belfer See more Recommended citation Zabierek, Lauren, Tatyana Bolton, Brandon Pugh, Sofia Lesmes and Cory Simpson. “Answers to Tough Questions: the Framework of a Federal Data Security & Privacy Law.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 14, 2022 Copy to Clipboard Answers to Tough Questions: the Framework of a Federal Data Security & Privacy Law View Citation Print Open Section Navigation In this article Close Section Navigation Cyber Project Recommended citation Zabierek, Lauren, Tatyana Bolton, Brandon Pugh, Sofia Lesmes and Cory Simpson. “Answers to Tough Questions: the Framework of a Federal Data Security & Privacy Law.” Belfer Center for Science and International Affairs, Harvard Kennedy School , June 14, 2022 Copy to Clipboard Author Lauren Zabierek More From This Expert We All Play a Role in Creating a Culture of Belonging and Diversity The New Frontier of Democratic Self-Defense Author Tatyana Bolton More From This Expert Preemption in Federal Data Security and Privacy Legislation The Role of the Federal Trade Commission in Federal Data Security and Privacy Legislation Author Brandon Pugh More From This Expert Preemption in Federal Data Security and Privacy Legislation The Role of the Federal Trade Commission in Federal Data Security and Privacy Legislation Author Sofia Lesmes More From This Expert Preemption in Federal Data Security and Privacy Legislation The Role of the Federal Trade Commission in Federal Data Security and Privacy Legislation Author Cory Simpson More From This Expert Preemption in Federal Data Security and Privacy Legislation The Role of the Federal Trade Commission in Federal Data Security and Privacy Legislation",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2022-06-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:43:59+00:00",
+    "prompt_hash": "da5402c1e0d4c3bb38f28e1ca6a2fc4970c3f2c8",
+    "result": {
+      "main_content_en": "This article presents a framework for a comprehensive federal data security and privacy law, addressing key legislative challenges. It offers specific recommendations on three core areas: preemption, the role of the Federal Trade Commission (FTC), and a private right of action (PRA). For preemption, it advocates for strong federal preemption with carve-outs for traditional state concerns, emerging areas, and existing federal laws, while involving state Attorneys General in enforcement. Regarding the FTC, it recommends granting the agency targeted rulemaking authority under the Administrative Procedure Act, defining specific areas for rulemaking, establishing it as the primary enforcer with first-time fining authority, creating a Victim's Relief Fund, and significantly increasing its capacity and funding. On the PRA, it proposes creating a limited statutory right for individuals to sue for data breaches and defined privacy harms, balanced with mechanisms like a tiered damage system, injunctive relief, safe harbors, and a right to cure to prevent excessive litigation.",
+      "main_content_zh": "本文提出了一项联邦数据安全与隐私法的框架，旨在解决关键的立法障碍。文章围绕三个核心领域提出了具体建议：联邦法律优先权（Preemption）、联邦贸易委员会（FTC）的角色以及私人诉讼权（PRA）。在优先权方面，主张建立强有力的联邦优先条款，同时为传统的州管辖领域、新兴领域及现有联邦法律（如HIPAA、GLBA）设置例外，并让州检察长参与执法。关于FTC，建议授予其根据《行政程序法》进行针对性规则制定的权力，明确规则制定的具体范围，使其成为主要执法机构并拥有首次罚款权，设立受害者救济基金，并大幅增加其人员编制和预算。对于私人诉讼权，建议创设一项有限的法定权利，允许个人就数据泄露和特定的隐私损害提起诉讼，同时通过分级赔偿制度、禁令救济、安全港条款以及纠正权等机制进行限制，以在消费者权益与企业负担之间取得平衡。",
+      "keywords_en": [
+        "federal data privacy law",
+        "preemption",
+        "private right of action",
+        "Federal Trade Commission",
+        "enforcement",
+        "rulemaking authority",
+        "data security",
+        "carve-outs",
+        "state Attorneys General",
+        "Administrative Procedure Act",
+        "civil rights",
+        "data breaches",
+        "injunctive relief",
+        "safe harbors",
+        "Victim's Relief Fund",
+        "compliance",
+        "cybersecurity",
+        "covered data",
+        "consent",
+        "dark patterns"
+      ],
+      "keywords_zh": [
+        "联邦数据隐私法",
+        "法律优先权",
+        "私人诉讼权",
+        "联邦贸易委员会",
+        "执法",
+        "规则制定权",
+        "数据安全",
+        "例外条款",
+        "州检察长",
+        "行政程序法",
+        "公民权利",
+        "数据泄露",
+        "禁令救济",
+        "安全港",
+        "受害者救济基金",
+        "合规",
+        "网络安全",
+        "涵盖数据",
+        "明确同意",
+        "暗黑模式"
+      ],
+      "topic_words_en": [
+        "Data Privacy Legislation",
+        "Regulatory Framework",
+        "Cybersecurity Policy",
+        "Consumer Protection",
+        "Federalism"
+      ],
+      "topic_words_zh": [
+        "数据隐私立法",
+        "监管框架",
+        "网络安全政策",
+        "消费者保护",
+        "联邦制"
+      ],
+      "relevance_score": 0.8
+    }
+  }
+}

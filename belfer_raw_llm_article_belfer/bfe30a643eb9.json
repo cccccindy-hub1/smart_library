@@ -1,0 +1,95 @@
+{
+  "title": "Steven Pinker on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/steven-pinker-office-hours-podcast",
+  "summary": "Steven Pinker (@sapinker), Cognitive Scientist and Professor of Psychology at Harvard University, talks with Aroop Mukharji (@aroopmukharji) about language, violence and video games, the future of war, and the possibility of a Trump presidency.",
+  "published": "2016-08-01T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [
+    "North America",
+    "Science & Technology"
+  ],
+  "topics": [
+    "Science & Technology"
+  ],
+  "tags": [
+    "North America",
+    "Science & Technology"
+  ],
+  "body": "Steven Pinker is a Johnstone Family Professor in the Department of Psychology at Harvard University. He conducts research on language and cognition, writes for publications such as the New York Times, Time and The Atlantic , and is the author of ten books, including The Language Instinct , How the Mind Works , The Blank Slate , The Stuff of Thought , The Better Angels of Our Nature, and most recently, The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century. The latest from Belfer See more Steven Pinker on Office Hours Podcast Print North America Science & Technology Up Next Presentations Move 37 Presentation at the Global AI Impact Summit, February 20, 2026 Feb. 20, 2026 From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ETSAGP Program Event Summary AI, Health, and the Future of Scientific Cooperation Feb. 2, 2026 by Kalwani, Gaurav and Syra Madad Photo Credit Toggle Russian Defense Ministry Press Service via AP, File Article Computer Says, “War”: AI and Resort-to-Force Decision Making in a Context of Rapid Change and Global Uncertainty 2026 by Toni Erskine and Steven E. Miller",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-08-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:16:10+00:00",
+    "prompt_hash": "41e1c4e1aa1662bbb397453ba9c29c132f02c837",
+    "result": {
+      "main_content_en": "The article profiles Steven Pinker, a prominent cognitive psychologist and linguist at Harvard University. It details his academic role as the Johnstone Family Professor in the Department of Psychology, his research focus on language and cognition, and his prolific writing career. Pinker contributes to major publications like the New York Times, Time, and The Atlantic. He is the author of ten influential books, including 'The Language Instinct,' 'How the Mind Works,' 'The Blank Slate,' 'The Stuff of Thought,' 'The Better Angels of Our Nature,' and 'The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century.' The piece appears within a context focused on science, technology, and policy, linking to related content such as presentations at the Global AI Impact Summit and discussions on AI's role in decision-making and global cooperation, suggesting the platform's interest in the intersection of cognitive science, emerging technology, and policy.",
+      "main_content_zh": "本文介绍了哈佛大学著名认知心理学家和语言学家史蒂芬·平克。文章详述了他的学术身份——哈佛大学心理学系约翰斯通家族教授，其专注于语言与认知的研究方向，以及他多产的写作生涯。平克为《纽约时报》、《时代》周刊和《大西洋月刊》等主要出版物撰稿。他是十本有影响力著作的作者，包括《语言本能》、《心智探奇》、《白板》、《思想的本质》、《人性中的善良天使》以及《风格感觉：21世纪写作指南》。这篇文章出现在一个专注于科学、技术和政策的语境中，关联到全球人工智能影响峰会的演讲内容，以及关于人工智能在决策和全球合作中作用的讨论，这表明该平台对认知科学、新兴技术与政策交叉领域的关注。",
+      "keywords_en": [
+        "Steven Pinker",
+        "Harvard University",
+        "Psychology",
+        "Cognitive Science",
+        "Linguistics",
+        "Language",
+        "Cognition",
+        "Author",
+        "The Language Instinct",
+        "How the Mind Works",
+        "The Blank Slate",
+        "The Better Angels of Our Nature",
+        "Writing",
+        "Science Communication",
+        "Academic Research",
+        "Public Intellectual",
+        "Books",
+        "Publications",
+        "New York Times",
+        "The Atlantic"
+      ],
+      "keywords_zh": [
+        "史蒂芬·平克",
+        "哈佛大学",
+        "心理学",
+        "认知科学",
+        "语言学",
+        "语言",
+        "认知",
+        "作家",
+        "《语言本能》",
+        "《心智探奇》",
+        "《白板》",
+        "《人性中的善良天使》",
+        "写作",
+        "科学传播",
+        "学术研究",
+        "公共知识分子",
+        "著作",
+        "出版物",
+        "《纽约时报》",
+        "《大西洋月刊》"
+      ],
+      "topic_words_en": [
+        "Cognitive Psychology",
+        "Linguistics",
+        "Science Writing",
+        "Academic Profile",
+        "Public Intellectual"
+      ],
+      "topic_words_zh": [
+        "认知心理学",
+        "语言学",
+        "科学写作",
+        "学者简介",
+        "公共知识分子"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

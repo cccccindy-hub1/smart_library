@@ -1,0 +1,97 @@
+{
+  "title": "Mike Rogers on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/mike-rogers-office-hours-podcast",
+  "summary": "Former Chair of the House Intelligence Committee Mike Rogers (@RepMikeRogers), the U.S. Representative for the 8th district in Michigan from 2001 – 2015, and a non-resident Senior Fellow at the Belfer Center, talks with Aroop Mukharji (@aroopmukharji) about tensions between the FBI and the White House, meeting Russian Ambassador Sergey Kislyak, and who’s his favorite spy.",
+  "published": "2017-06-01T12:00:00Z",
+  "authors": [
+    "Maria Robson-Morrow"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Intelligence",
+    "North America"
+  ],
+  "topics": [
+    "Intelligence"
+  ],
+  "tags": [
+    "Intelligence",
+    "North America"
+  ],
+  "body": "Mike Rogers is a former member of Congress representing Michigan's Eighth Congressional District, officer in the U.S. Army, and FBI special agent. He also served as chairman of House Permanent Select Committee on Intelligence, where he authorized and oversaw a budget of $70 billion that funded the nation's 17 intelligence agencies. He is a highly sought-after expert on national security issues, intelligence affairs, and cybersecurity policy. He advises multiple boards and academic institutions, working to enhance America’s strength and security. The latest from Belfer See more Mike Rogers on Office Hours Podcast Print Intelligence North America Related Mike Rogers More From This Expert COVID’s Broader Impacts: Risks and Recommendations Mike Rogers on Office Hours Up Next Photo Credit Toggle Intel Project Event Summary Belfer Center Senior Fellow Beth Sanner Teaches Students the Art of Briefing April 2, 2025 by Maria Robson-Morrow From Intelligence Project Photo Credit Toggle Adobe Stock Reports & Papers Private Sector Intelligence Careers: Analyzing Job Titles and Professional Trends January 31, 2025 by Judit Gaspar, Maria Robson-Morrow and Katherine Tucker Photo Credit Toggle Adobe Stock, by Odin AI, #830981342 Article Intelligence outsourcing for non-traditional clients: the rise of private sector intelligence providers January 6, 2025 by Katherine Tucker and Maria Robson-Morrow",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-06-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:57:15+00:00",
+    "prompt_hash": "3a1345f91d4a7e2e5014d4d5a5983876596563f9",
+    "result": {
+      "main_content_en": "Mike Rogers is a former U.S. Congressman from Michigan, Army officer, and FBI special agent with extensive expertise in national security and intelligence. He previously chaired the House Permanent Select Committee on Intelligence, overseeing a $70 billion budget for 17 intelligence agencies. Currently, he is a prominent commentator and advisor on cybersecurity policy, national security, and intelligence affairs, working with various boards and academic institutions to strengthen American security. His background combines legislative oversight, law enforcement, and military experience, making him a key figure in discussions about intelligence community management, budget allocation, and contemporary security challenges.",
+      "main_content_zh": "迈克·罗杰斯是美国前密歇根州国会议员、陆军军官和联邦调查局特工，在国家安全和情报领域拥有广泛的专业知识。他曾担任众议院常设特别情报委员会主席，负责监督为17个情报机构提供的700亿美元预算。目前，他是网络安全政策、国家安全和情报事务方面的重要评论员和顾问，与多个董事会和学术机构合作，致力于加强美国的安全。他的背景结合了立法监督、执法和军事经验，使其成为关于情报界管理、预算分配和当代安全挑战讨论的关键人物。",
+      "keywords_en": [
+        "Mike Rogers",
+        "Congress",
+        "House Permanent Select Committee on Intelligence",
+        "intelligence agencies",
+        "$70 billion budget",
+        "national security",
+        "cybersecurity policy",
+        "FBI special agent",
+        "U.S. Army",
+        "intelligence affairs",
+        "budget oversight",
+        "security advisor",
+        "legislative oversight",
+        "intelligence community",
+        "American security",
+        "expert commentator",
+        "board advisor",
+        "academic institutions",
+        "security challenges",
+        "budget allocation"
+      ],
+      "keywords_zh": [
+        "迈克·罗杰斯",
+        "国会",
+        "众议院常设特别情报委员会",
+        "情报机构",
+        "700亿美元预算",
+        "国家安全",
+        "网络安全政策",
+        "联邦调查局特工",
+        "美国陆军",
+        "情报事务",
+        "预算监督",
+        "安全顾问",
+        "立法监督",
+        "情报界",
+        "美国安全",
+        "专家评论员",
+        "董事会顾问",
+        "学术机构",
+        "安全挑战",
+        "预算分配"
+      ],
+      "topic_words_en": [
+        "Intelligence",
+        "National Security",
+        "Cybersecurity",
+        "Budget Oversight",
+        "Policy Advisory"
+      ],
+      "topic_words_zh": [
+        "情报",
+        "国家安全",
+        "网络安全",
+        "预算监督",
+        "政策咨询"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

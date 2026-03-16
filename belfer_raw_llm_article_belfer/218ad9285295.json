@@ -1,0 +1,89 @@
+{
+  "title": "Michael Sulmeyer on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/michael-sulmeyer-office-hours",
+  "summary": "Michael Sulmeyer (@sultanofcyber), Director of the Cyber Security Project at the Belfer Center and former Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense, talks with Aroop Mukharji (@aroopmukharji) about protecting yourself online, running for office in the age of social media, and cyber security’s “sex appeal.”",
+  "published": "2016-06-01T12:00:00Z",
+  "authors": [
+    "Bruce Schneier"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Cyber Security",
+    "North America"
+  ],
+  "topics": [
+    "Cyber Security"
+  ],
+  "tags": [
+    "Cyber Security",
+    "North America"
+  ],
+  "body": "Michael Sulmeyer (@sultanofcyber), Director of the Cyber Security Project at the Belfer Center and former Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense, talks with Aroop Mukharji (@aroopmukharji) about protecting yourself online, running for office in the age of social media, and cyber security’s “sex appeal.” The latest from Belfer See more Gallery 1 of 3 Michael Sulmeyer: How to Protect Yourself Online 2 of 3 Michael Sulmeyer: The Internet of Things, Explained 3 of 3 Michael Sulmeyer: Running for Office in the Age of Social Media Dr. Michael Sulmeyer is the Belfer Center's Cyber Security Project Director at the Harvard Kennedy School. He is also a Contributing Editor for Lawfare. Before Harvard, he served as the Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense. There, he worked closely with the Joint Staff and Cyber Command on a variety of efforts to counter malicious cyber activity against U.S. and DoD interests. For this work, he received the Secretary Medal for Exceptional Public Service. Michael Sulmeyer on Office Hours Print Open Section Navigation In this article Close Section Navigation Cyber Security North America Related Michael Sulmeyer More From This Expert \"Star Wars\" and Cyber: Can history help us build today's defenses? War on the Rocks Podcast: The Big Cyber Spectacular Up Next Photo Credit Toggle U.S. House of Representatives Testimonies Bruce Schneier's Testimony on \"The Federal Government in the Age of Artificial Intelligence\" Jun. 5, 2025 by Bruce Schneier From Science, Technology, and Public Policy Reports & Papers Cybersecurity Strategy Scorecard Mar. 27, 2025 by Fred Heiding, Alex O'Neill and Lachlan Price Photo Credit Toggle Adobe Stock Reports & Papers Analytic Tradecraft Standards in an Age of AI June 2024 by Gerald McMahon",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-06-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:17:55+00:00",
+    "prompt_hash": "4bc01f3d531608364988da4e31dfd7b12eb0e2fe",
+    "result": {
+      "main_content_en": "The article features an interview with Michael Sulmeyer, Director of the Cyber Security Project at the Belfer Center and former Director for Plans and Operations for Cyber Policy in the Office of the Secretary of Defense. He discusses key cybersecurity issues with Aroop Mukharji, including practical advice for personal online protection, the unique challenges of running for political office in the era of pervasive social media, and the perceived 'sex appeal' or high-profile nature of cybersecurity as a field. Sulmeyer's extensive background, which includes close collaboration with the Joint Staff and U.S. Cyber Command to counter malicious cyber activities, underscores the discussion. His work earned him the Secretary Medal for Exceptional Public Service, highlighting the critical intersection of policy, defense, and public service in cyberspace.",
+      "main_content_zh": "本文是对贝尔弗中心网络安全项目主任、前国防部长办公室网络政策计划与行动主任迈克尔·苏尔迈耶的访谈摘要。他与阿鲁普·穆哈尔吉探讨了多个核心网络安全议题，包括为个人提供的实用在线防护建议、在社交媒体时代竞选公职所面临的独特挑战，以及网络安全领域所具有的“吸引力”或高关注度。苏尔迈耶拥有深厚的专业背景，曾与参谋长联席会议和美国网络司令部密切合作，共同应对针对美国及国防部利益的恶意网络活动，并因此获得国防部长卓越公共服务奖章。访谈内容体现了网络安全在政策制定、国防战略和公共服务方面的关键交汇点。",
+      "keywords_en": [
+        "Cyber Security",
+        "Online Protection",
+        "Social Media",
+        "Cyber Policy",
+        "Secretary of Defense",
+        "Belfer Center",
+        "Cyber Command",
+        "Malicious Cyber Activity",
+        "Public Service",
+        "Joint Staff",
+        "Internet of Things",
+        "Lawfare",
+        "Harvard Kennedy School",
+        "Defense Strategy",
+        "Political Campaign",
+        "Digital Security",
+        "Policy Director",
+        "National Security"
+      ],
+      "keywords_zh": [
+        "网络安全",
+        "在线防护",
+        "社交媒体",
+        "网络政策",
+        "国防部长",
+        "贝尔弗中心",
+        "网络司令部",
+        "恶意网络活动",
+        "公共服务",
+        "参谋长联席会议",
+        "物联网",
+        "法律战",
+        "哈佛肯尼迪学院",
+        "国防战略",
+        "政治竞选",
+        "数字安全",
+        "政策主任",
+        "国家安全"
+      ],
+      "topic_words_en": [
+        "Cybersecurity",
+        "Digital Policy",
+        "National Defense"
+      ],
+      "topic_words_zh": [
+        "网络安全",
+        "数字政策",
+        "国防"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

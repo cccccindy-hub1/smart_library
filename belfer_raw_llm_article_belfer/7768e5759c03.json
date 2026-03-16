@@ -1,0 +1,107 @@
+{
+  "title": "Event Debrief: EV User Behavior Plays 'Pivotal' Role in Electrifying Transportation, Says Christine Gscwendtner",
+  "canonical_url": "https://www.belfercenter.org/publication/event-debrief-ev-user-behavior-plays-pivotal-role-electrifying-transportation-says",
+  "summary": "The behavior of EV users themselves could play a role in modulating electricity demand and providing needed flexibility in electric grids, said Christine Gschwendtner, Postdoctoral Research Fellow at Harvard Kennedy School’s Belfer Center, during an Energy Policy Seminar.",
+  "published": "2023-12-13T12:00:00Z",
+  "authors": [
+    "Mengying Wu, Kristen McCormack, William A. Scott, Aaron Smith, Jingran Zhang",
+    "James Stock"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "Transportation"
+  ],
+  "topics": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "Transportation"
+  ],
+  "tags": [
+    "Electricity",
+    "Energy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "Transportation"
+  ],
+  "body": "Key Takeaways Increased variability in the power system resulting from greater renewable energy generation and the ongoing electrification of transport is creating challenges for grid operators to balance supply and demand. Electric vehicles (EVs) can be a source of much-needed flexibility for the power system if users can be induced to optimize charging times and locations as a form of demand response. Current studies on demand response do not adequately account for heterogeneity in user behavior when it comes to driving and charging EVs. A portfolio of demand response solutions that takes into account different user behavior will provide the greatest amount of flexibility to the grid. As the share of power generation from renewable energy continues to grow, so does the variability of the overall power system, challenging the ability of grid operators to consistently balance supply and demand. At the same time, the increasing electrification of transport is creating new sources of demand that exhibit their own, dissimilar load profile. Electric vehicles (EVs) are typically charged at night when drivers return home, creating significant demand at a time when the sun is no longer shining. Increasing electric vehicle sales and greater penetration of variable renewable energy (VRE) power sources are expected to exacerbate this mismatch of electricity supply and demand. Solving this challenge will require greater flexibility in the power system. The behavior of EV users themselves could play a role in modulating electricity demand and providing that flexibility, said Christine Gschwendtner, Postdoctoral Research Fellow at Harvard Kennedy School’s Belfer Center, during a November 20 Energy Policy Seminar. While EVs can create difficulties for grid operators (for example, by creating high demand peaks at inopportune times), they can also be a source of support by providing flexible demand response on command. Compared to other potential sources of flexibility, such as supply, transmission, and greater energy storage, demand response could help smooth load requirements at a relatively lower cost. “Charging behavior is decisive for whether EVs are a challenge or a solution for the electricity system,\" said Gschwendtner. Gschwendtner observed that the energy transition is creating a paradigm shift in the electricity system that places users at the center Historically, the power system has been unidirectional, with electricity flowing from producers to consumers, but today’s increasingly decentralized system arms consumers with their own power supplies and new digital tools to engage with the grid in novel ways. User behavior, said Gschwendtner, cannot be fully controlled. In the case of EVs, charging behavior and grid contexts are oversimplified in current models. As a result, current projections of the impact of demand response measures may be overoptimistic if approaches do not sufficiently account for user behavior, which can be highly variable. To account for heterogenous charging behavior by EV owners, Gschwendtner developed an “agent-based model” that incorporates different behavioral patterns to evaluate their potential for providing flexibility to the grid. Using inputs that included driving behavior, charging behavior, and different macro scenarios for levels of EV adoption, Gschwendtner modeled various load profiles within different contexts. The model was built around four main factors that Gschwendtner found contributed most to heterogeneity in user behavior: battery state of charge, the time of day, charging station locations, and planned travel. Other factors, including charging cost, parking duration, and charging power were also found to play a role, but were less important. Perhaps unsurprisingly, these different factors contribute to different driving and charging behaviors that lead to different impacts on system flexibility. Adjusting each factor results in a different reduction in total peak power demand and amount of load shifted to other parts of the day, with the “state of battery charge” factor resulting in the highest reductions and load shifting across all scenarios. While system planners hesitate to rely on demand response because of the heterogeneity in user behavior, Gschwendtner stressed that the agent-based model shows that portfolios of different demand-side flexibility sources, including a variety of technologies, can help to offset the variability in user behavior. Heterogeneous plug-in behaviors can help reduce peak demand by distributing load throughout the day and in different geographical locations. The specific needs of different grids and contexts should determine which combinations of behaviors and automated charging processes are used to encourage flexibility. Overall, Gschwendtner concluded that “integrating technical solutions with diverse behavior aspects is crucial\" to positioning EVs as a source of flexibility rather than a source of inconvenience for grid operators. The latest from Belfer See more Recommended citation Floyd, Matt. “Event Debrief: EV User Behavior Plays 'Pivotal' Role in Electrifying Transportation, Says Christine Gscwendtner.” Belfer Center for Science and International Affairs, Harvard Kennedy School , December 13, 2023 Copy to Clipboard Event Debrief: EV User Behavior Plays 'Pivotal' Role in Electrifying Transportation, Says Christine Gscwendtner View Citation Print Electricity Energy Environment & Climate Change Environment and Natural Resources Transportation Recommended citation Floyd, Matt. “Event Debrief: EV User Behavior Plays 'Pivotal' Role in Electrifying Transportation, Says Christine Gscwendtner.” Belfer Center for Science and International Affairs, Harvard Kennedy School , December 13, 2023 Copy to Clipboard Author Matt Floyd More From This Expert Stimulating Clean Hydrogen Demand: The Current Landscape Event Debrief: Planning the Mid-Transition for Just and Sustainable Decarbonization Related Christine Gschwendtner More From This Expert Leveraging Charging Strategies to Reduce Grid Impacts of Electric Vehicles Up Next Reports & Papers Policy Options to Achieve U.S. Sustainable Aviation Fuel Targets Oct. 6, 2025 by Mengying Wu, Kristen McCormack, William A. Scott, Aaron Smith, Jingran Zhang and James Stock From Environment and Natural Resources Photo Credit Toggle Elizabeth Hanlon/Belfer Center Event Summary The Road to Electrification: Challenges and Opportunities for the Domestic Auto Industry Sep. 15, 2025 by Elizabeth Hanlon Photo Credit Toggle Thom Cole/New Mexico General Services Department, via AP Policy Briefs Leveraging Charging Strategies to Reduce Grid Impacts of Electric Vehicles May. 8, 2024 by Christine Gschwendtner",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2023-12-13T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:27:09+00:00",
+    "prompt_hash": "0b2177c907d26b51adc71f96516fec9afc8b20a4",
+    "result": {
+      "main_content_en": "The increasing variability of the power system, driven by renewable energy growth and transport electrification, challenges grid operators in balancing supply and demand. Electric vehicles (EVs) can provide crucial flexibility if user charging behavior is optimized as a form of demand response. However, current demand response studies often oversimplify the heterogeneity in user driving and charging patterns. Christine Gschwendtner of Harvard's Belfer Center argues that user behavior is central to whether EVs become a grid challenge or solution. She developed an agent-based model incorporating key behavioral factors—battery state of charge, time of day, charging location, and planned travel—to assess flexibility potential. The model shows that portfolios of diverse demand-side solutions, accounting for varied user behaviors, can effectively offset variability and reduce peak demand. Integrating technical solutions with behavioral diversity is thus essential to leveraging EVs for grid flexibility.",
+      "main_content_zh": "可再生能源发电增长和交通电气化加剧了电力系统的波动性，给电网运营商平衡供需带来挑战。电动汽车（EV）如果能够通过优化用户充电行为作为一种需求响应形式，可以成为电网亟需的灵活性来源。然而，当前关于需求响应的研究未能充分考量用户在驾驶和充电行为上的异质性。哈佛大学贝尔弗中心的克里斯汀·格施文特纳指出，用户行为对于电动汽车是成为电网的挑战还是解决方案具有决定性作用。她开发了一个基于智能体的模型，该模型纳入了电池充电状态、一天中的时间、充电站位置和计划出行等关键行为因素，以评估其提供电网灵活性的潜力。研究发现，不同的行为因素会导致不同的系统灵活性影响，其中“电池充电状态”因素在所有情景中都能带来最高的峰值功率需求削减和负荷转移效果。尽管用户行为的异质性令系统规划者不愿依赖需求响应，但该模型表明，包含多种技术的不同需求侧灵活性资源组合可以帮助抵消用户行为的可变性。总体而言，将技术解决方案与多样化的行为方面相结合，对于将电动汽车定位为电网的灵活性来源而非负担至关重要。",
+      "keywords_en": [
+        "electric vehicles",
+        "demand response",
+        "grid flexibility",
+        "user behavior",
+        "renewable energy",
+        "variable renewable energy",
+        "power system",
+        "charging behavior",
+        "agent-based model",
+        "peak demand",
+        "load profile",
+        "electrification of transport",
+        "supply-demand balance",
+        "heterogeneity",
+        "energy transition",
+        "decentralized system",
+        "digital tools",
+        "battery state of charge",
+        "charging station",
+        "system planners"
+      ],
+      "keywords_zh": [
+        "电动汽车",
+        "需求响应",
+        "电网灵活性",
+        "用户行为",
+        "可再生能源",
+        "可变可再生能源",
+        "电力系统",
+        "充电行为",
+        "基于智能体的模型",
+        "峰值需求",
+        "负荷曲线",
+        "交通电气化",
+        "供需平衡",
+        "异质性",
+        "能源转型",
+        "去中心化系统",
+        "数字工具",
+        "电池充电状态",
+        "充电站",
+        "系统规划者"
+      ],
+      "topic_words_en": [
+        "Electric Vehicles",
+        "Grid Management",
+        "Demand Response",
+        "Energy Policy",
+        "User Behavior Modeling"
+      ],
+      "topic_words_zh": [
+        "电动汽车",
+        "电网管理",
+        "需求响应",
+        "能源政策",
+        "用户行为建模"
+      ],
+      "relevance_score": 0.85
+    }
+  }
+}

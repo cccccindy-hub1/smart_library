@@ -1,0 +1,99 @@
+{
+  "title": "Questions from Quarantine: Immunity Passports",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-immunity-passports",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-04-28T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine. Questions from Quarantine: Immunity Passports Print Coronavirus Global Health Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-28T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:17:08+00:00",
+    "prompt_hash": "c6b74975f66bfeb574154e7cb77b6fa354e8ba7a",
+    "result": {
+      "main_content_en": "The article introduces a weekly web series titled 'Questions from Quarantine,' hosted by Juliette Kayyem and Dr. Margaret Bourdeaux, which addresses public inquiries during the COVID-19 pandemic. It specifically mentions the topic of 'Immunity Passports' as a focal point for discussion, indicating an exploration of their potential role in public health and security during the crisis. The series aims to provide advice on maintaining mental and physical well-being, encouraging audience participation through social media. The context is set within the broader work of the Security and Global Health Project, linking to related expert content on pandemic preparedness, technology, and global governance.",
+      "main_content_zh": "本文介绍了一个名为“隔离问题”的每周网络系列节目，由朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，旨在回答COVID-19大流行期间公众的疑问。文章特别提及“免疫护照”这一主题，暗示将探讨其在公共卫生与安全危机中的潜在作用。该系列节目旨在提供保持身心健康方面的建议，并通过社交媒体鼓励观众参与提问。内容被置于“安全与全球健康项目”的更广泛工作背景下，并链接到有关大流行防范、技术与全球治理的相关专家文章。",
+      "keywords_en": [
+        "Immunity Passports",
+        "Coronavirus",
+        "Global Health",
+        "Public Health",
+        "Security and Global Health",
+        "Quarantine",
+        "Pandemic",
+        "COVID-19",
+        "Health Security",
+        "Crisis Management",
+        "Web Series",
+        "Expert Advice",
+        "Mental Well-being",
+        "Physical Well-being",
+        "Audience Engagement",
+        "Social Media",
+        "Pandemic Preparedness",
+        "Global Governance",
+        "Emerging Technology",
+        "Vaccine Research"
+      ],
+      "keywords_zh": [
+        "免疫护照",
+        "冠状病毒",
+        "全球健康",
+        "公共卫生",
+        "安全与全球健康",
+        "隔离",
+        "大流行",
+        "COVID-19",
+        "健康安全",
+        "危机管理",
+        "网络系列",
+        "专家建议",
+        "心理健康",
+        "身体健康",
+        "观众参与",
+        "社交媒体",
+        "大流行防范",
+        "全球治理",
+        "新兴技术",
+        "疫苗研究"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Pandemic Response",
+        "Health Policy"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "大流行应对",
+        "健康政策"
+      ],
+      "relevance_score": 0.3
+    }
+  }
+}

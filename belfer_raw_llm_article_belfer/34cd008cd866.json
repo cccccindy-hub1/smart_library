@@ -1,0 +1,99 @@
+{
+  "title": "Questions from Quarantine: Silver Linings of the COVID-19 Pandemic",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-silver-linings-covid-19-pandemic",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday and if you have a question that you want answered tweet with #QuestionsFromQuarantine.",
+  "published": "2020-07-27T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday and if you have a question that you want answered tweet with #QuestionsFromQuarantine. Questions from Quarantine: Silver Linings of the COVID-19 Pandemic Print Coronavirus Global Health Public Health Security and Global Health Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-07-27T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:07:47+00:00",
+    "prompt_hash": "5ad0f45571f3dba06b66e7cd61977efde3653a08",
+    "result": {
+      "main_content_en": "The article introduces a weekly web series titled 'Questions from Quarantine,' hosted by Juliette Kayyem and Dr. Margaret Bourdeaux as part of the Security and Global Health Project. The series aims to provide advice and answer public questions on maintaining mental and physical well-being during the COVID-19 pandemic. It encourages audience participation by inviting questions via Twitter with the hashtag #QuestionsFromQuarantine. The piece frames the pandemic's 'silver linings' as an opportunity for expert-led community engagement and public education on health security. While the body text primarily describes the series format and call to action, it situates this initiative within the broader context of global health and crisis response.",
+      "main_content_zh": "本文介绍了一个名为“隔离问题”的每周网络系列节目，由朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，隶属于安全与全球健康项目。该系列旨在为公众提供建议，解答关于在COVID-19大流行期间保持身心健康的问题，并鼓励观众通过推特话题#QuestionsFromQuarantine进行提问。文章将这场大流行的“一线希望”定位为专家主导的社区参与和公共卫生安全教育的机会。正文主要描述了该系列节目的形式和参与方式，并将其置于全球健康与危机应对的更广泛背景之中。",
+      "keywords_en": [
+        "Questions from Quarantine",
+        "Security and Global Health Project",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "COVID-19 pandemic",
+        "public health",
+        "global health",
+        "crisis response",
+        "web series",
+        "expert advice",
+        "mental well-being",
+        "physical well-being",
+        "audience engagement",
+        "Twitter",
+        "health security",
+        "community engagement",
+        "public education",
+        "quarantine"
+      ],
+      "keywords_zh": [
+        "隔离问题",
+        "安全与全球健康项目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "COVID-19大流行",
+        "公共卫生",
+        "全球健康",
+        "危机应对",
+        "网络系列节目",
+        "专家建议",
+        "心理健康",
+        "身体健康",
+        "观众参与",
+        "推特",
+        "健康安全",
+        "社区参与",
+        "公共教育",
+        "隔离"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Global Health",
+        "COVID-19",
+        "Crisis Communication",
+        "Community Engagement"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "全球健康",
+        "COVID-19",
+        "危机沟通",
+        "社区参与"
+      ],
+      "relevance_score": 0.1
+    }
+  }
+}

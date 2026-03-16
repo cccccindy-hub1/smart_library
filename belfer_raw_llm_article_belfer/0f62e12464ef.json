@@ -1,0 +1,103 @@
+{
+  "title": "Conversations in Diplomacy: Jake Sullivan on Deconstructing Trump Foreign Policy",
+  "canonical_url": "https://www.belfercenter.org/publication/conversations-diplomacy-jake-sullivan-deconstructing-trump-foreign-policy",
+  "summary": "Jake Sullivan, Future of Diplomacy Project Senior Fellow, in conversation with Faculty Director Nicholas Burns, attempts to deconstruct the logic behind President Trump's foreign policy decisions.",
+  "published": "2017-04-03T12:00:00Z",
+  "authors": [
+    "Stephen Herzog"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Diplomacy and International Politics",
+    "Europe",
+    "Future of Diplomacy Project",
+    "International Relations",
+    "International Security & Defense",
+    "Military intervention",
+    "North America",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "topics": [
+    "International Relations",
+    "International Security & Defense",
+    "Military intervention",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Diplomacy and International Politics",
+    "Europe",
+    "Future of Diplomacy Project",
+    "International Relations",
+    "International Security & Defense",
+    "Military intervention",
+    "North America",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "body": "Conversations in Diplomacy: Jake Sullivan on Deconstructing Trump Foreign Policy Print Asia & the Pacific Diplomacy and International Politics Europe Future of Diplomacy Project International Relations International Security & Defense Military intervention North America U.S. Foreign Policy U.S. domestic politics Related Nicholas Burns More From This Expert NATO is Vital to U.S. National Security Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change Related Jake Sullivan Request Interview More From This Expert Jake Sullivan on Office Hours Jake Sullivan on Office Hours Podcast Up Next Photo Credit Toggle Public Domain/DOD Defense Visual Information Center Policy Briefs Public Opinion, Nuclear Weapon Use, and the Perils of Selective Reading January 2026 by Stephen Herzog From International Security Program Photo Credit Toggle Advocate Creative Q&A Why Do Nuclear Policies Backfire? A Q&A with Stephen Herzog Dec. 16, 2025 Photo Credit Toggle Associated Press - Jorge Saenz Reports & Papers Multi-Alignment as Strategy: How Brazil Navigates Between Washington, Beijing, and the Global South Nov. 20, 2025 by Oliver Stuenkel",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Future of Diplomacy Project, Belfer Center",
+    "date": "2017-04-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:07:21+00:00",
+    "prompt_hash": "da56e07a71456e07abe2992775f527b99a96ba04",
+    "result": {
+      "main_content_en": "The article presents a conversation with Jake Sullivan analyzing the foreign policy approach of the Trump administration. It focuses on deconstructing the underlying principles and potential consequences of this policy shift, particularly regarding traditional alliances and international institutions. The discussion centers on the implications for U.S. national security, the stability of the international order, and the role of diplomacy. Specific attention is given to areas such as military intervention, relations with Europe and the Asia-Pacific region, and the broader themes of international security and defense. The analysis situates Trump's foreign policy within the context of U.S. domestic politics and its impact on global diplomatic dynamics, questioning long-term strategic coherence and the future of multilateral engagement.",
+      "main_content_zh": "本文呈现了与杰克·沙利文的一次对话，旨在解构特朗普政府的外交政策。分析聚焦于该政策转向的基本原则及其潜在后果，特别是对传统联盟和国际机构的影响。讨论核心涉及美国国家安全、国际秩序稳定性以及外交角色所面临的挑战。具体关注领域包括军事干预、与欧洲和亚太地区的关系，以及国际安全与防御等更广泛主题。文章将特朗普的外交政策置于美国国内政治背景及其对全球外交动态的影响中进行审视，对其长期战略连贯性及多边合作的未来提出质疑。",
+      "keywords_en": [
+        "Foreign Policy",
+        "Diplomacy",
+        "Trump Administration",
+        "International Relations",
+        "National Security",
+        "Military Intervention",
+        "Alliances",
+        "Multilateralism",
+        "International Order",
+        "U.S. Domestic Politics",
+        "Strategic Coherence",
+        "Global Diplomacy",
+        "Security & Defense",
+        "Policy Analysis",
+        "Deconstruction"
+      ],
+      "keywords_zh": [
+        "外交政策",
+        "外交",
+        "特朗普政府",
+        "国际关系",
+        "国家安全",
+        "军事干预",
+        "联盟",
+        "多边主义",
+        "国际秩序",
+        "美国国内政治",
+        "战略连贯性",
+        "全球外交",
+        "安全与防御",
+        "政策分析",
+        "解构"
+      ],
+      "topic_words_en": [
+        "Foreign Policy Analysis",
+        "U.S. Diplomacy",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "外交政策分析",
+        "美国外交",
+        "国际安全"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

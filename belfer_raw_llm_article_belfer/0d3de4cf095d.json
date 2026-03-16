@@ -1,0 +1,111 @@
+{
+  "title": "Conversations in Diplomacy: Congressman Seth Moulton",
+  "canonical_url": "https://www.belfercenter.org/publication/conversations-diplomacy-congressman-seth-moulton",
+  "summary": "In this installation of Conversations in Diplomacy, Congressman Seth Moulton, Representative of the Sixth District of Massachusetts, military veteran, and graduate of the Harvard Kennedy School, discusses the most serious threats to U.S. national security with Ambassador Nicholas Burns, Faculty Director of the Future of Diplomacy Project.",
+  "published": "2017-03-27T12:00:00Z",
+  "authors": [
+    "Stephen Herzog"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Diplomacy and International Politics",
+    "Europe",
+    "Future of Diplomacy Project",
+    "International Security & Defense",
+    "Middle East & North Africa",
+    "Military policy",
+    "NATO",
+    "North America",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "topics": [
+    "International Security & Defense",
+    "Military policy",
+    "NATO",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "tags": [
+    "Diplomacy and International Politics",
+    "Europe",
+    "Future of Diplomacy Project",
+    "International Security & Defense",
+    "Middle East & North Africa",
+    "Military policy",
+    "NATO",
+    "North America",
+    "U.S. Foreign Policy",
+    "U.S. domestic politics"
+  ],
+  "body": "Conversations in Diplomacy: Congressman Seth Moulton Print Diplomacy and International Politics Europe Future of Diplomacy Project International Security & Defense Middle East & North Africa Military policy NATO North America U.S. Foreign Policy U.S. domestic politics Related Nicholas Burns More From This Expert NATO is Vital to U.S. National Security Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change Up Next Photo Credit Toggle Public Domain/DOD Defense Visual Information Center Policy Briefs Public Opinion, Nuclear Weapon Use, and the Perils of Selective Reading January 2026 by Stephen Herzog From International Security Program Photo Credit Toggle Advocate Creative Q&A Why Do Nuclear Policies Backfire? A Q&A with Stephen Herzog Dec. 16, 2025 Photo Credit Toggle ASSOCIATED PRESS - Rafiq Maqbool Reports & Papers India: Leaning to One Side (Cautiously) Nov. 20, 2025 by C. Raja Mohan",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Future of Diplomacy Project, Belfer Center",
+    "date": "2017-03-27T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:08:09+00:00",
+    "prompt_hash": "a5b77cd8db54a2c224f61223499c0456d668264e",
+    "result": {
+      "main_content_en": "In a 2017 discussion, Congressman Seth Moulton, a former Marine Corps officer, emphasized the critical importance of NATO to U.S. national security, arguing that the alliance serves as a cornerstone of American defense strategy. He highlighted the need for strong U.S. leadership within NATO to address contemporary security challenges, including those emanating from Russia and the Middle East. Moulton stressed that American engagement must be backed by credible military capability and diplomatic resolve. The conversation, part of the 'Conversations in Diplomacy' series, explored the intersection of military experience with foreign policy decision-making. Moulton advocated for a foreign policy grounded in a clear understanding of national interests and the strategic value of alliances, warning against isolationist tendencies. He underscored the role of Congress in shaping a coherent and sustainable U.S. approach to international security and defense partnerships.",
+      "main_content_zh": "在2017年的一次讨论中，前海军陆战队军官、国会议员塞思·莫尔顿强调了北约对美国国家安全的关键重要性，认为该联盟是美国国防战略的基石。他强调美国需要在北约内部发挥强有力的领导作用，以应对来自俄罗斯和中东等地的当代安全挑战。莫尔顿指出，美国的参与必须得到可信的军事能力和外交决心的支持。这场作为“外交对话”系列一部分的讨论，探讨了军事经验与外交政策决策的交集。莫尔顿主张外交政策应基于对国家利益和联盟战略价值的清晰认识，并警告了孤立主义倾向。他强调了国会在塑造美国对国际安全与防务伙伴关系的一致且可持续的方针中所扮演的角色。",
+      "keywords_en": [
+        "NATO",
+        "U.S. National Security",
+        "Military Policy",
+        "International Security",
+        "Defense Strategy",
+        "U.S. Leadership",
+        "Alliances",
+        "Russia",
+        "Middle East",
+        "Diplomacy",
+        "Foreign Policy",
+        "Congress",
+        "Marine Corps",
+        "Isolationism",
+        "Strategic Interests",
+        "Security Challenges",
+        "Defense Partnerships",
+        "Credible Capability",
+        "Diplomatic Resolve"
+      ],
+      "keywords_zh": [
+        "北约",
+        "美国国家安全",
+        "军事政策",
+        "国际安全",
+        "国防战略",
+        "美国领导力",
+        "联盟",
+        "俄罗斯",
+        "中东",
+        "外交",
+        "外交政策",
+        "国会",
+        "海军陆战队",
+        "孤立主义",
+        "战略利益",
+        "安全挑战",
+        "防务伙伴关系",
+        "可信能力",
+        "外交决心"
+      ],
+      "topic_words_en": [
+        "NATO",
+        "U.S. Foreign Policy",
+        "International Security"
+      ],
+      "topic_words_zh": [
+        "北约",
+        "美国外交政策",
+        "国际安全"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

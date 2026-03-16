@@ -1,0 +1,103 @@
+{
+  "title": "Meghan O'Sullivan on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/meghan-osullivan-office-hours-podcast",
+  "summary": "Meghan O’Sullivan, Jeane Kirkpatrick Professor of the Practice of International Affairs at the Harvard Kennedy School and author of 'Windfall: How the New Energy Abundance Upends Global Politics and Strengthens America’s Power,' talks with Aroop Mukharji (@aroopmukharji) about fracking, America’s strategic petroleum reserve, energy abundance, and her early start in geopolitics.",
+  "published": "2017-09-01T12:00:00Z",
+  "authors": [
+    "Michael A Mehling"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Energy",
+    "Geopolitics of Energy Project",
+    "Middle East & North Africa",
+    "North America",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "topics": [
+    "Energy",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "tags": [
+    "Energy",
+    "Geopolitics of Energy Project",
+    "Middle East & North Africa",
+    "North America",
+    "Oil",
+    "Oil & Energy Prices"
+  ],
+  "body": "Meghan L. O’Sullivan is the Jeane Kirkpatrick Professor of the Practice of International Affairs and Director of the Geopolitics of Energy Project at Harvard University’s Kennedy School. Her expertise includes the geopolitics of energy, decision making in foreign policy, nation-building, counterinsurgency, and the Middle East. The latest from Belfer See more Meghan O'Sullivan on Office Hours Podcast Print Energy Geopolitics of Energy Project Middle East & North Africa North America Oil Oil & Energy Prices Up Next Photo Credit Toggle AP/Matthias Schrader, File Reports & Papers In the Vortex of Great Power Competition: Climate, Trade, and Geostrategic Rivalry in U.S.–China–EU Relations April 2025 by Michael A Mehling From Harvard Project on Climate Agreements Photo Credit Toggle AP News/Matthew Brown Reports & Papers Methane Abatement Costs in the Oil and Gas Industry: Survey and Synthesis Mar. 26, 2025 by Joseph Aldy, Forest Reinhardt and Robert N. Stavins Photo Credit Toggle Doug Gavel Q&A Trump 2.0 and its Impact on Climate Policy: A Conversation with Joseph Aldy Mar. 10, 2025 by Robert N Stavins and Joseph E. Aldy",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2017-09-01T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:54:29+00:00",
+    "prompt_hash": "fe75f418ac1734d8f78e9defa6296c2c2f19c7e5",
+    "result": {
+      "main_content_en": "The article features Meghan L. O'Sullivan, a professor at Harvard Kennedy School, discussing energy geopolitics on a podcast. Her expertise spans the geopolitics of energy, foreign policy decision-making, nation-building, counterinsurgency, and the Middle East. The context includes related reports on great power competition involving climate, trade, and U.S.-China-EU relations, as well as methane abatement costs in the oil and gas industry. The discussion touches on the impact of potential future U.S. political shifts on climate policy. The content connects energy markets, geopolitical strategy, and environmental policy, highlighting the intersection of resource economics, international relations, and climate change mitigation efforts within a framework of global rivalry and cooperation.",
+      "main_content_zh": "本文介绍了哈佛大学肯尼迪学院教授梅根·L·奥沙利文在一档播客节目中探讨能源地缘政治。她的专业领域涵盖能源地缘政治、外交政策决策、国家建设、反叛乱和中东问题。相关内容涉及大国竞争背景下的气候、贸易和美中欧关系报告，以及油气行业甲烷减排成本分析。讨论还涉及美国未来潜在政治变化对气候政策的影响。内容将能源市场、地缘政治战略和环境政策联系起来，突出了在全球竞争与合作框架下，资源经济学、国际关系和气候变化减缓工作的交叉点。",
+      "keywords_en": [
+        "geopolitics of energy",
+        "foreign policy",
+        "nation-building",
+        "counterinsurgency",
+        "Middle East",
+        "great power competition",
+        "climate policy",
+        "trade",
+        "U.S.-China relations",
+        "EU relations",
+        "methane abatement",
+        "oil and gas industry",
+        "energy markets",
+        "environmental policy",
+        "international relations",
+        "resource economics",
+        "climate change mitigation",
+        "geostrategic rivalry",
+        "energy prices",
+        "geopolitical strategy"
+      ],
+      "keywords_zh": [
+        "能源地缘政治",
+        "外交政策",
+        "国家建设",
+        "反叛乱",
+        "中东",
+        "大国竞争",
+        "气候政策",
+        "贸易",
+        "美中关系",
+        "欧盟关系",
+        "甲烷减排",
+        "油气行业",
+        "能源市场",
+        "环境政策",
+        "国际关系",
+        "资源经济学",
+        "气候变化减缓",
+        "地缘战略竞争",
+        "能源价格",
+        "地缘政治战略"
+      ],
+      "topic_words_en": [
+        "Energy Geopolitics",
+        "Climate Policy",
+        "Great Power Competition"
+      ],
+      "topic_words_zh": [
+        "能源地缘政治",
+        "气候政策",
+        "大国竞争"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

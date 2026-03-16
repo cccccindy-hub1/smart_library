@@ -1,0 +1,101 @@
+{
+  "title": "Matthew Bunn on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/matthew-bunn-office-hours",
+  "summary": "Matthew Bunn, Professor of Practice at Harvard Kennedy School and Co-Principal Investigator at the Belfer Center’s Project on Managing the Atom, sits down with Aroop Mukharji (@aroopmukharji) to talk about everything nuclear—from the nuclear football to the best way to prevent nuclear smuggling.",
+  "published": "2016-04-04T12:00:00Z",
+  "authors": [
+    "Matthew Bunn"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "North America",
+    "Nuclear Issues",
+    "Nuclear Security",
+    "Nuclear Terrorism"
+  ],
+  "topics": [
+    "Nuclear Issues",
+    "Nuclear Security",
+    "Nuclear Terrorism"
+  ],
+  "tags": [
+    "North America",
+    "Nuclear Issues",
+    "Nuclear Security",
+    "Nuclear Terrorism"
+  ],
+  "body": "Matthew Bunn, Professor of Practice at Harvard Kennedy School and Co-Principal Investigator at the Belfer Center’s Project on Managing the Atom, sits down with Aroop Mukharji (@aroopmukharji) to talk about everything nuclear—from the nuclear football to the best way to prevent nuclear smuggling. The latest from Belfer See more Gallery 1 of 6 Matthew Bunn: A.Q. Khan and the Fourth Customer 2 of 6 Matthew Bunn: Too Easy to Make a Nuke? 3 of 6 Matthew Bunn: The Best Way to Prevent Nuclear Smuggling 4 of 6 Matthew Bunn: What is a Dirty Bomb? 5 of 6 Matthew Bunn: Nuclear Weapons: Ageless 6 of 6 Matthew Bunn: The Nuclear Football Matthew Bunn is a Professor of Practice at Harvard University's John F. Kennedy School of Government. His research interests include nuclear theft and terrorism; nuclear proliferation and measures to control it; the future of nuclear energy and its fuel cycle; and policies to promote innovation in energy technologies. Before joining the Kennedy School in January 1997, he served for three years as an adviser to the Office of Science and Technology Policy, where he played a major role in U.S. policies related to the control and disposition of weapons-usable nuclear materials in the United States and the former Soviet Union, and directed a secret study for President Clinton on security for nuclear materials in Russia. Matthew Bunn on Office Hours Print Open Section Navigation In this article Close Section Navigation North America Nuclear Issues Nuclear Security Nuclear Terrorism Related Matthew Bunn Request Interview More From This Expert Post-New START: The Future of Nuclear Restraint Professor Matthew Bunn's thoughts on the 80th Anniversary of the Trinity Test Up Next Photo Credit Toggle Harvard Magazine Presentations Post-New START: The Future of Nuclear Restraint Feb. 9, 2026 by Matthew Bunn From Managing the Atom Photo Credit Toggle Advocate Creative Q&A Why Do Nuclear Policies Backfire? A Q&A with Stephen Herzog Dec. 16, 2025 Photo Credit Toggle Advocate Creative Atomic Backfires: When Nuclear Policies Fail Dec. 16, 2025",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2016-04-04T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:19:30+00:00",
+    "prompt_hash": "1697abaf27ed3fc18e5f999abcfaa8bd7aecc219",
+    "result": {
+      "main_content_en": "The article features an interview with Matthew Bunn, a Professor of Practice at Harvard Kennedy School and Co-Principal Investigator of the Belfer Center's Project on Managing the Atom. He discusses a wide range of nuclear issues, including the nuclear football, nuclear smuggling prevention, dirty bombs, the ageless nature of nuclear weapons, and the case of A.Q. Khan. Bunn's expertise covers nuclear theft and terrorism, nuclear proliferation controls, the future of nuclear energy, and policies for energy technology innovation. His background includes serving as an adviser to the U.S. Office of Science and Technology Policy, where he contributed significantly to policies on securing weapons-usable nuclear materials in the U.S. and the former Soviet Union and directed a classified study for President Clinton on nuclear material security in Russia.",
+      "main_content_zh": "本文是对哈佛大学肯尼迪政府学院实践教授、贝尔弗中心“管理原子”项目联合首席研究员马修·邦的访谈摘要。访谈涵盖了广泛的核议题，包括核足球、防止核走私的最佳方式、脏弹、核武器的持久性以及A.Q.汗案例。邦的研究兴趣涉及核盗窃与恐怖主义、核扩散及其控制措施、核能未来及其燃料循环，以及促进能源技术创新的政策。在1997年加入肯尼迪学院之前，他曾在美国白宫科技政策办公室担任顾问三年，在美国及前苏联武器级核材料的控制与处置相关政策制定中发挥了重要作用，并为克林顿总统主导了一项关于俄罗斯核材料安全的秘密研究。",
+      "keywords_en": [
+        "Matthew Bunn",
+        "Harvard Kennedy School",
+        "Belfer Center",
+        "Project on Managing the Atom",
+        "nuclear theft",
+        "nuclear terrorism",
+        "nuclear proliferation",
+        "nuclear smuggling",
+        "dirty bomb",
+        "nuclear football",
+        "weapons-usable nuclear materials",
+        "Office of Science and Technology Policy",
+        "former Soviet Union",
+        "A.Q. Khan",
+        "nuclear security",
+        "nuclear energy",
+        "fuel cycle",
+        "energy technology innovation",
+        "nuclear weapons"
+      ],
+      "keywords_zh": [
+        "马修·邦",
+        "哈佛肯尼迪学院",
+        "贝尔弗中心",
+        "管理原子项目",
+        "核盗窃",
+        "核恐怖主义",
+        "核扩散",
+        "核走私",
+        "脏弹",
+        "核足球",
+        "武器级核材料",
+        "科技政策办公室",
+        "前苏联",
+        "A.Q.汗",
+        "核安全",
+        "核能",
+        "燃料循环",
+        "能源技术创新",
+        "核武器"
+      ],
+      "topic_words_en": [
+        "Nuclear Security",
+        "Nuclear Terrorism",
+        "Nuclear Proliferation",
+        "Nuclear Policy",
+        "Weapons of Mass Destruction"
+      ],
+      "topic_words_zh": [
+        "核安全",
+        "核恐怖主义",
+        "核扩散",
+        "核政策",
+        "大规模杀伤性武器"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

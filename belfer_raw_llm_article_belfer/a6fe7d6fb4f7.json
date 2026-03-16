@@ -1,0 +1,73 @@
+{
+  "title": "Vaccination Guide: What to Expect",
+  "canonical_url": "https://www.belfercenter.org/publication/vaccination-guide-what-expect",
+  "summary": "As universal eligibility for covid19 vaccine expands across the nation and millions of Americans are getting ready to get a life-saving vaccine, we offer a guide on what to do before, during and after receiving a COVID-19 vaccine.",
+  "published": "2021-04-19T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "COVID-19 vaccination is a safe way to help the immune system build protection against COVID-19. Getting vaccinated significantly reduces the risk of severe disease, hospitalization and death. As universal eligibility for covid19 vaccine expands across the nation and millions of Americans are getting ready to get a life-saving vaccine, we offer a guide on what to do before, during and after receiving a COVID-19 vaccine. The more people who get vaccinated, the sooner we can end the pandemic. The latest from Belfer See more Recommended citation Madad, Syra and Billal Sikandar. “Vaccination Guide: What to Expect.” Belfer Center for Science and International Affairs, Harvard Kennedy School , April 19, 2021 Copy to Clipboard Vaccination Guide: What to Expect View Citation Print Recommended citation Madad, Syra and Billal Sikandar. “Vaccination Guide: What to Expect.” Belfer Center for Science and International Affairs, Harvard Kennedy School , April 19, 2021 Copy to Clipboard Author Syra Madad Request Interview More From This Expert AI, Health, and the Future of Scientific Cooperation H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Author Billal Sikandar",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-04-19T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:57:03+00:00",
+    "prompt_hash": "5508da1137dc8996d69f25a67664e1a39f863089",
+    "result": {
+      "main_content_en": "COVID-19 vaccination is a safe method to help the immune system build protection against the virus, significantly reducing the risk of severe disease, hospitalization, and death. As universal eligibility expands across the nation, millions of Americans are preparing to receive this life-saving vaccine. This guide provides information on what to do before, during, and after receiving a COVID-19 vaccine. The article emphasizes that widespread vaccination is crucial for ending the pandemic, highlighting the public health benefits and individual protection offered by immunization.",
+      "main_content_zh": "COVID-19疫苗接种是一种安全的方法，可帮助免疫系统建立对新冠病毒的防护，显著降低重症、住院和死亡的风险。随着全国范围内疫苗接种资格的普遍扩大，数百万美国人正准备接种这种救生疫苗。本指南提供了在接种COVID-19疫苗之前、期间和之后应采取的步骤和注意事项。文章强调，广泛的疫苗接种对于结束疫情至关重要，并阐述了免疫接种带来的公共卫生效益和个人保护作用。",
+      "keywords_en": [
+        "COVID-19 vaccination",
+        "immune system",
+        "protection",
+        "severe disease",
+        "hospitalization",
+        "death",
+        "universal eligibility",
+        "life-saving vaccine",
+        "pandemic",
+        "public health",
+        "immunization",
+        "vaccine guide",
+        "risk reduction",
+        "vaccination process",
+        "herd immunity"
+      ],
+      "keywords_zh": [
+        "COVID-19疫苗接种",
+        "免疫系统",
+        "防护",
+        "重症",
+        "住院",
+        "死亡",
+        "普遍资格",
+        "救生疫苗",
+        "疫情",
+        "公共卫生",
+        "免疫接种",
+        "疫苗指南",
+        "风险降低",
+        "接种流程",
+        "群体免疫"
+      ],
+      "topic_words_en": [
+        "Vaccination",
+        "Public Health",
+        "COVID-19"
+      ],
+      "topic_words_zh": [
+        "疫苗接种",
+        "公共卫生",
+        "COVID-19"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

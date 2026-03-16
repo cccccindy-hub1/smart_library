@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Global Smart Library</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <h1>Global Smart Library</h1>
+        <p class="sub">Belfer 文章数据浏览器</p>
+      </div>
+      <div class="header-links">
+        <a class="source-link" href="./index.html">数据浏览</a>
+        <a class="source-link" href="./crawl.html">爬取任务</a>
+        <a class="source-link" href="../belfer_llm_article_belfer_mother_table.csv" target="_blank" rel="noopener noreferrer">
+          查看原始 CSV
+        </a>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section class="panel controls">
+        <div class="field">
+          <label for="searchInput">关键词搜索</label>
+          <input id="searchInput" type="text" placeholder="标题 / 主要内容 / 关键词 / 作者" />
+        </div>
+
+        <div class="row">
+          <div class="field">
+            <label for="typeFilter">类型</label>
+            <select id="typeFilter">
+              <option value="">全部</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="topicFilter">Topic</label>
+            <select id="topicFilter">
+              <option value="">全部</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="sourceFilter">来源</label>
+            <select id="sourceFilter">
+              <option value="">全部</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="field">
+            <label for="pageSize">每页数量</label>
+            <select id="pageSize">
+              <option value="10">10</option>
+              <option value="20" selected>20</option>
+              <option value="50">50</option>
+            </select>
+          </div>
+          <button id="resetBtn" class="btn">重置筛选</button>
+        </div>
+
+        <div class="stats" id="stats">加载中...</div>
+      </section>
+
+      <section class="panel list">
+        <div id="tableContainer" class="table-wrap"></div>
+        <div class="pager">
+          <button id="prevBtn" class="btn">上一页</button>
+          <span id="pageInfo"></span>
+          <button id="nextBtn" class="btn">下一页</button>
+        </div>
+      </section>
+    </main>
+
+    <aside id="detailDrawer" class="drawer hidden">
+      <div class="drawer-content">
+        <div class="drawer-head">
+          <h2 id="detailTitle">详情</h2>
+          <button id="closeDrawer" class="btn ghost">关闭</button>
+        </div>
+        <div id="detailBody" class="detail-body"></div>
+      </div>
+    </aside>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,124 @@
+{
+  "title": "Conversations in Diplomacy: David Miliband on the Global Refugee Crisis",
+  "canonical_url": "https://www.belfercenter.org/publication/conversations-diplomacy-david-miliband-global-refugee-crisis",
+  "summary": "David Miliband, President and CEO of the International Rescue Committee, discusses the drivers behind the displacement of over 65 million people and the changes that must be made to existing political and humanitarian systems in order to address the crisis on a global scale.",
+  "published": "2017-04-13T12:00:00Z",
+  "authors": [
+    "Andrew R. Lorenzen-Strait"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Asia & the Pacific",
+    "Conflict & Conflict Resolution",
+    "Diplomacy and International Politics",
+    "Future of Diplomacy Project",
+    "Governance",
+    "Immigration",
+    "International Cooperation",
+    "Intrastate Conflict",
+    "Middle East & North Africa",
+    "North America",
+    "South America",
+    "South Asia",
+    "Treaties and International Agreements",
+    "United Nations",
+    "Weak/Failed states"
+  ],
+  "topics": [
+    "Conflict & Conflict Resolution",
+    "Governance",
+    "Immigration",
+    "International Cooperation",
+    "Intrastate Conflict",
+    "Treaties and International Agreements",
+    "United Nations",
+    "Weak/Failed states"
+  ],
+  "tags": [
+    "Asia & the Pacific",
+    "Conflict & Conflict Resolution",
+    "Diplomacy and International Politics",
+    "Future of Diplomacy Project",
+    "Governance",
+    "Immigration",
+    "International Cooperation",
+    "Intrastate Conflict",
+    "Middle East & North Africa",
+    "North America",
+    "South America",
+    "South Asia",
+    "Treaties and International Agreements",
+    "United Nations",
+    "Weak/Failed states"
+  ],
+  "body": "Conversations in Diplomacy: David Miliband on the Global Refugee Crisis Print Asia & the Pacific Conflict & Conflict Resolution Diplomacy and International Politics Future of Diplomacy Project Governance Immigration International Cooperation Intrastate Conflict Middle East & North Africa North America South America South Asia Treaties and International Agreements United Nations Weak/Failed states Related Nicholas Burns More From This Expert NATO is Vital to U.S. National Security Nicholas Burns on His Time as U.S. Ambassador to China and on Efforts to Address Climate Change Up Next Photo Credit Toggle AP Photo/Dario Lopez-Mills Reports & Papers Improving Migrant Child Welfare at the Southwest Border February 2023 by Andrew R. Lorenzen-Strait From Homeland Security Project Photo Credit Toggle AP Photo Article Kennedy School Postdoc Discusses Government-Sanctioned Mass Expulsion at Belfer Center Seminar Nov. 4, 2022 by Cam E Kettles, Jasmine Palma and Rysa Tahilramani Photo Credit Toggle AP/Czarek Sokolowski Article When Migrants Become Weapons: The Long History and Worrying Future of a Coercive Tactic March/April 2022 by Kelly Greenhill",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Future of Diplomacy Project, Belfer Center",
+    "date": "2017-04-13T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T08:06:20+00:00",
+    "prompt_hash": "0c6d8fc3295e33b13922d9677a0106835f1617a2",
+    "result": {
+      "main_content_en": "The article presents a conversation with David Miliband, focusing on the global refugee crisis. It discusses the scale of displacement, driven primarily by intrastate conflicts and weak governance, which has led to the highest number of refugees since World War II. The piece critiques the inadequacy of the current international response, highlighting the failure of existing treaties and international cooperation frameworks to provide sufficient protection and durable solutions. It emphasizes the need for reformed governance and more robust international cooperation to address the crisis effectively. The discussion underscores the political and humanitarian dimensions of the issue, arguing for a shift in diplomatic approaches and policy to manage displacement and support host countries, particularly in regions like the Middle East, South Asia, and the Pacific.",
+      "main_content_zh": "本文记录了与大卫·米利班德就全球难民危机进行的对话。文章探讨了主要由国内冲突和国家治理薄弱所驱动的大规模流离失所问题，其规模已达二战以来的最高水平。文章批判了当前国际应对措施的不足，指出现有条约与国际合作框架未能提供足够的保护和持久解决方案。它强调需要通过改革治理体系和加强国际合作来有效应对危机。讨论突出了该问题的政治和人道主义层面，主张转变外交方式和政策，以管理流离失所现象并支持收容国，特别是在中东、南亚和太平洋等地区。",
+      "keywords_en": [
+        "global refugee crisis",
+        "displacement",
+        "intrastate conflict",
+        "weak governance",
+        "international response",
+        "treaties",
+        "international cooperation",
+        "protection",
+        "durable solutions",
+        "diplomacy",
+        "humanitarian",
+        "host countries",
+        "Middle East",
+        "South Asia",
+        "Pacific",
+        "policy reform",
+        "United Nations",
+        "failed states",
+        "migration management"
+      ],
+      "keywords_zh": [
+        "全球难民危机",
+        "流离失所",
+        "国内冲突",
+        "治理薄弱",
+        "国际应对",
+        "条约",
+        "国际合作",
+        "保护",
+        "持久解决方案",
+        "外交",
+        "人道主义",
+        "收容国",
+        "中东",
+        "南亚",
+        "太平洋",
+        "政策改革",
+        "联合国",
+        "失败国家",
+        "移民管理"
+      ],
+      "topic_words_en": [
+        "Refugee Crisis",
+        "International Cooperation",
+        "Conflict & Governance"
+      ],
+      "topic_words_zh": [
+        "难民危机",
+        "国际合作",
+        "冲突与治理"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

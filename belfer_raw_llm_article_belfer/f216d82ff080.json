@@ -1,0 +1,83 @@
+{
+  "title": "A Potential Mass Migration Crisis?",
+  "canonical_url": "https://www.belfercenter.org/publication/potential-mass-migration-crisis",
+  "summary": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day.",
+  "published": "2021-02-25T12:00:00Z",
+  "authors": [],
+  "author_profile_urls": [],
+  "keywords": [],
+  "topics": [],
+  "tags": [],
+  "body": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day. A Potential Mass Migration Crisis? Print Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert Schools Back to Normal in Fall 2021? The Importance of Speed in Vaccine Distribution Related Tara Tyrrell More From This Expert Schools Back to Normal in Fall 2021? COVID and the Coup",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-02-25T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T06:59:37+00:00",
+    "prompt_hash": "aa8b3084eb0f3b624c2928fd6a9d86ac07f26976",
+    "result": {
+      "main_content_en": "The article presents a discussion between security expert Juliette Kayyem and public health expert Dr. Margaret Bourdeaux, addressing the intersection of security, public health, and current events, framed around the question of a potential mass migration crisis. It references their expertise in managing large-scale security events and supply chains in a new era of global trade, highlighting the importance of speed in vaccine distribution. The context suggests an examination of how pandemic-related disruptions, coupled with political instability (referenced by 'COVID and the Coup'), could create conditions that exacerbate migration pressures. The discussion likely explores the multifaceted policy challenges at the nexus of health security, economic stability, and humanitarian response, emphasizing strategic planning for complex crises.",
+      "main_content_zh": "本文呈现了安全专家朱丽叶·凯耶姆和公共卫生专家玛格丽特·布尔多博士之间的讨论，围绕潜在的大规模移民危机问题，探讨了安全、公共卫生和当前事件的交叉点。文章引用了他们在管理大型安全活动以及新时代全球贸易中供应链方面的专业知识，并强调了疫苗分发速度的重要性。背景表明，文章审视了与大流行相关的干扰，加上政治不稳定（提及“COVID和政变”），如何可能创造加剧移民压力的条件。讨论可能探讨了健康安全、经济稳定和人道主义应对交汇处的多层面政策挑战，强调了对复杂危机进行战略规划的必要性。",
+      "keywords_en": [
+        "mass migration",
+        "security",
+        "public health",
+        "crisis management",
+        "vaccine distribution",
+        "supply chains",
+        "global trade",
+        "megaevent safety",
+        "pandemic",
+        "political instability",
+        "humanitarian response",
+        "policy challenges",
+        "strategic planning",
+        "health security",
+        "economic stability",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "COVID-19",
+        "coup",
+        "federated learning"
+      ],
+      "keywords_zh": [
+        "大规模移民",
+        "安全",
+        "公共卫生",
+        "危机管理",
+        "疫苗分发",
+        "供应链",
+        "全球贸易",
+        "大型活动安全",
+        "大流行病",
+        "政治不稳定",
+        "人道主义应对",
+        "政策挑战",
+        "战略规划",
+        "健康安全",
+        "经济稳定",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多",
+        "COVID-19",
+        "政变",
+        "联邦学习"
+      ],
+      "topic_words_en": [
+        "Migration Crisis",
+        "Security & Health",
+        "Crisis Policy"
+      ],
+      "topic_words_zh": [
+        "移民危机",
+        "安全与健康",
+        "危机政策"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

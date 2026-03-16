@@ -1,0 +1,101 @@
+{
+  "title": "Laura Manley on COVID-19 Digital Resources",
+  "canonical_url": "https://www.belfercenter.org/publication/laura-manley-covid-19-digital-resources",
+  "summary": "Laura Manley on COVID-19 Digital Resources",
+  "published": "2020-04-09T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Technology and Public Purpose"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Public Health",
+    "Technology and Public Purpose"
+  ],
+  "body": "Anyone can lend their expertise to help during this crisis, says @Laura_Manley1 . The Technology and Public Purpose Project put together a list of places to start. #COVID19 #coronavirus @TAPP_Project https://t.co/5K3FiaD7Xm pic.twitter.com/3Y8uwyEVVM — Belfer Center (@BelferCenter) April 9, 2020 Laura Manley on COVID-19 Digital Resources Print Coronavirus Global Health Public Health Technology and Public Purpose Related Laura Manley Request Interview More From This Expert Building a 21st Century Congress: A Playbook for Modern Technology Assessment Building a 21st Century Congress: Improving STEM Policy Advice in the Emerging Technology Era Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-04-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:19:22+00:00",
+    "prompt_hash": "3f554b59f65f66c8d6b69b7ecbf1f5628ab7968c",
+    "result": {
+      "main_content_en": "The article highlights Laura Manley's call for public contribution of expertise during the COVID-19 crisis, facilitated by the Technology and Public Purpose Project's compilation of digital resources. It references a Belfer Center tweet promoting these resources. The body text then shifts to describing other related content from the think-tank, including blog posts and articles on topics such as H3N2 'Subclade K', the risks of defunding mRNA vaccine research, and global governance structures. These pieces are authored by Syra Madad and Irati Egorho Diez, covering emerging technology, scientific advancement, and global policy issues. The content frames the COVID-19 response within a broader context of technology assessment, STEM policy advice, and public purpose.",
+      "main_content_zh": "本文强调了劳拉·曼利在COVID-19危机期间呼吁公众贡献专业知识的倡议，该倡议由技术与公共目的项目整理的数字资源提供支持。文章引用了贝尔弗中心推广这些资源的推文。正文随后转向描述该智库的其他相关内容，包括关于H3N2 'Subclade K'、削减mRNA疫苗研究资金的灾难性风险以及全球治理结构等主题的博客文章和专题报道。这些文章由Syra Madad和Irati Egorho Diez撰写，涵盖新兴技术、科学进步和全球政策议题。内容将COVID-19应对置于技术评估、STEM政策建议和公共目的的更广泛背景中进行讨论。",
+      "keywords_en": [
+        "COVID-19",
+        "coronavirus",
+        "digital resources",
+        "Technology and Public Purpose Project",
+        "public expertise",
+        "Belfer Center",
+        "emerging technology",
+        "global policy",
+        "mRNA vaccine research",
+        "H3N2 Subclade K",
+        "global governance",
+        "STEM policy",
+        "technology assessment",
+        "scientific advancement",
+        "public health",
+        "crisis response",
+        "policy advice",
+        "Laura Manley",
+        "Syra Madad"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "冠状病毒",
+        "数字资源",
+        "技术与公共目的项目",
+        "公众专业知识",
+        "贝尔弗中心",
+        "新兴技术",
+        "全球政策",
+        "mRNA疫苗研究",
+        "H3N2亚型K",
+        "全球治理",
+        "STEM政策",
+        "技术评估",
+        "科学进步",
+        "公共卫生",
+        "危机应对",
+        "政策建议",
+        "劳拉·曼利",
+        "Syra Madad"
+      ],
+      "topic_words_en": [
+        "COVID-19 Response",
+        "Technology Policy",
+        "Public Health",
+        "Science Governance",
+        "Emerging Technology"
+      ],
+      "topic_words_zh": [
+        "COVID-19应对",
+        "技术政策",
+        "公共卫生",
+        "科学治理",
+        "新兴技术"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}

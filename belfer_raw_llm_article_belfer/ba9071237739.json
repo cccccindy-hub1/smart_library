@@ -1,0 +1,89 @@
+{
+  "title": "Halla Hrund Logadóttir on Office Hours Podcast",
+  "canonical_url": "https://www.belfercenter.org/publication/halla-hrund-logadottir-office-hours-podcast",
+  "summary": "Halla Hrund Logadóttir, former director of the Iceland School of Energy at Reykjavík University and co-founder of the Belfer Center’s Arctic Initiative, speaks with Aroop Mukharji about the future of the Arctic region, sustainability in Iceland, and how Icelanders get their names.",
+  "published": "2018-07-02T12:00:00Z",
+  "authors": [
+    "David Balton"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Arctic",
+    "Arctic Initiative",
+    "Environment & Climate Change"
+  ],
+  "topics": [
+    "Environment & Climate Change"
+  ],
+  "tags": [
+    "Arctic",
+    "Arctic Initiative",
+    "Environment & Climate Change"
+  ],
+  "body": "Halla Hrund Logadóttir on Office Hours Podcast Print Arctic Arctic Initiative Environment & Climate Change Related Halla Hrund Logadóttir Request Interview More From This Expert Takeaways from COP26 in Glasgow Reinventing Climate Change Education Up Next Photo Credit Toggle Peter Prokosc/Grid-ARENDAL via Flickr Reports & Papers Arctic Ocean Governance: Workshop Report and Recommendations for Policymakers Feb. 17, 2026 by David Balton From Arctic Initiative Photo Credit Toggle -tacitos-, CC BY 4.0, via Wikimedia Commons Article Geopolitics of Rare Earth Elements in the Arctic Jan. 29, 2026 by Alexandra Middleton Presentations Governing Solar Radiation Management in a Rapidly Changing Arctic Jan. 27, 2026 by Jennifer Spence",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-07-02T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:42:49+00:00",
+    "prompt_hash": "203b37b384250e875051196e0a501a9545f93025",
+    "result": {
+      "main_content_en": "The article is a metadata listing for a podcast episode featuring Halla Hrund Logadóttir, published by the Arctic Initiative. It provides contextual links to related content on Arctic governance, including a workshop report on Arctic Ocean governance, an article on the geopolitics of rare earth elements in the Arctic, and a presentation on governing solar radiation management. The core focus is on policy and research outputs from the initiative concerning environmental and geopolitical challenges in the Arctic region, framed within the broader topics of Environment & Climate Change.",
+      "main_content_zh": "本文是北极倡议（Arctic Initiative）发布的播客节目元数据列表，该节目特邀嘉宾为Halla Hrund Logadóttir。页面提供了相关内容的链接，包括一份关于北极海洋治理的研讨会报告、一篇关于北极稀土元素地缘政治的文章，以及一场关于管理太阳辐射以应对北极快速变化的演讲。核心内容聚焦于该倡议在北极环境与地缘政治挑战方面的政策研究成果，主题归属于环境与气候变化范畴。",
+      "keywords_en": [
+        "Arctic",
+        "Arctic Initiative",
+        "Environment & Climate Change",
+        "Governance",
+        "Podcast",
+        "Halla Hrund Logadóttir",
+        "Workshop Report",
+        "Geopolitics",
+        "Rare Earth Elements",
+        "Solar Radiation Management",
+        "Policy",
+        "Research",
+        "Ocean Governance",
+        "Climate Policy",
+        "Arctic Ocean",
+        "Stakeholders",
+        "Recommendations"
+      ],
+      "keywords_zh": [
+        "北极",
+        "北极倡议",
+        "环境与气候变化",
+        "治理",
+        "播客",
+        "Halla Hrund Logadóttir",
+        "研讨会报告",
+        "地缘政治",
+        "稀土元素",
+        "太阳辐射管理",
+        "政策",
+        "研究",
+        "海洋治理",
+        "气候政策",
+        "北冰洋",
+        "利益相关方",
+        "政策建议"
+      ],
+      "topic_words_en": [
+        "Arctic Governance",
+        "Climate Change",
+        "Geopolitics"
+      ],
+      "topic_words_zh": [
+        "北极治理",
+        "气候变化",
+        "地缘政治"
+      ],
+      "relevance_score": 0.4
+    }
+  }
+}

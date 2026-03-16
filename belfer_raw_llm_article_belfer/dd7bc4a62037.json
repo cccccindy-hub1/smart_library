@@ -1,0 +1,98 @@
+{
+  "title": "COVID and the Coup",
+  "canonical_url": "https://www.belfercenter.org/publication/covid-and-coup",
+  "summary": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day.",
+  "published": "2021-01-14T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Homeland security",
+    "Public Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Homeland security",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Homeland security",
+    "Public Health"
+  ],
+  "body": "Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux answer questions about security, public health, and the topics of the day. COVID and the Coup Print Coronavirus Global Health Homeland security Public Health Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2021-01-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:01:33+00:00",
+    "prompt_hash": "746be450610497b784c016a095a56396e81c2acf",
+    "result": {
+      "main_content_en": "The article presents a discussion format where security expert Juliette Kayyem and public health physician Dr. Margaret Bourdeaux address questions on security, public health, and current events, framed under the title 'COVID and the Coup'. While the provided body text lacks the detailed content of their discussion, it situates their dialogue within the broader context of the COVID-19 pandemic and its intersection with national security and governance challenges. The piece is part of a series featuring expert analyses on pressing global issues, linking to related content on topics such as mass migration, school reopenings, and technological applications in security and trade. The publication emphasizes the interconnectedness of public health crises, political stability, and security policy.",
+      "main_content_zh": "本文采用对话形式，由安全专家朱丽叶·凯耶姆和公共卫生医师玛格丽特·布尔多博士就安全、公共卫生和时事问题回答问题，主题为“COVID与政变”。虽然提供的正文文本未包含讨论的具体细节，但将他们的对话置于新冠疫情及其与国家安全和治理挑战相交织的更广泛背景中。这篇文章是系列专家分析的一部分，探讨紧迫的全球性问题，并链接到有关大规模移民、学校重新开放以及技术在安全和贸易中应用等相关内容。该出版物强调了公共卫生危机、政治稳定和安全政策之间的相互关联性。",
+      "keywords_en": [
+        "COVID-19",
+        "Coup",
+        "Public Health",
+        "Homeland Security",
+        "Global Health",
+        "Security Policy",
+        "Expert Analysis",
+        "Governance",
+        "Political Stability",
+        "Mass Migration",
+        "School Reopening",
+        "Emerging Technology",
+        "Supply Chains",
+        "Federated Learning",
+        "Megaevent Safety",
+        "Global Trade",
+        "Vaccine Research",
+        "H3N2",
+        "Global Governance"
+      ],
+      "keywords_zh": [
+        "COVID-19",
+        "政变",
+        "公共卫生",
+        "国土安全",
+        "全球卫生",
+        "安全政策",
+        "专家分析",
+        "治理",
+        "政治稳定",
+        "大规模移民",
+        "学校复课",
+        "新兴技术",
+        "供应链",
+        "联邦学习",
+        "大型活动安全",
+        "全球贸易",
+        "疫苗研究",
+        "H3N2病毒",
+        "全球治理"
+      ],
+      "topic_words_en": [
+        "Public Health Security",
+        "Political Crisis",
+        "Expert Dialogue"
+      ],
+      "topic_words_zh": [
+        "公共卫生安全",
+        "政治危机",
+        "专家对话"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

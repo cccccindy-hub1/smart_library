@@ -1,0 +1,89 @@
+{
+  "title": "Erica Chenoweth on the Effectiveness of Activism in the Time of COVID-19",
+  "canonical_url": "https://www.belfercenter.org/publication/erica-chenoweth-effectiveness-activism-time-covid-19",
+  "summary": "Coronavirus hasn't slowed down activism, says Erica Chenoweth. Protest movements are innovating quickly and staying effective.",
+  "published": "2020-05-14T12:00:00Z",
+  "authors": [
+    "Julia Kempton"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Global Health",
+    "Human Rights"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Global Health",
+    "Human Rights"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Global Health",
+    "Human Rights"
+  ],
+  "body": "#Coronavirus hasn't slowed down #activism , says @EricaChenoweth . #Protest movements are innovating quickly and staying effective. Article in @guardian : https://t.co/94VnMxfwCT Discussion paper: https://t.co/UCoVSUCUrV pic.twitter.com/2NkwANGBLl — Belfer Center (@BelferCenter) May 14, 2020 Erica Chenoweth on the Effectiveness of Activism in the Time of COVID-19 Print Coronavirus Global Health Human Rights Related Erica Chenoweth Request Interview More From This Expert Guest Editors' Introduction: Nonviolent Resistance and Its Discontents Chenoweth, Marks Named Faculty Deans of Pforzheimer House Up Next Event Summary The Struggle for Democracy in the Arab World Dec. 19, 2025 by Julia Kempton From Middle East Initiative Article Global Players: The Role of International Humanitarian Organizations in Africa Apr. 9, 2024 by Alejandro Martín Rodríguez Photo Credit Toggle AP Photo/Mohammed Hajjar Reports & Papers Overcoming Barriers to Resolving Gaza and Beyond Jan. 23, 2024 by James Sebenius",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-05-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:14:43+00:00",
+    "prompt_hash": "ece9a56d23613db3467dd069c02abf5af7dff75e",
+    "result": {
+      "main_content_en": "The article, referencing Erica Chenoweth's work, argues that the COVID-19 pandemic has not diminished the power of activism. Instead, protest movements are rapidly innovating and adapting their tactics to remain effective under new constraints. The discussion highlights that nonviolent resistance continues to be a potent force for political change, even during a global health crisis that limits physical gatherings. Movements are finding creative ways to organize and demonstrate, ensuring that demands for rights and reform persist. The core assertion is that the principles of strategic nonviolent action remain relevant, with adaptability being key to maintaining pressure and achieving objectives in the altered landscape of the pandemic.",
+      "main_content_zh": "本文引用了埃丽卡·切诺韦斯的研究指出，COVID-19大流行并未削弱社会运动的力量。相反，抗议运动正在快速创新和调整策略，以在新的限制条件下保持效力。讨论强调，即使在限制实体聚集的全球健康危机期间，非暴力抵抗仍然是推动政治变革的强大力量。各运动正在寻找创造性的方式来组织和示威，确保对权利和改革的要求得以持续。核心论点是，战略性非暴力行动的原则依然适用，而在疫情改变的社会环境中，适应性是维持施压和实现目标的关键。",
+      "keywords_en": [
+        "activism",
+        "nonviolent resistance",
+        "protest movements",
+        "COVID-19",
+        "pandemic",
+        "political change",
+        "tactical innovation",
+        "social movements",
+        "strategic adaptation",
+        "global health crisis",
+        "effectiveness",
+        "constraints",
+        "organizing",
+        "demonstrations",
+        "rights",
+        "reform"
+      ],
+      "keywords_zh": [
+        "社会运动",
+        "非暴力抵抗",
+        "抗议运动",
+        "COVID-19",
+        "大流行",
+        "政治变革",
+        "策略创新",
+        "社会运动",
+        "战略适应",
+        "全球健康危机",
+        "有效性",
+        "限制条件",
+        "组织",
+        "示威",
+        "权利",
+        "改革"
+      ],
+      "topic_words_en": [
+        "Activism",
+        "Nonviolent Resistance",
+        "COVID-19 Impact"
+      ],
+      "topic_words_zh": [
+        "社会运动",
+        "非暴力抵抗",
+        "COVID-19影响"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

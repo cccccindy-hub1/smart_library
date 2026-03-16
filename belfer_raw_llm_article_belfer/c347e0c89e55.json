@@ -1,0 +1,94 @@
+{
+  "title": "Questions from Quarantine: The End of Summer and the Fall Ahead",
+  "canonical_url": "https://www.belfercenter.org/publication/questions-quarantine-end-summer-and-fall-ahead",
+  "summary": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine.",
+  "published": "2020-09-14T12:00:00Z",
+  "authors": [
+    "Syra Madad"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "topics": [
+    "Coronavirus",
+    "Public Health"
+  ],
+  "tags": [
+    "Coronavirus",
+    "Public Health",
+    "Security and Global Health"
+  ],
+  "body": "The Security and Global Health Project is proud to present a weekly web series with Security Mom Juliette Kayyem and Medicine Mom Dr. Margaret Bourdeaux. Each week, our experts will answer your questions from quarantine and give you advice on staying sane and sanitary in a global crisis. We hope you'll join our Moms every Tuesday, and if you have a question that you want answered, tweet with #QuestionsFromQuarantine . Questions from Quarantine: The End of Summer and the Fall Ahead Print Coronavirus Public Health Security and Global Health Related Juliette Kayyem Request Interview More From This Expert Securing the World’s Biggest Moments: Major Strategies in Megaevent Safety Planning Managing Supply And Value Chains In A New Era Of Global Trade: The Promise Of Federated Learning Related Margaret Bourdeaux More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Related Tara Tyrrell More From This Expert A Potential Mass Migration Crisis? Schools Back to Normal in Fall 2021? Up Next Photo Credit Toggle Associated Press - Daniel Kozin Blog Post H3N2 “Subclade K” Is Spreading. Here’s What It Means for Severity, Vaccines, and Treatment Dec. 23, 2025 by Syra Madad From Emerging Technology, Scientific Advancement, and Global Policy Photo Credit Toggle ASSOCIATED PRESS/Mark J. Terrill Article Why Defunding mRNA Vaccine Research Is a Catastrophic Mistake Aug. 8, 2025 by Syra Madad Photo Credit Toggle Belfer Center Photographer Benn Craig Event Summary Imagining A Realizable Global Governance Structure Feb. 11, 2025 by Irati Egorho Diez",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2020-09-14T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:05:52+00:00",
+    "prompt_hash": "0a07b89b2cbf7aa35cc4fc68ec1e4ec7638b6848",
+    "result": {
+      "main_content_en": "The Security and Global Health Project hosts a weekly web series featuring experts Juliette Kayyem and Dr. Margaret Bourdeaux, who address public questions submitted with the hashtag #QuestionsFromQuarantine. The series, which airs every Tuesday, aims to provide guidance on maintaining mental and physical well-being during the ongoing global health crisis. The article promotes viewer engagement by encouraging the submission of questions and highlights related expert content on topics such as mega-event safety planning and global supply chains. It also previews upcoming content from the author on subjects including H3N2 influenza variants and the importance of sustained mRNA vaccine research funding.",
+      "main_content_zh": "安全与全球健康项目每周推出一档网络系列节目，由专家朱丽叶·凯耶姆和玛格丽特·布尔多博士主持，回答公众通过#QuestionsFromQuarantine标签提交的疑问。该系列节目于每周二播出，旨在为全球健康危机期间如何保持身心健康提供建议。文章鼓励观众提交问题以促进互动，并推介了相关专家的其他内容，涉及大型活动安全规划、全球供应链等主题。同时，文章还预告了作者即将发布的后续内容，包括关于H3N2流感亚型变体的传播意义以及持续资助mRNA疫苗研究的重要性等议题。",
+      "keywords_en": [
+        "Security and Global Health Project",
+        "web series",
+        "Juliette Kayyem",
+        "Margaret Bourdeaux",
+        "quarantine",
+        "public health",
+        "global crisis",
+        "mental well-being",
+        "physical well-being",
+        "#QuestionsFromQuarantine",
+        "expert advice",
+        "H3N2",
+        "influenza variant",
+        "mRNA vaccine",
+        "research funding",
+        "global supply chains",
+        "mega-event safety",
+        "public engagement",
+        "health policy"
+      ],
+      "keywords_zh": [
+        "安全与全球健康项目",
+        "网络系列节目",
+        "朱丽叶·凯耶姆",
+        "玛格丽特·布尔多博士",
+        "隔离",
+        "公共卫生",
+        "全球危机",
+        "心理健康",
+        "身体健康",
+        "#QuestionsFromQuarantine",
+        "专家建议",
+        "H3N2流感",
+        "流感变体",
+        "mRNA疫苗",
+        "研究经费",
+        "全球供应链",
+        "大型活动安全",
+        "公众参与",
+        "卫生政策"
+      ],
+      "topic_words_en": [
+        "Public Health",
+        "Global Health Security",
+        "Health Communication"
+      ],
+      "topic_words_zh": [
+        "公共卫生",
+        "全球健康安全",
+        "健康传播"
+      ],
+      "relevance_score": 0.2
+    }
+  }
+}

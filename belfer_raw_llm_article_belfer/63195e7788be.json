@@ -1,0 +1,91 @@
+{
+  "title": "Ash Carter on Office Hours",
+  "canonical_url": "https://www.belfercenter.org/publication/ash-carter-office-hours",
+  "summary": "Ash Carter, the 25th Secretary of Defense and the Director of the Belfer Center, talks with Aroop Mukharji (@aroopmukharji) about how he connected the technology industry with the Defense Department through DIUx, the tensions between the President and his cabinet, and what lessons we can learn from medieval history.",
+  "published": "2018-01-03T12:00:00Z",
+  "authors": [
+    "Madeline Sawyer"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "International Security & Defense"
+  ],
+  "topics": [
+    "International Security & Defense"
+  ],
+  "tags": [
+    "International Security & Defense"
+  ],
+  "body": "Gallery 1 of 4 Ash Carter: Connecting Tech and Defense with DIUx 2 of 4 Ash Carter: Pros and Cons of the Presidential Appointee System 3 of 4 Ash Carter: Cabinet vs. President 4 of 4 Ash Carter: What Can We Learn from Medieval History? Ash Carter on Office Hours Print International Security & Defense Related Ash Carter More From This Expert Ash Carter’s Lessons from ISIS for Israel’s Campaign Against Hamas The Legacy of Ash Carter Up Next Photo Credit Toggle Associated Press - Virginia Mayo Explainer NATO’s Article 5 Explained: How Collective Defense Works and When It’s Triggered Feb. 24, 2026 by Madeline Sawyer From Defense, Emerging Technology, and Strategy Photo Credit Toggle MSC/Axel Heimken Event Summary Mushrooming: Tackling Growing Nuclear Proliferation Risk Feb. 14, 2026 Photo Credit Toggle MSC Event Summary Rupture: (Re)thinking Middle Powers in a Fragmented World Feb. 14, 2026",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Belfer Center for Science and International Affairs, Harvard Kennedy School",
+    "date": "2018-01-03T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "deepseek/deepseek-v3.2",
+    "time": "2026-02-27T07:47:57+00:00",
+    "prompt_hash": "6c10036198a55761d7fbf9a9a0d7fbc93803fa3d",
+    "result": {
+      "main_content_en": "The article discusses former US Secretary of Defense Ash Carter's perspectives on connecting technology and national defense through initiatives like the Defense Innovation Unit (DIUx). It examines the pros and cons of the presidential appointee system and the dynamics between Cabinet members and the President. The piece references Carter's analysis of lessons from medieval history and contemporary conflicts, such as applying insights from the fight against ISIS to Israel's campaign against Hamas. It situates these discussions within broader themes of international security, defense policy, and the role of emerging technology. The content is framed by related topics including NATO's Article 5 on collective defense, nuclear proliferation risks, and the evolving role of middle powers in a fragmented global landscape.",
+      "main_content_zh": "本文探讨了美国前国防部长阿什·卡特通过国防创新单元（DIUx）等倡议连接技术与国防的观点。文章分析了总统任命制度的利弊，以及内阁成员与总统之间的互动关系。内容引用了卡特对中世纪历史教训的剖析，以及如何将从打击ISIS中获得的见解应用于以色列针对哈马斯的行动。这些讨论被置于国际安全、国防政策和新兴技术作用等更广泛的主题背景下。相关内容还包括北约关于集体防御的第五条、核扩散风险，以及中等力量在碎片化全球格局中不断演变的角色。",
+      "keywords_en": [
+        "Ash Carter",
+        "Defense Innovation Unit",
+        "DIUx",
+        "presidential appointee system",
+        "Cabinet dynamics",
+        "medieval history",
+        "ISIS",
+        "Israel",
+        "Hamas",
+        "collective defense",
+        "NATO Article 5",
+        "nuclear proliferation",
+        "middle powers",
+        "emerging technology",
+        "defense policy",
+        "international security",
+        "technology integration",
+        "national defense",
+        "strategic lessons",
+        "fragmented world"
+      ],
+      "keywords_zh": [
+        "阿什·卡特",
+        "国防创新单元",
+        "DIUx",
+        "总统任命制度",
+        "内阁动态",
+        "中世纪历史",
+        "伊斯兰国",
+        "以色列",
+        "哈马斯",
+        "集体防御",
+        "北约第五条",
+        "核扩散",
+        "中等力量",
+        "新兴技术",
+        "国防政策",
+        "国际安全",
+        "技术整合",
+        "国家安全",
+        "战略教训",
+        "碎片化世界"
+      ],
+      "topic_words_en": [
+        "Defense Technology",
+        "Security Policy",
+        "Leadership Analysis"
+      ],
+      "topic_words_zh": [
+        "国防技术",
+        "安全政策",
+        "领导力分析"
+      ],
+      "relevance_score": 0.7
+    }
+  }
+}
