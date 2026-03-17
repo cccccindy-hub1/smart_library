@@ -82,6 +82,43 @@ def open_csv_append(path: str, fieldnames: list[str]):
     return f, w
 
 
+def load_env_file(path: str, override: bool = False) -> None:
+    """
+    Load KEY=VALUE pairs from a .env-style file into os.environ.
+    - Ignores blank lines and comments.
+    - Supports optional "export KEY=VALUE".
+    - Does not overwrite existing env vars by default.
+    """
+    if not path or not os.path.exists(path):
+        return
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            for raw in f:
+                line = raw.strip()
+                if not line or line.startswith("#"):
+                    continue
+                if line.startswith("export "):
+                    line = line[len("export ") :].strip()
+                if "=" not in line:
+                    continue
+
+                key, value = line.split("=", 1)
+                key = key.strip()
+                value = value.strip()
+                if not key:
+                    continue
+
+                if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
+                    value = value[1:-1]
+
+                if override or key not in os.environ:
+                    os.environ[key] = value
+    except Exception:
+        # Fail-open: missing/invalid .env should not break the whole job.
+        return
+
+
 def extract_first_json_object(text: str) -> str | None:
     """
     Try to extract a JSON object from a model response.
@@ -157,6 +194,7 @@ def call_chat_completions(
     timeout_sec: int,
     max_tokens: int,
     temperature: float,
+    top_p: float,
     retries: int,
     sleep_base_sec: float,
 ) -> dict[str, Any]:
@@ -188,6 +226,7 @@ def call_chat_completions(
         "stream": False,
         "messages": [{"role": "user", "content": prompt}],
         "temperature": temperature,
+        "top_p": top_p,
         "max_tokens": max_tokens,
     }
 
@@ -346,6 +385,11 @@ def iter_belfer_raw_docs(
 
 
 def main() -> None:
+    # Load .env from project root / script directory when available.
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    load_env_file(os.path.join(script_dir, ".env"), override=False)
+    load_env_file(os.path.join(os.getcwd(), ".env"), override=False)
+
     parser = argparse.ArgumentParser(description="Enrich Belfer raw json with LLM extraction (summary/points/keywords).")
     # Two modes:
     # 1) enrich-only: provide --input-raw-dir
@@ -353,13 +397,14 @@ def main() -> None:
     parser.add_argument("--input-raw-dir", default="", help="Directory containing per-doc raw json (from crawler).")
     parser.add_argument("--output-raw-dir", required=True, help="Directory to write per-doc enriched json.")
     parser.add_argument("--output-csv", required=True, help="Output CSV summary of LLM fields.")
-    parser.add_argument("--base-url", default="https://router.shengsuanyun.com", help="API base URL (host).")
-    parser.add_argument("--model", default="deepseek/deepseek-r1", help="Model name.")
+    parser.add_argument("--base-url", default="https://router.shengsuanyun.com/api/v1", help="API base URL (host).")
+    parser.add_argument("--model", default="ali/qwen3-max-2026-01-23", help="Model name.")
     parser.add_argument("--api-key-env", default="SHENGSUANYUN_API_KEY", help="Env var name holding API key.")
     parser.add_argument("--http-referer", default="", help="Optional HTTP-Referer header for the LLM router.")
     parser.add_argument("--x-title", default="", help="Optional X-Title header for the LLM router.")
     parser.add_argument("--max-tokens", type=int, default=1200, help="Max tokens for model output.")
-    parser.add_argument("--temperature", type=float, default=0.2, help="Sampling temperature.")
+    parser.add_argument("--temperature", type=float, default=0.6, help="Sampling temperature.")
+    parser.add_argument("--top-p", type=float, default=0.7, help="Nucleus sampling top_p.")
     parser.add_argument("--timeout-sec", type=int, default=120, help="HTTP timeout seconds.")
     parser.add_argument("--retries", type=int, default=3, help="Retries for transient failures.")
     parser.add_argument("--sleep-base-sec", type=float, default=1.5, help="Base backoff seconds.")
@@ -497,6 +542,7 @@ def main() -> None:
                 timeout_sec=int(args.timeout_sec),
                 max_tokens=int(args.max_tokens),
                 temperature=float(args.temperature),
+                top_p=float(args.top_p),
                 retries=int(args.retries),
                 sleep_base_sec=float(args.sleep_base_sec),
             )
