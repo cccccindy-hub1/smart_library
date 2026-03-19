@@ -1,14 +1,29 @@
-const CSV_PATH = "../belfer_llm_article_belfer_mother_table.csv";
-
 const state = {
+  // 当前源对应的所有行
   rows: [],
+  // 过滤后的行
   filteredRows: [],
   currentPage: 1,
   pageSize: 20,
   selected: null,
+  // 当前选中的 CSV 相对路径（以 ../result/ 开头）
+  csvPath: "",
+  // 所有可用的 CSV 文件名（不含路径）
+  csvList: [],
+  // 源名字友好显示
+  currentSourceLabel: "",
 };
 
 const refs = {
+  // 左侧源列表
+  sourceList: document.getElementById("sourceList"),
+  // 顶部统计区
+  currentSourceName: document.getElementById("currentSourceName"),
+  currentSourceMeta: document.getElementById("currentSourceMeta"),
+  statTotal: document.getElementById("statTotal"),
+  statFiltered: document.getElementById("statFiltered"),
+  statRange: document.getElementById("statRange"),
+  // 筛选与列表
   searchInput: document.getElementById("searchInput"),
   typeFilter: document.getElementById("typeFilter"),
   topicFilter: document.getElementById("topicFilter"),
@@ -20,24 +35,113 @@ const refs = {
   prevBtn: document.getElementById("prevBtn"),
   nextBtn: document.getElementById("nextBtn"),
   pageInfo: document.getElementById("pageInfo"),
+  // 详情抽屉
   detailDrawer: document.getElementById("detailDrawer"),
   detailTitle: document.getElementById("detailTitle"),
   detailBody: document.getElementById("detailBody"),
   closeDrawer: document.getElementById("closeDrawer"),
 };
 
+// 启动入口
 async function bootstrap() {
   try {
-    const text = await fetchCsv(CSV_PATH);
+    await initSourceList();
+    bindEvents(); // 绑定一次全局事件监听
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+// 读取 result/ 目录，构建左侧源列表
+async function initSourceList() {
+  refs.stats.textContent = "正在读取 result/ 下的 CSV 列表...";
+  try {
+    const resp = await fetch("../result/");
+    if (!resp.ok) {
+      throw new Error(`无法读取 result 目录 (${resp.status})`);
+    }
+    const html = await resp.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, "text/html");
+    const links = Array.from(doc.querySelectorAll("a"))
+      .map((a) => a.getAttribute("href") || "")
+      .filter((href) => href.toLowerCase().endsWith(".csv"));
+
+    const unique = Array.from(new Set(links)).sort();
+    state.csvList = unique;
+
+    refs.sourceList.innerHTML = "";
+    if (!unique.length) {
+      refs.sourceList.innerHTML = '<div class="source-meta">result/ 目录下未找到 CSV 文件。</div>';
+      refs.stats.textContent = "暂无可用数据源。";
+      return;
+    }
+
+    unique.forEach((name) => {
+      const item = document.createElement("button");
+      item.type = "button";
+      item.className = "source-item";
+      item.dataset.name = name;
+
+      const base = name.replace(/\.csv$/i, "");
+      item.innerHTML = `
+        <div class="source-name">${escapeHtml(base)}</div>
+        <div class="source-meta">
+          <span class="badge badge-pill">CSV</span>
+          <span class="badge" data-badge-count="${escapeHtml(name)}">- 条</span>
+        </div>
+      `;
+
+      item.addEventListener("click", async () => {
+        // 切换激活态
+        refs.sourceList.querySelectorAll(".source-item").forEach((el) => el.classList.remove("active"));
+        item.classList.add("active");
+
+        state.csvPath = "../result/" + name;
+        state.currentSourceLabel = base;
+        // 重置筛选 UI 和分页
+        resetFilters(true);
+        await loadCsvAndRender();
+      });
+
+      refs.sourceList.appendChild(item);
+    });
+
+    // 默认选中最新一个源（列表最后一个）
+    const last = refs.sourceList.querySelector(".source-item:last-child");
+    if (last) {
+      last.click();
+    }
+  } catch (error) {
+    refs.stats.textContent = `加载 CSV 列表失败: ${error.message}`;
+  }
+}
+
+// 加载当前 csvPath 对应的数据并渲染
+async function loadCsvAndRender() {
+  try {
+    if (!state.csvPath) {
+      refs.stats.textContent = "请先在左侧选择一个 CSV 数据源。";
+      return;
+    }
+
+    refs.stats.textContent = "正在加载 CSV 数据...";
+    const text = await fetchCsv(state.csvPath);
     const rows = parseCsv(text);
     state.rows = rows.map(normalizeRow);
     state.filteredRows = [...state.rows];
 
+    // 更新顶部源信息与统计
+    updateTopStats();
+
+    // 重置筛选下拉选项
+    clearSelect(refs.typeFilter);
+    clearSelect(refs.topicFilter);
+    clearSelect(refs.sourceFilter);
     fillSelect(refs.typeFilter, uniqueValues(state.rows, "type"));
     fillSelect(refs.topicFilter, uniqueValues(state.rows, "topic"));
     fillSelect(refs.sourceFilter, uniqueValues(state.rows, "source"));
 
-    bindEvents();
     applyFilters();
   } catch (error) {
     refs.stats.textContent = `加载失败: ${error.message}`;
@@ -136,6 +240,18 @@ function uniqueValues(arr, key) {
   return [...new Set(arr.map((x) => (x[key] || "").trim()).filter(Boolean))].sort((a, b) => a.localeCompare(b));
 }
 
+function clearSelect(select) {
+  if (!select) return;
+  // 保留第一个“全部”选项，清空其余
+  const first = select.querySelector("option");
+  select.innerHTML = "";
+  if (first) {
+    first.value = "";
+    first.textContent = "全部";
+    select.appendChild(first);
+  }
+}
+
 function fillSelect(select, values) {
   values.forEach((v) => {
     const opt = document.createElement("option");
@@ -146,6 +262,8 @@ function fillSelect(select, values) {
 }
 
 function bindEvents() {
+  if (!refs.searchInput) return;
+
   refs.searchInput.addEventListener("input", debounce(applyFilters, 180));
   refs.typeFilter.addEventListener("change", applyFilters);
   refs.topicFilter.addEventListener("change", applyFilters);
@@ -155,7 +273,7 @@ function bindEvents() {
     state.currentPage = 1;
     render();
   });
-  refs.resetBtn.addEventListener("click", resetFilters);
+  refs.resetBtn.addEventListener("click", () => resetFilters(false));
 
   refs.prevBtn.addEventListener("click", () => {
     if (state.currentPage > 1) {
@@ -178,7 +296,9 @@ function bindEvents() {
   });
 }
 
-function resetFilters() {
+// 重置筛选；forSourceChange=true 时不重绘顶部提示（由 loadCsvAndRender 控制）
+function resetFilters(forSourceChange) {
+  if (!refs.searchInput) return;
   refs.searchInput.value = "";
   refs.typeFilter.value = "";
   refs.topicFilter.value = "";
@@ -186,7 +306,9 @@ function resetFilters() {
   refs.pageSize.value = "20";
   state.pageSize = 20;
   state.currentPage = 1;
-  applyFilters();
+  if (!forSourceChange) {
+    applyFilters();
+  }
 }
 
 function applyFilters() {
@@ -236,6 +358,8 @@ function render() {
 
   refs.pageInfo.textContent = `第 ${state.currentPage} / ${maxPage} 页`;
   refs.stats.textContent = `共 ${state.rows.length} 条，筛选后 ${total} 条`;
+  refs.statTotal.textContent = String(state.rows.length || 0);
+  refs.statFiltered.textContent = String(total || 0);
   refs.prevBtn.disabled = state.currentPage <= 1;
   refs.nextBtn.disabled = state.currentPage >= maxPage;
 
@@ -355,6 +479,36 @@ function debounce(fn, delay) {
     clearTimeout(timer);
     timer = setTimeout(() => fn(...args), delay);
   };
+}
+
+// 根据当前 rows 计算顶部统计信息（时间跨度等）
+function updateTopStats() {
+  const total = state.rows.length;
+  refs.statTotal.textContent = String(total || 0);
+
+  if (!total) {
+    refs.currentSourceName.textContent = state.currentSourceLabel || "未选择数据源";
+    refs.currentSourceMeta.textContent = "请在左侧选择一个 CSV 文件。";
+    refs.statRange.textContent = "-";
+    return;
+  }
+
+  // 计算时间范围
+  const dates = state.rows
+    .map((r) => r.publishedAt)
+    .filter((d) => d instanceof Date && !Number.isNaN(d.valueOf()))
+    .map((d) => d.valueOf());
+  if (!dates.length) {
+    refs.statRange.textContent = "-";
+  } else {
+    const min = new Date(Math.min(...dates));
+    const max = new Date(Math.max(...dates));
+    const fmt = (d) => d.toISOString().slice(0, 10);
+    refs.statRange.textContent = `${fmt(min)} ~ ${fmt(max)}`;
+  }
+
+  refs.currentSourceName.textContent = state.currentSourceLabel || "未命名数据源";
+  refs.currentSourceMeta.textContent = `${total} 条记录 · 来自 result/ 目录`;
 }
 
 bootstrap();

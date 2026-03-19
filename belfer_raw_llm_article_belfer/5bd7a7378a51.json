@@ -1,0 +1,102 @@
+{
+  "title": "Comments on the 2 June 2003 US Senate Republican Policy Committee document, ?The Shaky Science Behind the Climate Change Sense of the Congress Resolution?",
+  "canonical_url": "https://www.belfercenter.org/publication/comments-2-june-2003-us-senate-republican-policy-committee-document-shaky-science",
+  "summary": "Holdren, John. “Comments on the 2 June 2003 US Senate Republican Policy Committee document, ?The Shaky Science Behind the Climate Change Sense of the Congress Resolution?.” Science, Technology, and Public Policy Program, Belfer Center , June 9, 2003",
+  "published": "2003-06-09T12:00:00Z",
+  "authors": [
+    "Robert N Stavins",
+    "Jody Freeman"
+  ],
+  "author_profile_urls": [],
+  "keywords": [
+    "Energy Technology Innovation Policy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "Science, Technology, and Public Policy"
+  ],
+  "topics": [
+    "Environment & Climate Change"
+  ],
+  "tags": [
+    "Energy Technology Innovation Policy",
+    "Environment & Climate Change",
+    "Environment and Natural Resources",
+    "Science, Technology, and Public Policy"
+  ],
+  "body": "Recommended citation Holdren, John. “Comments on the 2 June 2003 US Senate Republican Policy Committee document, ?The Shaky Science Behind the Climate Change Sense of the Congress Resolution?.” Science, Technology, and Public Policy Program, Belfer Center , June 9, 2003 Copy to Clipboard Comments on the 2 June 2003 US Senate Republican Policy Committee document, ?The Shaky Science Behind the Climate Change Sense of the Congress Resolution? View Citation Print Energy Technology Innovation Policy Environment & Climate Change Environment and Natural Resources Science, Technology, and Public Policy Recommended citation Holdren, John. “Comments on the 2 June 2003 US Senate Republican Policy Committee document, ?The Shaky Science Behind the Climate Change Sense of the Congress Resolution?.” Science, Technology, and Public Policy Program, Belfer Center , June 9, 2003 Copy to Clipboard Author John P. Holdren Request Interview More From This Expert Boston Human Spaceflight Symposium 2025: Panel and Keynote Featuring John P. Holdren and Rebekah Reed The Health Impacts of Permafrost Thaw in Alaska Up Next Photo Credit Toggle Doug Gavel Q&A Law Professor Jody Freeman Unpacks the EPA's Decision to Rescind the Endangerment Finding Mar. 2, 2026 by Robert N Stavins and Jody Freeman From Harvard Project on Climate Agreements Photo Credit Toggle Peter Prokosc/Grid-ARENDAL via Flickr Reports & Papers Arctic Ocean Governance: Workshop Report and Recommendations for Policymakers Feb. 17, 2026 by David Balton Photo Credit Toggle -tacitos-, CC BY 4.0, via Wikimedia Commons Article Geopolitics of Rare Earth Elements in the Arctic Jan. 29, 2026 by Alexandra Middleton",
+  "node_id": "",
+  "_list": {
+    "type": "Article",
+    "source": "Science, Technology, and Public Policy Program, Belfer Center",
+    "date": "2003-06-09T12:00:00Z",
+    "topic": "All"
+  },
+  "llm": {
+    "model": "ali/qwen3-max-2026-01-23",
+    "time": "2026-03-19T09:52:42+00:00",
+    "prompt_hash": "98b12da1029340eade35bc6f44b55e950d102003",
+    "result": {
+      "main_content_en": "This commentary critically examines a June 2003 document issued by the US Senate Republican Policy Committee that questioned the scientific consensus on climate change. The author, John P. Holdren, refutes claims that the science underpinning congressional resolutions on climate change is 'shaky,' emphasizing the robustness of peer-reviewed climate research and the broad agreement among climate scientists regarding human-induced global warming. He highlights methodological flaws and selective use of data in the Republican committee’s report, arguing that it misrepresents uncertainties in climate science as evidence against anthropogenic causation. Holdren underscores the importance of basing policy decisions on credible scientific assessments from authoritative bodies like the Intergovernmental Panel on Climate Change (IPCC) and the U.S. National Academy of Sciences. The piece serves as a defense of scientific integrity in policymaking and warns against politicizing climate science to delay necessary mitigation actions.",
+      "main_content_zh": "本文对2003年6月美国参议院共和党政策委员会发布的一份质疑气候变化科学共识的文件进行了批判性评述。作者约翰·P·霍尔德伦驳斥了该文件所谓国会气候决议所依据的科学“不牢靠”的说法，强调经过同行评审的气候研究具有坚实基础，且气候科学界在人为导致全球变暖问题上存在广泛共识。他指出共和党委员会报告在方法论上存在缺陷，并选择性使用数据，将气候科学中的不确定性错误地解读为否定人为因素的证据。霍尔德伦强调，政策制定应以政府间气候变化专门委员会（IPCC）和美国国家科学院等权威机构的科学评估为基础。文章旨在捍卫科学在公共政策中的完整性，并警示不要出于政治目的曲解气候科学，从而拖延必要的减排行动。",
+      "keywords_en": [
+        "climate change",
+        "scientific consensus",
+        "anthropogenic global warming",
+        "US Senate",
+        "Republican Policy Committee",
+        "peer-reviewed research",
+        "IPCC",
+        "National Academy of Sciences",
+        "climate science uncertainty",
+        "policy making",
+        "scientific integrity",
+        "mitigation actions",
+        "data misrepresentation",
+        "climate skepticism",
+        "environmental policy",
+        "science communication",
+        "energy policy",
+        "greenhouse gas emissions",
+        "climate resolution",
+        "public policy"
+      ],
+      "keywords_zh": [
+        "气候变化",
+        "科学共识",
+        "人为全球变暖",
+        "美国参议院",
+        "共和党政策委员会",
+        "同行评审研究",
+        "政府间气候变化专门委员会",
+        "美国国家科学院",
+        "气候科学不确定性",
+        "政策制定",
+        "科学诚信",
+        "减缓行动",
+        "数据误用",
+        "气候怀疑论",
+        "环境政策",
+        "科学传播",
+        "能源政策",
+        "温室气体排放",
+        "气候决议",
+        "公共政策"
+      ],
+      "topic_words_en": [
+        "Climate Science",
+        "Policy Critique",
+        "Scientific Consensus",
+        "US Politics",
+        "Environmental Governance"
+      ],
+      "topic_words_zh": [
+        "气候科学",
+        "政策批评",
+        "科学共识",
+        "美国政治",
+        "环境治理"
+      ],
+      "relevance_score": 0.75
+    }
+  }
+}

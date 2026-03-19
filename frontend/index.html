@@ -7,70 +7,115 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <!-- 顶部栏：应用标题 + 全局入口 -->
     <header class="app-header">
       <div>
         <h1>Global Smart Library</h1>
-        <p class="sub">Belfer 文章数据浏览器</p>
+        <p class="sub">Belfer 本地知识库 / 图书馆</p>
       </div>
       <div class="header-links">
         <a class="source-link" href="./index.html">数据浏览</a>
         <a class="source-link" href="./crawl.html">爬取任务</a>
         <a class="source-link" href="../belfer_llm_article_belfer_mother_table.csv" target="_blank" rel="noopener noreferrer">
-          查看原始 CSV
+          查看原始母表 CSV
         </a>
       </div>
     </header>
 
-    <main class="layout">
-      <section class="panel controls">
-        <div class="field">
-          <label for="searchInput">关键词搜索</label>
-          <input id="searchInput" type="text" placeholder="标题 / 主要内容 / 关键词 / 作者" />
+    <!-- 主布局：左侧源导航 + 右侧内容区 -->
+    <main class="app-shell">
+      <!-- 左侧：结果 CSV 源列表 -->
+      <aside class="sidebar">
+        <div class="sidebar-head">
+          <div class="sidebar-title">结果集 / 书架</div>
+          <div class="sidebar-sub">来自 result/ 目录的 CSV</div>
+        </div>
+        <div id="sourceList" class="source-list">
+          <!-- JS 动态填充：每个 CSV 一项 -->
+        </div>
+      </aside>
+
+      <!-- 右侧：主内容区 -->
+      <section class="main-pane">
+        <!-- 顶部统计条 -->
+        <div class="top-bar">
+          <div class="top-left">
+            <div id="currentSourceName" class="current-source-name">未选择数据源</div>
+            <div id="currentSourceMeta" class="current-source-meta">请在左侧选择一个 CSV 文件</div>
+          </div>
+          <div class="top-stats">
+            <div class="stat-item">
+              <div class="stat-label">总文章</div>
+              <div id="statTotal" class="stat-value">-</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-label">筛选后</div>
+              <div id="statFiltered" class="stat-value">-</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-label">时间跨度</div>
+              <div id="statRange" class="stat-value">-</div>
+            </div>
+          </div>
         </div>
 
-        <div class="row">
-          <div class="field">
-            <label for="typeFilter">类型</label>
-            <select id="typeFilter">
-              <option value="">全部</option>
-            </select>
-          </div>
-          <div class="field">
-            <label for="topicFilter">Topic</label>
-            <select id="topicFilter">
-              <option value="">全部</option>
-            </select>
-          </div>
-          <div class="field">
-            <label for="sourceFilter">来源</label>
-            <select id="sourceFilter">
-              <option value="">全部</option>
-            </select>
-          </div>
+        <!-- 视图 Tabs（当前只激活“全部文章”，预留其他） -->
+        <div class="tabs">
+          <button class="tab active" data-tab="all">全部文章</button>
+          <button class="tab" data-tab="topic" disabled>按 Topic 浏览（预留）</button>
+          <button class="tab" data-tab="favorites" disabled>我的收藏（预留）</button>
         </div>
 
-        <div class="row">
+        <!-- 主内容：筛选区 + 列表区 -->
+        <section class="panel controls main-controls">
           <div class="field">
-            <label for="pageSize">每页数量</label>
-            <select id="pageSize">
-              <option value="10">10</option>
-              <option value="20" selected>20</option>
-              <option value="50">50</option>
-            </select>
+            <label for="searchInput">关键词搜索</label>
+            <input id="searchInput" type="text" placeholder="标题 / 主要内容 / 关键词 / 作者" />
           </div>
-          <button id="resetBtn" class="btn">重置筛选</button>
-        </div>
 
-        <div class="stats" id="stats">加载中...</div>
-      </section>
+          <div class="row">
+            <div class="field">
+              <label for="typeFilter">类型</label>
+              <select id="typeFilter">
+                <option value="">全部</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="topicFilter">Topic</label>
+              <select id="topicFilter">
+                <option value="">全部</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="sourceFilter">来源</label>
+              <select id="sourceFilter">
+                <option value="">全部</option>
+              </select>
+            </div>
+          </div>
 
-      <section class="panel list">
-        <div id="tableContainer" class="table-wrap"></div>
-        <div class="pager">
-          <button id="prevBtn" class="btn">上一页</button>
-          <span id="pageInfo"></span>
-          <button id="nextBtn" class="btn">下一页</button>
-        </div>
+          <div class="row">
+            <div class="field">
+              <label for="pageSize">每页数量</label>
+              <select id="pageSize">
+                <option value="10">10</option>
+                <option value="20" selected>20</option>
+                <option value="50">50</option>
+              </select>
+            </div>
+            <button id="resetBtn" class="btn">重置筛选</button>
+          </div>
+        </section>
+
+        <section class="panel list main-list">
+          <div class="stats" id="stats">正在读取 result/ 下的 CSV 列表...</div>
+          <div id="tableContainer" class="table-wrap"></div>
+          <div class="pager">
+            <button id="prevBtn" class="btn">上一页</button>
+            <span id="pageInfo"></span>
+            <button id="nextBtn" class="btn">下一页</button>
+          </div>
+        </section>
       </section>
     </main>
 

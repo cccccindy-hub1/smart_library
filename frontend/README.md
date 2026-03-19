@@ -66,7 +66,7 @@ python crawl_api_flask.py
   {
     "command": "belfer_llm_enrich",
     "args": {
-      "model": "deepseek/deepseek-r1",
+      "model": "ali/qwen3-max-2026-01-23",
       "output_raw_dir": "belfer_raw_llm_article_belfer",
       "output_csv": "belfer_llm_article_belfer_mother_table.csv",
       "crawl_keywords": "",

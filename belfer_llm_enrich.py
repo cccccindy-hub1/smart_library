@@ -476,8 +476,18 @@ def main() -> None:
         "tags",
     ]
 
-    start_seq = count_existing_csv_rows(args.output_csv)
-    fcsv, writer = open_csv_append(args.output_csv, fieldnames=fieldnames)
+    # Always write to a fresh CSV per run under a \"result\" subdirectory,
+    # with creation time suffix to avoid overwriting previous outputs.
+    base_csv = args.output_csv
+    base_dir = os.path.dirname(base_csv) or os.getcwd()
+    base_name = os.path.splitext(os.path.basename(base_csv))[0] or "belfer_llm_enrich"
+    result_dir = os.path.join(base_dir, "result")
+    ensure_dir(result_dir)
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    csv_path = os.path.join(result_dir, f"{base_name}_{ts}.csv")
+
+    start_seq = count_existing_csv_rows(csv_path)
+    fcsv, writer = open_csv_append(csv_path, fieldnames=fieldnames)
     try:
         # Build iterable: either existing raw json files, or a crawl generator.
         if files:
