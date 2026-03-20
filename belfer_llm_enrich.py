@@ -167,6 +167,8 @@ def build_prompt(title: str, published: str, authors: list[str], topics: list[st
         "Requirements:\n"
         "- Return BOTH English and Chinese fields as specified above.\n"
         "- main_content_en and main_content_zh should each be a cohesive paragraph.\n"
+        "- NEVER leave main_content_en or main_content_zh empty.\n"
+        "- If one language is weak/uncertain, still provide your best faithful translation so BOTH fields are non-empty.\n"
         "- keywords_en: 10-20 items, prefer technical/policy terms.\n"
         "- keywords_zh: 10-20 items, prefer technical/policy terms.\n"
         "- topic_words_en: 3-8 short topic labels.\n"
@@ -558,6 +560,18 @@ def main() -> None:
             )
             parsed = parse_llm_json(resp)
 
+            # Enforce bilingual main content in parsed result:
+            # if one language is missing, mirror from the other to keep both non-empty.
+            llm_main_en = sanitize_text(str(parsed.get("main_content_en") or "")) if isinstance(parsed, dict) else ""
+            llm_main_zh = sanitize_text(str(parsed.get("main_content_zh") or "")) if isinstance(parsed, dict) else ""
+            if not llm_main_en and llm_main_zh:
+                llm_main_en = llm_main_zh
+            if not llm_main_zh and llm_main_en:
+                llm_main_zh = llm_main_en
+            if isinstance(parsed, dict):
+                parsed["main_content_en"] = llm_main_en
+                parsed["main_content_zh"] = llm_main_zh
+
             enriched = dict(raw)
             enriched["llm"] = {
                 "model": args.model,
@@ -593,7 +607,7 @@ def main() -> None:
             if not llm_main_en:
                 llm_main_en = sanitize_text(str(parsed.get("main_content_zh") or "")) if isinstance(parsed, dict) else ""
             if not llm_main_zh:
-                llm_main_zh = sanitize_text(str(parsed.get("main_content_zh") or "")) if isinstance(parsed, dict) else ""
+                llm_main_zh = sanitize_text(str(parsed.get("main_content_en") or "")) if isinstance(parsed, dict) else ""
 
             llm_topic_words_en = (parsed.get("topic_words_en") if isinstance(parsed, dict) else None) or None
             llm_topic_words_zh = (parsed.get("topic_words_zh") if isinstance(parsed, dict) else None) or (
