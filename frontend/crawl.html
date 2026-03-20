@@ -4,123 +4,133 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Global Smart Library - 爬取任务</title>
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./crawl.css" />
   </head>
-  <body>
-    <header class="app-header">
+  <body class="crawl-app">
+    <header class="top-nav">
       <div>
         <h1>Global Smart Library</h1>
-        <p class="sub">Belfer LLM Enrich 爬取任务控制台</p>
+        <p>Belfer LLM Enrich 爬取任务控制台</p>
       </div>
-      <div class="header-links">
-        <a class="source-link" href="./index.html">数据浏览</a>
-        <a class="source-link" href="./crawl.html">爬取任务</a>
-      </div>
+      <nav>
+        <a href="./home.html">主页面</a>
+        <a href="./index.html">数据浏览</a>
+        <a href="./crawl.html" class="active">爬取任务</a>
+      </nav>
     </header>
 
-    <main class="crawl-layout">
-      <section class="panel">
-        <h2 class="section-title">任务参数</h2>
-        <form id="crawlForm" class="crawl-form">
-          <div class="row two">
-            <div class="field">
-              <label for="apiBase">后端地址</label>
+    <main class="page">
+      <form id="crawlForm" class="form-layout">
+        <section class="card">
+          <h2>Server & Model Config</h2>
+          <div class="grid cols-3">
+            <label class="field">
+              <span>后端地址</span>
               <input id="apiBase" name="apiBase" type="text" value="http://localhost:9000" />
-            </div>
-            <div class="field">
-              <label for="model">模型 (`--model`)</label>
+            </label>
+            <label class="field">
+              <span>模型 (`--model`)</span>
               <input id="model" name="model" type="text" value="ali/qwen3-max-2026-01-23" />
-            </div>
-          </div>
-
-          <div class="row two">
-            <div class="field">
-              <label for="outputRawDir">输出目录 (`--output-raw-dir`)</label>
-              <input id="outputRawDir" name="outputRawDir" type="text" value="belfer_raw_llm_article_belfer" />
-            </div>
-            <div class="field">
-              <label for="outputCsv">输出 CSV (`--output-csv`)</label>
-              <input id="outputCsv" name="outputCsv" type="text" value="belfer_llm_article_belfer_mother_table.csv" />
-            </div>
-          </div>
-
-          <div class="row three">
-            <div class="field">
-              <label for="crawlKeywords">关键词 (`--crawl-keywords`)</label>
-              <input id="crawlKeywords" name="crawlKeywords" type="text" placeholder="留空表示全部" />
-            </div>
-            <div class="field">
-              <label for="apiProgramId">Program ID (`--api-program-id`)</label>
+              <small>示例：ali/qwen3-max-2026-01-23</small>
+            </label>
+            <label class="field">
+              <span>Program ID (`--api-program-id`)</span>
               <input id="apiProgramId" name="apiProgramId" type="text" value="5931" />
-            </div>
-            <div class="field">
-              <label for="apiType">Type (`--api-type`)</label>
-              <input id="apiType" name="apiType" type="text" value="research_and_analysis" />
-            </div>
+            </label>
           </div>
+        </section>
 
-          <div class="row three">
-            <div class="field">
-              <label for="apiContentType">Content Type (`--api-content-type`)</label>
-              <input id="apiContentType" name="apiContentType" type="text" placeholder="Article 可填 1" />
-            </div>
-            <div class="field">
-              <label for="apiLimit">每页条数 (`--api-limit`)</label>
-              <input id="apiLimit" name="apiLimit" type="number" min="1" value="8" />
-            </div>
-            <div class="field">
-              <label for="maxPages">最大页数 (`--max-pages`)</label>
-              <input id="maxPages" name="maxPages" type="number" min="1" value="500" />
-            </div>
+        <section class="card">
+          <h2>Output & Directories</h2>
+          <div class="grid cols-2">
+            <label class="field">
+              <span>原始 JSON 输出目录 (`--output-raw-dir`)</span>
+              <input id="outputRawDir" name="outputRawDir" type="text" value="belfer_raw_llm_article_belfer" />
+              <small>用于保存每篇文章的原始/增强 JSON 文件。</small>
+            </label>
+            <label class="field">
+              <span>输出 CSV 文件名 (`--output-csv`)</span>
+              <input id="outputCsv" name="outputCsv" type="text" value="belfer_llm_article_belfer_mother_table.csv" />
+              <small>最终会自动写入 <code>result/</code> 目录，并带时间戳生成新文件。</small>
+            </label>
           </div>
+        </section>
 
-          <div class="row three">
-            <div class="field">
-              <label for="sleep">翻页间隔秒 (`--sleep`)</label>
-              <input id="sleep" name="sleep" type="number" step="0.1" min="0" value="0.3" />
-            </div>
-            <div class="field">
-              <label for="sourceExact">来源精确匹配 (`--source-exact`)</label>
-              <input id="sourceExact" name="sourceExact" type="text" />
-            </div>
-            <div class="field">
-              <label for="sourceContains">来源包含 (`--source-contains`)</label>
-              <input id="sourceContains" name="sourceContains" type="text" value="Belfer" />
-            </div>
-          </div>
-
-          <div class="row two">
-            <div class="field">
-              <label for="query">布尔检索 (`--query`)</label>
+        <section class="card">
+          <h2>Search & Filters</h2>
+          <div class="grid cols-3">
+            <label class="field">
+              <span>关键词 (`--crawl-keywords`)</span>
+              <input id="crawlKeywords" name="crawlKeywords" type="text" placeholder="留空表示全部" />
+            </label>
+            <label class="field">
+              <span>布尔检索 (`--query`)</span>
               <input id="query" name="query" type="text" placeholder='如: ("AI" OR "ML") AND policy' />
-            </div>
-            <div class="field">
-              <label for="limit">处理上限 (`--limit`)</label>
+            </label>
+            <label class="field">
+              <span>Content Type (`--api-content-type`)</span>
+              <input id="apiContentType" name="apiContentType" type="text" placeholder="Article 可填 1" />
+            </label>
+            <label class="field">
+              <span>Type (`--api-type`)</span>
+              <input id="apiType" name="apiType" type="text" value="research_and_analysis" />
+            </label>
+            <label class="field">
+              <span>来源精确匹配 (`--source-exact`)</span>
+              <input id="sourceExact" name="sourceExact" type="text" />
+            </label>
+            <label class="field">
+              <span>来源包含 (`--source-contains`)</span>
+              <input id="sourceContains" name="sourceContains" type="text" value="Belfer" />
+            </label>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Crawl Parameters & Limits</h2>
+          <div class="grid cols-4">
+            <label class="field">
+              <span>最大页数 (`--max-pages`)</span>
+              <input id="maxPages" name="maxPages" type="number" min="1" value="500" />
+            </label>
+            <label class="field">
+              <span>每页条数 (`--api-limit`)</span>
+              <input id="apiLimit" name="apiLimit" type="number" min="1" value="8" />
+            </label>
+            <label class="field">
+              <span>翻页间隔秒 (`--sleep`)</span>
+              <input id="sleep" name="sleep" type="number" step="0.1" min="0" value="0.3" />
+            </label>
+            <label class="field">
+              <span>处理上限 (`--limit`)</span>
               <input id="limit" name="limit" type="number" min="0" value="0" />
-            </div>
+            </label>
           </div>
+        </section>
 
-          <div class="checks">
-            <label><input id="requireArticle" name="requireArticle" type="checkbox" checked /> 仅 Article (`--require-article`)</label>
-            <label><input id="resume" name="resume" type="checkbox" checked /> 跳过已处理 (`--resume`)</label>
+        <section class="card">
+          <h2>Options</h2>
+          <div class="options">
+            <label class="check"><input id="requireArticle" name="requireArticle" type="checkbox" checked /> 仅 Article (`--require-article`)</label>
+            <label class="check"><input id="resume" name="resume" type="checkbox" checked /> 跳过已处理 (`--resume`)</label>
           </div>
+        </section>
 
-          <div class="actions">
-            <button id="startBtn" class="btn" type="submit">启动任务</button>
-            <button id="refreshBtn" class="btn ghost" type="button">刷新状态</button>
-            <button id="stopBtn" class="btn ghost" type="button">停止任务</button>
-          </div>
-        </form>
-      </section>
+        <div class="actions">
+          <button id="startBtn" class="btn primary" type="submit">启动任务</button>
+          <button id="refreshBtn" class="btn" type="button">刷新状态</button>
+          <button id="stopBtn" class="btn danger" type="button">停止任务</button>
+        </div>
+      </form>
 
-      <section class="panel">
-        <h2 class="section-title">任务状态</h2>
+      <section class="card status-card">
+        <h2>Task Status</h2>
         <div id="jobMeta" class="status-box">尚未启动任务</div>
       </section>
 
-      <section class="panel">
-        <h2 class="section-title">实时日志</h2>
-        <pre id="jobLogs" class="log-box">等待日志...</pre>
+      <section class="card log-card">
+        <h2>实时日志</h2>
+        <pre id="jobLogs" class="log-box">Waiting for log...</pre>
       </section>
     </main>
 

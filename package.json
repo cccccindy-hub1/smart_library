@@ -1,0 +1,27 @@
+{
+  "name": "smart_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "http-server . -p 8000 -c-1",
+    "backend:fastapi": "python -m uvicorn crawl_api_fastapi:app --host 0.0.0.0 --port 9000 --reload",
+    "backend:flask": "python crawl_api_flask.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cccccindy-hub1/smart_library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cccccindy-hub1/smart_library/issues"
+  },
+  "homepage": "https://github.com/cccccindy-hub1/smart_library#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

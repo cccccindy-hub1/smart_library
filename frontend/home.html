@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Global Smart Library - 主控台</title>
+    <link rel="stylesheet" href="./home.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Global Smart Library</h1>
+        <p>统一主控台（数据浏览 + 数据爬取）</p>
+      </div>
+      <nav>
+        <a href="./home.html" class="active">主页面</a>
+        <a href="./index.html">数据浏览</a>
+        <a href="./crawl.html">数据爬取</a>
+      </nav>
+    </header>
+
+    <main class="page">
+      <section class="grid two">
+        <article class="card entry">
+          <h2>数据浏览</h2>
+          <p>进入文章阅读器，按来源/主题筛选并查看详情。</p>
+          <a class="btn primary" href="./index.html">打开数据浏览</a>
+        </article>
+
+        <article class="card entry">
+          <h2>数据爬取</h2>
+          <p>启动爬取任务、查看实时日志与任务状态。</p>
+          <a class="btn primary" href="./crawl.html">打开数据爬取</a>
+        </article>
+      </section>
+
+      <section class="grid two">
+        <article class="card">
+          <div class="card-head">
+            <h3>最近任务状态</h3>
+            <button id="refreshJobBtn" class="btn">刷新</button>
+          </div>
+          <div id="jobStatus" class="meta">读取中...</div>
+        </article>
+
+        <article class="card">
+          <div class="card-head">
+            <h3>最新结果 CSV</h3>
+            <button id="refreshCsvBtn" class="btn">刷新</button>
+          </div>
+          <ul id="csvList" class="list">
+            <li class="muted">读取中...</li>
+          </ul>
+        </article>
+      </section>
+    </main>
+
+    <script src="./home.js"></script>
+  </body>
+</html>
