@@ -283,6 +283,7 @@ def list_json_files(dir_path: str) -> list[str]:
 def iter_belfer_raw_docs(
     *,
     keywords: str,
+    api_search_endpoint: str,
     api_program_id: str,
     api_type: str,
     api_content_type: str,
@@ -304,6 +305,7 @@ def iter_belfer_raw_docs(
         api_search_endpoint = "https://www.belfercenter.org/api/search/search"
 
         def __init__(self):
+            self.api_search_endpoint = str(api_search_endpoint).strip() or "https://www.belfercenter.org/api/search/search"
             self.api_program_id = api_program_id
             self.api_type = api_type
             self.api_content_type = api_content_type
@@ -414,6 +416,11 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=0, help="Optional limit of docs to process (0 = all).")
     # Crawl params (used when --input-raw-dir is empty)
     parser.add_argument("--crawl-keywords", default="", help="Belfer search API keywords (param: keywords=...).")
+    parser.add_argument(
+        "--api-search-endpoint",
+        default="https://www.belfercenter.org/api/search/search",
+        help="Search API endpoint to crawl from (default: Belfer).",
+    )
     parser.add_argument("--api-program-id", default="5931", help="Program id for /api/search/search (default: 5931 for STPP).")
     parser.add_argument("--api-type", default="research_and_analysis", help="Type facet for /api/search/search (default: research_and_analysis).")
     parser.add_argument("--api-content-type", default="", help='Content Type facet for /api/search/search (e.g., Article is \"1\").')
@@ -500,6 +507,7 @@ def main() -> None:
             def _iter():
                 gen = iter_belfer_raw_docs(
                     keywords=args.crawl_keywords,
+                    api_search_endpoint=str(args.api_search_endpoint).strip(),
                     api_program_id=str(args.api_program_id).strip(),
                     api_type=str(args.api_type).strip(),
                     api_content_type=str(args.api_content_type).strip(),

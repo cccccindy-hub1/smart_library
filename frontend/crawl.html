@@ -23,7 +23,7 @@
       <form id="crawlForm" class="form-layout">
         <section class="card">
           <h2>Server & Model Config</h2>
-          <div class="grid cols-3">
+          <div class="grid cols-4">
             <label class="field">
               <span>后端地址</span>
               <input id="apiBase" name="apiBase" type="text" value="http://localhost:9000" />
@@ -36,6 +36,11 @@
             <label class="field">
               <span>Program ID (`--api-program-id`)</span>
               <input id="apiProgramId" name="apiProgramId" type="text" value="5931" />
+            </label>
+            <label class="field">
+              <span>爬取 API 地址 (`--api-search-endpoint`)</span>
+              <input id="apiSearchEndpoint" name="apiSearchEndpoint" type="text" value="https://www.belfercenter.org/api/search/search" />
+              <small>默认 Belfer 搜索接口；可改成同结构的其他站点接口地址。</small>
             </label>
           </div>
         </section>
@@ -120,6 +125,13 @@
           <button id="startBtn" class="btn primary" type="submit">启动任务</button>
           <button id="refreshBtn" class="btn" type="button">刷新状态</button>
           <button id="stopBtn" class="btn danger" type="button">停止任务</button>
+        </div>
+        <div class="run-meta">
+          <span>本次启动时间：</span>
+          <strong id="runStartedAt">-</strong>
+          <span class="sep">|</span>
+          <span>运行时长：</span>
+          <strong id="runDuration">-</strong>
         </div>
       </form>
 

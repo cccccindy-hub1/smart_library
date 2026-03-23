@@ -13,6 +13,7 @@ const refs = {
   outputCsv: document.getElementById("outputCsv"),
   crawlKeywords: document.getElementById("crawlKeywords"),
   apiProgramId: document.getElementById("apiProgramId"),
+  apiSearchEndpoint: document.getElementById("apiSearchEndpoint"),
   apiType: document.getElementById("apiType"),
   apiContentType: document.getElementById("apiContentType"),
   apiLimit: document.getElementById("apiLimit"),
@@ -29,6 +30,8 @@ const refs = {
   stopBtn: document.getElementById("stopBtn"),
   jobMeta: document.getElementById("jobMeta"),
   jobLogs: document.getElementById("jobLogs"),
+  runStartedAt: document.getElementById("runStartedAt"),
+  runDuration: document.getElementById("runDuration"),
 };
 
 function init() {
@@ -64,6 +67,7 @@ async function onSubmit(e) {
     state.logCursor = 0;
     saveLastJob();
     setStatus(`任务已启动，Job ID: ${escapeHtml(state.jobId)}`);
+    refs.runStartedAt.textContent = formatLocalTime(new Date());
     refs.jobLogs.textContent = "";
     startPolling();
     await refreshOnce();
@@ -82,6 +86,7 @@ function buildPayload() {
       output_csv: refs.outputCsv.value.trim(),
       crawl_keywords: refs.crawlKeywords.value.trim(),
       api_program_id: refs.apiProgramId.value.trim(),
+      api_search_endpoint: refs.apiSearchEndpoint.value.trim(),
       api_type: refs.apiType.value.trim(),
       api_content_type: refs.apiContentType.value.trim(),
       api_limit: Number(refs.apiLimit.value),
@@ -168,6 +173,8 @@ function renderStatus(status) {
     <div><strong>已处理:</strong> ${escapeHtml(String(processed))}</div>
     <div><strong>成功:</strong> ${escapeHtml(String(ok))} / <strong>失败:</strong> ${escapeHtml(String(failed))}</div>
   `;
+  refs.runStartedAt.textContent = startedAt && startedAt !== "-" ? String(startedAt) : refs.runStartedAt.textContent;
+  refs.runDuration.textContent = calcDurationText(startedAt, endedAt);
 }
 
 function appendLogs(logResp) {
@@ -245,6 +252,32 @@ function loadLastJob() {
   } catch (_err) {
     // ignore
   }
+}
+
+function formatLocalTime(d) {
+  const pad = (n) => String(n).padStart(2, "0");
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(
+    d.getMinutes()
+  )}:${pad(d.getSeconds())}`;
+}
+
+function calcDurationText(startedAt, endedAt) {
+  if (!startedAt || startedAt === "-") return "-";
+  const startMs = Date.parse(String(startedAt));
+  if (Number.isNaN(startMs)) return "-";
+
+  const endMs = endedAt && endedAt !== "-" ? Date.parse(String(endedAt)) : Date.now();
+  const finalMs = Number.isNaN(endMs) ? Date.now() : endMs;
+  const diff = Math.max(0, finalMs - startMs);
+
+  const totalSec = Math.floor(diff / 1000);
+  const h = Math.floor(totalSec / 3600);
+  const m = Math.floor((totalSec % 3600) / 60);
+  const s = totalSec % 60;
+
+  if (h > 0) return `${h}h ${m}m ${s}s`;
+  if (m > 0) return `${m}m ${s}s`;
+  return `${s}s`;
 }
 
 function escapeHtml(s) {
